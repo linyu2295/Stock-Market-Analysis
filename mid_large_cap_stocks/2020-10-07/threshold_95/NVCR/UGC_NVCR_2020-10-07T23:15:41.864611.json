@@ -1,0 +1,1794 @@
+{
+  "response": {
+    "status": 200
+  },
+  "symbol": {
+    "id": 12802,
+    "symbol": "NVCR",
+    "title": "NovoCure",
+    "aliases": [],
+    "is_following": false,
+    "watchlist_count": 5281
+  },
+  "cursor": {
+    "more": true,
+    "since": 248751144,
+    "max": 248712958
+  },
+  "messages": [
+    {
+      "id": 248751144,
+      "body": "$NVCR This is retail buying now.",
+      "created_at": "2020-10-07T15:15:50Z",
+      "user": {
+        "id": 623810,
+        "username": "tdorsey",
+        "name": "Tom Dorsey",
+        "avatar_url": "https://avatars.stocktwits.com/production/623810/thumb-1450378629.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/623810/thumb-1450378629.png",
+        "join_date": "2015-10-29",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 222,
+        "following": 37,
+        "ideas": 8362,
+        "watchlist_stocks_count": 15,
+        "like_count": 2352,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 12802,
+          "symbol": "NVCR",
+          "title": "NovoCure",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 5281
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 248750463,
+      "body": "$NVCR Someone is getting fired holding/adding to their short position over the last few weeks. What are you thinking?",
+      "created_at": "2020-10-07T15:13:51Z",
+      "user": {
+        "id": 623810,
+        "username": "tdorsey",
+        "name": "Tom Dorsey",
+        "avatar_url": "https://avatars.stocktwits.com/production/623810/thumb-1450378629.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/623810/thumb-1450378629.png",
+        "join_date": "2015-10-29",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 222,
+        "following": 37,
+        "ideas": 8362,
+        "watchlist_stocks_count": 15,
+        "like_count": 2352,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 12802,
+          "symbol": "NVCR",
+          "title": "NovoCure",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 5281
+        }
+      ],
+      "likes": {
+        "total": 4,
+        "user_ids": [
+          1604062,
+          1419594,
+          1536592,
+          1396153
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 248749874,
+      "body": "$NVCR how is this not trending??",
+      "created_at": "2020-10-07T15:12:20Z",
+      "user": {
+        "id": 1396153,
+        "username": "NeuroRad",
+        "name": "MG",
+        "avatar_url": "https://avatars.stocktwits.com/production/1396153/thumb-1574739599.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1396153/thumb-1574739599.png",
+        "join_date": "2018-02-02",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 25,
+        "following": 3,
+        "ideas": 959,
+        "watchlist_stocks_count": 52,
+        "like_count": 1205,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2095,
+        "title": "StockTwits For Android ",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 12802,
+          "symbol": "NVCR",
+          "title": "NovoCure",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 5281
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          2133920
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 248749611,
+      "body": "$NVCR - good lord.. any reason to sell?",
+      "created_at": "2020-10-07T15:11:34Z",
+      "user": {
+        "id": 1536592,
+        "username": "hughesmaxwell",
+        "name": "hughesmaxwell",
+        "avatar_url": "https://avatars.stocktwits.com/production/1536592/thumb-1531491288.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1536592/thumb-1531491288.png",
+        "join_date": "2018-07-02",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 34,
+        "following": 15,
+        "ideas": 3401,
+        "watchlist_stocks_count": 67,
+        "like_count": 2486,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 12802,
+          "symbol": "NVCR",
+          "title": "NovoCure",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 5281
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 248749341,
+      "body": "$NVCR Anybody think this is prelude to buyout?",
+      "created_at": "2020-10-07T15:10:49Z",
+      "user": {
+        "id": 1798946,
+        "username": "DoctorInvestor45",
+        "name": "Phil",
+        "avatar_url": "https://avatars.stocktwits.com/production/1798946/thumb-1547010029.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1798946/thumb-1547010029.png",
+        "join_date": "2019-01-08",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 123,
+        "following": 8,
+        "ideas": 1305,
+        "watchlist_stocks_count": 53,
+        "like_count": 751,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 12802,
+          "symbol": "NVCR",
+          "title": "NovoCure",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 5281
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 248749341,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "likes": {
+        "total": 2,
+        "user_ids": [
+          187591,
+          531109
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 248746929,
+      "body": "$NVCR $128",
+      "created_at": "2020-10-07T15:04:36Z",
+      "user": {
+        "id": 1531906,
+        "username": "Chazdaq",
+        "name": "Chase Peterson",
+        "avatar_url": "https://avatars.stocktwits.com/production/1531906/thumb-1532043201.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1531906/thumb-1532043201.png",
+        "join_date": "2018-06-27",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 26,
+        "following": 23,
+        "ideas": 1343,
+        "watchlist_stocks_count": 16,
+        "like_count": 2810,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 12802,
+          "symbol": "NVCR",
+          "title": "NovoCure",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 5281
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 248746929,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "likes": {
+        "total": 4,
+        "user_ids": [
+          1396153,
+          1419594,
+          1798946,
+          2133920
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_248746929.png",
+          "large": "https://charts.stocktwits.com/production/large_248746929.png",
+          "original": "https://charts.stocktwits.com/production/original_248746929.png",
+          "url": "https://charts.stocktwits.com/production/original_248746929.png"
+        },
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 248746347,
+      "body": "$NVCR $127",
+      "created_at": "2020-10-07T15:03:05Z",
+      "user": {
+        "id": 1531906,
+        "username": "Chazdaq",
+        "name": "Chase Peterson",
+        "avatar_url": "https://avatars.stocktwits.com/production/1531906/thumb-1532043201.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1531906/thumb-1532043201.png",
+        "join_date": "2018-06-27",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 26,
+        "following": 23,
+        "ideas": 1338,
+        "watchlist_stocks_count": 16,
+        "like_count": 2810,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 12802,
+          "symbol": "NVCR",
+          "title": "NovoCure",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 5281
+        }
+      ],
+      "likes": {
+        "total": 3,
+        "user_ids": [
+          1419594,
+          2133920,
+          1798946
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_248746347.png",
+          "large": "https://charts.stocktwits.com/production/large_248746347.png",
+          "original": "https://charts.stocktwits.com/production/original_248746347.png",
+          "url": "https://charts.stocktwits.com/production/original_248746347.png"
+        },
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 248746303,
+      "body": "$NVCR WE\u2019RE TAKING STRATTON OAKMONT INTO THE STRATOSPHERE.",
+      "created_at": "2020-10-07T15:02:56Z",
+      "user": {
+        "id": 1798946,
+        "username": "DoctorInvestor45",
+        "name": "Phil",
+        "avatar_url": "https://avatars.stocktwits.com/production/1798946/thumb-1547010029.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1798946/thumb-1547010029.png",
+        "join_date": "2019-01-08",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 123,
+        "following": 8,
+        "ideas": 1305,
+        "watchlist_stocks_count": 53,
+        "like_count": 751,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 12802,
+          "symbol": "NVCR",
+          "title": "NovoCure",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 5281
+        }
+      ],
+      "likes": {
+        "total": 3,
+        "user_ids": [
+          707246,
+          623810,
+          1604062
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 248746010,
+      "body": "$NVCR There\u2019s a lot of things I\u2019m excited about right now. Walking into work isn\u2019t one of them.",
+      "created_at": "2020-10-07T15:02:13Z",
+      "user": {
+        "id": 1798946,
+        "username": "DoctorInvestor45",
+        "name": "Phil",
+        "avatar_url": "https://avatars.stocktwits.com/production/1798946/thumb-1547010029.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1798946/thumb-1547010029.png",
+        "join_date": "2019-01-08",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 123,
+        "following": 8,
+        "ideas": 1305,
+        "watchlist_stocks_count": 53,
+        "like_count": 751,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 12802,
+          "symbol": "NVCR",
+          "title": "NovoCure",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 5281
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 248746010,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 2
+      },
+      "likes": {
+        "total": 3,
+        "user_ids": [
+          2133920,
+          623810,
+          1604062
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 248745670,
+      "body": "$NVCR chase, chaz, market god or whatever ur calling urself these days- remember at $160 u can use my IQ for ur GIF.\nI\u2019ll send u the certificate",
+      "created_at": "2020-10-07T15:01:19Z",
+      "user": {
+        "id": 707246,
+        "username": "CCmoney7",
+        "name": "C Marcus",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2016-03-15",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 16,
+        "following": 68,
+        "ideas": 3416,
+        "watchlist_stocks_count": 87,
+        "like_count": 738,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 12802,
+          "symbol": "NVCR",
+          "title": "NovoCure",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 5281
+        }
+      ],
+      "likes": {
+        "total": 5,
+        "user_ids": [
+          1419594,
+          1531906,
+          1798946,
+          623810,
+          1604062
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 248745145,
+      "body": "$NVCR For a stock to go up the way this is, something big is coming. This is the real deal. Big money coming in.",
+      "created_at": "2020-10-07T15:00:00Z",
+      "user": {
+        "id": 531109,
+        "username": "cadbrad1",
+        "name": "Brad",
+        "avatar_url": "https://avatars.stocktwits.com/production/531109/thumb-1436921715.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/531109/thumb-1436921715.png",
+        "join_date": "2015-06-10",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 16,
+        "following": 62,
+        "ideas": 488,
+        "watchlist_stocks_count": 26,
+        "like_count": 191,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 12802,
+          "symbol": "NVCR",
+          "title": "NovoCure",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 5281
+        }
+      ],
+      "likes": {
+        "total": 3,
+        "user_ids": [
+          1798946,
+          1396153,
+          1531906
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 248744845,
+      "body": "$NVCR",
+      "created_at": "2020-10-07T14:59:11Z",
+      "user": {
+        "id": 1559609,
+        "username": "blackjack17",
+        "name": "Blackjack Capital",
+        "avatar_url": "https://avatars.stocktwits.com/production/1559609/thumb-1535587923.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1559609/thumb-1535587923.png",
+        "join_date": "2018-07-28",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 41,
+        "following": 46,
+        "ideas": 5526,
+        "watchlist_stocks_count": 70,
+        "like_count": 2789,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 12802,
+          "symbol": "NVCR",
+          "title": "NovoCure",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 5281
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 248744845,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 2
+      },
+      "likes": {
+        "total": 6,
+        "user_ids": [
+          1396153,
+          1419594,
+          976540,
+          1531906,
+          1291701,
+          1604062
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "giphy": {
+          "id": "3XR0chfiSTtAI"
+        },
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 248743682,
+      "body": "$NVCR off the rails!!!!",
+      "created_at": "2020-10-07T14:56:12Z",
+      "user": {
+        "id": 462673,
+        "username": "inlining",
+        "name": "Patrick",
+        "avatar_url": "https://avatars.stocktwits.com/production/462673/thumb-1502673252.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/462673/thumb-1502673252.png",
+        "join_date": "2015-02-08",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 10,
+        "following": 74,
+        "ideas": 405,
+        "watchlist_stocks_count": 23,
+        "like_count": 29,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 12802,
+          "symbol": "NVCR",
+          "title": "NovoCure",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 5281
+        }
+      ],
+      "likes": {
+        "total": 2,
+        "user_ids": [
+          1798946,
+          1531906
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 248741865,
+      "body": "$NVCR I\u2019m sitting in my car watching the price go up.",
+      "created_at": "2020-10-07T14:51:49Z",
+      "user": {
+        "id": 1798946,
+        "username": "DoctorInvestor45",
+        "name": "Phil",
+        "avatar_url": "https://avatars.stocktwits.com/production/1798946/thumb-1547010029.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1798946/thumb-1547010029.png",
+        "join_date": "2019-01-08",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 123,
+        "following": 8,
+        "ideas": 1305,
+        "watchlist_stocks_count": 53,
+        "like_count": 746,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 12802,
+          "symbol": "NVCR",
+          "title": "NovoCure",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 5281
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 248741865,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "likes": {
+        "total": 3,
+        "user_ids": [
+          1419594,
+          1604062,
+          1535702
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 248741745,
+      "body": "$NVCR Chaser...127.",
+      "created_at": "2020-10-07T14:51:32Z",
+      "user": {
+        "id": 1798946,
+        "username": "DoctorInvestor45",
+        "name": "Phil",
+        "avatar_url": "https://avatars.stocktwits.com/production/1798946/thumb-1547010029.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1798946/thumb-1547010029.png",
+        "join_date": "2019-01-08",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 123,
+        "following": 8,
+        "ideas": 1305,
+        "watchlist_stocks_count": 53,
+        "like_count": 746,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 12802,
+          "symbol": "NVCR",
+          "title": "NovoCure",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 5281
+        }
+      ],
+      "likes": {
+        "total": 2,
+        "user_ids": [
+          1604062,
+          1419594
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 248739617,
+      "body": "$NVCR ",
+      "created_at": "2020-10-07T14:46:00Z",
+      "user": {
+        "id": 623810,
+        "username": "tdorsey",
+        "name": "Tom Dorsey",
+        "avatar_url": "https://avatars.stocktwits.com/production/623810/thumb-1450378629.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/623810/thumb-1450378629.png",
+        "join_date": "2015-10-29",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 222,
+        "following": 37,
+        "ideas": 8362,
+        "watchlist_stocks_count": 15,
+        "like_count": 2348,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 12802,
+          "symbol": "NVCR",
+          "title": "NovoCure",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 5281
+        }
+      ],
+      "likes": {
+        "total": 9,
+        "user_ids": [
+          1518510,
+          1396153,
+          1798946,
+          1316924,
+          1419594,
+          1535702,
+          462673,
+          246797,
+          2133920
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_248739617.png",
+          "large": "https://charts.stocktwits.com/production/large_248739617.png",
+          "original": "https://charts.stocktwits.com/production/original_248739617.png",
+          "url": "https://charts.stocktwits.com/production/original_248739617.png"
+        },
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 248739157,
+      "body": "$NVCR Its tools like Austin Goolsbee on CNBC who are destroying this country. He&#39;s saying Trump is going to withhold stimulus to blackmail voters to vote for him. Someone needs to tell him how reckless a statement like that really is.  Where is the pushback? Seriously!!!",
+      "created_at": "2020-10-07T14:44:50Z",
+      "user": {
+        "id": 623810,
+        "username": "tdorsey",
+        "name": "Tom Dorsey",
+        "avatar_url": "https://avatars.stocktwits.com/production/623810/thumb-1450378629.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/623810/thumb-1450378629.png",
+        "join_date": "2015-10-29",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 222,
+        "following": 37,
+        "ideas": 8362,
+        "watchlist_stocks_count": 15,
+        "like_count": 2348,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 12802,
+          "symbol": "NVCR",
+          "title": "NovoCure",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 5281
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 248739157,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 3
+      },
+      "likes": {
+        "total": 2,
+        "user_ids": [
+          1894974,
+          2133920
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 248736941,
+      "body": "$NVCR incredible....",
+      "created_at": "2020-10-07T14:39:14Z",
+      "user": {
+        "id": 462673,
+        "username": "inlining",
+        "name": "Patrick",
+        "avatar_url": "https://avatars.stocktwits.com/production/462673/thumb-1502673252.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/462673/thumb-1502673252.png",
+        "join_date": "2015-02-08",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 10,
+        "following": 74,
+        "ideas": 402,
+        "watchlist_stocks_count": 23,
+        "like_count": 28,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 12802,
+          "symbol": "NVCR",
+          "title": "NovoCure",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 5281
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 248734221,
+      "body": "$NVCR Does anyone have the link to Cramer talking Novocure last night?",
+      "created_at": "2020-10-07T14:32:40Z",
+      "user": {
+        "id": 623810,
+        "username": "tdorsey",
+        "name": "Tom Dorsey",
+        "avatar_url": "https://avatars.stocktwits.com/production/623810/thumb-1450378629.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/623810/thumb-1450378629.png",
+        "join_date": "2015-10-29",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 222,
+        "following": 37,
+        "ideas": 8352,
+        "watchlist_stocks_count": 15,
+        "like_count": 2347,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 12802,
+          "symbol": "NVCR",
+          "title": "NovoCure",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 5281
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 248734221,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 248731951,
+      "body": "$NVCR https://youtu.be/4cia_v4vxfE",
+      "created_at": "2020-10-07T14:27:22Z",
+      "user": {
+        "id": 1518510,
+        "username": "traderjoze",
+        "name": "TJ",
+        "avatar_url": "https://avatars.stocktwits.com/production/1518510/thumb-1567694088.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1518510/thumb-1567694088.png",
+        "join_date": "2018-06-12",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 94,
+        "following": 13,
+        "ideas": 14707,
+        "watchlist_stocks_count": 43,
+        "like_count": 1947,
+        "plus_tier": "year",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 12802,
+          "symbol": "NVCR",
+          "title": "NovoCure",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 5282
+        }
+      ],
+      "links": [
+        {
+          "title": "Bachman Turner Overdrive - You Ain't Seen Nothing Yet 1974 Video Sound HQ",
+          "url": "https://youtu.be/4cia_v4vxfE",
+          "shortened_url": "https://youtu.be/4cia_v4vxfE",
+          "shortened_expanded_url": "youtube.com/watch?v=4cia_v4...",
+          "description": "BTO - You Ain't Seen Nothing Yet (Single, Album, Not Fragile 1974) Randy Bachman - Vocals, Guitar C. Fred Turner - Bass Blair Thornton - Lead Guitar Robbie B...",
+          "image": "https://i.ytimg.com/vi/4cia_v4vxfE/hqdefault.jpg",
+          "created_at": "2020-10-07T14:27:23Z",
+          "video_url": "//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F4cia_v4vxfE%3Ffeature%3Doembed=YouTube=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D4cia_v4vxfE=https%3A%2F%2Fi.ytimg.com%2Fvi%2F4cia_v4vxfE%2Fhqdefault.jpg=799f78c4081511e084894040444cdc60=text%2Fhtml=youtube",
+          "source": {
+            "name": "YouTube",
+            "website": "https://www.youtube.com/"
+          }
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          623810
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 248731625,
+      "body": "$NTLA $NVCR $NVTA ... So Strong!",
+      "created_at": "2020-10-07T14:26:32Z",
+      "user": {
+        "id": 743668,
+        "username": "ahulme",
+        "name": "Arthur Hulme",
+        "avatar_url": "https://avatars.stocktwits.com/production/743668/thumb-1513633082.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/743668/thumb-1513633082.png",
+        "join_date": "2016-05-02",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 78,
+        "following": 87,
+        "ideas": 4226,
+        "watchlist_stocks_count": 300,
+        "like_count": 9008,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 12401,
+          "symbol": "NVTA",
+          "title": "Invitae Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 8490
+        },
+        {
+          "id": 12802,
+          "symbol": "NVCR",
+          "title": "NovoCure",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 5282
+        },
+        {
+          "id": 12992,
+          "symbol": "NTLA",
+          "title": "Intellia Therapeutics ",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 4948
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 248730015,
+      "body": "$NVCR Christmas coming early. Speechless. Options are flying.",
+      "created_at": "2020-10-07T14:22:35Z",
+      "user": {
+        "id": 707246,
+        "username": "CCmoney7",
+        "name": "C Marcus",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2016-03-15",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 16,
+        "following": 68,
+        "ideas": 3401,
+        "watchlist_stocks_count": 87,
+        "like_count": 737,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 12802,
+          "symbol": "NVCR",
+          "title": "NovoCure",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 5281
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 248730015,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "likes": {
+        "total": 2,
+        "user_ids": [
+          1396153,
+          1419594
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 248726038,
+      "body": "$NVCR 130 ON DECK",
+      "created_at": "2020-10-07T14:13:23Z",
+      "user": {
+        "id": 1604062,
+        "username": "SMDMNM",
+        "name": "Matt",
+        "avatar_url": "https://avatars.stocktwits.com/production/1604062/thumb-1601940480.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1604062/thumb-1601940480.png",
+        "join_date": "2018-09-09",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 24,
+        "following": 41,
+        "ideas": 1857,
+        "watchlist_stocks_count": 12,
+        "like_count": 3323,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 12802,
+          "symbol": "NVCR",
+          "title": "NovoCure",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 5282
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          1798946
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 248724516,
+      "body": "$NVCR pullbacks being snapped up...strength, where is Arnold... TD?",
+      "created_at": "2020-10-07T14:09:44Z",
+      "user": {
+        "id": 1518510,
+        "username": "traderjoze",
+        "name": "TJ",
+        "avatar_url": "https://avatars.stocktwits.com/production/1518510/thumb-1567694088.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1518510/thumb-1567694088.png",
+        "join_date": "2018-06-12",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 94,
+        "following": 13,
+        "ideas": 14707,
+        "watchlist_stocks_count": 43,
+        "like_count": 1946,
+        "plus_tier": "year",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 12802,
+          "symbol": "NVCR",
+          "title": "NovoCure",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 5282
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          1798946
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 248724026,
+      "body": "$NVCR i don&#39;t even know where to add more of this anymore",
+      "created_at": "2020-10-07T14:08:33Z",
+      "user": {
+        "id": 2133920,
+        "username": "SodApOp_PIMPski",
+        "name": "Mike D",
+        "avatar_url": "https://avatars.stocktwits.com/production/2133920/thumb-1597291570.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2133920/thumb-1597291570.png",
+        "join_date": "2019-06-11",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 74,
+        "following": 35,
+        "ideas": 10250,
+        "watchlist_stocks_count": 51,
+        "like_count": 8166,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2095,
+        "title": "StockTwits For Android ",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 12802,
+          "symbol": "NVCR",
+          "title": "NovoCure",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 5282
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 248724026,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          702677
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 248716141,
+      "body": "$NVCR \nShould\u2019ve bought more calls yesterday!!!",
+      "created_at": "2020-10-07T13:50:28Z",
+      "user": {
+        "id": 702677,
+        "username": "docradmd",
+        "name": "Hounsfield",
+        "avatar_url": "https://avatars.stocktwits.com/production/702677/thumb-1588411066.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/702677/thumb-1588411066.png",
+        "join_date": "2016-03-08",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 12,
+        "following": 77,
+        "ideas": 347,
+        "watchlist_stocks_count": 57,
+        "like_count": 170,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 12802,
+          "symbol": "NVCR",
+          "title": "NovoCure",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 5282
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 248716141,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 2
+      },
+      "likes": {
+        "total": 4,
+        "user_ids": [
+          2133920,
+          1604062,
+          1396153,
+          1531906
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 248715358,
+      "body": "$NVCR chazdaq earning his salary today",
+      "created_at": "2020-10-07T13:48:42Z",
+      "user": {
+        "id": 2133920,
+        "username": "SodApOp_PIMPski",
+        "name": "Mike D",
+        "avatar_url": "https://avatars.stocktwits.com/production/2133920/thumb-1597291570.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2133920/thumb-1597291570.png",
+        "join_date": "2019-06-11",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 74,
+        "following": 35,
+        "ideas": 10244,
+        "watchlist_stocks_count": 51,
+        "like_count": 8164,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2095,
+        "title": "StockTwits For Android ",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 12802,
+          "symbol": "NVCR",
+          "title": "NovoCure",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 5282
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 248715358,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 2
+      },
+      "likes": {
+        "total": 6,
+        "user_ids": [
+          1419594,
+          1798946,
+          1250556,
+          623810,
+          1604062,
+          1531906
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 248714497,
+      "body": "$NVCR $571",
+      "created_at": "2020-10-07T13:46:45Z",
+      "user": {
+        "id": 623810,
+        "username": "tdorsey",
+        "name": "Tom Dorsey",
+        "avatar_url": "https://avatars.stocktwits.com/production/623810/thumb-1450378629.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/623810/thumb-1450378629.png",
+        "join_date": "2015-10-29",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 222,
+        "following": 37,
+        "ideas": 8352,
+        "watchlist_stocks_count": 15,
+        "like_count": 2346,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 12802,
+          "symbol": "NVCR",
+          "title": "NovoCure",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 5282
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 248714497,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 2
+      },
+      "likes": {
+        "total": 11,
+        "user_ids": [
+          2133920,
+          1531906,
+          1604062,
+          1316924,
+          1396153,
+          1798946,
+          2107018,
+          1250556,
+          1271837,
+          935566,
+          1089847
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 248714331,
+      "body": "$NVCR this is the type of run I was looking for in 2021,  is this just a warm up?",
+      "created_at": "2020-10-07T13:46:24Z",
+      "user": {
+        "id": 1518510,
+        "username": "traderjoze",
+        "name": "TJ",
+        "avatar_url": "https://avatars.stocktwits.com/production/1518510/thumb-1567694088.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1518510/thumb-1567694088.png",
+        "join_date": "2018-06-12",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 94,
+        "following": 13,
+        "ideas": 14707,
+        "watchlist_stocks_count": 43,
+        "like_count": 1947,
+        "plus_tier": "year",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 12802,
+          "symbol": "NVCR",
+          "title": "NovoCure",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 5281
+        }
+      ],
+      "likes": {
+        "total": 5,
+        "user_ids": [
+          1798946,
+          1535702,
+          1604062,
+          1559609,
+          3059136
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 248712958,
+      "body": "$NVCR the time to buy is when random people start posting bearish sentiment. \u201cAfter reading more I don\u2019t think it works\u201d \u201cthe PE\u201d \ud83d\ude02",
+      "created_at": "2020-10-07T13:43:09Z",
+      "user": {
+        "id": 1604062,
+        "username": "SMDMNM",
+        "name": "Matt",
+        "avatar_url": "https://avatars.stocktwits.com/production/1604062/thumb-1601940480.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1604062/thumb-1601940480.png",
+        "join_date": "2018-09-09",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 24,
+        "following": 41,
+        "ideas": 1852,
+        "watchlist_stocks_count": 12,
+        "like_count": 3317,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 12802,
+          "symbol": "NVCR",
+          "title": "NovoCure",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 5282
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 248712958,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "likes": {
+        "total": 2,
+        "user_ids": [
+          1531906,
+          1535702
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    }
+  ]
+}

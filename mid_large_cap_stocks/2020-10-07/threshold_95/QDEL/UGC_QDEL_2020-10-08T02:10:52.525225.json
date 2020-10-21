@@ -1,0 +1,1767 @@
+{
+  "response": {
+    "status": 200
+  },
+  "symbol": {
+    "id": 3293,
+    "symbol": "QDEL",
+    "title": "Quidel Corp.",
+    "aliases": [],
+    "is_following": false,
+    "watchlist_count": 2943
+  },
+  "cursor": {
+    "more": true,
+    "since": 248808790,
+    "max": 248736617
+  },
+  "messages": [
+    {
+      "id": 248808790,
+      "body": "$QDEL 22$ to go - halfway there.",
+      "created_at": "2020-10-07T18:08:57Z",
+      "user": {
+        "id": 3004281,
+        "username": "StockBraker",
+        "name": "Gary B",
+        "avatar_url": "https://avatars.stocktwits.com/production/3004281/thumb-1590010381.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3004281/thumb-1590010381.png",
+        "join_date": "2020-01-03",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 179,
+        "following": 4,
+        "ideas": 3851,
+        "watchlist_stocks_count": 109,
+        "like_count": 1236,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 3293,
+          "symbol": "QDEL",
+          "title": "Quidel Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 2943
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_248808790.png",
+          "large": "https://charts.stocktwits.com/production/large_248808790.png",
+          "original": "https://charts.stocktwits.com/production/original_248808790.png",
+          "url": "https://charts.stocktwits.com/production/original_248808790.png"
+        },
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 248793433,
+      "body": "$QDEL We aren\u2019t even near ATH, yet this QTR projection is set to double. Confidence we break +306, setting up new high 330-350 \ud83d\udc4d",
+      "created_at": "2020-10-07T17:20:06Z",
+      "user": {
+        "id": 1688250,
+        "username": "erice579",
+        "name": "Eric Rice",
+        "avatar_url": "https://avatars.stocktwits.com/production/1688250/thumb-1555943693.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1688250/thumb-1555943693.png",
+        "join_date": "2018-10-31",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 6361,
+        "following": 129,
+        "ideas": 24935,
+        "watchlist_stocks_count": 188,
+        "like_count": 19162,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 3293,
+          "symbol": "QDEL",
+          "title": "Quidel Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 2939
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 248793362,
+      "body": "$QDEL The stock and bond markets are open on Monday. No 3 day weekend coming up. \nhttps://www.nyse.com/markets/hours-calendars",
+      "created_at": "2020-10-07T17:19:52Z",
+      "user": {
+        "id": 4114779,
+        "username": "BiDirDelta",
+        "name": "Patrick",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2020-09-28",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 3,
+        "following": 5,
+        "ideas": 34,
+        "watchlist_stocks_count": 5,
+        "like_count": 5,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 3293,
+          "symbol": "QDEL",
+          "title": "Quidel Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 2939
+        }
+      ],
+      "links": [
+        {
+          "title": "NYSE",
+          "url": "https://www.nyse.com/markets/hours-calendars",
+          "shortened_url": "https://www.nyse.com/markets/hours-calendars",
+          "shortened_expanded_url": "nyse.com/markets/hours-cale...",
+          "description": "All NYSE markets observe U.S. holidays as listed below for 2020, 2021, and 2022 * Each market will close early at 1:00 p.m. (1:15 p.m. for eligible options) on Friday, November 27, 2020, Friday, November 26, 2021, and Friday, November 25, 2022 (the day after Thanksgiving).",
+          "image": null,
+          "created_at": "2020-10-07T17:19:53Z",
+          "video_url": null,
+          "source": {
+            "name": "Nyse",
+            "website": "https://www.nyse.com"
+          }
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          1688250
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 248792338,
+      "body": "$QDEL buy GNMK if you missed Qdel",
+      "created_at": "2020-10-07T17:16:34Z",
+      "user": {
+        "id": 1651054,
+        "username": "Jimm2000",
+        "name": "Jimm",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2018-10-08",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 42,
+        "following": 2,
+        "ideas": 3808,
+        "watchlist_stocks_count": 143,
+        "like_count": 6572,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 3293,
+          "symbol": "QDEL",
+          "title": "Quidel Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 2939
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 248792139,
+      "body": "$QDEL Anyone else make the round-trip from 230 all the way down to 140 and all the way back to 280 here all in a couple of weeks? Yes I should\u2019ve bought more shares there but I didn\u2019t but at least a held on\ud83d\ude01\ud83d\udd96",
+      "created_at": "2020-10-07T17:15:56Z",
+      "user": {
+        "id": 1851085,
+        "username": "JesseLivermre4th",
+        "name": "Jesse Livermore 4th",
+        "avatar_url": "https://avatars.stocktwits.com/production/1851085/thumb-1549491042.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1851085/thumb-1549491042.png",
+        "join_date": "2019-02-05",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 79,
+        "following": 55,
+        "ideas": 4357,
+        "watchlist_stocks_count": 106,
+        "like_count": 1180,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 3293,
+          "symbol": "QDEL",
+          "title": "Quidel Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 2943
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 248792139,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "likes": {
+        "total": 3,
+        "user_ids": [
+          1189779,
+          1688250,
+          3603464
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 248790395,
+      "body": "$QDEL Looking at their financials, this should be a $500 company.. I usually never hold through earnings but I just might make the exception for this baby. Everything is lining up so perfectly\ud83d\udc40",
+      "created_at": "2020-10-07T17:10:30Z",
+      "user": {
+        "id": 3885523,
+        "username": "GodisGay",
+        "name": "Your Dad",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2020-07-31",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 1,
+        "following": 2,
+        "ideas": 25,
+        "watchlist_stocks_count": 37,
+        "like_count": 132,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 3293,
+          "symbol": "QDEL",
+          "title": "Quidel Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 2939
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 248790395,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "likes": {
+        "total": 2,
+        "user_ids": [
+          1688250,
+          3559032
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 248788970,
+      "body": "$QDEL Looking for 285 today, 300 by EOW",
+      "created_at": "2020-10-07T17:05:49Z",
+      "user": {
+        "id": 1688250,
+        "username": "erice579",
+        "name": "Eric Rice",
+        "avatar_url": "https://avatars.stocktwits.com/production/1688250/thumb-1555943693.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1688250/thumb-1555943693.png",
+        "join_date": "2018-10-31",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 6361,
+        "following": 129,
+        "ideas": 24935,
+        "watchlist_stocks_count": 188,
+        "like_count": 19160,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 3293,
+          "symbol": "QDEL",
+          "title": "Quidel Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 2939
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 248773614,
+      "body": "$QDEL $6 Dollar Dip \ud83d\udc40",
+      "created_at": "2020-10-07T16:19:15Z",
+      "user": {
+        "id": 1688250,
+        "username": "erice579",
+        "name": "Eric Rice",
+        "avatar_url": "https://avatars.stocktwits.com/production/1688250/thumb-1555943693.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1688250/thumb-1555943693.png",
+        "join_date": "2018-10-31",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 6361,
+        "following": 129,
+        "ideas": 24928,
+        "watchlist_stocks_count": 188,
+        "like_count": 19159,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 3293,
+          "symbol": "QDEL",
+          "title": "Quidel Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 2935
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          811974
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 248770053,
+      "body": "$QDEL Nearly $4 Dip , I\u2019ll add.  When you know going break $300, don\u2019t sell for pennies \ud83c\udf7a\ud83c\udf7f",
+      "created_at": "2020-10-07T16:08:42Z",
+      "user": {
+        "id": 1688250,
+        "username": "erice579",
+        "name": "Eric Rice",
+        "avatar_url": "https://avatars.stocktwits.com/production/1688250/thumb-1555943693.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1688250/thumb-1555943693.png",
+        "join_date": "2018-10-31",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 6361,
+        "following": 129,
+        "ideas": 24928,
+        "watchlist_stocks_count": 188,
+        "like_count": 19155,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 3293,
+          "symbol": "QDEL",
+          "title": "Quidel Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 2935
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          3559032
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_248770053.gif",
+          "large": "https://charts.stocktwits.com/production/large_248770053.gif",
+          "original": "https://charts.stocktwits.com/production/original_248770053.gif",
+          "url": "https://charts.stocktwits.com/production/original_248770053.gif"
+        },
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 248768219,
+      "body": "$QDEL do we think this will retrace for the 3 day weekend?",
+      "created_at": "2020-10-07T16:03:11Z",
+      "user": {
+        "id": 3762602,
+        "username": "Shiller92",
+        "name": "Timothy J Alingasa",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2020-07-09",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 0,
+        "following": 2,
+        "ideas": 2,
+        "watchlist_stocks_count": 0,
+        "like_count": 0,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 3293,
+          "symbol": "QDEL",
+          "title": "Quidel Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 2935
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 248768219,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 248767049,
+      "body": "$QDEL unbelievable.  People couldnt get rid of this fast enough in 140s a few weeks ago.  NORF!!",
+      "created_at": "2020-10-07T15:59:49Z",
+      "user": {
+        "id": 505333,
+        "username": "MonkeyBananaGenius",
+        "name": "Formerly ___pig___",
+        "avatar_url": "https://avatars.stocktwits.com/production/505333/thumb-1590794762.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/505333/thumb-1590794762.png",
+        "join_date": "2015-04-22",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 649,
+        "following": 51,
+        "ideas": 15076,
+        "watchlist_stocks_count": 106,
+        "like_count": 30825,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 3293,
+          "symbol": "QDEL",
+          "title": "Quidel Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 2939
+        }
+      ],
+      "likes": {
+        "total": 5,
+        "user_ids": [
+          1512574,
+          2806635,
+          1688250,
+          1195713,
+          1025760
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 248766880,
+      "body": "$QDEL Heavily owned TUTES\n\n146% \n\nPrice T Rowe 3.5m shares as of recent \n\nhttps://fintel.io/so/us/qdel",
+      "created_at": "2020-10-07T15:59:21Z",
+      "user": {
+        "id": 1688250,
+        "username": "erice579",
+        "name": "Eric Rice",
+        "avatar_url": "https://avatars.stocktwits.com/production/1688250/thumb-1555943693.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1688250/thumb-1555943693.png",
+        "join_date": "2018-10-31",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 6361,
+        "following": 129,
+        "ideas": 24935,
+        "watchlist_stocks_count": 188,
+        "like_count": 19160,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 3293,
+          "symbol": "QDEL",
+          "title": "Quidel Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 2939
+        }
+      ],
+      "links": [
+        {
+          "title": null,
+          "url": "https://fintel.io/so/us/qdel",
+          "shortened_url": "https://fintel.io/so/us/qdel",
+          "shortened_expanded_url": "fintel.io/so/us/qdel",
+          "description": null,
+          "image": null,
+          "created_at": "2020-10-07T15:59:21Z",
+          "video_url": null,
+          "source": {
+            "name": "Fintel",
+            "website": "https://fintel.io"
+          }
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          1195713
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 248766679,
+      "body": "$QDEL this baby wants $300 soon.. what a dip been trimming here and there still got these $250 to 11/20",
+      "created_at": "2020-10-07T15:58:47Z",
+      "user": {
+        "id": 2161633,
+        "username": "JGNYC",
+        "name": "John G",
+        "avatar_url": "https://avatars.stocktwits.com/production/2161633/thumb-1579008956.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2161633/thumb-1579008956.png",
+        "join_date": "2019-06-26",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 32,
+        "following": 47,
+        "ideas": 1945,
+        "watchlist_stocks_count": 152,
+        "like_count": 1725,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 3293,
+          "symbol": "QDEL",
+          "title": "Quidel Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 2939
+        }
+      ],
+      "likes": {
+        "total": 2,
+        "user_ids": [
+          1688250,
+          1195713
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 248766556,
+      "body": "$QDEL \ud83e\udd2f",
+      "created_at": "2020-10-07T15:58:24Z",
+      "user": {
+        "id": 3563199,
+        "username": "JPeizano",
+        "name": "Jared Peizer",
+        "avatar_url": "https://avatars.stocktwits.com/production/3563199/thumb-1599837259.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3563199/thumb-1599837259.png",
+        "join_date": "2020-06-05",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 2,
+        "following": 6,
+        "ideas": 57,
+        "watchlist_stocks_count": 18,
+        "like_count": 88,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 3293,
+          "symbol": "QDEL",
+          "title": "Quidel Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 2935
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 248765159,
+      "body": "$QDEL shouldn\u2019t have waited for a pull back \ud83d\ude44",
+      "created_at": "2020-10-07T15:54:14Z",
+      "user": {
+        "id": 3379324,
+        "username": "Drose21",
+        "name": "Derrek Rose",
+        "avatar_url": "https://avatars.stocktwits.com/production/3379324/thumb-1598736351.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3379324/thumb-1598736351.png",
+        "join_date": "2020-04-30",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 0,
+        "following": 6,
+        "ideas": 41,
+        "watchlist_stocks_count": 23,
+        "like_count": 187,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 3293,
+          "symbol": "QDEL",
+          "title": "Quidel Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 2935
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 248765159,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 248765041,
+      "body": "$QDEL Should break 306 52 wk high \ud83c\udf7a",
+      "created_at": "2020-10-07T15:53:49Z",
+      "user": {
+        "id": 1688250,
+        "username": "erice579",
+        "name": "Eric Rice",
+        "avatar_url": "https://avatars.stocktwits.com/production/1688250/thumb-1555943693.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1688250/thumb-1555943693.png",
+        "join_date": "2018-10-31",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 6360,
+        "following": 129,
+        "ideas": 24928,
+        "watchlist_stocks_count": 188,
+        "like_count": 19153,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 3293,
+          "symbol": "QDEL",
+          "title": "Quidel Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 2935
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 248762782,
+      "body": "$QDEL holy sh*!",
+      "created_at": "2020-10-07T15:47:40Z",
+      "user": {
+        "id": 3960852,
+        "username": "Jdubz7o7",
+        "name": "Jer",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2020-08-16",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 11,
+        "following": 19,
+        "ideas": 1338,
+        "watchlist_stocks_count": 0,
+        "like_count": 1915,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 3293,
+          "symbol": "QDEL",
+          "title": "Quidel Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 2935
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          3004281
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 248762702,
+      "body": "$QDEL i still have my call option for this but was any additional news released today for this price action?",
+      "created_at": "2020-10-07T15:47:26Z",
+      "user": {
+        "id": 1235402,
+        "username": "Mrstock23",
+        "name": "Mrstock23",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2017-10-20",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 1,
+        "following": 10,
+        "ideas": 160,
+        "watchlist_stocks_count": 64,
+        "like_count": 28,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2095,
+        "title": "StockTwits For Android ",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 3293,
+          "symbol": "QDEL",
+          "title": "Quidel Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 2935
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 248760752,
+      "body": "$QDEL Continues to rip.  161.8% fib is on deck IMO:",
+      "created_at": "2020-10-07T15:42:01Z",
+      "user": {
+        "id": 609240,
+        "username": "RipShowStocks",
+        "name": "RipShow",
+        "avatar_url": "https://avatars.stocktwits.com/production/609240/thumb-1598313281.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/609240/thumb-1598313281.png",
+        "join_date": "2015-10-02",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 593,
+        "following": 172,
+        "ideas": 5315,
+        "watchlist_stocks_count": 248,
+        "like_count": 1155,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 3293,
+          "symbol": "QDEL",
+          "title": "Quidel Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 2935
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          1688250
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_248760752.png",
+          "large": "https://charts.stocktwits.com/production/large_248760752.png",
+          "original": "https://charts.stocktwits.com/production/original_248760752.png",
+          "url": "https://charts.stocktwits.com/production/original_248760752.png"
+        },
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 248760663,
+      "body": "$QDEL Up 50% on the call purchased yesterday \ud83e\udd20. Another thanks to @healthcareguru for tipping this one off. Predicate ya good sir!!",
+      "created_at": "2020-10-07T15:41:46Z",
+      "user": {
+        "id": 933638,
+        "username": "Minnesotastockdude",
+        "name": "George",
+        "avatar_url": "https://avatars.stocktwits.com/production/933638/thumb-1577200546.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/933638/thumb-1577200546.png",
+        "join_date": "2017-01-23",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 75,
+        "following": 57,
+        "ideas": 1612,
+        "watchlist_stocks_count": 67,
+        "like_count": 3540,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 3293,
+          "symbol": "QDEL",
+          "title": "Quidel Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 2939
+        }
+      ],
+      "likes": {
+        "total": 3,
+        "user_ids": [
+          2135591,
+          1688250,
+          1237793
+        ]
+      },
+      "mentioned_users": [
+        "@healthcareguru"
+      ],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 248759662,
+      "body": "$QDEL",
+      "created_at": "2020-10-07T15:39:04Z",
+      "user": {
+        "id": 1404072,
+        "username": "jmoonstocks",
+        "name": "Sam",
+        "avatar_url": "https://avatars.stocktwits.com/production/1404072/thumb-1518102779.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1404072/thumb-1518102779.png",
+        "join_date": "2018-02-08",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 62,
+        "following": 18,
+        "ideas": 6592,
+        "watchlist_stocks_count": 25,
+        "like_count": 3780,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 3293,
+          "symbol": "QDEL",
+          "title": "Quidel Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 2935
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          1688250
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_248759662.gif",
+          "large": "https://charts.stocktwits.com/production/large_248759662.gif",
+          "original": "https://charts.stocktwits.com/production/original_248759662.gif",
+          "url": "https://charts.stocktwits.com/production/original_248759662.gif"
+        },
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 248754118,
+      "body": "$QDEL She\u2019s a beaut Clark!",
+      "created_at": "2020-10-07T15:23:44Z",
+      "user": {
+        "id": 3281228,
+        "username": "DowJonez",
+        "name": "M M",
+        "avatar_url": "https://avatars.stocktwits.com/production/3281228/thumb-1589544397.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3281228/thumb-1589544397.png",
+        "join_date": "2020-04-08",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 2,
+        "following": 4,
+        "ideas": 57,
+        "watchlist_stocks_count": 12,
+        "like_count": 201,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 3293,
+          "symbol": "QDEL",
+          "title": "Quidel Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 2935
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 248754118,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 2
+      },
+      "likes": {
+        "total": 5,
+        "user_ids": [
+          2135591,
+          1395811,
+          1688250,
+          968356,
+          840209
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 248753835,
+      "body": "Big Gainer Alert: Trading today&#39;s 8.0% move in QUIDEL $QDEL https://wp.me/p5bLGB-b2MP",
+      "created_at": "2020-10-07T15:23:02Z",
+      "user": {
+        "id": 403382,
+        "username": "quantcha",
+        "name": "Quantcha",
+        "avatar_url": "https://avatars.stocktwits.com/production/403382/thumb-1411503795.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/403382/thumb-1411503795.png",
+        "join_date": "2014-09-23",
+        "official": true,
+        "identity": "Official",
+        "classification": [
+          "official"
+        ],
+        "followers": 42594,
+        "following": 34,
+        "ideas": 68716,
+        "watchlist_stocks_count": 0,
+        "like_count": 13,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1788,
+        "title": "Quantcha Ideas",
+        "url": "http://ideas.quantcha.com"
+      },
+      "symbols": [
+        {
+          "id": 3293,
+          "symbol": "QDEL",
+          "title": "Quidel Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 2929
+        }
+      ],
+      "links": [
+        {
+          "title": "Big Gainer Alert: Trading today's 8.0% move in QUIDEL $QDEL",
+          "url": "https://wp.me/p5bLGB-b2MP",
+          "shortened_url": "https://wp.me/p5bLGB-b2MP",
+          "shortened_expanded_url": "ideas.quantcha.com/2020/10/...",
+          "description": "Quantcha now offering unlimited commission-free options trading. Quantchabot has detected a promising Bull Put Spread trade opportunity for QUIDEL ( QDEL) for the 16-Oct-2020 expiration period. You can analyze the opportunity in depth over at the Quantcha Options Search Engine. QDEL was recently trading at $269.99 and has an implied volatility of 76.62% for this period.",
+          "image": "https://i0.wp.com/ideas.quantcha.com/wp-content/uploads/2020/10/automated-430.png?fit=1200%2C630&ssl=1",
+          "created_at": "2020-10-07T15:23:18Z",
+          "video_url": null,
+          "source": {
+            "name": "Quantcha Trade Ideas",
+            "website": "https://ideas.quantcha.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_248753835.",
+          "large": "https://charts.stocktwits.com/production/large_248753835.",
+          "original": "https://charts.stocktwits.com/production/original_248753835.",
+          "url": "https://charts.stocktwits.com/production/original_248753835."
+        },
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": false
+      }
+    },
+    {
+      "id": 248753281,
+      "body": "Big Gainer Alert: Trading today&#39;s 8.0% move in QUIDEL $QDEL https://wp.me/p5bLGB-b2Kz",
+      "created_at": "2020-10-07T15:21:29Z",
+      "user": {
+        "id": 403382,
+        "username": "quantcha",
+        "name": "Quantcha",
+        "avatar_url": "https://avatars.stocktwits.com/production/403382/thumb-1411503795.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/403382/thumb-1411503795.png",
+        "join_date": "2014-09-23",
+        "official": true,
+        "identity": "Official",
+        "classification": [
+          "official"
+        ],
+        "followers": 42593,
+        "following": 34,
+        "ideas": 68716,
+        "watchlist_stocks_count": 0,
+        "like_count": 13,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1788,
+        "title": "Quantcha Ideas",
+        "url": "http://ideas.quantcha.com"
+      },
+      "symbols": [
+        {
+          "id": 3293,
+          "symbol": "QDEL",
+          "title": "Quidel Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 2929
+        }
+      ],
+      "links": [
+        {
+          "title": "Big Gainer Alert: Trading today's 8.0% move in QUIDEL $QDEL",
+          "url": "https://wp.me/p5bLGB-b2Kz",
+          "shortened_url": "https://wp.me/p5bLGB-b2Kz",
+          "shortened_expanded_url": "ideas.quantcha.com/2020/10/...",
+          "description": "Quantcha now offering unlimited commission-free options trading. Quantchabot has detected a promising Bull Put Spread trade opportunity for QUIDEL ( QDEL) for the 16-Oct-2020 expiration period. You can analyze the opportunity in depth over at the Quantcha Options Search Engine. QDEL was recently trading at $269.99 and has an implied volatility of 76.62% for this period.",
+          "image": "https://i0.wp.com/ideas.quantcha.com/wp-content/uploads/2020/10/automated-426.png?fit=1200%2C630&ssl=1",
+          "created_at": "2020-10-07T15:21:43Z",
+          "video_url": null,
+          "source": {
+            "name": "Quantcha Trade Ideas",
+            "website": "https://ideas.quantcha.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_248753281.",
+          "large": "https://charts.stocktwits.com/production/large_248753281.",
+          "original": "https://charts.stocktwits.com/production/original_248753281.",
+          "url": "https://charts.stocktwits.com/production/original_248753281."
+        },
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": false
+      }
+    },
+    {
+      "id": 248745889,
+      "body": "$QDEL HOLD +320 \ud83e\udd14",
+      "created_at": "2020-10-07T15:01:55Z",
+      "user": {
+        "id": 1688250,
+        "username": "erice579",
+        "name": "Eric Rice",
+        "avatar_url": "https://avatars.stocktwits.com/production/1688250/thumb-1555943693.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1688250/thumb-1555943693.png",
+        "join_date": "2018-10-31",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 6360,
+        "following": 129,
+        "ideas": 24928,
+        "watchlist_stocks_count": 188,
+        "like_count": 19153,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2095,
+        "title": "StockTwits For Android ",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 3293,
+          "symbol": "QDEL",
+          "title": "Quidel Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 2935
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 248745889,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          1404072
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_248745889.jpg",
+          "large": "https://charts.stocktwits.com/production/large_248745889.jpg",
+          "original": "https://charts.stocktwits.com/production/original_248745889.jpg",
+          "url": "https://charts.stocktwits.com/production/original_248745889.jpg"
+        },
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 248743676,
+      "body": "$QDEL anyone think this hits 300 before next Friday bought some cheap options last month and am unsure if I should hold?",
+      "created_at": "2020-10-07T14:56:11Z",
+      "user": {
+        "id": 1155844,
+        "username": "ChrisSkeeter",
+        "name": "Tim Simmons",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2017-08-13",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 4,
+        "following": 15,
+        "ideas": 140,
+        "watchlist_stocks_count": 66,
+        "like_count": 173,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 3293,
+          "symbol": "QDEL",
+          "title": "Quidel Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 2929
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 248743676,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 248741462,
+      "body": "$QDEL Could not believe shares were still so cheap after Q3 pre announce. What a monster!",
+      "created_at": "2020-10-07T14:50:49Z",
+      "user": {
+        "id": 1345201,
+        "username": "lee305",
+        "name": "Darren Lee",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2018-01-02",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 51,
+        "following": 16,
+        "ideas": 6356,
+        "watchlist_stocks_count": 134,
+        "like_count": 477,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 3293,
+          "symbol": "QDEL",
+          "title": "Quidel Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 2929
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 248741462,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "likes": {
+        "total": 3,
+        "user_ids": [
+          1395811,
+          1189779,
+          1688250
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 248740438,
+      "body": "$QDEL I should have put all my money in this back in September",
+      "created_at": "2020-10-07T14:48:02Z",
+      "user": {
+        "id": 4024985,
+        "username": "MFCalvey",
+        "name": "Michael Calvey",
+        "avatar_url": "https://avatars.stocktwits.com/production/4024985/thumb-1601729680.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/4024985/thumb-1601729680.png",
+        "join_date": "2020-08-30",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 2,
+        "following": 43,
+        "ideas": 72,
+        "watchlist_stocks_count": 33,
+        "like_count": 236,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 3293,
+          "symbol": "QDEL",
+          "title": "Quidel Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 2929
+        }
+      ],
+      "likes": {
+        "total": 3,
+        "user_ids": [
+          3649661,
+          1395811,
+          3371369
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 248736958,
+      "body": "$QDEL \ud83c\udf7a\ud83c\udf7f",
+      "created_at": "2020-10-07T14:39:16Z",
+      "user": {
+        "id": 1688250,
+        "username": "erice579",
+        "name": "Eric Rice",
+        "avatar_url": "https://avatars.stocktwits.com/production/1688250/thumb-1555943693.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1688250/thumb-1555943693.png",
+        "join_date": "2018-10-31",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 6360,
+        "following": 129,
+        "ideas": 24916,
+        "watchlist_stocks_count": 188,
+        "like_count": 19143,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2095,
+        "title": "StockTwits For Android ",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 3293,
+          "symbol": "QDEL",
+          "title": "Quidel Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 2927
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_248736958.jpg",
+          "large": "https://charts.stocktwits.com/production/large_248736958.jpg",
+          "original": "https://charts.stocktwits.com/production/original_248736958.jpg",
+          "url": "https://charts.stocktwits.com/production/original_248736958.jpg"
+        },
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 248736617,
+      "body": "$QDEL Feeling really good about snagging shares after the plummet. 144.46",
+      "created_at": "2020-10-07T14:38:23Z",
+      "user": {
+        "id": 398597,
+        "username": "maddocmatt",
+        "name": "Matt Wilson",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2014-09-12",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 1,
+        "following": 59,
+        "ideas": 149,
+        "watchlist_stocks_count": 75,
+        "like_count": 3,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 3293,
+          "symbol": "QDEL",
+          "title": "Quidel Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 2927
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 248736617,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "likes": {
+        "total": 2,
+        "user_ids": [
+          3559032,
+          1189779
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    }
+  ]
+}

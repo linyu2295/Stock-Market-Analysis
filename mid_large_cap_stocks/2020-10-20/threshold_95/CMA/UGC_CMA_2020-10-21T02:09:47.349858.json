@@ -1,0 +1,2034 @@
+{
+  "response": {
+    "status": 200
+  },
+  "symbol": {
+    "id": 4764,
+    "symbol": "CMA",
+    "title": "Comerica Incorporated",
+    "aliases": [],
+    "is_following": false,
+    "watchlist_count": 675
+  },
+  "cursor": {
+    "more": true,
+    "since": 251387378,
+    "max": 251263007
+  },
+  "messages": [
+    {
+      "id": 251387378,
+      "body": "Bigger-than-usual #earnings moves today from $LOGI  $CMA  $BXS  $CCK  $UBS  \n\nhttp://eps.sh/r",
+      "created_at": "2020-10-20T17:27:43Z",
+      "user": {
+        "id": 13621,
+        "username": "eWhispers",
+        "name": "Earnings Whispers",
+        "avatar_url": "https://avatars.stocktwits.com/production/13621/thumb-1428413900.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/13621/thumb-1428413900.png",
+        "join_date": "2010-04-23",
+        "official": true,
+        "identity": "Official",
+        "classification": [
+          "suggested",
+          "official"
+        ],
+        "followers": 121311,
+        "following": 65,
+        "ideas": 2675,
+        "watchlist_stocks_count": 0,
+        "like_count": 283,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 2535,
+          "symbol": "LOGI",
+          "title": "Logitech International SA",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 4053
+        },
+        {
+          "id": 4632,
+          "symbol": "BXS",
+          "title": "BancorpSouth, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 121
+        },
+        {
+          "id": 4680,
+          "symbol": "CCK",
+          "title": "Crown Holdings Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 259
+        },
+        {
+          "id": 4764,
+          "symbol": "CMA",
+          "title": "Comerica Incorporated",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 675
+        },
+        {
+          "id": 7539,
+          "symbol": "UBS",
+          "title": "UBS AG",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1556
+        }
+      ],
+      "links": [
+        {
+          "title": "Earnings Whispers Top News for Tuesday, October 20, 2020",
+          "url": "http://eps.sh/r",
+          "shortened_url": "http://eps.sh/r",
+          "shortened_expanded_url": "earningswhispers.com/results",
+          "description": "Recent earnings news for Canadian Pacific Railway (CP), GATX (GATX), Cambridge Bancorp (CATC), Paccar (PCAR), Prologis (PLD), Albertsons Companies Inc Cl A (ACI), Lockheed Martin (LMT), Manpower (MAN), Iridium Comm (IRDM), Iqvia Holdings (IQV) Recent earnings news for",
+          "image": "https://www.earningswhispers.com/images/og-more.gif",
+          "created_at": "2020-10-20T17:27:46Z",
+          "video_url": null,
+          "source": {
+            "name": "Earnings Whispers",
+            "website": "https://www.earningswhispers.com"
+          }
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          257806
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_251387378.png",
+          "large": "https://charts.stocktwits.com/production/large_251387378.png",
+          "original": "https://charts.stocktwits.com/production/original_251387378.png",
+          "url": "https://charts.stocktwits.com/production/original_251387378.png"
+        },
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 251370468,
+      "body": "Regions, Comerica, Synovus climb after sturdy Q3 beats  $RF $CMA $SNV \n\nhttps://newsfilter.io/a/ebc25dd3253af26e1f401ec0bec56e10",
+      "created_at": "2020-10-20T16:35:41Z",
+      "user": {
+        "id": 2762379,
+        "username": "Newsfilter",
+        "name": "@newsfilterio",
+        "avatar_url": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "join_date": "2019-09-01",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 7359,
+        "following": 16,
+        "ideas": 579467,
+        "watchlist_stocks_count": 1,
+        "like_count": 531,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 4764,
+          "symbol": "CMA",
+          "title": "Comerica Incorporated",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 673
+        },
+        {
+          "id": 7011,
+          "symbol": "RF",
+          "title": "Regions Financial Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 2503
+        },
+        {
+          "id": 7253,
+          "symbol": "SNV",
+          "title": "Synovus Financial Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 488
+        }
+      ],
+      "links": [
+        {
+          "title": "Regions, Comerica, Synovus climb after sturdy Q3 beats",
+          "url": "https://newsfilter.io/a/ebc25dd3253af26e1f401ec0bec56e10",
+          "shortened_url": "https://newsfilter.io/a/ebc25dd3253af26e1f401ec0bec56e10",
+          "shortened_expanded_url": "newsfilter.io/a/ebc25dd3253...",
+          "description": "Regions Financial, Comerica, and Synovus Financial each climb after they achieved solid Q3 earnings beats; earlier in the session each bank jumped by more than 5%.Regions gains 4.7% after Q3 non-GAAP EPS of 49 cents sailed past the average analyst estimate of 33 cents, with adjusted pretax pre-provision income climbing",
+          "image": "https://newsfilter.io/meta-images/?url=https://storage.googleapis.com/iex/api/logos/RF.png",
+          "created_at": "2020-10-20T16:35:41Z",
+          "video_url": null,
+          "source": {
+            "name": "Newsfilter",
+            "website": "https://newsfilter.io"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 251367138,
+      "body": "News out $CMA Comerica Inc (CMA) Q3 2020 Earnings Call Transcript https://marketwirenews.com/news-releases/comerica-inc-cma-q3-2020-earnings-call-transcript-8536113846896121.html?i=c",
+      "created_at": "2020-10-20T16:25:22Z",
+      "user": {
+        "id": 2847651,
+        "username": "GreenBendick",
+        "name": "Bendick Greenor",
+        "avatar_url": "https://avatars.stocktwits.com/production/2847651/thumb-1571318094.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2847651/thumb-1571318094.png",
+        "join_date": "2019-10-07",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 41,
+        "following": 4,
+        "ideas": 3602,
+        "watchlist_stocks_count": 2,
+        "like_count": 0,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5010,
+        "title": "Stock Twits Api Login",
+        "url": "https://momogains.com"
+      },
+      "symbols": [
+        {
+          "id": 4764,
+          "symbol": "CMA",
+          "title": "Comerica Incorporated",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 673
+        }
+      ],
+      "links": [
+        {
+          "title": "Comerica Inc (CMA) Q3 2020 Earnings Call Transcript",
+          "url": "https://marketwirenews.com/news-releases/comerica-inc-cma-q3-2020-earnings-call-transcript-8536113846896121.html?i=c",
+          "shortened_url": "https://marketwirenews.com/news-releases/comerica-inc-cma-q3-2020-earnings-call-transcript-8536113846896121.html?i=c",
+          "shortened_expanded_url": "marketwirenews.com/news-rel...",
+          "description": "Image source: The Motley Fool. Comerica Inc (NYSE: CMA) Q3 2020 Earnings Call Oct 20, 2020 , 8:00 a.m. ET Operator Continue reading For further.",
+          "image": "https://assets.marketwirenews.com/img/stock-breaking-news.jpg",
+          "created_at": "2020-10-20T16:25:23Z",
+          "video_url": null,
+          "source": {
+            "name": "Market Wire News",
+            "website": "https://marketwirenews.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": false
+      }
+    },
+    {
+      "id": 251361698,
+      "body": "Comerica Reports Third Quarter 2020 Earnings Results https://marketwirenews.com/news-releases/comerica-reports-third-quarter-2020-earnings-results-7524704616909822.html?i=c $CMA News Article",
+      "created_at": "2020-10-20T16:07:24Z",
+      "user": {
+        "id": 2848324,
+        "username": "HailDaHall",
+        "name": "Hailey Hall",
+        "avatar_url": "https://avatars.stocktwits.com/production/2848324/thumb-1570484839.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2848324/thumb-1570484839.png",
+        "join_date": "2019-10-07",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 26,
+        "following": 0,
+        "ideas": 3562,
+        "watchlist_stocks_count": 2,
+        "like_count": 0,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5010,
+        "title": "Stock Twits Api Login",
+        "url": "https://momogains.com"
+      },
+      "symbols": [
+        {
+          "id": 4764,
+          "symbol": "CMA",
+          "title": "Comerica Incorporated",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 673
+        }
+      ],
+      "links": [
+        {
+          "title": "Comerica Reports Third Quarter 2020 Earnings Results",
+          "url": "https://marketwirenews.com/news-releases/comerica-reports-third-quarter-2020-earnings-results-7524704616909822.html?i=c",
+          "shortened_url": "https://marketwirenews.com/news-releases/comerica-reports-third-quarter-2020-earnings-results-7524704616909822.html?i=c",
+          "shortened_expanded_url": "marketwirenews.com/news-rel...",
+          "description": "PR Newswire DALLAS, Oct. 20, 2020 DALLAS , Oct. 20, 2020 /PRNewswire/ -- Comerica Incorporated (NYSE: CMA) has reported its third quarter 2020 financial results. The results are available on the Investor Relations section of Comerica's website .",
+          "image": "https://assets.marketwirenews.com/img/stock-breaking-news.jpg",
+          "created_at": "2020-10-20T16:07:25Z",
+          "video_url": null,
+          "source": {
+            "name": "Market Wire News",
+            "website": "https://marketwirenews.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": false
+      }
+    },
+    {
+      "id": 251314352,
+      "body": "Most gaining stocks in the S&amp;P500 today: $TFC, $CMA and $OKE https://www.chartmill.com/stock/stock-screener?v=3&amp;f=ind_22&amp;s=pt&amp;utm_source=stocktwits&amp;utm_medium=screener&amp;utm_content=Stock_Screener:_top_S&amp;P500_gainers&amp;utm_campaign=social_tracking",
+      "created_at": "2020-10-20T14:05:00Z",
+      "user": {
+        "id": 47688,
+        "username": "ChartMill",
+        "name": "ChartMill",
+        "avatar_url": "https://avatars.stocktwits.com/production/47688/thumb-1363343728.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/47688/thumb-1363343728.png",
+        "join_date": "2011-01-26",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 21799,
+        "following": 891,
+        "ideas": 1079030,
+        "watchlist_stocks_count": 20,
+        "like_count": 32,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1135,
+        "title": "ChartMill",
+        "url": "http://www.chartmill.com"
+      },
+      "symbols": [
+        {
+          "id": 4764,
+          "symbol": "CMA",
+          "title": "Comerica Incorporated",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 672
+        },
+        {
+          "id": 6638,
+          "symbol": "OKE",
+          "title": "ONEOK Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 3457
+        },
+        {
+          "id": 7387,
+          "symbol": "TFC",
+          "title": "Truist Financial Corp",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 473
+        }
+      ],
+      "links": [
+        {
+          "title": null,
+          "url": "https://www.chartmill.com/stock/stock-screener?v=3&f=ind_22&s=pt&utm_source=stocktwits&utm_medium=screener&utm_content=Stock_Screener:_top_S&P500_gainers&utm_campaign=social_tracking",
+          "shortened_url": "https://www.chartmill.com/stock/stock-screener?v=3&f=ind_22&s=pt&utm_source=stocktwits&utm_medium=screener&utm_content=Stock_Screener:_top_S&P500_gainers&utm_campaign=social_tracking",
+          "shortened_expanded_url": "chartmill.com/stock/stock-s...",
+          "description": null,
+          "image": null,
+          "created_at": "2020-10-20T14:05:00Z",
+          "video_url": null,
+          "source": {
+            "name": "Chartmill",
+            "website": "https://www.chartmill.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": false
+      }
+    },
+    {
+      "id": 251290040,
+      "body": "$CMA beats by $0.60 https://www.briefing.com/in-depth-analysis/Content/Article?ArticleId=IN20201020064216CMA",
+      "created_at": "2020-10-20T12:46:45Z",
+      "user": {
+        "id": 8115,
+        "username": "briefingcom",
+        "name": "Briefingcom",
+        "avatar_url": "https://avatars.stocktwits.com/production/8115/thumb-1340802633.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/8115/thumb-1340802633.png",
+        "join_date": "2010-01-25",
+        "official": true,
+        "identity": "Official",
+        "classification": [
+          "official"
+        ],
+        "followers": 85599,
+        "following": 818,
+        "ideas": 78533,
+        "watchlist_stocks_count": 8,
+        "like_count": 65,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 4764,
+          "symbol": "CMA",
+          "title": "Comerica Incorporated",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 672
+        }
+      ],
+      "links": [
+        {
+          "title": "Briefing.com",
+          "url": "https://www.briefing.com/in-depth-analysis/Content/Article?ArticleId=IN20201020064216CMA",
+          "shortened_url": "https://www.briefing.com/in-depth-analysis/Content/Article?ArticleId=IN20201020064216CMA",
+          "shortened_expanded_url": "briefing.com/in-depth-analy...",
+          "description": "cookie policy and learn more.",
+          "image": null,
+          "created_at": "2020-10-20T12:46:46Z",
+          "video_url": null,
+          "source": {
+            "name": "Briefing",
+            "website": "https://www.briefing.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 251285568,
+      "body": "$CMA beats the Estimize EPS Consensus by 54c and the Estimize Revenue Consensus by $2.14M. Reports FQ3 earnings of $1.44 EPS and $710M ...\nhttp://www.estimize.com/cma/fq3-2020?utm_content=beat_or_miss&amp;utm_medium=tweet&amp;utm_source=stocktwits",
+      "created_at": "2020-10-20T12:24:50Z",
+      "user": {
+        "id": 74023,
+        "username": "Estimize",
+        "name": "Estimize",
+        "avatar_url": "https://avatars.stocktwits.com/production/74023/thumb-1381535783.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/74023/thumb-1381535783.png",
+        "join_date": "2011-04-25",
+        "official": true,
+        "identity": "Official",
+        "classification": [
+          "official"
+        ],
+        "followers": 102144,
+        "following": 21,
+        "ideas": 174349,
+        "watchlist_stocks_count": 0,
+        "like_count": 22,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1021,
+        "title": "Estimize",
+        "url": "http://estimize.com"
+      },
+      "symbols": [
+        {
+          "id": 4764,
+          "symbol": "CMA",
+          "title": "Comerica Incorporated",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 672
+        }
+      ],
+      "links": [
+        {
+          "title": "CMA - Comerica Incorporated Crowdsourced Earnings Estimates - Estimize",
+          "url": "http://www.estimize.com/cma/fq3-2020?utm_content=beat_or_miss&utm_medium=tweet&utm_source=stocktwits",
+          "shortened_url": "http://www.estimize.com/cma/fq3-2020?utm_content=beat_or_miss&utm_medium=tweet&utm_source=stocktwits",
+          "shortened_expanded_url": "estimize.com/cma/fq3-2020?u...",
+          "description": "The Estimize Consensus is consistently more accurate and robust than traditional data sources of Wall Street consensus like Thomson Reuters I/B/E/S. And while 70% of companies beat their Wall Street consensus, only about half will beat Estimize in a given quarter.",
+          "image": "https://www.estimize.com/assets/home_access_contributors/graph-035e96b6e8d2ad979b5f2969517313c6.png",
+          "created_at": "2020-10-20T12:24:51Z",
+          "video_url": null,
+          "source": {
+            "name": "Estimize",
+            "website": "https://www.estimize.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": false
+      }
+    },
+    {
+      "id": 251283607,
+      "body": "$CMA NEW ARTICLE : Comerica EPS beats by $0.60, beats on revenue https://www.stck.pro/news/CMA/8599882",
+      "created_at": "2020-10-20T12:14:08Z",
+      "user": {
+        "id": 1555408,
+        "username": "STCKPRO",
+        "name": "STCK.PRO",
+        "avatar_url": "https://avatars.stocktwits.com/production/1555408/thumb-1576077822.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1555408/thumb-1576077822.png",
+        "join_date": "2018-07-24",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 4211,
+        "following": 2,
+        "ideas": 252731,
+        "watchlist_stocks_count": 17,
+        "like_count": 52,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5011,
+        "title": "STCK.PRO",
+        "url": "https://dashboard.stck.pro"
+      },
+      "symbols": [
+        {
+          "id": 4764,
+          "symbol": "CMA",
+          "title": "Comerica Incorporated",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 672
+        }
+      ],
+      "links": [
+        {
+          "title": "Comerica (CMA)",
+          "url": "https://www.stck.pro/news/CMA/8599882",
+          "shortened_url": "https://www.stck.pro/news/CMA/8599882",
+          "shortened_expanded_url": "stck.pro/news/CMA",
+          "description": "Description : Comerica, Inc. engages in the provision of financial services. It operates through the following segments: Business Bank, Retail Bank, Wealth Management, Finance, and Other. The Business Bank segment involves in the middle market businesses, multinational corporations, and governmental entities by offering various products and services such as commercial loans and lines of credit, deposits, cash management, capital market products, international trade finance, letters of credit, foreign exchange management, and loan syndication.",
+          "image": "https://www.stck.pro/img/imac.png",
+          "created_at": "2020-10-20T12:14:09Z",
+          "video_url": null,
+          "source": {
+            "name": "Stck",
+            "website": "https://www.stck.pro"
+          }
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          4126041
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": false
+      }
+    },
+    {
+      "id": 251282868,
+      "body": "$CMA (+0.4% pre) Comerica EPS beats by $0.60, beats on revenue - SA\n\nhttp://ooc.bz/l/62313",
+      "created_at": "2020-10-20T12:09:55Z",
+      "user": {
+        "id": 348830,
+        "username": "OpenOutcrier",
+        "name": "Open Outcrier",
+        "avatar_url": "https://avatars.stocktwits.com/production/348830/thumb-1423676197.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/348830/thumb-1423676197.png",
+        "join_date": "2014-04-30",
+        "official": false,
+        "identity": "User",
+        "classification": [
+          "suggested"
+        ],
+        "followers": 193445,
+        "following": 139,
+        "ideas": 118678,
+        "watchlist_stocks_count": 0,
+        "like_count": 972,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2384,
+        "title": "Open Outcrier",
+        "url": "http://openoutcrier.com"
+      },
+      "symbols": [
+        {
+          "id": 4764,
+          "symbol": "CMA",
+          "title": "Comerica Incorporated",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 672
+        }
+      ],
+      "links": [
+        {
+          "title": "Comerica EPS beats by $0.60, beats on revenue (NYSE:CMA)",
+          "url": "http://ooc.bz/l/62313",
+          "shortened_url": "http://ooc.bz/l/62313",
+          "shortened_expanded_url": "seekingalpha.com/news/36235...",
+          "description": "Comerica (NYSE:CMA): Q3 GAAP EPS of $1.44 beats by $0.60.Revenue of $710M (-15.7% Y/Y) beats by $12.57M.Deposit growth continued as customers conserved cash.&#34;The impact from lower interest rates on net interest income waned, card fees remained robust and other fee income categories began to recover.",
+          "image": "https://static3.seekingalpha.com/assets/og_image_192-59bfd51c9fe6af025b2f9f96c807e46f8e2f06c5ae787b15bf1423e6c676d4db.png",
+          "created_at": "2020-10-20T12:09:56Z",
+          "video_url": null,
+          "source": {
+            "name": "Seeking Alpha",
+            "website": "https://seekingalpha.com"
+          }
+        }
+      ],
+      "likes": {
+        "total": 2,
+        "user_ids": [
+          4205963,
+          4126041
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": false
+      }
+    },
+    {
+      "id": 251279404,
+      "body": "$CMA No one follows this so I&#39;ll just have to say BOOM to myself.\ud83d\ude04\ud83d\ude04\ud83d\ude04",
+      "created_at": "2020-10-20T11:47:26Z",
+      "user": {
+        "id": 4054467,
+        "username": "Imdbcooper200k",
+        "name": "zeke cooper",
+        "avatar_url": "https://avatars.stocktwits.com/production/4054467/thumb-1600128100.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/4054467/thumb-1600128100.png",
+        "join_date": "2020-09-08",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 2,
+        "following": 7,
+        "ideas": 170,
+        "watchlist_stocks_count": 17,
+        "like_count": 14,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2095,
+        "title": "StockTwits For Android ",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 4764,
+          "symbol": "CMA",
+          "title": "Comerica Incorporated",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 672
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 251279404,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 5
+      },
+      "likes": {
+        "total": 5,
+        "user_ids": [
+          4126041,
+          2885530,
+          314867,
+          3192335,
+          306577
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 251276539,
+      "body": "$CMA NEW ARTICLE : Recap: Comerica Q3 Earnings https://www.stck.pro/news/CMA/8600560",
+      "created_at": "2020-10-20T11:25:56Z",
+      "user": {
+        "id": 1555408,
+        "username": "STCKPRO",
+        "name": "STCK.PRO",
+        "avatar_url": "https://avatars.stocktwits.com/production/1555408/thumb-1576077822.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1555408/thumb-1576077822.png",
+        "join_date": "2018-07-24",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 4211,
+        "following": 2,
+        "ideas": 252731,
+        "watchlist_stocks_count": 17,
+        "like_count": 52,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5011,
+        "title": "STCK.PRO",
+        "url": "https://dashboard.stck.pro"
+      },
+      "symbols": [
+        {
+          "id": 4764,
+          "symbol": "CMA",
+          "title": "Comerica Incorporated",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 672
+        }
+      ],
+      "links": [
+        {
+          "title": "Comerica (CMA)",
+          "url": "https://www.stck.pro/news/CMA/8600560",
+          "shortened_url": "https://www.stck.pro/news/CMA/8600560",
+          "shortened_expanded_url": "stck.pro/news/CMA",
+          "description": "Description : Comerica, Inc. engages in the provision of financial services. It operates through the following segments: Business Bank, Retail Bank, Wealth Management, Finance, and Other. The Business Bank segment involves in the middle market businesses, multinational corporations, and governmental entities by offering various products and services such as commercial loans and lines of credit, deposits, cash management, capital market products, international trade finance, letters of credit, foreign exchange management, and loan syndication.",
+          "image": "https://www.stck.pro/img/imac.png",
+          "created_at": "2020-10-20T11:25:58Z",
+          "video_url": null,
+          "source": {
+            "name": "Stck",
+            "website": "https://www.stck.pro"
+          }
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          4126041
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": false
+      }
+    },
+    {
+      "id": 251276325,
+      "body": "$CMA Earnings Call Today: 8:00 AM EST \nAnalyst Rating: Hold \nWebcast: http://mmm.wallstreethorizon.com/u.asp?u=285736",
+      "created_at": "2020-10-20T11:24:10Z",
+      "user": {
+        "id": 1298079,
+        "username": "StockPods",
+        "name": "StockPods.com",
+        "avatar_url": "https://avatars.stocktwits.com/production/1298079/thumb-1547240999.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1298079/thumb-1547240999.png",
+        "join_date": "2017-12-05",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 767,
+        "following": 34,
+        "ideas": 18641,
+        "watchlist_stocks_count": 6,
+        "like_count": 198,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 4764,
+          "symbol": "CMA",
+          "title": "Comerica Incorporated",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 672
+        }
+      ],
+      "links": [
+        {
+          "title": "Presentations and Events",
+          "url": "http://mmm.wallstreethorizon.com/u.asp?u=285736",
+          "shortened_url": "http://mmm.wallstreethorizon.com/u.asp?u=285736",
+          "shortened_expanded_url": "investor.comerica.com/prese...",
+          "description": "Browse the calendar to view Investor related events and announcements. Webcasts and presentations that have been archived are available by viewing historical event details.",
+          "image": "https://investor.comerica.com/images/raise-tagline-sample-trans.png",
+          "created_at": "2020-10-20T11:24:11Z",
+          "video_url": null,
+          "source": {
+            "name": "Comerica Investors",
+            "website": "https://investor.comerica.com"
+          }
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          4126041
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 251275836,
+      "body": "$CMA Recap: Comerica Q3 Earnings \n\nhttps://newsfilter.io/a/91707f4cbc050fcf12d31ba70b8443f2",
+      "created_at": "2020-10-20T11:19:46Z",
+      "user": {
+        "id": 2762379,
+        "username": "Newsfilter",
+        "name": "@newsfilterio",
+        "avatar_url": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "join_date": "2019-09-01",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 7348,
+        "following": 16,
+        "ideas": 578920,
+        "watchlist_stocks_count": 1,
+        "like_count": 531,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 4764,
+          "symbol": "CMA",
+          "title": "Comerica Incorporated",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 672
+        }
+      ],
+      "links": [
+        {
+          "title": "Recap: Comerica Q3 Earnings",
+          "url": "https://newsfilter.io/a/91707f4cbc050fcf12d31ba70b8443f2",
+          "shortened_url": "https://newsfilter.io/a/91707f4cbc050fcf12d31ba70b8443f2",
+          "shortened_expanded_url": "newsfilter.io/a/91707f4cbc0...",
+          "description": "Shares of Comerica moved higher by 0.4% in pre-market trading after the company reported Q3 results. Quarterly Results Earnings per share were down 25.00% over the past year to $1.44, which beat the estimate of $0.83. Revenue of $710,000,000 declined by 15.68% from the same period last...",
+          "image": "https://newsfilter.io/meta-images/?url=https://storage.googleapis.com/iex/api/logos/CMA.png",
+          "created_at": "2020-10-20T11:19:47Z",
+          "video_url": null,
+          "source": {
+            "name": "Newsfilter",
+            "website": "https://newsfilter.io"
+          }
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          4126041
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 251274844,
+      "body": "$CMA [15s. delayed, acc.~90%, always check] Earnings Release October 20, 06:35:00: https://s.flashalert.me/M2H34d",
+      "created_at": "2020-10-20T11:10:14Z",
+      "user": {
+        "id": 595702,
+        "username": "fla",
+        "name": "FlashAlert_me",
+        "avatar_url": "https://avatars.stocktwits.com/production/595702/thumb-1550769466.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/595702/thumb-1550769466.png",
+        "join_date": "2015-09-09",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 2603,
+        "following": 60,
+        "ideas": 698311,
+        "watchlist_stocks_count": 0,
+        "like_count": 4,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 4622,
+        "title": "FlashAlert",
+        "url": "https://flashalert.me/"
+      },
+      "symbols": [
+        {
+          "id": 4764,
+          "symbol": "CMA",
+          "title": "Comerica Incorporated",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 671
+        }
+      ],
+      "links": [
+        {
+          "title": "Flash Alert",
+          "url": "https://s.flashalert.me/M2H34d",
+          "shortened_url": "https://s.flashalert.me/M2H34d",
+          "shortened_expanded_url": "prnewswire.com:443/news-rel...",
+          "description": "Real-time alerts about equities, ETFs, cryptocurrencies and more sent to any device",
+          "image": null,
+          "created_at": "2020-10-20T11:10:15Z",
+          "video_url": null,
+          "source": {
+            "name": "Flashalert",
+            "website": "https://flashalert.me"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": false
+      }
+    },
+    {
+      "id": 251274843,
+      "body": "$CMA [15s. delayed]: Issued Press Release on October 20, 06:35:00: Comerica Reports Third Quarter 2020 Earnings Results https://s.flashalert.me/4GHdG",
+      "created_at": "2020-10-20T11:10:13Z",
+      "user": {
+        "id": 595702,
+        "username": "fla",
+        "name": "FlashAlert_me",
+        "avatar_url": "https://avatars.stocktwits.com/production/595702/thumb-1550769466.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/595702/thumb-1550769466.png",
+        "join_date": "2015-09-09",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 2603,
+        "following": 60,
+        "ideas": 698311,
+        "watchlist_stocks_count": 0,
+        "like_count": 4,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 4622,
+        "title": "FlashAlert",
+        "url": "https://flashalert.me/"
+      },
+      "symbols": [
+        {
+          "id": 4764,
+          "symbol": "CMA",
+          "title": "Comerica Incorporated",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 671
+        }
+      ],
+      "links": [
+        {
+          "title": "Flash Alert",
+          "url": "https://s.flashalert.me/4GHdG",
+          "shortened_url": "https://s.flashalert.me/4GHdG",
+          "shortened_expanded_url": "prnewswire.com:443/news-rel...",
+          "description": "Real-time alerts about equities, ETFs, cryptocurrencies and more sent to any device",
+          "image": null,
+          "created_at": "2020-10-20T11:10:13Z",
+          "video_url": null,
+          "source": {
+            "name": "Flashalert",
+            "website": "https://flashalert.me"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": false
+      }
+    },
+    {
+      "id": 251274413,
+      "body": "$CMA: Comerica Reports Third Quarter 2020 Earnings Results https://www.chartmill.com/news/CMA/prnews-2020-10-20-comerica-reports-third-quarter-2020-earnings-results?utm_source=stocktwits&amp;utm_medium=pressRelease&amp;utm_content=CMA&amp;utm_campaign=social_tracking",
+      "created_at": "2020-10-20T11:06:01Z",
+      "user": {
+        "id": 47688,
+        "username": "ChartMill",
+        "name": "ChartMill",
+        "avatar_url": "https://avatars.stocktwits.com/production/47688/thumb-1363343728.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/47688/thumb-1363343728.png",
+        "join_date": "2011-01-26",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 21792,
+        "following": 891,
+        "ideas": 1078798,
+        "watchlist_stocks_count": 20,
+        "like_count": 32,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1135,
+        "title": "ChartMill",
+        "url": "http://www.chartmill.com"
+      },
+      "symbols": [
+        {
+          "id": 4764,
+          "symbol": "CMA",
+          "title": "Comerica Incorporated",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 671
+        }
+      ],
+      "links": [
+        {
+          "title": null,
+          "url": "https://www.chartmill.com/news/CMA/prnews-2020-10-20-comerica-reports-third-quarter-2020-earnings-results?utm_source=stocktwits&utm_medium=pressRelease&utm_content=CMA&utm_campaign=social_tracking",
+          "shortened_url": "https://www.chartmill.com/news/CMA/prnews-2020-10-20-comerica-reports-third-quarter-2020-earnings-results?utm_source=stocktwits&utm_medium=pressRelease&utm_content=CMA&utm_campaign=social_tracking",
+          "shortened_expanded_url": "chartmill.com/news/CMA/prne...",
+          "description": null,
+          "image": null,
+          "created_at": "2020-10-20T11:06:02Z",
+          "video_url": null,
+          "source": {
+            "name": "Chartmill",
+            "website": "https://www.chartmill.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": false
+      }
+    },
+    {
+      "id": 251273929,
+      "body": "$CMA Comerica Reports Third Quarter 2020 Earnings Results https://www.otcdynamics.com/cma-comerica-reports-third-quarter-2020-earnings-results",
+      "created_at": "2020-10-20T11:01:45Z",
+      "user": {
+        "id": 253206,
+        "username": "otcdynamics",
+        "name": "otcdynamics",
+        "avatar_url": "https://avatars.stocktwits.com/production/253206/thumb-1432182723.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/253206/thumb-1432182723.png",
+        "join_date": "2013-08-16",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 363,
+        "following": 0,
+        "ideas": 49657,
+        "watchlist_stocks_count": 0,
+        "like_count": 55,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5512,
+        "title": "project_n",
+        "url": "https://www.otcdynamics.com"
+      },
+      "symbols": [
+        {
+          "id": 4764,
+          "symbol": "CMA",
+          "title": "Comerica Incorporated",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 671
+        }
+      ],
+      "links": [
+        {
+          "title": "$CMA Comerica Reports Third Quarter 2020 Earnings Results",
+          "url": "https://www.otcdynamics.com/cma-comerica-reports-third-quarter-2020-earnings-results",
+          "shortened_url": "https://www.otcdynamics.com/cma-comerica-reports-third-quarter-2020-earnings-results",
+          "shortened_expanded_url": "otcdynamics.com/cma-comeric...",
+          "description": "DALLAS, Oct. 20, 2020 /PRNewswire/ -- Comerica Incorporated (NYSE: CMA) has reported its third quarter 2020 financial results. The results are available on the Investor Relations section of Comerica's website here. In addition, the financial results and earnings presentation will be furnished on a Form 8-K that will be available on the Securities and Exchange Commission website at www.sec.gov.",
+          "image": null,
+          "created_at": "2020-10-20T11:01:46Z",
+          "video_url": null,
+          "source": {
+            "name": "Otcdynamics",
+            "website": "https://www.otcdynamics.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": false
+      }
+    },
+    {
+      "id": 251273674,
+      "body": "Comerica Incorporated ($CMA) Reports 3Q20 Earnings Above Market View\n\nhttps://www.stockmarketintellects.com/comerica-incorporated-nysecma-reports-3q20-earnings-above-market-view/",
+      "created_at": "2020-10-20T10:59:59Z",
+      "user": {
+        "id": 2189196,
+        "username": "stockmarketintellects",
+        "name": "SMI News Alerts",
+        "avatar_url": "https://avatars.stocktwits.com/production/2189196/thumb-1593090548.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2189196/thumb-1593090548.png",
+        "join_date": "2019-07-11",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 152,
+        "following": 0,
+        "ideas": 11129,
+        "watchlist_stocks_count": 0,
+        "like_count": 0,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 4764,
+          "symbol": "CMA",
+          "title": "Comerica Incorporated",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 671
+        }
+      ],
+      "links": [
+        {
+          "title": "Comerica Incorporated (NYSE:CMA) Reports 3Q20 Earnings Above Market View - Stock Market Intellects",
+          "url": "https://www.stockmarketintellects.com/comerica-incorporated-nysecma-reports-3q20-earnings-above-market-view/",
+          "shortened_url": "https://www.stockmarketintellects.com/comerica-incorporated-nysecma-reports-3q20-earnings-above-market-view/",
+          "shortened_expanded_url": "stockmarketintellects.com/c...",
+          "description": "Comerica Incorporated (NYSE:CMA) unfold its third quarter earnings results on Tuesday 20th October 2020 before market open. Comerica Incorporated unfold quarterly income of $ 1.44 per share, from the net interest income of $ 458.00 million The consensus estimate are $ 0.83 income per share.",
+          "image": "https://i1.wp.com/www.stockmarketintellects.com/wp-content/uploads/2020/06/smi-social.png?fit=220%2C181&ssl=1",
+          "created_at": "2020-10-20T11:00:00Z",
+          "video_url": null,
+          "source": {
+            "name": "Stock Market Intellects",
+            "website": "https://www.stockmarketintellects.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 251272522,
+      "body": "$CMA NEW ARTICLE : Comerica Reports Third Quarter 2020 Earnings Results https://www.stck.pro/news/CMA/8599834",
+      "created_at": "2020-10-20T10:45:41Z",
+      "user": {
+        "id": 1555408,
+        "username": "STCKPRO",
+        "name": "STCK.PRO",
+        "avatar_url": "https://avatars.stocktwits.com/production/1555408/thumb-1576077822.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1555408/thumb-1576077822.png",
+        "join_date": "2018-07-24",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 4210,
+        "following": 2,
+        "ideas": 252482,
+        "watchlist_stocks_count": 17,
+        "like_count": 52,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5011,
+        "title": "STCK.PRO",
+        "url": "https://dashboard.stck.pro"
+      },
+      "symbols": [
+        {
+          "id": 4764,
+          "symbol": "CMA",
+          "title": "Comerica Incorporated",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 671
+        }
+      ],
+      "links": [
+        {
+          "title": "Comerica (CMA)",
+          "url": "https://www.stck.pro/news/CMA/8599834",
+          "shortened_url": "https://www.stck.pro/news/CMA/8599834",
+          "shortened_expanded_url": "stck.pro/news/CMA",
+          "description": "Description : Comerica, Inc. engages in the provision of financial services. It operates through the following segments: Business Bank, Retail Bank, Wealth Management, Finance, and Other. The Business Bank segment involves in the middle market businesses, multinational corporations, and governmental entities by offering various products and services such as commercial loans and lines of credit, deposits, cash management, capital market products, international trade finance, letters of credit, foreign exchange management, and loan syndication.",
+          "image": "https://www.stck.pro/img/imac.png",
+          "created_at": "2020-10-20T10:45:43Z",
+          "video_url": null,
+          "source": {
+            "name": "Stck",
+            "website": "https://www.stck.pro"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_251272522.jpg",
+          "large": "https://charts.stocktwits.com/production/large_251272522.jpg",
+          "original": "https://charts.stocktwits.com/production/original_251272522.jpg",
+          "url": "https://charts.stocktwits.com/production/original_251272522.jpg"
+        },
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": false
+      }
+    },
+    {
+      "id": 251272496,
+      "body": "$CMA just filed with the SEC a Earnings Release, a Regulated Disclosure and a Financial Exhibit https://last10k.com/sec-filings/cma/0000028412-20-000104.htm?utm_source=stocktwits&amp;utm_medium=forum&amp;utm_campaign=8K&amp;utm_term=cma",
+      "created_at": "2020-10-20T10:45:27Z",
+      "user": {
+        "id": 1409376,
+        "username": "Last10K",
+        "name": "Last10K.com",
+        "avatar_url": "https://avatars.stocktwits.com/production/1409376/thumb-1559672751.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1409376/thumb-1559672751.png",
+        "join_date": "2018-02-13",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 1236,
+        "following": 0,
+        "ideas": 224344,
+        "watchlist_stocks_count": 0,
+        "like_count": 351,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 3968,
+        "title": "Last10K",
+        "url": "https://last10k.com"
+      },
+      "symbols": [
+        {
+          "id": 4764,
+          "symbol": "CMA",
+          "title": "Comerica Incorporated",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 671
+        }
+      ],
+      "links": [
+        {
+          "title": "Comerica Inc (CMA) 10K Annual Reports & 10Q SEC Filings | Last10K",
+          "url": "https://last10k.com/sec-filings/cma/0000028412-20-000104.htm?utm_source=stocktwits&utm_medium=forum&utm_campaign=8K&utm_term=cma",
+          "shortened_url": "https://last10k.com/sec-filings/cma/0000028412-20-000104.htm?utm_source=stocktwits&utm_medium=forum&utm_campaign=8K&utm_term=cma",
+          "shortened_expanded_url": "last10k.com/sec-filings/cma",
+          "description": "Dallas, TX/ January 21, 2020 FULL-YEAR 2019 NET INCOME OF $1.2 BILLION, $7.87 PER SHARE Earnings per Share Increased 9 Percent Compared to 2018 Reflected Strong Loan Growth, Capital Management, Record Revenue and Expense Control FOURTH QUARTER 2019 NET INCOME OF $269 MILLION , $1.85 PER SHARE Return on Equity of 15 Percent and Return on Assets of 1.5 Percent Reflected Robust Deposit Growth, Capital Management and Strong Credit Quality \"In 2019, we realized strong loan growth, which pushed total assets to a record level while continuing to serve our relationship-oriented deposit base,\" said Curt C.",
+          "image": "https://last10k.com/wp-content/uploads/notifications.png",
+          "created_at": "2020-10-20T10:45:30Z",
+          "video_url": null,
+          "source": {
+            "name": "Last10k",
+            "website": "https://last10k.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": false
+      }
+    },
+    {
+      "id": 251272454,
+      "body": "Comerica Reports Third Quarter 2020 Earnings Results http://www.conferencecalltranscripts.org/summary/?id=72904&amp;pr=true $CMA",
+      "created_at": "2020-10-20T10:45:02Z",
+      "user": {
+        "id": 210967,
+        "username": "cctranscripts",
+        "name": "Conference Call Transcripts",
+        "avatar_url": "https://avatars.stocktwits.com/production/210967/thumb-1363372333.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/210967/thumb-1363372333.png",
+        "join_date": "2013-01-30",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 6287,
+        "following": 9,
+        "ideas": 2343845,
+        "watchlist_stocks_count": 0,
+        "like_count": 755,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1130,
+        "title": "cctranscripts",
+        "url": "http://conferencecalltranscripts.org"
+      },
+      "symbols": [
+        {
+          "id": 4764,
+          "symbol": "CMA",
+          "title": "Comerica Incorporated",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 671
+        }
+      ],
+      "links": [
+        {
+          "title": "Conference Call Transcripts",
+          "url": "http://www.conferencecalltranscripts.org/summary/?id=72904&pr=true",
+          "shortened_url": "http://www.conferencecalltranscripts.org/summary/?id=72904&pr=true",
+          "shortened_expanded_url": "conferencecalltranscripts.o...",
+          "description": "Company Conference Call Transcripts",
+          "image": null,
+          "created_at": "2020-10-20T10:45:03Z",
+          "video_url": null,
+          "source": {
+            "name": "Conferencecalltranscripts",
+            "website": "http://www.conferencecalltranscripts.org"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": false
+      }
+    },
+    {
+      "id": 251272426,
+      "body": "$CMA Comerica EPS beats by $0.60, beats on revenue \n\nhttps://newsfilter.io/a/d725f8da9050b1320cb9ba6950afa068",
+      "created_at": "2020-10-20T10:44:39Z",
+      "user": {
+        "id": 2762379,
+        "username": "Newsfilter",
+        "name": "@newsfilterio",
+        "avatar_url": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "join_date": "2019-09-01",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 7344,
+        "following": 16,
+        "ideas": 578495,
+        "watchlist_stocks_count": 1,
+        "like_count": 531,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 4764,
+          "symbol": "CMA",
+          "title": "Comerica Incorporated",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 671
+        }
+      ],
+      "links": [
+        {
+          "title": "Comerica EPS beats by $0.60, beats on revenue",
+          "url": "https://newsfilter.io/a/d725f8da9050b1320cb9ba6950afa068",
+          "shortened_url": "https://newsfilter.io/a/d725f8da9050b1320cb9ba6950afa068",
+          "shortened_expanded_url": "newsfilter.io/a/d725f8da905...",
+          "description": "Comerica: Q3 GAAP EPS of $1.44 beats by $0.60.Revenue of $710M beats by $12.57M.Deposit growth continued as customers conserved cash.\"The impact from lower interest rates on net interest income waned, card fees remained robust and other fee income categories began to recover. Expenses were well-controlled and included a $4 million increase in charitable contributions.",
+          "image": "https://newsfilter.io/meta-images/?url=https://storage.googleapis.com/iex/api/logos/CMA.png",
+          "created_at": "2020-10-20T10:44:39Z",
+          "video_url": null,
+          "source": {
+            "name": "Newsfilter",
+            "website": "https://newsfilter.io"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 251272300,
+      "body": "$CMA reported earnings of $1.44, consensus was $0.87, Earnings Whisper was $0.88 via @eWhispers #whisperbeat http://eps.sh/d/cma",
+      "created_at": "2020-10-20T10:42:48Z",
+      "user": {
+        "id": 627461,
+        "username": "epsguid",
+        "name": "Earnings Whispers News",
+        "avatar_url": "https://avatars.stocktwits.com/production/627461/thumb-1495623645.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/627461/thumb-1495623645.png",
+        "join_date": "2015-11-04",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 2378,
+        "following": 378,
+        "ideas": 56932,
+        "watchlist_stocks_count": 0,
+        "like_count": 21,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2326,
+        "title": "Earnings Whispers News",
+        "url": "https://www.earningswhispers.com"
+      },
+      "symbols": [
+        {
+          "id": 4764,
+          "symbol": "CMA",
+          "title": "Comerica Incorporated",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 671
+        }
+      ],
+      "links": [
+        {
+          "title": "Comerica Beats",
+          "url": "http://eps.sh/d/cma",
+          "shortened_url": "http://eps.sh/d/cma",
+          "shortened_expanded_url": "earningswhispers.com/epsdet...",
+          "description": "DALLAS, Oct. 20, 2020 /PRNewswire/ -- Comerica Incorporated (NYSE: CMA) has reported its third quarter 2020 financial results. The results are available on the Investor Relations section of Comerica's website . In addition, the financial results and earnings presentation will be furnished on a Form 8-K that will be available on the Securities and Exchange Commission website at www.sec.gov.",
+          "image": "https://www.earningswhispers.com/images/EW-PEAD.gif",
+          "created_at": "2020-10-20T10:42:49Z",
+          "video_url": null,
+          "source": {
+            "name": "Earningswhispers",
+            "website": "https://www.earningswhispers.com"
+          }
+        }
+      ],
+      "mentioned_users": [
+        "@eWhispers"
+      ],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": false
+      }
+    },
+    {
+      "id": 251272269,
+      "body": "Comerica: Third Quarter 2020 Net Income Of $211 Million, $1.44 Per Share  http://www.conferencecalltranscripts.org/8/summary2/?id=8457353 $CMA",
+      "created_at": "2020-10-20T10:42:16Z",
+      "user": {
+        "id": 210967,
+        "username": "cctranscripts",
+        "name": "Conference Call Transcripts",
+        "avatar_url": "https://avatars.stocktwits.com/production/210967/thumb-1363372333.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/210967/thumb-1363372333.png",
+        "join_date": "2013-01-30",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 6287,
+        "following": 9,
+        "ideas": 2343845,
+        "watchlist_stocks_count": 0,
+        "like_count": 755,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1130,
+        "title": "cctranscripts",
+        "url": "http://conferencecalltranscripts.org"
+      },
+      "symbols": [
+        {
+          "id": 4764,
+          "symbol": "CMA",
+          "title": "Comerica Incorporated",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 671
+        }
+      ],
+      "links": [
+        {
+          "title": "Conference Call Transcripts",
+          "url": "http://www.conferencecalltranscripts.org/8/summary2/?id=8457353",
+          "shortened_url": "http://www.conferencecalltranscripts.org/8/summary2/?id=8457353",
+          "shortened_expanded_url": "conferencecalltranscripts.o...",
+          "description": "Get notified next time CMA.US makes a similar move! The following excerpt is from the company's SEC filing .",
+          "image": null,
+          "created_at": "2020-10-20T10:42:17Z",
+          "video_url": null,
+          "source": {
+            "name": "Conferencecalltranscripts",
+            "website": "http://www.conferencecalltranscripts.org"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": false
+      }
+    },
+    {
+      "id": 251272227,
+      "body": "$CMA [15s. delayed] filed form 8-K on October 20, 06:40:42 https://s.flashalert.me/yYOcES",
+      "created_at": "2020-10-20T10:41:40Z",
+      "user": {
+        "id": 595702,
+        "username": "fla",
+        "name": "FlashAlert_me",
+        "avatar_url": "https://avatars.stocktwits.com/production/595702/thumb-1550769466.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/595702/thumb-1550769466.png",
+        "join_date": "2015-09-09",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 2603,
+        "following": 60,
+        "ideas": 698150,
+        "watchlist_stocks_count": 0,
+        "like_count": 4,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 4622,
+        "title": "FlashAlert",
+        "url": "https://flashalert.me/"
+      },
+      "symbols": [
+        {
+          "id": 4764,
+          "symbol": "CMA",
+          "title": "Comerica Incorporated",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 671
+        }
+      ],
+      "links": [
+        {
+          "title": "Flash Alert",
+          "url": "https://s.flashalert.me/yYOcES",
+          "shortened_url": "https://s.flashalert.me/yYOcES",
+          "shortened_expanded_url": "sec.gov/Archives/edgar/data...",
+          "description": "Real-time alerts about equities, ETFs, cryptocurrencies and more sent to any device",
+          "image": null,
+          "created_at": "2020-10-20T10:41:40Z",
+          "video_url": null,
+          "source": {
+            "name": "Flashalert",
+            "website": "https://flashalert.me"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": false
+      }
+    },
+    {
+      "id": 251272207,
+      "body": "$CMA Form 8-K: FINANCIAL STATEMENTS AND EXHIBITS Exhibits99.1 Press Release dated October 20, 202099.2 Earnings Presentation Slides104 The cover page from Comerica&#39;s Current Report on Form 8-K, format.. \n\nhttps://newsfilter.io/a/d968211036636bc9fae76c038b20a5ec",
+      "created_at": "2020-10-20T10:41:22Z",
+      "user": {
+        "id": 2762379,
+        "username": "Newsfilter",
+        "name": "@newsfilterio",
+        "avatar_url": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "join_date": "2019-09-01",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 7344,
+        "following": 16,
+        "ideas": 578495,
+        "watchlist_stocks_count": 1,
+        "like_count": 531,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 4764,
+          "symbol": "CMA",
+          "title": "Comerica Incorporated",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 671
+        }
+      ],
+      "links": [
+        {
+          "title": "8-K Form - Current report, items 2.02, 7.01, and 9.01 - COMERICA INC /NEW/ (0000028412) (Filer)",
+          "url": "https://newsfilter.io/a/d968211036636bc9fae76c038b20a5ec",
+          "shortened_url": "https://newsfilter.io/a/d968211036636bc9fae76c038b20a5ec",
+          "shortened_expanded_url": "newsfilter.io/a/d9682110366...",
+          "description": "cma-20201020 SECURITIES AND EXCHANGE COMMISSION Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934 Date of Report (Date of earliest event reported): October 20, 2020 (Exact name of registrant as specified in its charter) (Address of principal executive offices) (zip code) (Registrant's telephone number, including area",
+          "image": "https://newsfilter.io/meta-images/?url=https://storage.googleapis.com/iex/api/logos/CMA.png",
+          "created_at": "2020-10-20T10:41:23Z",
+          "video_url": null,
+          "source": {
+            "name": "Newsfilter",
+            "website": "https://newsfilter.io"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 251271893,
+      "body": "$CMA Comerica Reports Third Quarter 2020 Earnings Results \n\nhttps://newsfilter.io/a/2dd86e5fe2646e24f03a2a16670b3319",
+      "created_at": "2020-10-20T10:36:32Z",
+      "user": {
+        "id": 2762379,
+        "username": "Newsfilter",
+        "name": "@newsfilterio",
+        "avatar_url": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "join_date": "2019-09-01",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 7344,
+        "following": 16,
+        "ideas": 578495,
+        "watchlist_stocks_count": 1,
+        "like_count": 531,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 4764,
+          "symbol": "CMA",
+          "title": "Comerica Incorporated",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 671
+        }
+      ],
+      "links": [
+        {
+          "title": "Comerica Reports Third Quarter 2020 Earnings Results",
+          "url": "https://newsfilter.io/a/2dd86e5fe2646e24f03a2a16670b3319",
+          "shortened_url": "https://newsfilter.io/a/2dd86e5fe2646e24f03a2a16670b3319",
+          "shortened_expanded_url": "newsfilter.io/a/2dd86e5fe26...",
+          "description": "DALLAS, Oct. 20, 2020 /PRNewswire/ -- Comerica Incorporated (NYSE: CMA) has reported its third quarter 2020 financial results. The results are available on the Investor Relations section of Comerica's website . In addition, the financial results and earnings presentation will be furnished on a Form 8-K that will be available on the Securities and Exchange Commission website at www.sec.gov.",
+          "image": "https://newsfilter.io/meta-images/?url=https://storage.googleapis.com/iex/api/logos/CMA.png",
+          "created_at": "2020-10-20T10:36:32Z",
+          "video_url": null,
+          "source": {
+            "name": "Newsfilter",
+            "website": "https://newsfilter.io"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 251271882,
+      "body": "$CMA Comerica Reports Third Quarter 2020 Earnings Results\nhttps://www.stocktitan.net/news/CMA/comerica-reports-third-quarter-2020-earnings-amg9vvdihr1d.html\n\n#earnings",
+      "created_at": "2020-10-20T10:36:22Z",
+      "user": {
+        "id": 3372441,
+        "username": "Stock_Titan",
+        "name": "StockTitan",
+        "avatar_url": "https://avatars.stocktwits.com/production/3372441/thumb-1588173612.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3372441/thumb-1588173612.png",
+        "join_date": "2020-04-28",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 399,
+        "following": 0,
+        "ideas": 21698,
+        "watchlist_stocks_count": 0,
+        "like_count": 0,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5677,
+        "title": "StockTitan",
+        "url": "https://stocktitan.net"
+      },
+      "symbols": [
+        {
+          "id": 4764,
+          "symbol": "CMA",
+          "title": "Comerica Incorporated",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 671
+        }
+      ],
+      "links": [
+        {
+          "title": "Comerica Reports Third Quarter 2020 Earnings Results | StockTitan.net",
+          "url": "https://www.stocktitan.net/news/CMA/comerica-reports-third-quarter-2020-earnings-amg9vvdihr1d.html",
+          "shortened_url": "https://www.stocktitan.net/news/CMA/comerica-reports-third-quarter-2020-earnings-amg9vvdihr1d.html",
+          "shortened_expanded_url": "stocktitan.net/news/CMA/com...",
+          "description": "DALLAS, Oct. 20, 2020 -- Comerica Incorporated (NYSE: CMA) has reported its third quarter 2020 financial results. The results are available on the Investor Relations section of Comerica's website . In addition, the financial results and earnings presentation will be furnished on a Form 8-K that will be available on the Securities and Exchange Commission website at www.sec.gov.",
+          "image": "https://static.stocktitan.net/company-logo/cma.png",
+          "created_at": "2020-10-20T10:36:23Z",
+          "video_url": null,
+          "source": {
+            "name": "Stocktitan",
+            "website": "https://www.stocktitan.net"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": false
+      }
+    },
+    {
+      "id": 251263225,
+      "body": "Comerica Incorporated ($CMA) 3Q20 Earnings Call At 8:00 AM Eastern Time\n\nhttps://www.stockmarketintellects.com/comerica-incorporated-cma-3q20-earnings-call-at-800-am-eastern-time/",
+      "created_at": "2020-10-20T06:59:46Z",
+      "user": {
+        "id": 2189196,
+        "username": "stockmarketintellects",
+        "name": "SMI News Alerts",
+        "avatar_url": "https://avatars.stocktwits.com/production/2189196/thumb-1593090548.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2189196/thumb-1593090548.png",
+        "join_date": "2019-07-11",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 152,
+        "following": 0,
+        "ideas": 11051,
+        "watchlist_stocks_count": 0,
+        "like_count": 0,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 4764,
+          "symbol": "CMA",
+          "title": "Comerica Incorporated",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 671
+        }
+      ],
+      "links": [
+        {
+          "title": "Comerica Incorporated ($CMA) 3Q20 Earnings Call At 8:00 AM Eastern Time - Stock Market Intellects",
+          "url": "https://www.stockmarketintellects.com/comerica-incorporated-cma-3q20-earnings-call-at-800-am-eastern-time/",
+          "shortened_url": "https://www.stockmarketintellects.com/comerica-incorporated-cma-3q20-earnings-call-at-800-am-eastern-time/",
+          "shortened_expanded_url": "stockmarketintellects.com/c...",
+          "description": "Comerica Incorporated (NYSE:CMA) financial products and services provider will be discussing 3Q20 financial results with the investment community.on 20th October 2020 at 8:00 AM eastern time. Those interested in listening to the conference call live via the Internet can visit www.comerica.com Earnings Expectation Comerica Incorporated is set to announce third quarter earning results on Tuesday [...]",
+          "image": "https://i1.wp.com/www.stockmarketintellects.com/wp-content/uploads/2020/06/smi-social.png?fit=220%2C181&ssl=1",
+          "created_at": "2020-10-20T06:59:47Z",
+          "video_url": null,
+          "source": {
+            "name": "Stock Market Intellects",
+            "website": "https://www.stockmarketintellects.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 251263007,
+      "body": "Street Expectation From Comerica Incorporated ($CMA) 3Q20 Earnings?\n\nhttps://www.stockmarketintellects.com/street-expectation-from-comerica-incorporated-cma-3q20-earnings/",
+      "created_at": "2020-10-20T06:51:48Z",
+      "user": {
+        "id": 2189196,
+        "username": "stockmarketintellects",
+        "name": "SMI News Alerts",
+        "avatar_url": "https://avatars.stocktwits.com/production/2189196/thumb-1593090548.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2189196/thumb-1593090548.png",
+        "join_date": "2019-07-11",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 152,
+        "following": 0,
+        "ideas": 11051,
+        "watchlist_stocks_count": 0,
+        "like_count": 0,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 4764,
+          "symbol": "CMA",
+          "title": "Comerica Incorporated",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 671
+        }
+      ],
+      "links": [
+        {
+          "title": "Street Expectation From Comerica Incorporated ($CMA) 3Q20 Earnings? - Stock Market Intellects",
+          "url": "https://www.stockmarketintellects.com/street-expectation-from-comerica-incorporated-cma-3q20-earnings/",
+          "shortened_url": "https://www.stockmarketintellects.com/street-expectation-from-comerica-incorporated-cma-3q20-earnings/",
+          "shortened_expanded_url": "stockmarketintellects.com/s...",
+          "description": "Comerica Incorporated (NYSE:CMA) is set to announce third quarter earning results on Tuesday 20th October 2020, before market open. Analysts surveyed by Thomson Reuters are predicting, CMA to report 3Q20 income of $ 0.83 per share. For the full year, analysts anticipate top line of $ 2873.74 million, while looking forward to income of $ [...]",
+          "image": "https://i1.wp.com/www.stockmarketintellects.com/wp-content/uploads/2020/06/smi-social.png?fit=220%2C181&ssl=1",
+          "created_at": "2020-10-20T06:51:49Z",
+          "video_url": null,
+          "source": {
+            "name": "Stock Market Intellects",
+            "website": "https://www.stockmarketintellects.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    }
+  ]
+}

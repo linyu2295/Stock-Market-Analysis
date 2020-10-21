@@ -1,0 +1,2090 @@
+{
+  "response": {
+    "status": 200
+  },
+  "symbol": {
+    "id": 5904,
+    "symbol": "IT",
+    "title": "Gartner Inc.",
+    "aliases": [],
+    "is_following": false,
+    "watchlist_count": 545
+  },
+  "cursor": {
+    "more": true,
+    "since": 251296067,
+    "max": 247978952
+  },
+  "messages": [
+    {
+      "id": 251296067,
+      "body": "$IT Morgan Stanley Maintains to Equal-Weight : PT $139.00 https://stockhoot.com/ExtSymbol.aspx?from=AnalystRatingTweet&amp;symbol=IT&amp;t=420&amp;Social=StockTwits",
+      "created_at": "2020-10-20T13:13:09Z",
+      "user": {
+        "id": 835250,
+        "username": "Stockhoot",
+        "name": "Stockhoot",
+        "avatar_url": "https://avatars.stocktwits.com/production/835250/thumb-1510088734.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/835250/thumb-1510088734.png",
+        "join_date": "2016-09-06",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 1871,
+        "following": 103,
+        "ideas": 65324,
+        "watchlist_stocks_count": 8,
+        "like_count": 33,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 3360,
+        "title": "StockHoot",
+        "url": "https://stockhoot.com"
+      },
+      "symbols": [
+        {
+          "id": 5904,
+          "symbol": "IT",
+          "title": "Gartner Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 545
+        }
+      ],
+      "links": [
+        {
+          "title": "IT - Gartner Charts, Trade Ideas, Earnings, Ratings",
+          "url": "https://stockhoot.com/ExtSymbol.aspx?from=AnalystRatingTweet&symbol=IT&t=420&Social=StockTwits",
+          "shortened_url": "https://stockhoot.com/ExtSymbol.aspx?from=AnalystRatingTweet&symbol=IT&t=420&Social=StockTwits",
+          "shortened_expanded_url": "stockhoot.com/ExtSymbol.asp...",
+          "description": "IT : Get atock charts, earnings data, analyst ratings and daily stock tips from independent traders who track IT. Follow their trades and see their report card",
+          "image": "https://storage.googleapis.com/iex/api/logos/IT.png",
+          "created_at": "2020-10-20T13:13:11Z",
+          "video_url": null,
+          "source": {
+            "name": "Stockhoot",
+            "website": "https://stockhoot.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": false
+      }
+    },
+    {
+      "id": 251295931,
+      "body": "$IT \nMorgan Stanley Maintains Equal-Weight on Gartner, Raises Price Target to $139",
+      "created_at": "2020-10-20T13:12:38Z",
+      "user": {
+        "id": 3154173,
+        "username": "ILM_Traders",
+        "name": "Professor SPYED",
+        "avatar_url": "https://avatars.stocktwits.com/production/3154173/thumb-1587343443.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3154173/thumb-1587343443.png",
+        "join_date": "2020-03-05",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 150,
+        "following": 1,
+        "ideas": 512,
+        "watchlist_stocks_count": 14,
+        "like_count": 55,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 5904,
+          "symbol": "IT",
+          "title": "Gartner Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 545
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 251282473,
+      "body": "$IT NEW ARTICLE : Gartner to Report Third Quarter 2020 Financial Results on November 3, 2020 https://www.stck.pro/news/IT/8601816",
+      "created_at": "2020-10-20T12:07:39Z",
+      "user": {
+        "id": 1555408,
+        "username": "STCKPRO",
+        "name": "STCK.PRO",
+        "avatar_url": "https://avatars.stocktwits.com/production/1555408/thumb-1576077822.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1555408/thumb-1576077822.png",
+        "join_date": "2018-07-24",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 4209,
+        "following": 2,
+        "ideas": 252580,
+        "watchlist_stocks_count": 17,
+        "like_count": 52,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5011,
+        "title": "STCK.PRO",
+        "url": "https://dashboard.stck.pro"
+      },
+      "symbols": [
+        {
+          "id": 5904,
+          "symbol": "IT",
+          "title": "Gartner Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 545
+        }
+      ],
+      "links": [
+        {
+          "title": "Gartner (IT)",
+          "url": "https://www.stck.pro/news/IT/8601816",
+          "shortened_url": "https://www.stck.pro/news/IT/8601816",
+          "shortened_expanded_url": "stck.pro/news/IT",
+          "description": "Never miss an important article again, stay on top of your investments and become a better investor today! Get your moat on and sync your watchlist with Stocktwits and get all the latest news for your symbols. Sync with Stocktwits",
+          "image": "https://www.stck.pro/img/imac.png",
+          "created_at": "2020-10-20T12:07:42Z",
+          "video_url": null,
+          "source": {
+            "name": "Stck",
+            "website": "https://www.stck.pro"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_251282473.jpg",
+          "large": "https://charts.stocktwits.com/production/large_251282473.jpg",
+          "original": "https://charts.stocktwits.com/production/original_251282473.jpg",
+          "url": "https://charts.stocktwits.com/production/original_251282473.jpg"
+        },
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": false
+      }
+    },
+    {
+      "id": 251282464,
+      "body": "Gartner to Report Third Quarter 2020 Financial Results on November 3, 2020 http://www.conferencecalltranscripts.org/summary/?id=73109&amp;pr=true $IT",
+      "created_at": "2020-10-20T12:07:36Z",
+      "user": {
+        "id": 210967,
+        "username": "cctranscripts",
+        "name": "Conference Call Transcripts",
+        "avatar_url": "https://avatars.stocktwits.com/production/210967/thumb-1363372333.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/210967/thumb-1363372333.png",
+        "join_date": "2013-01-30",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 6288,
+        "following": 9,
+        "ideas": 2343971,
+        "watchlist_stocks_count": 0,
+        "like_count": 755,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1130,
+        "title": "cctranscripts",
+        "url": "http://conferencecalltranscripts.org"
+      },
+      "symbols": [
+        {
+          "id": 5904,
+          "symbol": "IT",
+          "title": "Gartner Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 545
+        }
+      ],
+      "links": [
+        {
+          "title": "Conference Call Transcripts",
+          "url": "http://www.conferencecalltranscripts.org/summary/?id=73109&pr=true",
+          "shortened_url": "http://www.conferencecalltranscripts.org/summary/?id=73109&pr=true",
+          "shortened_expanded_url": "conferencecalltranscripts.o...",
+          "description": "Get notified next time IT.US makes a similar move! STAMFORD, Conn.--(BUSINESS WIRE)--Gartner, Inc. (NYSE: IT), the world's leading research and advisory company, will report its financial results for third quarter 2020 before the market opens on Tuesday, November 3, 2020. The press release and earnings supplement, with accompanying financial information, will be posted on the Gartner investor website at https://investor.gartner.com.",
+          "image": null,
+          "created_at": "2020-10-20T12:07:37Z",
+          "video_url": null,
+          "source": {
+            "name": "Conferencecalltranscripts",
+            "website": "http://www.conferencecalltranscripts.org"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": false
+      }
+    },
+    {
+      "id": 251282463,
+      "body": "Gartner to Report Third Quarter 2020 Financial Results on November 3, 2020 http://www.conferencecalltranscripts.org/summary/?id=73110&amp;pr=true $IT",
+      "created_at": "2020-10-20T12:07:36Z",
+      "user": {
+        "id": 210967,
+        "username": "cctranscripts",
+        "name": "Conference Call Transcripts",
+        "avatar_url": "https://avatars.stocktwits.com/production/210967/thumb-1363372333.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/210967/thumb-1363372333.png",
+        "join_date": "2013-01-30",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 6288,
+        "following": 9,
+        "ideas": 2343971,
+        "watchlist_stocks_count": 0,
+        "like_count": 755,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1130,
+        "title": "cctranscripts",
+        "url": "http://conferencecalltranscripts.org"
+      },
+      "symbols": [
+        {
+          "id": 5904,
+          "symbol": "IT",
+          "title": "Gartner Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 545
+        }
+      ],
+      "links": [
+        {
+          "title": "Conference Call Transcripts",
+          "url": "http://www.conferencecalltranscripts.org/summary/?id=73110&pr=true",
+          "shortened_url": "http://www.conferencecalltranscripts.org/summary/?id=73110&pr=true",
+          "shortened_expanded_url": "conferencecalltranscripts.o...",
+          "description": "Get notified next time IT.US makes a similar move! STAMFORD, Conn.--(BUSINESS WIRE)--Gartner, Inc. (NYSE: IT), the world's leading research and advisory company, will report its financial results for third quarter 2020 before the market opens on Tuesday, November 3, 2020. The press release and earnings supplement, with accompanying financial information, will be posted on the Gartner investor website at https://investor.gartner.com.",
+          "image": null,
+          "created_at": "2020-10-20T12:07:37Z",
+          "video_url": null,
+          "source": {
+            "name": "Conferencecalltranscripts",
+            "website": "http://www.conferencecalltranscripts.org"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": false
+      }
+    },
+    {
+      "id": 251281689,
+      "body": "$IT [15s. delayed]: Issued Press Release on October 20, 08:00:00: Gartner to Report Third Quarter 2020 Financial Results on November 3, 20 https://s.flashalert.me/WFsNoc",
+      "created_at": "2020-10-20T12:03:32Z",
+      "user": {
+        "id": 595702,
+        "username": "fla",
+        "name": "FlashAlert_me",
+        "avatar_url": "https://avatars.stocktwits.com/production/595702/thumb-1550769466.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/595702/thumb-1550769466.png",
+        "join_date": "2015-09-09",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 2603,
+        "following": 60,
+        "ideas": 698430,
+        "watchlist_stocks_count": 0,
+        "like_count": 4,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 4622,
+        "title": "FlashAlert",
+        "url": "https://flashalert.me/"
+      },
+      "symbols": [
+        {
+          "id": 5904,
+          "symbol": "IT",
+          "title": "Gartner Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 545
+        }
+      ],
+      "links": [
+        {
+          "title": "Flash Alert",
+          "url": "https://s.flashalert.me/WFsNoc",
+          "shortened_url": "https://s.flashalert.me/WFsNoc",
+          "shortened_expanded_url": "businesswire.com/news/home/...",
+          "description": "Real-time alerts about equities, ETFs, cryptocurrencies and more sent to any device",
+          "image": null,
+          "created_at": "2020-10-20T12:03:32Z",
+          "video_url": null,
+          "source": {
+            "name": "Flashalert",
+            "website": "https://flashalert.me"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": false
+      }
+    },
+    {
+      "id": 251281305,
+      "body": "$IT Gartner to Report Third Quarter 2020 Financial Results on November 3, 2020\nhttps://www.stocktitan.net/news/IT/gartner-to-report-third-quarter-2020-financial-results-on-november-3-hmorpb9i71u9.html",
+      "created_at": "2020-10-20T12:01:39Z",
+      "user": {
+        "id": 3372441,
+        "username": "Stock_Titan",
+        "name": "StockTitan",
+        "avatar_url": "https://avatars.stocktwits.com/production/3372441/thumb-1588173612.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3372441/thumb-1588173612.png",
+        "join_date": "2020-04-28",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 398,
+        "following": 0,
+        "ideas": 21790,
+        "watchlist_stocks_count": 0,
+        "like_count": 0,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5677,
+        "title": "StockTitan",
+        "url": "https://stocktitan.net"
+      },
+      "symbols": [
+        {
+          "id": 5904,
+          "symbol": "IT",
+          "title": "Gartner Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 545
+        }
+      ],
+      "links": [
+        {
+          "title": null,
+          "url": "https://www.stocktitan.net/news/IT/gartner-to-report-third-quarter-2020-financial-results-on-november-3-hmorpb9i71u9.html",
+          "shortened_url": "https://www.stocktitan.net/news/IT/gartner-to-report-third-quarter-2020-financial-results-on-november-3-hmorpb9i71u9.html",
+          "shortened_expanded_url": "stocktitan.net/news/IT/gart...",
+          "description": null,
+          "image": null,
+          "created_at": "2020-10-20T12:01:59Z",
+          "video_url": null,
+          "source": {
+            "name": "Stocktitan",
+            "website": "https://www.stocktitan.net"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": false
+      }
+    },
+    {
+      "id": 251281067,
+      "body": "$IT Gartner to Report Third Quarter 2020 Financial Results on November 3, 2020 \n\nhttps://newsfilter.io/a/4334a82e92f8dea28eab439fc3df5825",
+      "created_at": "2020-10-20T12:00:32Z",
+      "user": {
+        "id": 2762379,
+        "username": "Newsfilter",
+        "name": "@newsfilterio",
+        "avatar_url": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "join_date": "2019-09-01",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 7345,
+        "following": 16,
+        "ideas": 578708,
+        "watchlist_stocks_count": 1,
+        "like_count": 531,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 5904,
+          "symbol": "IT",
+          "title": "Gartner Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 545
+        }
+      ],
+      "links": [
+        {
+          "title": "Gartner to Report Third Quarter 2020 Financial Results on November 3, 2020",
+          "url": "https://newsfilter.io/a/4334a82e92f8dea28eab439fc3df5825",
+          "shortened_url": "https://newsfilter.io/a/4334a82e92f8dea28eab439fc3df5825",
+          "shortened_expanded_url": "newsfilter.io/a/4334a82e92f...",
+          "description": "Gartner, the world's leading research and advisory company, will report its financial results for third quarter 2020 before the market opens on Tuesday, November 3, 2020. The press release and earnings supplement, with accompanying financial information, will be posted on the Gartner investor website at https://investor.gartner.com.",
+          "image": "https://newsfilter.io/meta-images/?url=https://storage.googleapis.com/iex/api/logos/IT.png",
+          "created_at": "2020-10-20T12:00:33Z",
+          "video_url": null,
+          "source": {
+            "name": "Newsfilter",
+            "website": "https://newsfilter.io"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 251267714,
+      "body": "Have you seen this? $IT enters an Uptrend because Momentum Indicator exceeded the 0 level on October 15, 2020. View odds for this and other indicators: https://srnk.us/go/2224175",
+      "created_at": "2020-10-20T09:23:27Z",
+      "user": {
+        "id": 967528,
+        "username": "tickeron",
+        "name": "Tickeron",
+        "avatar_url": "https://avatars.stocktwits.com/production/967528/thumb-1492026736.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/967528/thumb-1492026736.png",
+        "join_date": "2017-02-23",
+        "official": true,
+        "identity": "Official",
+        "classification": [
+          "official"
+        ],
+        "followers": 3701,
+        "following": 108,
+        "ideas": 419455,
+        "watchlist_stocks_count": 0,
+        "like_count": 0,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5810,
+        "title": "Tickeron",
+        "url": "https://tickeron.com"
+      },
+      "symbols": [
+        {
+          "id": 5904,
+          "symbol": "IT",
+          "title": "Gartner Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 545
+        }
+      ],
+      "links": [
+        {
+          "title": "Tickeron - A.I. Trading With Odds of Success",
+          "url": "https://srnk.us/go/2224175",
+          "shortened_url": "https://srnk.us/go/2224175",
+          "shortened_expanded_url": "tickeron.com/ticker/IT/?utm...",
+          "description": "Our A.I.-powered algorithms generate and verify trade ideas. Invest in trends, trade with patterns, and analyze Stocks, ETFs, Mutual Funds, FOREX, Cryptos.",
+          "image": "https://tickeron.com/Img/Seo/main.png",
+          "created_at": "2020-10-20T09:23:28Z",
+          "video_url": null,
+          "source": {
+            "name": "Tickeron Inc.",
+            "website": "https://tickeron.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_251267714.",
+          "large": "https://charts.stocktwits.com/production/large_251267714.",
+          "original": "https://charts.stocktwits.com/production/original_251267714.",
+          "url": "https://charts.stocktwits.com/production/original_251267714."
+        },
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": false
+      }
+    },
+    {
+      "id": 251250660,
+      "body": "Worst returns in S&amp;P 500 for 10/19/2020: 1. Gartner Inc $IT (-4.41%), 2. Ross Stores $ROST (-4.37%), 3. VF $VFC (-4.33%), 4. Diamondback Energy $FANG (-4.27%), 5. Vornado Realty Trust $VNO (-4.18%). 453 stocks in the index had negative returns for the day #DailyWorst",
+      "created_at": "2020-10-20T02:56:12Z",
+      "user": {
+        "id": 1495079,
+        "username": "EquityStatsDotCom",
+        "name": "Equity Stats",
+        "avatar_url": "https://avatars.stocktwits.com/production/1495079/thumb-1526819316.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1495079/thumb-1526819316.png",
+        "join_date": "2018-05-14",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 628,
+        "following": 1,
+        "ideas": 4560,
+        "watchlist_stocks_count": 0,
+        "like_count": 51,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 3413,
+          "symbol": "ROST",
+          "title": "Ross Stores Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 3254
+        },
+        {
+          "id": 5904,
+          "symbol": "IT",
+          "title": "Gartner Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 545
+        },
+        {
+          "id": 7629,
+          "symbol": "VFC",
+          "title": "V.F. Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 2058
+        },
+        {
+          "id": 7656,
+          "symbol": "VNO",
+          "title": "Vornado Realty Trust",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 489
+        },
+        {
+          "id": 11498,
+          "symbol": "FANG",
+          "title": "Diamondback Energy Inc",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 5222
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          2213047
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 251122914,
+      "body": "$IT Gartner Says Organizations Should Strive for Composability to Be Resilient and Agile During Uncertainty https://www.otcdynamics.com/it-gartner-says-organizations-should-strive-for-composability-to-be-resilient-and-agile-during-uncertainty",
+      "created_at": "2020-10-19T16:14:05Z",
+      "user": {
+        "id": 253206,
+        "username": "otcdynamics",
+        "name": "otcdynamics",
+        "avatar_url": "https://avatars.stocktwits.com/production/253206/thumb-1432182723.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/253206/thumb-1432182723.png",
+        "join_date": "2013-08-16",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 363,
+        "following": 0,
+        "ideas": 49395,
+        "watchlist_stocks_count": 0,
+        "like_count": 55,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5512,
+        "title": "project_n",
+        "url": "https://www.otcdynamics.com"
+      },
+      "symbols": [
+        {
+          "id": 5904,
+          "symbol": "IT",
+          "title": "Gartner Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 545
+        }
+      ],
+      "links": [
+        {
+          "title": "$IT Gartner Says Organizations Should Strive for Composability to Be Resilient and Agile During Uncertainty",
+          "url": "https://www.otcdynamics.com/it-gartner-says-organizations-should-strive-for-composability-to-be-resilient-and-agile-during-uncertainty",
+          "shortened_url": "https://www.otcdynamics.com/it-gartner-says-organizations-should-strive-for-composability-to-be-resilient-and-agile-during-uncertainty",
+          "shortened_expanded_url": "otcdynamics.com/it-gartner-...",
+          "description": "\"During the COVID-19 pandemic crisis, most CIOs leveraged their organizations existing digital investments, and some CIOs accelerated their digital strategies by investing in some of the three composable building blocks,\" said Tina Nunno, distinguished research vice president and Gartner Fellow.",
+          "image": null,
+          "created_at": "2020-10-19T16:14:07Z",
+          "video_url": null,
+          "source": {
+            "name": "Otcdynamics",
+            "website": "https://www.otcdynamics.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": false
+      }
+    },
+    {
+      "id": 251122656,
+      "body": "$IT Gartner Says Organizations Should Strive for Composability to Be Resilient and Agile During Uncertainty\nhttps://www.stocktitan.net/news/IT/gartner-says-organizations-should-strive-for-composability-to-be-7ztok4aaxhxm.html",
+      "created_at": "2020-10-19T16:13:08Z",
+      "user": {
+        "id": 3372441,
+        "username": "Stock_Titan",
+        "name": "StockTitan",
+        "avatar_url": "https://avatars.stocktwits.com/production/3372441/thumb-1588173612.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3372441/thumb-1588173612.png",
+        "join_date": "2020-04-28",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 396,
+        "following": 0,
+        "ideas": 21467,
+        "watchlist_stocks_count": 0,
+        "like_count": 0,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5677,
+        "title": "StockTitan",
+        "url": "https://stocktitan.net"
+      },
+      "symbols": [
+        {
+          "id": 5904,
+          "symbol": "IT",
+          "title": "Gartner Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 545
+        }
+      ],
+      "links": [
+        {
+          "title": "Gartner Says Organizations Should Strive for Composability to Be | StockTitan.net",
+          "url": "https://www.stocktitan.net/news/IT/gartner-says-organizations-should-strive-for-composability-to-be-7ztok4aaxhxm.html",
+          "shortened_url": "https://www.stocktitan.net/news/IT/gartner-says-organizations-should-strive-for-composability-to-be-7ztok4aaxhxm.html",
+          "shortened_expanded_url": "stocktitan.net/news/IT/gart...",
+          "description": "STAMFORD, Conn.--()--CIOs and IT leaders who use composability to deal with continuing business disruption due to the COVID-19 pandemic and other factors will make their enterprises more resilient, more sustainable and make more meaningful contributions, according to Gartner, Inc. Gartner analysts said that composable business means architecting for resilience and accepting that disruptive change is the norm.",
+          "image": "https://static.stocktitan.net/company-logo/it.png",
+          "created_at": "2020-10-19T16:13:10Z",
+          "video_url": null,
+          "source": {
+            "name": "Stocktitan",
+            "website": "https://www.stocktitan.net"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": false
+      }
+    },
+    {
+      "id": 251122197,
+      "body": "$IT Gartner Says Organizations Should Strive for Composability to Be Resilient and Agile During Uncertainty \n\nhttps://newsfilter.io/a/47c866c395881008bf060060309f5827",
+      "created_at": "2020-10-19T16:11:29Z",
+      "user": {
+        "id": 2762379,
+        "username": "Newsfilter",
+        "name": "@newsfilterio",
+        "avatar_url": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "join_date": "2019-09-01",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 7332,
+        "following": 16,
+        "ideas": 577394,
+        "watchlist_stocks_count": 1,
+        "like_count": 531,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 5904,
+          "symbol": "IT",
+          "title": "Gartner Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 545
+        }
+      ],
+      "links": [
+        {
+          "title": "Gartner Says Organizations Should Strive for Composability to Be Resilient and Agile During Uncertainty",
+          "url": "https://newsfilter.io/a/47c866c395881008bf060060309f5827",
+          "shortened_url": "https://newsfilter.io/a/47c866c395881008bf060060309f5827",
+          "shortened_expanded_url": "newsfilter.io/a/47c866c3958...",
+          "description": "STAMFORD, Conn.--()--CIOs and IT leaders who use composability to deal with continuing business disruption due to the COVID-19 pandemic and other factors will make their enterprises more resilient, more sustainable and make more meaningful contributions, according to Gartner, Inc. Gartner analysts said that composable business means architecting for resilience and accepting that disruptive change is the norm.",
+          "image": "https://newsfilter.io/meta-images/?url=https://storage.googleapis.com/iex/api/logos/IT.png",
+          "created_at": "2020-10-19T16:11:31Z",
+          "video_url": null,
+          "source": {
+            "name": "Newsfilter",
+            "website": "https://newsfilter.io"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 250968978,
+      "body": "Have you seen this? $IT enters an Uptrend as Momentum Indicator exceeded the 0 level on October 15, 2020. View odds for this and other indicators: https://srnk.us/go/2217691",
+      "created_at": "2020-10-18T13:45:47Z",
+      "user": {
+        "id": 967528,
+        "username": "tickeron",
+        "name": "Tickeron",
+        "avatar_url": "https://avatars.stocktwits.com/production/967528/thumb-1492026736.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/967528/thumb-1492026736.png",
+        "join_date": "2017-02-23",
+        "official": true,
+        "identity": "Official",
+        "classification": [
+          "official"
+        ],
+        "followers": 3695,
+        "following": 108,
+        "ideas": 418761,
+        "watchlist_stocks_count": 0,
+        "like_count": 0,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5810,
+        "title": "Tickeron",
+        "url": "https://tickeron.com"
+      },
+      "symbols": [
+        {
+          "id": 5904,
+          "symbol": "IT",
+          "title": "Gartner Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 545
+        }
+      ],
+      "links": [
+        {
+          "title": "Tickeron - A.I. Trading With Odds of Success",
+          "url": "https://srnk.us/go/2217691",
+          "shortened_url": "https://srnk.us/go/2217691",
+          "shortened_expanded_url": "tickeron.com/ticker/IT/?utm...",
+          "description": "Our A.I.-powered algorithms generate and verify trade ideas. Invest in trends, trade with patterns, and analyze Stocks, ETFs, Mutual Funds, FOREX, Cryptos.",
+          "image": "https://tickeron.com/Img/Seo/main.png",
+          "created_at": "2020-10-18T13:45:48Z",
+          "video_url": null,
+          "source": {
+            "name": "Tickeron Inc.",
+            "website": "https://tickeron.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_250968978.",
+          "large": "https://charts.stocktwits.com/production/large_250968978.",
+          "original": "https://charts.stocktwits.com/production/original_250968978.",
+          "url": "https://charts.stocktwits.com/production/original_250968978."
+        },
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": false
+      }
+    },
+    {
+      "id": 250487837,
+      "body": "$IT  be one of a kind.check dc on profile and see the clarity and relevance of these confirmation of accepting the new normal.http://psce.pw/ImpressiveComingsOnWatch",
+      "created_at": "2020-10-15T15:21:44Z",
+      "user": {
+        "id": 3961053,
+        "username": "Dixgonzales48812",
+        "name": "Dixie Gonzales",
+        "avatar_url": "https://avatars.stocktwits.com/production/3961053/thumb-1597565300.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3961053/thumb-1597565300.png",
+        "join_date": "2020-08-16",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 80,
+        "following": 43,
+        "ideas": 1832,
+        "watchlist_stocks_count": 0,
+        "like_count": 11,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 5904,
+          "symbol": "IT",
+          "title": "Gartner Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 545
+        }
+      ],
+      "links": [
+        {
+          "title": "Stocks Under The Radar Catching Wall Streets Attention Right This Second",
+          "url": "http://psce.pw/ImpressiveComingsOnWatch",
+          "shortened_url": "http://psce.pw/ImpressiveComingsOnWatch",
+          "shortened_expanded_url": "marketsnewsupdates.com/plan...",
+          "description": "The Plant-Based Foods boom is creating unimaginable fortunes for investors. Early investors in first-movers like Beyond Meat have already seen approximately 734% gains at its peak after it went public at approximately 25 a share.",
+          "image": "https://marketsnewsupdates.com/wp-content/uploads/sites/6/2020/09/cropped-Screen-Shot-2020-09-07-at-9.47.27-PM.png",
+          "created_at": "2020-10-15T15:21:44Z",
+          "video_url": null,
+          "source": {
+            "name": "Markets News Updates",
+            "website": "https://marketsnewsupdates.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 250364504,
+      "body": "#SP500 sector #technology  #stocks distribution. Side stocks: $AAPL $QCOM $IT $FFIV\n\nhttps://www.finscreener.com/map/histogram",
+      "created_at": "2020-10-15T00:45:27Z",
+      "user": {
+        "id": 1550174,
+        "username": "Finscreener",
+        "name": "Finscreener",
+        "avatar_url": "https://avatars.stocktwits.com/production/1550174/thumb-1531918007.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1550174/thumb-1531918007.png",
+        "join_date": "2018-07-18",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 542,
+        "following": 28,
+        "ideas": 6583,
+        "watchlist_stocks_count": 0,
+        "like_count": 13,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 686,
+          "symbol": "AAPL",
+          "title": "Apple Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 518907
+        },
+        {
+          "id": 1872,
+          "symbol": "FFIV",
+          "title": "F5 Networks, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 2516
+        },
+        {
+          "id": 3290,
+          "symbol": "QCOM",
+          "title": "QUALCOMM Incorporated",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 39379
+        },
+        {
+          "id": 5904,
+          "symbol": "IT",
+          "title": "Gartner Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 545
+        }
+      ],
+      "links": [
+        {
+          "title": "Histogram",
+          "url": "https://www.finscreener.com/map/histogram",
+          "shortened_url": "https://www.finscreener.com/map/histogram",
+          "shortened_expanded_url": "finscreener.com/map/histogram",
+          "description": "Stock screener, Forex Heatmap, Ratings, Top Gainers, Top Losers, Most Recommended Stocks, Insider Trading, Target Price, Quotes, News, Research, Analysis, Charts, Watchlist, Alerts, Porfolio and Social Trading",
+          "image": "https://www.finscreener.com/system_images/logo300x300button.png",
+          "created_at": "2020-10-15T00:45:30Z",
+          "video_url": null,
+          "source": {
+            "name": "Finscreener",
+            "website": "https://www.finscreener.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_250364504.PNG",
+          "large": "https://charts.stocktwits.com/production/large_250364504.PNG",
+          "original": "https://charts.stocktwits.com/production/original_250364504.PNG",
+          "url": "https://charts.stocktwits.com/production/original_250364504.PNG"
+        },
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 250145301,
+      "body": "Gartner $IT Trading Report http://tinyurl.com/y66lmzjc",
+      "created_at": "2020-10-14T10:30:03Z",
+      "user": {
+        "id": 456768,
+        "username": "stocktradersdaily",
+        "name": "Stock Traders Daily",
+        "avatar_url": "https://avatars.stocktwits.com/production/456768/thumb-1422538105.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/456768/thumb-1422538105.png",
+        "join_date": "2015-01-29",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 500,
+        "following": 0,
+        "ideas": 54790,
+        "watchlist_stocks_count": 0,
+        "like_count": 0,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 4326,
+        "title": "Stock Traders Daily",
+        "url": "https://www.stocktradersdaily.com"
+      },
+      "symbols": [
+        {
+          "id": 5904,
+          "symbol": "IT",
+          "title": "Gartner Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 545
+        }
+      ],
+      "links": [
+        {
+          "title": "Gartner $IT Trading Report",
+          "url": "http://tinyurl.com/y66lmzjc",
+          "shortened_url": "http://tinyurl.com/y66lmzjc",
+          "shortened_expanded_url": "news.stocktradersdaily.com/...",
+          "description": "Celebrating 20 years, Stock Traders Daily provides the tools that help you develop investment strategies, and this is a good example. When we couple this with out market based analysis, the probabilities of going with the flow increases, and that is material over time.",
+          "image": "https://news.stocktradersdaily.com/images/STD-banner-336x280-v1r2.jpg",
+          "created_at": "2020-10-14T10:30:07Z",
+          "video_url": null,
+          "source": {
+            "name": "Stocktradersdaily",
+            "website": "https://news.stocktradersdaily.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_250145301.png",
+          "large": "https://charts.stocktwits.com/production/large_250145301.png",
+          "original": "https://charts.stocktwits.com/production/original_250145301.png",
+          "url": "https://charts.stocktwits.com/production/original_250145301.png"
+        },
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": false
+      }
+    },
+    {
+      "id": 250142692,
+      "body": "Gartner $IT BidaskScore is Lowered to StronglySold https://bidaskclub.com/news/company/2020-10-13/IT",
+      "created_at": "2020-10-14T09:47:03Z",
+      "user": {
+        "id": 1177001,
+        "username": "BidaskBot",
+        "name": "BidaskBot",
+        "avatar_url": "https://avatars.stocktwits.com/production/1177001/thumb-1504377126.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1177001/thumb-1504377126.png",
+        "join_date": "2017-09-02",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 991,
+        "following": 29,
+        "ideas": 64274,
+        "watchlist_stocks_count": 20,
+        "like_count": 1008,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 3725,
+        "title": "BidaskBot",
+        "url": "https://bidaskclub.com"
+      },
+      "symbols": [
+        {
+          "id": 5904,
+          "symbol": "IT",
+          "title": "Gartner Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 545
+        }
+      ],
+      "links": [
+        {
+          "title": "BidaskClub.com - See where people invest",
+          "url": "https://bidaskclub.com/news/company/2020-10-13/IT",
+          "shortened_url": "https://bidaskclub.com/news/company/2020-10-13/IT",
+          "shortened_expanded_url": "bidaskclub.com/news/company...",
+          "description": "Use the proprietary BidaskScore to see where people invest. Use the market heatmap and market screener to explore the US equity stock market",
+          "image": null,
+          "created_at": "2020-10-14T09:47:04Z",
+          "video_url": null,
+          "source": {
+            "name": "Bidaskclub",
+            "website": "https://bidaskclub.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_250142692.png",
+          "large": "https://charts.stocktwits.com/production/large_250142692.png",
+          "original": "https://charts.stocktwits.com/production/original_250142692.png",
+          "url": "https://charts.stocktwits.com/production/original_250142692.png"
+        },
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": false
+      }
+    },
+    {
+      "id": 250107451,
+      "body": "$NRG $IT $DXC $WAB $WAT all broke the 200 day MA!",
+      "created_at": "2020-10-14T01:04:11Z",
+      "user": {
+        "id": 974835,
+        "username": "Moneynial",
+        "name": "Moneynial",
+        "avatar_url": "https://avatars.stocktwits.com/production/974835/thumb-1600874683.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/974835/thumb-1600874683.png",
+        "join_date": "2017-02-28",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 3,
+        "following": 63,
+        "ideas": 23,
+        "watchlist_stocks_count": 19,
+        "like_count": 0,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 5904,
+          "symbol": "IT",
+          "title": "Gartner Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 545
+        },
+        {
+          "id": 6558,
+          "symbol": "NRG",
+          "title": "NRG Energy, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 2871
+        },
+        {
+          "id": 7697,
+          "symbol": "WAB",
+          "title": "Westinghouse Air Brake Technologies Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 772
+        },
+        {
+          "id": 7700,
+          "symbol": "WAT",
+          "title": "Waters Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 446
+        },
+        {
+          "id": 13459,
+          "symbol": "DXC",
+          "title": "DXC Technology Rg",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 2155
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          1147951
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 249981261,
+      "body": "Gartner Identifies Three Dimensions That Define The New Employer-Employee Relationship http://www.conferencecalltranscripts.org/summary/?id=68706&amp;pr=true $IT",
+      "created_at": "2020-10-13T17:01:02Z",
+      "user": {
+        "id": 210967,
+        "username": "cctranscripts",
+        "name": "Conference Call Transcripts",
+        "avatar_url": "https://avatars.stocktwits.com/production/210967/thumb-1363372333.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/210967/thumb-1363372333.png",
+        "join_date": "2013-01-30",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 6285,
+        "following": 9,
+        "ideas": 2343024,
+        "watchlist_stocks_count": 0,
+        "like_count": 755,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1130,
+        "title": "cctranscripts",
+        "url": "http://conferencecalltranscripts.org"
+      },
+      "symbols": [
+        {
+          "id": 5904,
+          "symbol": "IT",
+          "title": "Gartner Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 545
+        }
+      ],
+      "links": [
+        {
+          "title": "Conference Call Transcripts",
+          "url": "http://www.conferencecalltranscripts.org/summary/?id=68706&pr=true",
+          "shortened_url": "http://www.conferencecalltranscripts.org/summary/?id=68706&pr=true",
+          "shortened_expanded_url": "conferencecalltranscripts.o...",
+          "description": "Get notified next time IT.US makes a similar move! Senior HR Leaders Discuss The New Employment Deal Focused on Radical Flexibility, Shared Purpose and Deeper Connections at Gartner ReimagineHR, October 13-15STAMFORD, Conn.--(BUSINESS WIRE)--The relationship between employers and employees has shifted significantly due to the major transformation in the way people work, and how organizations are thinking about the future, according to Gartner, Inc.",
+          "image": null,
+          "created_at": "2020-10-13T17:01:02Z",
+          "video_url": null,
+          "source": {
+            "name": "Conferencecalltranscripts",
+            "website": "http://www.conferencecalltranscripts.org"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": false
+      }
+    },
+    {
+      "id": 249981046,
+      "body": "$IT Gartner Identifies Three Dimensions That Define The New Employer-Employee Relationship https://www.otcdynamics.com/it-gartner-identifies-three-dimensions-that-define-the-new-employer-employee-relationship",
+      "created_at": "2020-10-13T17:00:28Z",
+      "user": {
+        "id": 253206,
+        "username": "otcdynamics",
+        "name": "otcdynamics",
+        "avatar_url": "https://avatars.stocktwits.com/production/253206/thumb-1432182723.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/253206/thumb-1432182723.png",
+        "join_date": "2013-08-16",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 363,
+        "following": 0,
+        "ideas": 49388,
+        "watchlist_stocks_count": 0,
+        "like_count": 55,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5512,
+        "title": "project_n",
+        "url": "https://www.otcdynamics.com"
+      },
+      "symbols": [
+        {
+          "id": 5904,
+          "symbol": "IT",
+          "title": "Gartner Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 545
+        }
+      ],
+      "links": [
+        {
+          "title": "$IT Gartner Identifies Three Dimensions That Define The New Employer-Employee Relationship",
+          "url": "https://www.otcdynamics.com/it-gartner-identifies-three-dimensions-that-define-the-new-employer-employee-relationship",
+          "shortened_url": "https://www.otcdynamics.com/it-gartner-identifies-three-dimensions-that-define-the-new-employer-employee-relationship",
+          "shortened_expanded_url": "otcdynamics.com/it-gartner-...",
+          "description": "The relationship between employers and employees has shifted significantly due to the major transformation in the way people work, and how organizations are thinking about the future, according to Gartner, Inc. Today's new employment deal centers on positively impacting employees' lives while improving talent outcomes for employers.",
+          "image": null,
+          "created_at": "2020-10-13T17:00:30Z",
+          "video_url": null,
+          "source": {
+            "name": "Otcdynamics",
+            "website": "https://www.otcdynamics.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": false
+      }
+    },
+    {
+      "id": 249979819,
+      "body": "$IT Gartner Identifies Three Dimensions That Define The New Employer-Employee Relationship\nhttps://www.stocktitan.net/news/IT/gartner-identifies-three-dimensions-that-define-the-new-employer-reepvporx419.html",
+      "created_at": "2020-10-13T16:56:29Z",
+      "user": {
+        "id": 3372441,
+        "username": "Stock_Titan",
+        "name": "StockTitan",
+        "avatar_url": "https://avatars.stocktwits.com/production/3372441/thumb-1588173612.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3372441/thumb-1588173612.png",
+        "join_date": "2020-04-28",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 396,
+        "following": 0,
+        "ideas": 21467,
+        "watchlist_stocks_count": 0,
+        "like_count": 0,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5677,
+        "title": "StockTitan",
+        "url": "https://stocktitan.net"
+      },
+      "symbols": [
+        {
+          "id": 5904,
+          "symbol": "IT",
+          "title": "Gartner Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 545
+        }
+      ],
+      "links": [
+        {
+          "title": "Gartner Identifies Three Dimensions That Define The New | StockTitan.net",
+          "url": "https://www.stocktitan.net/news/IT/gartner-identifies-three-dimensions-that-define-the-new-employer-reepvporx419.html",
+          "shortened_url": "https://www.stocktitan.net/news/IT/gartner-identifies-three-dimensions-that-define-the-new-employer-reepvporx419.html",
+          "shortened_expanded_url": "stocktitan.net/news/IT/gart...",
+          "description": "STAMFORD, Conn.--()--The relationship between employers and employees has shifted significantly due to the major transformation in the way people work, and how organizations are thinking about the future, according to Gartner, Inc. Today's new employment deal centers on positively impacting employees' lives while improving talent outcomes for employers.",
+          "image": "https://static.stocktitan.net/company-logo/it.png",
+          "created_at": "2020-10-13T16:56:33Z",
+          "video_url": null,
+          "source": {
+            "name": "Stocktitan",
+            "website": "https://www.stocktitan.net"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": false
+      }
+    },
+    {
+      "id": 249979546,
+      "body": "$IT Gartner Identifies Three Dimensions That Define The New Employer-Employee Relationship \n\nhttps://newsfilter.io/a/227757ae9c3648747f4f7a50bb1e92e7",
+      "created_at": "2020-10-13T16:55:31Z",
+      "user": {
+        "id": 2762379,
+        "username": "Newsfilter",
+        "name": "@newsfilterio",
+        "avatar_url": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "join_date": "2019-09-01",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 7333,
+        "following": 16,
+        "ideas": 577460,
+        "watchlist_stocks_count": 1,
+        "like_count": 531,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 5904,
+          "symbol": "IT",
+          "title": "Gartner Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 545
+        }
+      ],
+      "links": [
+        {
+          "title": "Gartner Identifies Three Dimensions That Define The New Employer-Employee Relationship",
+          "url": "https://newsfilter.io/a/227757ae9c3648747f4f7a50bb1e92e7",
+          "shortened_url": "https://newsfilter.io/a/227757ae9c3648747f4f7a50bb1e92e7",
+          "shortened_expanded_url": "newsfilter.io/a/227757ae9c3...",
+          "description": "The relationship between employers and employees has shifted significantly due to the major transformation in the way people work, and how organizations are thinking about the future, according to Gartner 's new employment deal centers on positively impacting employees' lives while improving talent outcomes for employers.",
+          "image": "https://newsfilter.io/meta-images/?url=https://storage.googleapis.com/iex/api/logos/IT.png",
+          "created_at": "2020-10-13T16:55:32Z",
+          "video_url": null,
+          "source": {
+            "name": "Newsfilter",
+            "website": "https://newsfilter.io"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 249796889,
+      "body": "U.S. PC Market Has Best Quarter in a Decade on Pandemic Demand  $AAPL $DELL $HPQ $GOOGL $IT \n\nhttps://newsfilter.io/a/0f9115d3cae0a0e02a06afcf5638e20b",
+      "created_at": "2020-10-12T21:04:40Z",
+      "user": {
+        "id": 2762379,
+        "username": "Newsfilter",
+        "name": "@newsfilterio",
+        "avatar_url": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "join_date": "2019-09-01",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 7339,
+        "following": 16,
+        "ideas": 578207,
+        "watchlist_stocks_count": 1,
+        "like_count": 531,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 686,
+          "symbol": "AAPL",
+          "title": "Apple Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 518864
+        },
+        {
+          "id": 1579,
+          "symbol": "DELL",
+          "title": "Dell Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 4244
+        },
+        {
+          "id": 5715,
+          "symbol": "HPQ",
+          "title": "Hewlett-Packard Company",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 9393
+        },
+        {
+          "id": 5904,
+          "symbol": "IT",
+          "title": "Gartner Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 545
+        },
+        {
+          "id": 11938,
+          "symbol": "GOOGL",
+          "title": "Alphabet Inc. Class A",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 92612
+        }
+      ],
+      "links": [
+        {
+          "title": "U.S. PC Market Has Best Quarter in a Decade on Pandemic Demand",
+          "url": "https://newsfilter.io/a/0f9115d3cae0a0e02a06afcf5638e20b",
+          "shortened_url": "https://newsfilter.io/a/0f9115d3cae0a0e02a06afcf5638e20b",
+          "shortened_expanded_url": "newsfilter.io/a/0f9115d3cae...",
+          "description": "Personal computer shipments rose in the third quarter, with the U.S. market having its best performance in a decade, on demand from consumers working and studying remotely.",
+          "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i4Jodcre52N8/v1/-1x-1.jpg",
+          "created_at": "2020-10-12T21:04:41Z",
+          "video_url": null,
+          "source": {
+            "name": "Newsfilter",
+            "website": "https://newsfilter.io"
+          }
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          1604240
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_249796889.jpg",
+          "large": "https://charts.stocktwits.com/production/large_249796889.jpg",
+          "original": "https://charts.stocktwits.com/production/original_249796889.jpg",
+          "url": "https://charts.stocktwits.com/production/original_249796889.jpg"
+        },
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 249574816,
+      "body": "Silicon Valley Pay Cuts Ignite Tech-Industry Covid-19 Tensions  $FB $MSFT $VMW $IT \n\nhttps://newsfilter.io/a/3938d6ee4e15097a8971c38bc7a717d8",
+      "created_at": "2020-10-11T18:37:43Z",
+      "user": {
+        "id": 2762379,
+        "username": "Newsfilter",
+        "name": "@newsfilterio",
+        "avatar_url": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "join_date": "2019-09-01",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 7333,
+        "following": 16,
+        "ideas": 577594,
+        "watchlist_stocks_count": 1,
+        "like_count": 531,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 2735,
+          "symbol": "MSFT",
+          "title": "Microsoft Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 262662
+        },
+        {
+          "id": 5904,
+          "symbol": "IT",
+          "title": "Gartner Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 545
+        },
+        {
+          "id": 7655,
+          "symbol": "VMW",
+          "title": "VMware, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 8555
+        },
+        {
+          "id": 7871,
+          "symbol": "FB",
+          "title": "Facebook",
+          "aliases": [
+            "FBOOK"
+          ],
+          "is_following": false,
+          "watchlist_count": 321912
+        }
+      ],
+      "links": [
+        {
+          "title": "Silicon Valley Pay Cuts Ignite Tech-Industry Covid-19 Tensions",
+          "url": "https://newsfilter.io/a/3938d6ee4e15097a8971c38bc7a717d8",
+          "shortened_url": "https://newsfilter.io/a/3938d6ee4e15097a8971c38bc7a717d8",
+          "shortened_expanded_url": "newsfilter.io/a/3938d6ee4e1...",
+          "description": "Tech workers fleeing the San Francisco Bay Area to work remotely amid the pandemic are facing a new reality: pay cuts. Over the past several months, Covid-19 has shaken traditional notions of where employees can work.",
+          "image": "https://images.wsj.net/im-241913/social",
+          "created_at": "2020-10-11T18:37:44Z",
+          "video_url": null,
+          "source": {
+            "name": "Newsfilter",
+            "website": "https://newsfilter.io"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 248945988,
+      "body": "$IT - Gartner has a strong financial position based on\u2026 https://www.macroaxis.com/invest/stock-analysis/IT/Gartner #insidertrading #stocks #fintechnews",
+      "created_at": "2020-10-08T05:44:03Z",
+      "user": {
+        "id": 56948,
+        "username": "macroaxis",
+        "name": "Macroaxis",
+        "avatar_url": "https://avatars.stocktwits.com/production/56948/thumb-1361399398.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/56948/thumb-1361399398.png",
+        "join_date": "2011-03-04",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 2877,
+        "following": 4,
+        "ideas": 346187,
+        "watchlist_stocks_count": 15,
+        "like_count": 28,
+        "plus_tier": "year",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1351,
+        "title": "dlvr.it",
+        "url": "https://dlvrit.com/"
+      },
+      "symbols": [
+        {
+          "id": 5904,
+          "symbol": "IT",
+          "title": "Gartner Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 545
+        }
+      ],
+      "links": [
+        {
+          "title": "Gartner Stock Analysis - 2020 | IT - Macroaxis",
+          "url": "https://www.macroaxis.com/invest/stock-analysis/IT/Gartner",
+          "shortened_url": "https://www.macroaxis.com/invest/stock-analysis/IT/Gartner",
+          "shortened_expanded_url": "macroaxis.com/invest/stock-...",
+          "description": "To execute equity pricing pattern simulations, real time valuations, recommendations, instant reporting, and portfolio analytics such as mean-variance optimization takes huge amount of computing resources. Since we are a small company we cannot afford to have hundreds of servers in our cluster.",
+          "image": "https://www.macroaxis.com/images/companies/logos/macroaxis_IT.gif",
+          "created_at": "2020-10-08T05:44:04Z",
+          "video_url": null,
+          "source": {
+            "name": "Macroaxis",
+            "website": "https://www.macroaxis.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": false
+      }
+    },
+    {
+      "id": 248810177,
+      "body": "Have you seen this? $IT in -1.25% Downtrend, falling for three consecutive days on September 30, 2020. View odds for this and other indicators: https://srnk.us/go/2182084",
+      "created_at": "2020-10-07T18:13:29Z",
+      "user": {
+        "id": 967528,
+        "username": "tickeron",
+        "name": "Tickeron",
+        "avatar_url": "https://avatars.stocktwits.com/production/967528/thumb-1492026736.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/967528/thumb-1492026736.png",
+        "join_date": "2017-02-23",
+        "official": true,
+        "identity": "Official",
+        "classification": [
+          "official"
+        ],
+        "followers": 3696,
+        "following": 108,
+        "ideas": 418902,
+        "watchlist_stocks_count": 0,
+        "like_count": 0,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5810,
+        "title": "Tickeron",
+        "url": "https://tickeron.com"
+      },
+      "symbols": [
+        {
+          "id": 5904,
+          "symbol": "IT",
+          "title": "Gartner Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 545
+        }
+      ],
+      "links": [
+        {
+          "title": "Tickeron - A.I. Trading With Odds of Success",
+          "url": "https://srnk.us/go/2182084",
+          "shortened_url": "https://srnk.us/go/2182084",
+          "shortened_expanded_url": "tickeron.com/ticker/IT/?utm...",
+          "description": "Our A.I.-powered algorithms generate and verify trade ideas. Invest in trends, trade with patterns, and analyze Stocks, ETFs, Mutual Funds, FOREX, Cryptos.",
+          "image": "https://tickeron.com/Img/Seo/main.png",
+          "created_at": "2020-10-07T18:13:31Z",
+          "video_url": null,
+          "source": {
+            "name": "Tickeron Inc.",
+            "website": "https://tickeron.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_248810177.",
+          "large": "https://charts.stocktwits.com/production/large_248810177.",
+          "original": "https://charts.stocktwits.com/production/original_248810177.",
+          "url": "https://charts.stocktwits.com/production/original_248810177."
+        },
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": false
+      }
+    },
+    {
+      "id": 248444106,
+      "body": "$IT attempt to do it now. a sprightly confab that you would want to be in now! are you willing to do some finest things?http://psce.pw/MustSeeHotCannabisSector",
+      "created_at": "2020-10-06T14:43:07Z",
+      "user": {
+        "id": 3961053,
+        "username": "Dixgonzales48812",
+        "name": "Dixie Gonzales",
+        "avatar_url": "https://avatars.stocktwits.com/production/3961053/thumb-1597565300.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3961053/thumb-1597565300.png",
+        "join_date": "2020-08-16",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 80,
+        "following": 43,
+        "ideas": 1832,
+        "watchlist_stocks_count": 0,
+        "like_count": 11,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 5904,
+          "symbol": "IT",
+          "title": "Gartner Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 545
+        }
+      ],
+      "links": [
+        {
+          "title": "Top Stocks Right Now October e-Commerce + Tech Leading Sectors. Read More",
+          "url": "http://psce.pw/MustSeeHotCannabisSector",
+          "shortened_url": "http://psce.pw/MustSeeHotCannabisSector",
+          "shortened_expanded_url": "marketsnewsupdates.com/nama...",
+          "description": "SPONSORED While the global lockdown of 2020 has caused unprecedented disruption to countless businesses - the most heavily impacted being those that operate in a brick-and-mortar model - e-commerce businesses and companies that have pivoted to become online-only are set up to not only survive through the lockdown, but to thrive in the years to come.",
+          "image": "https://marketsnewsupdates.com/wp-content/uploads/sites/6/2020/08/cropped-finance2.jpg",
+          "created_at": "2020-10-06T14:43:07Z",
+          "video_url": null,
+          "source": {
+            "name": "Markets News Updates",
+            "website": "https://marketsnewsupdates.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 248050325,
+      "body": "Gartner $IT Trading Report http://tinyurl.com/yyzhcnmb",
+      "created_at": "2020-10-04T08:00:05Z",
+      "user": {
+        "id": 456768,
+        "username": "stocktradersdaily",
+        "name": "Stock Traders Daily",
+        "avatar_url": "https://avatars.stocktwits.com/production/456768/thumb-1422538105.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/456768/thumb-1422538105.png",
+        "join_date": "2015-01-29",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 499,
+        "following": 0,
+        "ideas": 54784,
+        "watchlist_stocks_count": 0,
+        "like_count": 0,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 4326,
+        "title": "Stock Traders Daily",
+        "url": "https://www.stocktradersdaily.com"
+      },
+      "symbols": [
+        {
+          "id": 5904,
+          "symbol": "IT",
+          "title": "Gartner Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 545
+        }
+      ],
+      "links": [
+        {
+          "title": "Gartner $IT Trading Report",
+          "url": "http://tinyurl.com/yyzhcnmb",
+          "shortened_url": "http://tinyurl.com/yyzhcnmb",
+          "shortened_expanded_url": "news.stocktradersdaily.com/...",
+          "description": "The Gartner (NYSE: IT) update and the technical summary table below can help you manage risk and optimize returns. Here we provide day, swing, and longer-term trading plans for IT, and we cover 1000 other stocks too. This is a snapshot, it was real-time when the report was published, but prices change and so do support and resistance levels.",
+          "image": "https://news.stocktradersdaily.com/images/STD-banner-336x280-v1r2.jpg",
+          "created_at": "2020-10-04T08:00:07Z",
+          "video_url": null,
+          "source": {
+            "name": "Stocktradersdaily",
+            "website": "https://news.stocktradersdaily.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_248050325.png",
+          "large": "https://charts.stocktwits.com/production/large_248050325.png",
+          "original": "https://charts.stocktwits.com/production/original_248050325.png",
+          "url": "https://charts.stocktwits.com/production/original_248050325.png"
+        },
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": false
+      }
+    },
+    {
+      "id": 247978952,
+      "body": "$IT: New SEC filing on Director, RAUL E CESAN: https://www.sec.gov/Archives/edgar/data/749251/000112760220026393/xslF345X03/form4.xml",
+      "created_at": "2020-10-03T05:25:02Z",
+      "user": {
+        "id": 1606168,
+        "username": "FilingsVille",
+        "name": "Filings Ville",
+        "avatar_url": "https://avatars.stocktwits.com/production/1606168/thumb-1589354235.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1606168/thumb-1589354235.png",
+        "join_date": "2018-09-11",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 198,
+        "following": 0,
+        "ideas": 20424,
+        "watchlist_stocks_count": 0,
+        "like_count": 0,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 4346,
+        "title": "Filings Ville",
+        "url": "https://example.com"
+      },
+      "symbols": [
+        {
+          "id": 5904,
+          "symbol": "IT",
+          "title": "Gartner Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 545
+        }
+      ],
+      "links": [
+        {
+          "title": "SEC FORM 4",
+          "url": "https://www.sec.gov/Archives/edgar/data/749251/000112760220026393/xslF345X03/form4.xml",
+          "shortened_url": "https://www.sec.gov/Archives/edgar/data/749251/000112760220026393/xslF345X03/form4.xml",
+          "shortened_expanded_url": "sec.gov/Archives/edgar/data...",
+          "description": "Signature of Reporting Person Date Reminder: Report on a separate line for each class of securities beneficially owned directly or indirectly. * If the form is filed by more than one reporting person, see Instruction 4 (b)(v). ** Intentional misstatements or omissions of facts constitute Federal Criminal Violations See 18 U.S.C.",
+          "image": null,
+          "created_at": "2020-10-03T05:25:02Z",
+          "video_url": null,
+          "source": {
+            "name": "Sec",
+            "website": "https://www.sec.gov"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": false
+      }
+    }
+  ]
+}

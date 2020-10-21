@@ -1,0 +1,1983 @@
+{
+  "response": {
+    "status": 200
+  },
+  "symbol": {
+    "id": 4191,
+    "symbol": "ZION",
+    "title": "Zions Bancorp.",
+    "aliases": [],
+    "is_following": false,
+    "watchlist_count": 737
+  },
+  "cursor": {
+    "more": true,
+    "since": 247981619,
+    "max": 242517567
+  },
+  "messages": [
+    {
+      "id": 247981619,
+      "body": "$ZION: New SEC filing on Director, STEPHEN D QUINN: https://www.sec.gov/Archives/edgar/data/109380/000010938020000228/xslF345X03/wf-form4_160167011407433.xml",
+      "created_at": "2020-10-03T07:11:03Z",
+      "user": {
+        "id": 1606168,
+        "username": "FilingsVille",
+        "name": "Filings Ville",
+        "avatar_url": "https://avatars.stocktwits.com/production/1606168/thumb-1589354235.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1606168/thumb-1589354235.png",
+        "join_date": "2018-09-11",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 178,
+        "following": 0,
+        "ideas": 18896,
+        "watchlist_stocks_count": 0,
+        "like_count": 0,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 4346,
+        "title": "Filings Ville",
+        "url": "https://example.com"
+      },
+      "symbols": [
+        {
+          "id": 4191,
+          "symbol": "ZION",
+          "title": "Zions Bancorp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 736
+        }
+      ],
+      "links": [
+        {
+          "title": "SEC FORM 4",
+          "url": "https://www.sec.gov/Archives/edgar/data/109380/000010938020000228/xslF345X03/wf-form4_160167011407433.xml",
+          "shortened_url": "https://www.sec.gov/Archives/edgar/data/109380/000010938020000228/xslF345X03/wf-form4_160167011407433.xml",
+          "shortened_expanded_url": "sec.gov/Archives/edgar/data...",
+          "description": "Signature of Reporting Person Date Reminder: Report on a separate line for each class of securities beneficially owned directly or indirectly. * If the form is filed by more than one reporting person, see Instruction 4 (b)(v). ** Intentional misstatements or omissions of facts constitute Federal Criminal Violations See 18 U.S.C.",
+          "image": null,
+          "created_at": "2020-10-03T07:11:05Z",
+          "video_url": null,
+          "source": {
+            "name": "Sec",
+            "website": "https://www.sec.gov"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": false
+      }
+    },
+    {
+      "id": 247925568,
+      "body": "Citi stands out among worst financial stock performers: Q3 Spotlight  $XLF $C $LNC $ZION $AIG \n\nhttps://newsfilter.io/a/4b4d17cb3ad3646847bab1ca423ebc1c",
+      "created_at": "2020-10-02T20:55:14Z",
+      "user": {
+        "id": 2762379,
+        "username": "Newsfilter",
+        "name": "@newsfilterio",
+        "avatar_url": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "join_date": "2019-09-01",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 6983,
+        "following": 16,
+        "ideas": 557494,
+        "watchlist_stocks_count": 1,
+        "like_count": 527,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 4191,
+          "symbol": "ZION",
+          "title": "Zions Bancorp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 736
+        },
+        {
+          "id": 4296,
+          "symbol": "AIG",
+          "title": "American International Group, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 5056
+        },
+        {
+          "id": 4641,
+          "symbol": "C",
+          "title": "Citigroup, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 28468
+        },
+        {
+          "id": 6188,
+          "symbol": "LNC",
+          "title": "Lincoln National Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 611
+        },
+        {
+          "id": 7816,
+          "symbol": "XLF",
+          "title": "Financial Select Sector SPDR",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 12665
+        }
+      ],
+      "links": [
+        {
+          "title": "Citi stands out among worst financial stock performers: Q3 Spotlight",
+          "url": "https://newsfilter.io/a/4b4d17cb3ad3646847bab1ca423ebc1c",
+          "shortened_url": "https://newsfilter.io/a/4b4d17cb3ad3646847bab1ca423ebc1c",
+          "shortened_expanded_url": "newsfilter.io/a/4b4d17cb3ad...",
+          "description": "The financial sector managed to edge higher on Q3, but lost ground again to the broader market and couldn't really get in gear.The SDPR Financial Sector ETF rose 4%, while the S&P gained 8.9%.Cyclicals had a chance to step up in leadership in September as money left the big tech",
+          "image": "https://newsfilter.io/meta-images/?url=https://storage.googleapis.com/iex/api/logos/XLF.png",
+          "created_at": "2020-10-02T20:55:14Z",
+          "video_url": null,
+          "source": {
+            "name": "Newsfilter",
+            "website": "https://newsfilter.io"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 247920565,
+      "body": "Major owner of Zions Bancorporation just disposed of 10,000 shares  http://www.conferencecalltranscripts.org/4/summary2/?id=8413755 $ZION",
+      "created_at": "2020-10-02T20:33:11Z",
+      "user": {
+        "id": 210967,
+        "username": "cctranscripts",
+        "name": "Conference Call Transcripts",
+        "avatar_url": "https://avatars.stocktwits.com/production/210967/thumb-1363372333.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/210967/thumb-1363372333.png",
+        "join_date": "2013-01-30",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 6187,
+        "following": 9,
+        "ideas": 2326433,
+        "watchlist_stocks_count": 0,
+        "like_count": 754,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1130,
+        "title": "cctranscripts",
+        "url": "http://conferencecalltranscripts.org"
+      },
+      "symbols": [
+        {
+          "id": 4191,
+          "symbol": "ZION",
+          "title": "Zions Bancorp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 736
+        }
+      ],
+      "links": [
+        {
+          "title": "Conference Call Transcripts",
+          "url": "http://www.conferencecalltranscripts.org/4/summary2/?id=8413755",
+          "shortened_url": "http://www.conferencecalltranscripts.org/4/summary2/?id=8413755",
+          "shortened_expanded_url": "conferencecalltranscripts.o...",
+          "description": "Get notified next time ZION.US makes a similar move! Bancorporation, National Zions, a major owner of Zions Bancorporation, recently disposed of 10,000 shares of the company. The disposals took place at $64.25 per share, on October 01, 2020. Zions still owns 744,943 shares of the company. Zions operates out of Salt Lake City, UT.",
+          "image": null,
+          "created_at": "2020-10-02T20:33:12Z",
+          "video_url": null,
+          "source": {
+            "name": "Conferencecalltranscripts",
+            "website": "http://www.conferencecalltranscripts.org"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": false
+      }
+    },
+    {
+      "id": 247920486,
+      "body": "Zions Bancorporation director was just granted 1,124 ownership of the company. http://www.conferencecalltranscripts.org/4/summary/?id=8413749 $ZION",
+      "created_at": "2020-10-02T20:32:55Z",
+      "user": {
+        "id": 210967,
+        "username": "cctranscripts",
+        "name": "Conference Call Transcripts",
+        "avatar_url": "https://avatars.stocktwits.com/production/210967/thumb-1363372333.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/210967/thumb-1363372333.png",
+        "join_date": "2013-01-30",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 6187,
+        "following": 9,
+        "ideas": 2326433,
+        "watchlist_stocks_count": 0,
+        "like_count": 754,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1130,
+        "title": "cctranscripts",
+        "url": "http://conferencecalltranscripts.org"
+      },
+      "symbols": [
+        {
+          "id": 4191,
+          "symbol": "ZION",
+          "title": "Zions Bancorp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 736
+        }
+      ],
+      "links": [
+        {
+          "title": "Conference Call Transcripts",
+          "url": "http://www.conferencecalltranscripts.org/4/summary/?id=8413749",
+          "shortened_url": "http://www.conferencecalltranscripts.org/4/summary/?id=8413749",
+          "shortened_expanded_url": "conferencecalltranscripts.o...",
+          "description": "Get notified next time ZION.US makes a similar move! Stephen D Quinn, a director of Zions Bancorporation, just received 1,124 shares of the company. This form is usually filed as a prelude to a company officer either receiving options or buying company shares, so there may be more to come from Quinn.",
+          "image": null,
+          "created_at": "2020-10-02T20:32:56Z",
+          "video_url": null,
+          "source": {
+            "name": "Conferencecalltranscripts",
+            "website": "http://www.conferencecalltranscripts.org"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": false
+      }
+    },
+    {
+      "id": 247920447,
+      "body": "Zions Bancorporation director was just granted 635 ownership of the company. http://www.conferencecalltranscripts.org/4/summary2/?id=8413744 $ZION",
+      "created_at": "2020-10-02T20:32:45Z",
+      "user": {
+        "id": 210967,
+        "username": "cctranscripts",
+        "name": "Conference Call Transcripts",
+        "avatar_url": "https://avatars.stocktwits.com/production/210967/thumb-1363372333.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/210967/thumb-1363372333.png",
+        "join_date": "2013-01-30",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 6187,
+        "following": 9,
+        "ideas": 2326433,
+        "watchlist_stocks_count": 0,
+        "like_count": 754,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1130,
+        "title": "cctranscripts",
+        "url": "http://conferencecalltranscripts.org"
+      },
+      "symbols": [
+        {
+          "id": 4191,
+          "symbol": "ZION",
+          "title": "Zions Bancorp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 736
+        }
+      ],
+      "links": [
+        {
+          "title": "Conference Call Transcripts",
+          "url": "http://www.conferencecalltranscripts.org/4/summary2/?id=8413744",
+          "shortened_url": "http://www.conferencecalltranscripts.org/4/summary2/?id=8413744",
+          "shortened_expanded_url": "conferencecalltranscripts.o...",
+          "description": "Get notified next time ZION.US makes a similar move! Aaron Skonnard, a director of Zions Bancorporation, just received 635 shares of the company. This form is usually filed as a prelude to a company officer either receiving options or buying company shares, so there may be more to come from Skonnard.",
+          "image": null,
+          "created_at": "2020-10-02T20:32:46Z",
+          "video_url": null,
+          "source": {
+            "name": "Conferencecalltranscripts",
+            "website": "http://www.conferencecalltranscripts.org"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": false
+      }
+    },
+    {
+      "id": 247919120,
+      "body": "$ZION reported 2 new insider trades to the SEC in the last 2 minutes.\n\n$642,500.00 of shares sold by Zions Bancorporation, National Association /ut/ (10% Owner)   https://newsfilter.io/articles/4-form-69b22b3a02d40e6651b9cc5750b75e71\n635.091 shares acquired by Skonnard Aaron (Director)   https://newsfilter.io/articles/4-form-a49a0a8feab16de366dba9022b76e3aa",
+      "created_at": "2020-10-02T20:27:57Z",
+      "user": {
+        "id": 2762379,
+        "username": "Newsfilter",
+        "name": "@newsfilterio",
+        "avatar_url": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "join_date": "2019-09-01",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 6982,
+        "following": 16,
+        "ideas": 557494,
+        "watchlist_stocks_count": 1,
+        "like_count": 527,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 4191,
+          "symbol": "ZION",
+          "title": "Zions Bancorp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 736
+        }
+      ],
+      "links": [
+        {
+          "title": null,
+          "url": "https://newsfilter.io/articles/4-form-69b22b3a02d40e6651b9cc5750b75e71",
+          "shortened_url": "https://newsfilter.io/articles/4-form-69b22b3a02d40e6651b9cc5750b75e71",
+          "shortened_expanded_url": "newsfilter.io/articles/4-fo...",
+          "description": null,
+          "image": null,
+          "created_at": "2020-10-02T20:27:58Z",
+          "video_url": null,
+          "source": {
+            "name": "Newsfilter",
+            "website": "https://newsfilter.io"
+          }
+        },
+        {
+          "title": null,
+          "url": "https://newsfilter.io/articles/4-form-a49a0a8feab16de366dba9022b76e3aa",
+          "shortened_url": "https://newsfilter.io/articles/4-form-a49a0a8feab16de366dba9022b76e3aa",
+          "shortened_expanded_url": "newsfilter.io/articles/4-fo...",
+          "description": null,
+          "image": null,
+          "created_at": "2020-10-02T20:27:58Z",
+          "video_url": null,
+          "source": {
+            "name": "Newsfilter",
+            "website": "https://newsfilter.io"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 247917930,
+      "body": "$ZION [15s. delayed] filed SEC form 4: 10% Owner ZIONS BANCORPORATION, NATIONAL ASSOCIATION /UT/: \nDisposed 10,000 of Class C non-voting c https://s.flashalert.me/R6myr7",
+      "created_at": "2020-10-02T20:23:31Z",
+      "user": {
+        "id": 595702,
+        "username": "fla",
+        "name": "FlashAlert_me",
+        "avatar_url": "https://avatars.stocktwits.com/production/595702/thumb-1550769466.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/595702/thumb-1550769466.png",
+        "join_date": "2015-09-09",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 2517,
+        "following": 60,
+        "ideas": 682238,
+        "watchlist_stocks_count": 0,
+        "like_count": 4,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 4622,
+        "title": "FlashAlert",
+        "url": "https://flashalert.me/"
+      },
+      "symbols": [
+        {
+          "id": 4191,
+          "symbol": "ZION",
+          "title": "Zions Bancorp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 736
+        }
+      ],
+      "links": [
+        {
+          "title": "Flash Alert",
+          "url": "https://s.flashalert.me/R6myr7",
+          "shortened_url": "https://s.flashalert.me/R6myr7",
+          "shortened_expanded_url": "sec.gov/Archives/edgar/data...",
+          "description": "Real-time alerts about equities, ETFs, cryptocurrencies and more sent to any device",
+          "image": null,
+          "created_at": "2020-10-02T20:23:32Z",
+          "video_url": null,
+          "source": {
+            "name": "Flashalert",
+            "website": "https://flashalert.me"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": false
+      }
+    },
+    {
+      "id": 247917865,
+      "body": "$ZION [15s. delayed] filed SEC form 4: Director Skonnard Aaron: \nTransacted Derivative Securities on 2020-10-01.  https://s.flashalert.me/IoL79c",
+      "created_at": "2020-10-02T20:23:17Z",
+      "user": {
+        "id": 595702,
+        "username": "fla",
+        "name": "FlashAlert_me",
+        "avatar_url": "https://avatars.stocktwits.com/production/595702/thumb-1550769466.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/595702/thumb-1550769466.png",
+        "join_date": "2015-09-09",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 2517,
+        "following": 60,
+        "ideas": 682238,
+        "watchlist_stocks_count": 0,
+        "like_count": 4,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 4622,
+        "title": "FlashAlert",
+        "url": "https://flashalert.me/"
+      },
+      "symbols": [
+        {
+          "id": 4191,
+          "symbol": "ZION",
+          "title": "Zions Bancorp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 736
+        }
+      ],
+      "links": [
+        {
+          "title": "Flash Alert",
+          "url": "https://s.flashalert.me/IoL79c",
+          "shortened_url": "https://s.flashalert.me/IoL79c",
+          "shortened_expanded_url": "sec.gov/Archives/edgar/data...",
+          "description": "Real-time alerts about equities, ETFs, cryptocurrencies and more sent to any device",
+          "image": null,
+          "created_at": "2020-10-02T20:23:17Z",
+          "video_url": null,
+          "source": {
+            "name": "Flashalert",
+            "website": "https://flashalert.me"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": false
+      }
+    },
+    {
+      "id": 247917753,
+      "body": "$ZION [15s. delayed] filed SEC form 4: Director QUINN STEPHEN D: \nTransacted Derivative Securities on 2020-10-01.  https://s.flashalert.me/ycDlbW",
+      "created_at": "2020-10-02T20:22:55Z",
+      "user": {
+        "id": 595702,
+        "username": "fla",
+        "name": "FlashAlert_me",
+        "avatar_url": "https://avatars.stocktwits.com/production/595702/thumb-1550769466.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/595702/thumb-1550769466.png",
+        "join_date": "2015-09-09",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 2517,
+        "following": 60,
+        "ideas": 682238,
+        "watchlist_stocks_count": 0,
+        "like_count": 4,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 4622,
+        "title": "FlashAlert",
+        "url": "https://flashalert.me/"
+      },
+      "symbols": [
+        {
+          "id": 4191,
+          "symbol": "ZION",
+          "title": "Zions Bancorp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 736
+        }
+      ],
+      "links": [
+        {
+          "title": "Flash Alert",
+          "url": "https://s.flashalert.me/ycDlbW",
+          "shortened_url": "https://s.flashalert.me/ycDlbW",
+          "shortened_expanded_url": "sec.gov/Archives/edgar/data...",
+          "description": "Real-time alerts about equities, ETFs, cryptocurrencies and more sent to any device",
+          "image": null,
+          "created_at": "2020-10-02T20:22:56Z",
+          "video_url": null,
+          "source": {
+            "name": "Flashalert",
+            "website": "https://flashalert.me"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": false
+      }
+    },
+    {
+      "id": 247917657,
+      "body": "$ZION 1,124.282 shares acquired by Quinn Stephen D (Director), reported in a new form 4 filed with the SEC  \n\nhttps://newsfilter.io/a/87600e830e6b65c50a337b6673de6e88",
+      "created_at": "2020-10-02T20:22:35Z",
+      "user": {
+        "id": 2762379,
+        "username": "Newsfilter",
+        "name": "@newsfilterio",
+        "avatar_url": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "join_date": "2019-09-01",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 6982,
+        "following": 16,
+        "ideas": 557494,
+        "watchlist_stocks_count": 1,
+        "like_count": 527,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 4191,
+          "symbol": "ZION",
+          "title": "Zions Bancorp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 736
+        }
+      ],
+      "links": [
+        {
+          "title": "4 Form - Statement of changes in beneficial ownership of securities - ZIONS BANCORPORATION, NATIONAL ASSOCIATION /UT/ (0000109380) (Issuer)",
+          "url": "https://newsfilter.io/a/87600e830e6b65c50a337b6673de6e88",
+          "shortened_url": "https://newsfilter.io/a/87600e830e6b65c50a337b6673de6e88",
+          "shortened_expanded_url": "newsfilter.io/a/87600e830e6...",
+          "description": "SEC FORM 4 SEC Form 4 Check this box if no longer subject to Section 16. Form 4 or Form 5 obligations may continue. See Instruction 1(b). Table I - Non-Derivative Securities Acquired, Disposed of, or Beneficially Owned 1. Title of Security (Instr. 3) 2. Transaction Date (Month/Day/Year) 2A.",
+          "image": "https://newsfilter.io/meta-images/?url=https://storage.googleapis.com/iex/api/logos/ZION.png",
+          "created_at": "2020-10-02T20:22:36Z",
+          "video_url": null,
+          "source": {
+            "name": "Newsfilter",
+            "website": "https://newsfilter.io"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 247239935,
+      "body": "$ZION Max Pain is 32.00 for maturity 10/16/2020. #maxpain #options http://maximum-pain.com/options/ZION?m=10%2f16%2f2020",
+      "created_at": "2020-09-30T14:33:22Z",
+      "user": {
+        "id": 1216862,
+        "username": "OptionsTech",
+        "name": "Dan Smith",
+        "avatar_url": "https://avatars.stocktwits.com/production/1216862/thumb-1507373900.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1216862/thumb-1507373900.png",
+        "join_date": "2017-10-07",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 518,
+        "following": 1,
+        "ideas": 16941,
+        "watchlist_stocks_count": 0,
+        "like_count": 0,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 4191,
+          "symbol": "ZION",
+          "title": "Zions Bancorp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 737
+        }
+      ],
+      "links": [
+        {
+          "title": "Stock Option Max Pain",
+          "url": "http://maximum-pain.com/options/ZION?m=10%2f16%2f2020",
+          "shortened_url": "http://maximum-pain.com/options/ZION?m=10%2f16%2f2020",
+          "shortened_expanded_url": "maximum-pain.com/options/ZI...",
+          "description": null,
+          "image": null,
+          "created_at": "2020-09-30T14:33:23Z",
+          "video_url": null,
+          "source": {
+            "name": "Maximum-pain",
+            "website": "http://maximum-pain.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_247239935.png",
+          "large": "https://charts.stocktwits.com/production/large_247239935.png",
+          "original": "https://charts.stocktwits.com/production/original_247239935.png",
+          "url": "https://charts.stocktwits.com/production/original_247239935.png"
+        },
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 246761276,
+      "body": "Earnings summary of #Zions #ZION $ZION https://www.finscreener.com/title/earnings?&amp;idcp=7636",
+      "created_at": "2020-09-28T17:57:04Z",
+      "user": {
+        "id": 1550174,
+        "username": "Finscreener",
+        "name": "Finscreener",
+        "avatar_url": "https://avatars.stocktwits.com/production/1550174/thumb-1531918007.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1550174/thumb-1531918007.png",
+        "join_date": "2018-07-18",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 517,
+        "following": 28,
+        "ideas": 6362,
+        "watchlist_stocks_count": 0,
+        "like_count": 13,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 4191,
+          "symbol": "ZION",
+          "title": "Zions Bancorp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 736
+        }
+      ],
+      "links": [
+        {
+          "title": "CAD/AED Canada Dollars - UAE Dirhams",
+          "url": "https://www.finscreener.com/title/earnings?&idcp=7636",
+          "shortened_url": "https://www.finscreener.com/title/earnings?&idcp=7636",
+          "shortened_expanded_url": "finscreener.com/title/earnings",
+          "description": "CADAED, Canada Dollars - UAE Dirhams, Overview, Chart, News, Technicals, Financials, Analysts, Earnings, Insider, Filings, Discussion, Stock screener, Forex Heatmap, Ratings, Top Gainers, Top Losers, Most Recommended Stocks, Insider Trading, Target Price, Quotes, Research, Analysis, Charts, Watchlist, Alerts, Porfolio and Social Trading",
+          "image": "https://www.finscreener.com/system_images/logo300x300button.png",
+          "created_at": "2020-09-28T17:57:07Z",
+          "video_url": null,
+          "source": {
+            "name": "Finscreener",
+            "website": "https://www.finscreener.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 246688874,
+      "body": "$ZION NEW ARTICLE : Zions Bancorporation: Set-Up For A Quick Pop And Continued Run https://www.stck.pro/news/ZION/8064991",
+      "created_at": "2020-09-28T14:06:06Z",
+      "user": {
+        "id": 1555408,
+        "username": "STCKPRO",
+        "name": "STCK.PRO",
+        "avatar_url": "https://avatars.stocktwits.com/production/1555408/thumb-1576077822.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1555408/thumb-1576077822.png",
+        "join_date": "2018-07-24",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 3933,
+        "following": 2,
+        "ideas": 239748,
+        "watchlist_stocks_count": 17,
+        "like_count": 52,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5011,
+        "title": "STCK.PRO",
+        "url": "https://dashboard.stck.pro"
+      },
+      "symbols": [
+        {
+          "id": 4191,
+          "symbol": "ZION",
+          "title": "Zions Bancorp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 736
+        }
+      ],
+      "links": [
+        {
+          "title": "Zions Bancorporation (ZION)",
+          "url": "https://www.stck.pro/news/ZION/8064991",
+          "shortened_url": "https://www.stck.pro/news/ZION/8064991",
+          "shortened_expanded_url": "stck.pro/news/ZION",
+          "description": "Never miss an important article again, stay on top of your investments and become a better investor today! Get your moat on and sync your watchlist with Stocktwits and get all the latest news for your symbols. Sync with Stocktwits",
+          "image": "https://www.stck.pro/img/imac.png",
+          "created_at": "2020-09-28T14:06:09Z",
+          "video_url": null,
+          "source": {
+            "name": "Stck",
+            "website": "https://www.stck.pro"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": false
+      }
+    },
+    {
+      "id": 246628028,
+      "body": "Q3 2020 Earnings Estimate for Zions Bancorporation NA (NASDAQ:ZION) Issued By Wedbush $ZION #ZION https://www.marketbeat.com/n/4471799/",
+      "created_at": "2020-09-28T05:14:59Z",
+      "user": {
+        "id": 284225,
+        "username": "MarketBeat",
+        "name": "MarketBeat.com",
+        "avatar_url": "https://avatars.stocktwits.com/production/284225/thumb-1484325936.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/284225/thumb-1484325936.png",
+        "join_date": "2013-11-24",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 9566,
+        "following": 8,
+        "ideas": 905402,
+        "watchlist_stocks_count": 0,
+        "like_count": 9,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1022,
+        "title": "Zapier",
+        "url": "https://zapier.com/"
+      },
+      "symbols": [
+        {
+          "id": 4191,
+          "symbol": "ZION",
+          "title": "Zions Bancorp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 736
+        }
+      ],
+      "links": [
+        {
+          "title": "Q3 2020 Earnings Estimate for Zions Bancorporation NA (NASDAQ:ZION) Issued By Wedbush",
+          "url": "https://www.marketbeat.com/n/4471799/",
+          "shortened_url": "https://www.marketbeat.com/n/4471799/",
+          "shortened_expanded_url": "marketbeat.com/instant-aler...",
+          "description": "Zions Bancorporation NA (NASDAQ:ZION) - Equities research analysts at Wedbush increased their Q3 2020 earnings per share (EPS) estimates for shares of Zions Bancorporation NA in a research report issued on Friday, September 25th. Wedbush analyst P. Winter now forecasts that the bank will post ear",
+          "image": "https://www.marketbeat.com/logos/Zions_Bancorporation-logo-791E6B2537-seeklogo.com.gif",
+          "created_at": "2020-09-28T05:15:00Z",
+          "video_url": null,
+          "source": {
+            "name": "MarketBeat.com",
+            "website": "https://www.marketbeat.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": false
+      }
+    },
+    {
+      "id": 246625104,
+      "body": "ZionsBancorporation $ZION BidaskScore is #Reiterated to StronglySold https://bidaskclub.com/news/company/2020-09-24/ZION",
+      "created_at": "2020-09-28T04:18:04Z",
+      "user": {
+        "id": 1177001,
+        "username": "BidaskBot",
+        "name": "BidaskBot",
+        "avatar_url": "https://avatars.stocktwits.com/production/1177001/thumb-1504377126.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1177001/thumb-1504377126.png",
+        "join_date": "2017-09-02",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 924,
+        "following": 62,
+        "ideas": 60269,
+        "watchlist_stocks_count": 20,
+        "like_count": 1008,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 3725,
+        "title": "BidaskBot",
+        "url": "https://bidaskclub.com"
+      },
+      "symbols": [
+        {
+          "id": 4191,
+          "symbol": "ZION",
+          "title": "Zions Bancorp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 736
+        }
+      ],
+      "links": [
+        {
+          "title": "BidaskClub.com - See where people invest",
+          "url": "https://bidaskclub.com/news/company/2020-09-24/ZION",
+          "shortened_url": "https://bidaskclub.com/news/company/2020-09-24/ZION",
+          "shortened_expanded_url": "bidaskclub.com/news/company...",
+          "description": "Use the proprietary BidaskScore to see where people invest. Use the market heatmap and market screener to explore the US equity stock market",
+          "image": null,
+          "created_at": "2020-09-28T04:18:04Z",
+          "video_url": null,
+          "source": {
+            "name": "Bidaskclub",
+            "website": "https://bidaskclub.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_246625104.png",
+          "large": "https://charts.stocktwits.com/production/large_246625104.png",
+          "original": "https://charts.stocktwits.com/production/original_246625104.png",
+          "url": "https://charts.stocktwits.com/production/original_246625104.png"
+        },
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": false
+      }
+    },
+    {
+      "id": 246481154,
+      "body": "$ZION had approximately 6M USD go to the short side at 42 pct short  The Bears are few  https://www.algowins.com/?wdt_column_filter[1]=ZION",
+      "created_at": "2020-09-26T06:14:59Z",
+      "user": {
+        "id": 1245096,
+        "username": "shortvolume",
+        "name": "Bear Stearns",
+        "avatar_url": "https://avatars.stocktwits.com/production/1245096/thumb-1512364607.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1245096/thumb-1512364607.png",
+        "join_date": "2017-10-29",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 3176,
+        "following": 8,
+        "ideas": 143137,
+        "watchlist_stocks_count": 8,
+        "like_count": 36,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5202,
+        "title": "algowinssv",
+        "url": "https://www.algowins.com"
+      },
+      "symbols": [
+        {
+          "id": 4191,
+          "symbol": "ZION",
+          "title": "Zions Bancorp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 736
+        }
+      ],
+      "links": [
+        {
+          "title": "Home",
+          "url": "https://www.algowins.com/?wdt_column_filter[1]=ZION",
+          "shortened_url": "https://www.algowins.com/?wdt_column_filter[1]=ZION",
+          "shortened_expanded_url": "algowins.com/",
+          "description": "Ad Space Test Indicator Spike Report 07-27-20 Algowins Discord LINK Daily short sale volume for all US Listed securities.",
+          "image": "https://www.algowins.com/wp-content/plugins/kill-adblock//images/logo.png",
+          "created_at": "2020-09-26T06:15:01Z",
+          "video_url": null,
+          "source": {
+            "name": "Algorithmic Wins!",
+            "website": "https://www.algowins.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": false
+      }
+    },
+    {
+      "id": 246318534,
+      "body": "What would you do? $ZION enters a Downtrend as Momentum Indicator dropped below the 0 level on September 8, 2020. View odds for this and other indicators: https://srnk.us/go/2138371",
+      "created_at": "2020-09-25T15:33:07Z",
+      "user": {
+        "id": 967528,
+        "username": "tickeron",
+        "name": "Tickeron",
+        "avatar_url": "https://avatars.stocktwits.com/production/967528/thumb-1492026736.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/967528/thumb-1492026736.png",
+        "join_date": "2017-02-23",
+        "official": true,
+        "identity": "Official",
+        "classification": [
+          "official"
+        ],
+        "followers": 3382,
+        "following": 108,
+        "ideas": 407565,
+        "watchlist_stocks_count": 0,
+        "like_count": 0,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5810,
+        "title": "Tickeron",
+        "url": "https://tickeron.com"
+      },
+      "symbols": [
+        {
+          "id": 4191,
+          "symbol": "ZION",
+          "title": "Zions Bancorp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 736
+        }
+      ],
+      "links": [
+        {
+          "title": "Tickeron - A.I. Trading With Odds of Success",
+          "url": "https://srnk.us/go/2138371",
+          "shortened_url": "https://srnk.us/go/2138371",
+          "shortened_expanded_url": "tickeron.com/ticker/ZION/?u...",
+          "description": "Our A.I.-powered algorithms generate and verify trade ideas. Invest in trends, trade with patterns, and analyze Stocks, ETFs, Mutual Funds, FOREX, Cryptos.",
+          "image": "https://tickeron.com/Img/Seo/main.png",
+          "created_at": "2020-09-25T15:33:09Z",
+          "video_url": null,
+          "source": {
+            "name": "Tickeron Inc.",
+            "website": "https://tickeron.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_246318534.",
+          "large": "https://charts.stocktwits.com/production/large_246318534.",
+          "original": "https://charts.stocktwits.com/production/original_246318534.",
+          "url": "https://charts.stocktwits.com/production/original_246318534."
+        },
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": false
+      }
+    },
+    {
+      "id": 245623319,
+      "body": "Updated correlation matrix for Zions Bancorporation($ZION),\u2026 https://www.macroaxis.com/invest/marketCorrelation?s=ZION,CMCSA,MMC,KMX,PBCT,DVA,TIF,DIS,NWLI,GIS,SEE,DUK #canada #canadian_equities #CA",
+      "created_at": "2020-09-23T08:47:02Z",
+      "user": {
+        "id": 56948,
+        "username": "macroaxis",
+        "name": "Macroaxis",
+        "avatar_url": "https://avatars.stocktwits.com/production/56948/thumb-1361399398.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/56948/thumb-1361399398.png",
+        "join_date": "2011-03-04",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 2799,
+        "following": 4,
+        "ideas": 341037,
+        "watchlist_stocks_count": 15,
+        "like_count": 28,
+        "plus_tier": "year",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1351,
+        "title": "dlvr.it",
+        "url": "https://dlvrit.com/"
+      },
+      "symbols": [
+        {
+          "id": 4191,
+          "symbol": "ZION",
+          "title": "Zions Bancorp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 736
+        }
+      ],
+      "links": [
+        {
+          "title": "Correlation analysis for ZION,CMCSA,MMC,KMX,PBCT,DVA,TIF,DIS,NWLI,GIS,SEE,DUK",
+          "url": "https://www.macroaxis.com/invest/marketCorrelation?s=ZION,CMCSA,MMC,KMX,PBCT,DVA,TIF,DIS,NWLI,GIS,SEE,DUK",
+          "shortened_url": "https://www.macroaxis.com/invest/marketCorrelation?s=ZION,CMCSA,MMC,KMX,PBCT,DVA,TIF,DIS,NWLI,GIS,SEE,DUK",
+          "shortened_expanded_url": "macroaxis.com/invest/market...",
+          "description": "An investor can reduce portfolio risk only by holding instruments that are not perfectly correlated. In other words, investors can reduce their exposure to individual asset risk by holding a diversified portfolio of assets. Diversification will allow for the same portfolio return with reduced risk.",
+          "image": "https://www.macroaxis.com/images/aboutMacroaxisGuy.png",
+          "created_at": "2020-09-23T08:47:03Z",
+          "video_url": null,
+          "source": {
+            "name": "Macroaxis",
+            "website": "https://www.macroaxis.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": false
+      }
+    },
+    {
+      "id": 245601313,
+      "body": "Worst returns in S&amp;P 500 for 9/22/2020: 1. Citizens Financial Group $CFG (-5.11%), 2. Zions Bancorp $ZION (-3.99%), 3. Anthem $ANTM (-3.99%), 4. Comerica $CMA (-3.91%), 5. HCA Healthcare $HCA (-3.83%). 164 stocks in the index had negative returns for the day #DailyWorst",
+      "created_at": "2020-09-23T02:49:47Z",
+      "user": {
+        "id": 1495079,
+        "username": "EquityStatsDotCom",
+        "name": "Equity Stats",
+        "avatar_url": "https://avatars.stocktwits.com/production/1495079/thumb-1526819316.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1495079/thumb-1526819316.png",
+        "join_date": "2018-05-14",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 596,
+        "following": 1,
+        "ideas": 4437,
+        "watchlist_stocks_count": 0,
+        "like_count": 50,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 4191,
+          "symbol": "ZION",
+          "title": "Zions Bancorp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 736
+        },
+        {
+          "id": 4764,
+          "symbol": "CMA",
+          "title": "Comerica Incorporated",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 666
+        },
+        {
+          "id": 9686,
+          "symbol": "HCA",
+          "title": "HCA Holdings, Inc. Common Stock",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1822
+        },
+        {
+          "id": 12021,
+          "symbol": "CFG",
+          "title": "Citizens Financial Group",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1152
+        },
+        {
+          "id": 12433,
+          "symbol": "ANTM",
+          "title": "Anthem Inc",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 2696
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 245597061,
+      "body": "$ZION 11/20 PUTS for $27 gonna be \ud83d\udd25",
+      "created_at": "2020-09-23T02:15:24Z",
+      "user": {
+        "id": 2139886,
+        "username": "YUGEupside",
+        "name": "YUGEupside",
+        "avatar_url": "https://avatars.stocktwits.com/production/2139886/thumb-1567779092.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2139886/thumb-1567779092.png",
+        "join_date": "2019-06-13",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 8,
+        "following": 9,
+        "ideas": 599,
+        "watchlist_stocks_count": 51,
+        "like_count": 411,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 4191,
+          "symbol": "ZION",
+          "title": "Zions Bancorp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 736
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 245160612,
+      "body": "$ZION The network assessed that this stock s value will be stable in the short term and is facing significant downsides in the longer term",
+      "created_at": "2020-09-21T14:51:34Z",
+      "user": {
+        "id": 3390651,
+        "username": "intratio",
+        "name": "intratio",
+        "avatar_url": "https://avatars.stocktwits.com/production/3390651/thumb-1589488043.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3390651/thumb-1589488043.png",
+        "join_date": "2020-05-01",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 417,
+        "following": 0,
+        "ideas": 7332,
+        "watchlist_stocks_count": 0,
+        "like_count": 0,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5458,
+        "title": "intratio",
+        "url": "https://www.intratio.com/"
+      },
+      "symbols": [
+        {
+          "id": 4191,
+          "symbol": "ZION",
+          "title": "Zions Bancorp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 737
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": false
+      }
+    },
+    {
+      "id": 244036608,
+      "body": "\ud83d\udcb0 Revenue history for Zions Bancorporation ($ZION)\ufe0f:\n\n2020 Q2 :   $0.68 B     -0.29%\n2020 Q1 :   $0.68 B     -4.08%\n2019 Q4 :   $0.71 B\n\nMore: https://companiesmarketcap.com/zions/revenue/",
+      "created_at": "2020-09-16T01:05:34Z",
+      "user": {
+        "id": 3998904,
+        "username": "CompaniesMarketCap",
+        "name": "companiesmarketcap.com",
+        "avatar_url": "https://avatars.stocktwits.com/production/3998904/thumb-1598316155.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3998904/thumb-1598316155.png",
+        "join_date": "2020-08-25",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 161,
+        "following": 206,
+        "ideas": 3948,
+        "watchlist_stocks_count": 4,
+        "like_count": 133,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 4191,
+          "symbol": "ZION",
+          "title": "Zions Bancorp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 736
+        }
+      ],
+      "links": [
+        {
+          "title": "Zions Bancorporation (ZION) - Revenue",
+          "url": "https://companiesmarketcap.com/zions/revenue/",
+          "shortened_url": "https://companiesmarketcap.com/zions/revenue/",
+          "shortened_expanded_url": "companiesmarketcap.com/zion...",
+          "description": "According to Zions Bancorporation 's latest financial reports the company's current revenue (TTM) is $0 M. In 2019 the company made a revenue of$2.83 B an increase over the years 2018 revenue that were of $2.78 B.The revenue is the total amount of income that a company generates by the sale of goods or services.",
+          "image": "https://companiesmarketcap.com/img/company-logos/512/ZION.png",
+          "created_at": "2020-09-16T01:05:35Z",
+          "video_url": null,
+          "source": {
+            "name": "Companiesmarketcap",
+            "website": "https://companiesmarketcap.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 243999966,
+      "body": "$ZION [15s. delayed] filed SEC form 4: 10% Owner ZIONS BANCORPORATION, NATIONAL ASSOCIATION /UT/: \nDisposed 2,000 of Class C non-voting co https://s.flashalert.me/jcLF9y",
+      "created_at": "2020-09-15T21:31:19Z",
+      "user": {
+        "id": 595702,
+        "username": "fla",
+        "name": "FlashAlert_me",
+        "avatar_url": "https://avatars.stocktwits.com/production/595702/thumb-1550769466.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/595702/thumb-1550769466.png",
+        "join_date": "2015-09-09",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 2517,
+        "following": 60,
+        "ideas": 682238,
+        "watchlist_stocks_count": 0,
+        "like_count": 4,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 4622,
+        "title": "FlashAlert",
+        "url": "https://flashalert.me/"
+      },
+      "symbols": [
+        {
+          "id": 4191,
+          "symbol": "ZION",
+          "title": "Zions Bancorp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 736
+        }
+      ],
+      "links": [
+        {
+          "title": "Flash Alert",
+          "url": "https://s.flashalert.me/jcLF9y",
+          "shortened_url": "https://s.flashalert.me/jcLF9y",
+          "shortened_expanded_url": "sec.gov/Archives/edgar/data...",
+          "description": "Real-time alerts about equities, ETFs, cryptocurrencies and more sent to any device",
+          "image": null,
+          "created_at": "2020-09-15T21:31:19Z",
+          "video_url": null,
+          "source": {
+            "name": "Flashalert",
+            "website": "https://flashalert.me"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": false
+      }
+    },
+    {
+      "id": 243999883,
+      "body": "$ZION $137,000.00 of shares sold by Zions Bancorporation, National Association /ut/ (10% Owner), reported in a new form 4 filed with the SEC  \n\nhttps://newsfilter.io/a/bb017a0465fd0e99143e5df3d087aed4",
+      "created_at": "2020-09-15T21:30:58Z",
+      "user": {
+        "id": 2762379,
+        "username": "Newsfilter",
+        "name": "@newsfilterio",
+        "avatar_url": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "join_date": "2019-09-01",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 6980,
+        "following": 16,
+        "ideas": 557493,
+        "watchlist_stocks_count": 1,
+        "like_count": 527,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 4191,
+          "symbol": "ZION",
+          "title": "Zions Bancorp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 736
+        }
+      ],
+      "links": [
+        {
+          "title": "4 Form - Statement of changes in beneficial ownership of securities - ZIONS BANCORPORATION, NATIONAL ASSOCIATION /UT/ (0000109380) (Reporting)",
+          "url": "https://newsfilter.io/a/bb017a0465fd0e99143e5df3d087aed4",
+          "shortened_url": "https://newsfilter.io/a/bb017a0465fd0e99143e5df3d087aed4",
+          "shortened_expanded_url": "newsfilter.io/a/bb017a0465f...",
+          "description": "SEC FORM 4 SEC Form 4 Check this box if no longer subject to Section 16. Form 4 or Form 5 obligations may continue. See Instruction 1(b). Table I - Non-Derivative Securities Acquired, Disposed of, or Beneficially Owned 1. Title of Security (Instr. 3) 2. Transaction Date (Month/Day/Year) 2A.",
+          "image": "https://newsfilter.io/meta-images/?url=https://storage.googleapis.com/iex/api/logos/ZION.png",
+          "created_at": "2020-09-15T21:31:00Z",
+          "video_url": null,
+          "source": {
+            "name": "Newsfilter",
+            "website": "https://newsfilter.io"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 243548630,
+      "body": "\ud83d\udcc8 Market cap history for Zions Bancorporation ($ZION)\ufe0f:\n\n2020 :   $5.31 B    -38.02%\n2019 :   $8.56 B    +12.16%\n2018 :   $7.64 B    -24.74%\n\nMore: https://companiesmarketcap.com/zions/marketcap/",
+      "created_at": "2020-09-14T13:10:10Z",
+      "user": {
+        "id": 3998904,
+        "username": "CompaniesMarketCap",
+        "name": "companiesmarketcap.com",
+        "avatar_url": "https://avatars.stocktwits.com/production/3998904/thumb-1598316155.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3998904/thumb-1598316155.png",
+        "join_date": "2020-08-25",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 162,
+        "following": 208,
+        "ideas": 3948,
+        "watchlist_stocks_count": 4,
+        "like_count": 133,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 4191,
+          "symbol": "ZION",
+          "title": "Zions Bancorp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 737
+        }
+      ],
+      "links": [
+        {
+          "title": "Zions Bancorporation (ZION) - Market capitalization",
+          "url": "https://companiesmarketcap.com/zions/marketcap/",
+          "shortened_url": "https://companiesmarketcap.com/zions/marketcap/",
+          "shortened_expanded_url": "companiesmarketcap.com/zion...",
+          "description": "As of September 2020 Zions Bancorporation has a market cap of $5.14 B. This makes Zions Bancorporation the world's 1531th most valuable company by market cap according to our data. The market capitalization, commonly called market cap, is the total market value of a publicly traded company's outstanding shares and is commonly used to mesure how much a company is worth.",
+          "image": "https://companiesmarketcap.com/img/company-logos/512/ZION.png",
+          "created_at": "2020-09-14T13:10:11Z",
+          "video_url": null,
+          "source": {
+            "name": "Companiesmarketcap",
+            "website": "https://companiesmarketcap.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 243423291,
+      "body": "ZION - Stock Investment Research, IBD Stock Charts https://research.investors.com/ibd-charts.aspx?symbol=ZION #IBDCharts via @IBDinvestors #IBDPartner $ZION Crucial for round 30 number to hold here or would be break below bearish descending triangle. Round 40 and 50 numbers were resistance in last year.",
+      "created_at": "2020-09-13T10:23:31Z",
+      "user": {
+        "id": 32357,
+        "username": "chartsmarter",
+        "name": "Doug Busch",
+        "avatar_url": "https://avatars.stocktwits.com/production/32357/thumb-1325987496.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/32357/thumb-1325987496.png",
+        "join_date": "2010-12-08",
+        "official": true,
+        "identity": "Official",
+        "classification": [
+          "suggested",
+          "official"
+        ],
+        "followers": 48254,
+        "following": 563,
+        "ideas": 6777,
+        "watchlist_stocks_count": 6,
+        "like_count": 324,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 4191,
+          "symbol": "ZION",
+          "title": "Zions Bancorp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 736
+        }
+      ],
+      "links": [
+        {
+          "title": "ZION, Zions Bancorp NA - Stock Investment Research, IBD Stock Charts",
+          "url": "https://research.investors.com/ibd-charts.aspx?symbol=ZION",
+          "shortened_url": "https://research.investors.com/ibd-charts.aspx?symbol=ZION",
+          "shortened_expanded_url": "research.investors.com/stoc...",
+          "description": "Get the latest price and volume on Zions Bancorp NA in IBD stock charts. Our investment research resources are provided to help you make informed investment decisions.",
+          "image": "https://research.investors.com/FinancialChartVolume.axd?symbol=zion&openGraph=true",
+          "created_at": "2020-09-13T10:23:33Z",
+          "video_url": null,
+          "source": {
+            "name": "Investor's Business Daily",
+            "website": "https://research.investors.com"
+          }
+        }
+      ],
+      "mentioned_users": [
+        "@IBDinvestors"
+      ],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 242891709,
+      "body": "Zions Bancorporation NA (NASDAQ:ZION) Given Average Recommendation of &quot;Hold&quot; by Brokerages $ZION #ZION https://www.marketbeat.com/n/4456611",
+      "created_at": "2020-09-10T14:54:45Z",
+      "user": {
+        "id": 284225,
+        "username": "MarketBeat",
+        "name": "MarketBeat.com",
+        "avatar_url": "https://avatars.stocktwits.com/production/284225/thumb-1484325936.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/284225/thumb-1484325936.png",
+        "join_date": "2013-11-24",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 9566,
+        "following": 8,
+        "ideas": 905401,
+        "watchlist_stocks_count": 0,
+        "like_count": 9,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1022,
+        "title": "Zapier",
+        "url": "https://zapier.com/"
+      },
+      "symbols": [
+        {
+          "id": 4191,
+          "symbol": "ZION",
+          "title": "Zions Bancorp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 736
+        }
+      ],
+      "links": [
+        {
+          "title": "Zions Bancorporation NA (NASDAQ:ZION) Given Average Recommendation of \"Hold\" by Brokerages",
+          "url": "https://www.marketbeat.com/n/4456611",
+          "shortened_url": "https://www.marketbeat.com/n/4456611",
+          "shortened_expanded_url": "marketbeat.com/instant-aler...",
+          "description": "Zions Bancorporation NA (NASDAQ:ZION) has received an average rating of \"Hold\" from the twenty-two research firms that are covering the company, MarketBeat reports. Three investment analysts have rated the stock with a sell recommendation, thirteen have issued a hold recommendation, four have assi",
+          "image": "https://www.marketbeat.com/logos/Zions_Bancorporation-logo-791E6B2537-seeklogo.com.gif",
+          "created_at": "2020-09-10T14:54:46Z",
+          "video_url": null,
+          "source": {
+            "name": "MarketBeat.com",
+            "website": "https://www.marketbeat.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": false
+      }
+    },
+    {
+      "id": 242783081,
+      "body": "Is this good for your portfolio? $ZION&#39;s price moved below its 50-day Moving Average on September 8, 2020. View odds for this and other indicators: https://srnk.us/go/2084977",
+      "created_at": "2020-09-10T00:56:57Z",
+      "user": {
+        "id": 967528,
+        "username": "tickeron",
+        "name": "Tickeron",
+        "avatar_url": "https://avatars.stocktwits.com/production/967528/thumb-1492026736.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/967528/thumb-1492026736.png",
+        "join_date": "2017-02-23",
+        "official": true,
+        "identity": "Official",
+        "classification": [
+          "official"
+        ],
+        "followers": 3382,
+        "following": 108,
+        "ideas": 407565,
+        "watchlist_stocks_count": 0,
+        "like_count": 0,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5810,
+        "title": "Tickeron",
+        "url": "https://tickeron.com"
+      },
+      "symbols": [
+        {
+          "id": 4191,
+          "symbol": "ZION",
+          "title": "Zions Bancorp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 736
+        }
+      ],
+      "links": [
+        {
+          "title": "Tickeron - A.I. Trading With Odds of Success",
+          "url": "https://srnk.us/go/2084977",
+          "shortened_url": "https://srnk.us/go/2084977",
+          "shortened_expanded_url": "tickeron.com/ticker/ZION/?u...",
+          "description": "Our A.I.-powered algorithms generate and verify trade ideas. Invest in trends, trade with patterns, and analyze Stocks, ETFs, Mutual Funds, FOREX, Cryptos.",
+          "image": "https://tickeron.com/Img/Seo/main.png",
+          "created_at": "2020-09-10T00:56:58Z",
+          "video_url": null,
+          "source": {
+            "name": "Tickeron Inc.",
+            "website": "https://tickeron.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_242783081.",
+          "large": "https://charts.stocktwits.com/production/large_242783081.",
+          "original": "https://charts.stocktwits.com/production/original_242783081.",
+          "url": "https://charts.stocktwits.com/production/original_242783081."
+        },
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": false
+      }
+    },
+    {
+      "id": 242528734,
+      "body": "$ZION had approximately 12M USD go to the short side at 66 pct short  The Bears are on the attack  https://www.algowins.com/?wdt_column_filter[1]=ZION",
+      "created_at": "2020-09-09T03:03:04Z",
+      "user": {
+        "id": 1245096,
+        "username": "shortvolume",
+        "name": "Bear Stearns",
+        "avatar_url": "https://avatars.stocktwits.com/production/1245096/thumb-1512364607.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1245096/thumb-1512364607.png",
+        "join_date": "2017-10-29",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 3176,
+        "following": 8,
+        "ideas": 143137,
+        "watchlist_stocks_count": 8,
+        "like_count": 36,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5202,
+        "title": "algowinssv",
+        "url": "https://www.algowins.com"
+      },
+      "symbols": [
+        {
+          "id": 4191,
+          "symbol": "ZION",
+          "title": "Zions Bancorp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 736
+        }
+      ],
+      "links": [
+        {
+          "title": "Home",
+          "url": "https://www.algowins.com/?wdt_column_filter[1]=ZION",
+          "shortened_url": "https://www.algowins.com/?wdt_column_filter[1]=ZION",
+          "shortened_expanded_url": "algowins.com/",
+          "description": "Ad Space Test Indicator Spike Report 07-27-20 Algowins Discord LINK Daily short sale volume for all US Listed securities.",
+          "image": "https://www.algowins.com/wp-content/plugins/kill-adblock//images/logo.png",
+          "created_at": "2020-09-09T03:03:06Z",
+          "video_url": null,
+          "source": {
+            "name": "Algorithmic Wins!",
+            "website": "https://www.algowins.com"
+          }
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          4075697
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bearish"
+        }
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": false
+      }
+    },
+    {
+      "id": 242517567,
+      "body": "The technical rating of $ZION is bad and it also does not present a quality setup at the moment. https://www.chartmill.com/stock/analyzer/stock/ZION?key=52ac639a-c560-4b41-ab66-90ef689014fb&amp;utm_source=stocktwits&amp;utm_medium=TA&amp;utm_content=ZION&amp;utm_campaign=social_tracking",
+      "created_at": "2020-09-09T01:30:00Z",
+      "user": {
+        "id": 47688,
+        "username": "ChartMill",
+        "name": "ChartMill",
+        "avatar_url": "https://avatars.stocktwits.com/production/47688/thumb-1363343728.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/47688/thumb-1363343728.png",
+        "join_date": "2011-01-26",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 21386,
+        "following": 892,
+        "ideas": 1060519,
+        "watchlist_stocks_count": 20,
+        "like_count": 32,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1135,
+        "title": "ChartMill",
+        "url": "http://www.chartmill.com"
+      },
+      "symbols": [
+        {
+          "id": 4191,
+          "symbol": "ZION",
+          "title": "Zions Bancorp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 736
+        }
+      ],
+      "links": [
+        {
+          "title": null,
+          "url": "https://www.chartmill.com/stock/analyzer/stock/ZION?key=52ac639a-c560-4b41-ab66-90ef689014fb&utm_source=stocktwits&utm_medium=TA&utm_content=ZION&utm_campaign=social_tracking",
+          "shortened_url": "https://www.chartmill.com/stock/analyzer/stock/ZION?key=52ac639a-c560-4b41-ab66-90ef689014fb&utm_source=stocktwits&utm_medium=TA&utm_content=ZION&utm_campaign=social_tracking",
+          "shortened_expanded_url": "chartmill.com/stock/analyze...",
+          "description": null,
+          "image": null,
+          "created_at": "2020-09-09T01:30:01Z",
+          "video_url": null,
+          "source": {
+            "name": "Chartmill",
+            "website": "https://www.chartmill.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": false
+      }
+    }
+  ]
+}

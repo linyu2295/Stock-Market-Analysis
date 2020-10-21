@@ -1,0 +1,2386 @@
+{
+  "response": {
+    "status": 200
+  },
+  "symbol": {
+    "id": 12846,
+    "symbol": "MYOK",
+    "title": "MyoKardia",
+    "aliases": [],
+    "is_following": false,
+    "watchlist_count": 1940
+  },
+  "cursor": {
+    "more": true,
+    "since": 248224692,
+    "max": 248184494
+  },
+  "messages": [
+    {
+      "id": 248224692,
+      "body": "WWR, MYOK, EPR and FCEL among midday movers  $GRNQ $MYOK $WWR $EIDX $SRL \n\nhttps://newsfilter.io/a/c5372373ed0e65f32ea254a3115574d9",
+      "created_at": "2020-10-05T16:42:48Z",
+      "user": {
+        "id": 2762379,
+        "username": "Newsfilter",
+        "name": "@newsfilterio",
+        "avatar_url": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "join_date": "2019-09-01",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 7030,
+        "following": 16,
+        "ideas": 558513,
+        "watchlist_stocks_count": 1,
+        "like_count": 527,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 3964,
+          "symbol": "WWR",
+          "title": "Westwater Resources Inc",
+          "aliases": [
+            "URRE"
+          ],
+          "is_following": false,
+          "watchlist_count": 16613
+        },
+        {
+          "id": 12846,
+          "symbol": "MYOK",
+          "title": "MyoKardia",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1940
+        },
+        {
+          "id": 14700,
+          "symbol": "EIDX",
+          "title": "Eidos Therapeutics",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 329
+        },
+        {
+          "id": 14862,
+          "symbol": "GRNQ",
+          "title": "Greenpro Capital Corp",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 3009
+        },
+        {
+          "id": 15476,
+          "symbol": "SRL",
+          "title": "Scully Royalty",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 38
+        }
+      ],
+      "links": [
+        {
+          "title": "WWR, MYOK, EPR and FCEL among midday movers",
+          "url": "https://newsfilter.io/a/c5372373ed0e65f32ea254a3115574d9",
+          "shortened_url": "https://newsfilter.io/a/c5372373ed0e65f32ea254a3115574d9",
+          "shortened_expanded_url": "newsfilter.io/a/c5372373ed0...",
+          "description": "Gainers: Greenpro Capital +85%.MyoKardia +58%.Westwater Resources +53%.Eidos Therapeutics +40%.Scully Royalty +34%.Enlivex Therapeutics +28%.Humanigen +24%.Corvus Pharmaceuticals +22%.Piedmont Lithium +22%.Pulse Biosciences +22%.Losers: Nam Tai Property -23%.Cinemark -17%.FuelCell Energy -17%.Xtant Medical -13%.Allied Esports Entertainment -11%.AMC Entertainment -10%.EPR Properties -10%.DPW Holdings -10%.Luby's -9%.Pedevco -9%.",
+          "image": "https://newsfilter.io/meta-images/?url=https://storage.googleapis.com/iex/api/logos/GRNQ.png",
+          "created_at": "2020-10-05T16:42:48Z",
+          "video_url": null,
+          "source": {
+            "name": "Newsfilter",
+            "website": "https://newsfilter.io"
+          }
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          1647542
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 248221448,
+      "body": "$FEDU next leg .77 \ud83d\ude0f the longer you wait the more I hear you whine when this explodes cause you didn\u2019t get in when I alerted\ud83d\udd2a\n\nWatching $WWR $GRNQ $MYOK $EIDX",
+      "created_at": "2020-10-05T16:31:08Z",
+      "user": {
+        "id": 2973299,
+        "username": "RobbysInvestment",
+        "name": "Robby M.B.A",
+        "avatar_url": "https://avatars.stocktwits.com/production/2973299/thumb-1593898211.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2973299/thumb-1593898211.png",
+        "join_date": "2019-12-17",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 1167,
+        "following": 34,
+        "ideas": 878,
+        "watchlist_stocks_count": 8,
+        "like_count": 312,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 3964,
+          "symbol": "WWR",
+          "title": "Westwater Resources Inc",
+          "aliases": [
+            "URRE"
+          ],
+          "is_following": false,
+          "watchlist_count": 16613
+        },
+        {
+          "id": 12846,
+          "symbol": "MYOK",
+          "title": "MyoKardia",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1940
+        },
+        {
+          "id": 14120,
+          "symbol": "FEDU",
+          "title": "Four Seasons Education (Cayman) Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 640
+        },
+        {
+          "id": 14700,
+          "symbol": "EIDX",
+          "title": "Eidos Therapeutics",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 332
+        },
+        {
+          "id": 14862,
+          "symbol": "GRNQ",
+          "title": "Greenpro Capital Corp",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 3009
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 248221448,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "likes": {
+        "total": 5,
+        "user_ids": [
+          3800989,
+          1087330,
+          3986789,
+          1667345,
+          3304255
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 248220732,
+      "body": "$MYOK https://www.youtube.com/watch?v=Ocdq4oIjHUk Sending this to everyone I recommended MYOK to and didn&#39;t buy it. LOL! \n\nI&#39;d say strong, to quite strong!",
+      "created_at": "2020-10-05T16:28:36Z",
+      "user": {
+        "id": 279613,
+        "username": "CobraCapital",
+        "name": "CobraCapital",
+        "avatar_url": "https://avatars.stocktwits.com/production/279613/thumb-1386085943.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/279613/thumb-1386085943.png",
+        "join_date": "2013-11-11",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 76,
+        "following": 2,
+        "ideas": 5168,
+        "watchlist_stocks_count": 25,
+        "like_count": 779,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 12846,
+          "symbol": "MYOK",
+          "title": "MyoKardia",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1940
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 248220732,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "links": [
+        {
+          "title": "Wireless I.P.O.s - Meet the Parents",
+          "url": "https://www.youtube.com/watch?v=Ocdq4oIjHUk",
+          "shortened_url": "https://www.youtube.com/watch?v=Ocdq4oIjHUk",
+          "shortened_expanded_url": "youtube.com/watch?v=Ocdq4oI...",
+          "description": "Some great lines by Kevin (Owen Wilson) in the movie \"Meet the Parents.\" This scene really cracks me up.",
+          "image": "https://i.ytimg.com/vi/Ocdq4oIjHUk/hqdefault.jpg",
+          "created_at": "2020-10-05T16:28:37Z",
+          "video_url": "//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FOcdq4oIjHUk%3Ffeature%3Doembed=YouTube=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DOcdq4oIjHUk=https%3A%2F%2Fi.ytimg.com%2Fvi%2FOcdq4oIjHUk%2Fhqdefault.jpg=799f78c4081511e084894040444cdc60=text%2Fhtml=youtube",
+          "source": {
+            "name": "YouTube",
+            "website": "https://www.youtube.com/"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 248219890,
+      "body": "BofA $MYOK : $BMY to acquire MYOK for 61% premium; change to No Rating \n$BMY has agreed to acquire  $MYOK at 61% premium for $225/sh or $13.1bn in cash; Deal expected to close in 4Q. We change to No Rating as the stock is no longer trading on its fundamentals",
+      "created_at": "2020-10-05T16:25:53Z",
+      "user": {
+        "id": 1703581,
+        "username": "Quantumup",
+        "name": "Quantumup",
+        "avatar_url": "https://avatars.stocktwits.com/production/1703581/thumb-1557087590.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1703581/thumb-1557087590.png",
+        "join_date": "2018-11-08",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 137,
+        "following": 0,
+        "ideas": 2263,
+        "watchlist_stocks_count": 82,
+        "like_count": 179,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 4559,
+          "symbol": "BMY",
+          "title": "Bristol-Myers Squibb Company",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 14536
+        },
+        {
+          "id": 12846,
+          "symbol": "MYOK",
+          "title": "MyoKardia",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1940
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 248217820,
+      "body": "MYOK Swings Higher on Buyout Buzz $BMY $MYOK https://talkmarkets.com/content/stocks--equities/myok-swings-higher-on-buyout-buzz?post=280137",
+      "created_at": "2020-10-05T16:18:42Z",
+      "user": {
+        "id": 296805,
+        "username": "TalkMarkets",
+        "name": "TalkMarkets",
+        "avatar_url": "https://avatars.stocktwits.com/production/296805/thumb-1388900805.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/296805/thumb-1388900805.png",
+        "join_date": "2014-01-05",
+        "official": true,
+        "identity": "Official",
+        "classification": [
+          "official"
+        ],
+        "followers": 28872,
+        "following": 325,
+        "ideas": 259706,
+        "watchlist_stocks_count": 0,
+        "like_count": 408,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1644,
+        "title": "TalkMarkets",
+        "url": "http://talkmarkets.com"
+      },
+      "symbols": [
+        {
+          "id": 4559,
+          "symbol": "BMY",
+          "title": "Bristol-Myers Squibb Company",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 14534
+        },
+        {
+          "id": 12846,
+          "symbol": "MYOK",
+          "title": "MyoKardia",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1914
+        }
+      ],
+      "links": [
+        {
+          "title": "MYOK Swings Higher on Buyout Buzz",
+          "url": "https://talkmarkets.com/content/stocks--equities/myok-swings-higher-on-buyout-buzz?post=280137",
+          "shortened_url": "https://talkmarkets.com/content/stocks--equities/myok-swings-higher-on-buyout-buzz?post=280137",
+          "shortened_expanded_url": "talkmarkets.com/content/sto...",
+          "description": "Bristol-Meyers Squibb (BMY) announced this morning that it was buying heart drug developer MyoKardia Inc (Nasdaq: MYOK) for $13 billion, or $225 per share in cash, as a way to boost its portfolio of heart disease treatments. The shares of MYOK are trading at a record high in response, up 58.3% at $220.92 at last check.",
+          "image": "https://schaeffers-cdn.s3.amazonaws.com/images/default-source/schaeffers-cdn-images/default-images/charts/upcloud_chart.jpg?sfvrsn=1706e906_6",
+          "created_at": "2020-10-05T16:18:43Z",
+          "video_url": null,
+          "source": {
+            "name": "TalkMarkets",
+            "website": "https://talkmarkets.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": false
+      }
+    },
+    {
+      "id": 248216438,
+      "body": "50 Stocks Moving In Monday&#39;s Mid-Day Session  $MYOK $EIDX $SRL $WWR $HGEN \n\nhttps://newsfilter.io/a/a5df9ea2275826c02fd9a7e083ac3b96",
+      "created_at": "2020-10-05T16:13:49Z",
+      "user": {
+        "id": 2762379,
+        "username": "Newsfilter",
+        "name": "@newsfilterio",
+        "avatar_url": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "join_date": "2019-09-01",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 7030,
+        "following": 16,
+        "ideas": 558513,
+        "watchlist_stocks_count": 1,
+        "like_count": 527,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 3964,
+          "symbol": "WWR",
+          "title": "Westwater Resources Inc",
+          "aliases": [
+            "URRE"
+          ],
+          "is_following": false,
+          "watchlist_count": 16403
+        },
+        {
+          "id": 12846,
+          "symbol": "MYOK",
+          "title": "MyoKardia",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1914
+        },
+        {
+          "id": 14700,
+          "symbol": "EIDX",
+          "title": "Eidos Therapeutics",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 329
+        },
+        {
+          "id": 15476,
+          "symbol": "SRL",
+          "title": "Scully Royalty",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 38
+        },
+        {
+          "id": 15909,
+          "symbol": "HGEN",
+          "title": "Humanigen",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 490
+        }
+      ],
+      "links": [
+        {
+          "title": "50 Stocks Moving In Monday's Mid-Day Session",
+          "url": "https://newsfilter.io/a/a5df9ea2275826c02fd9a7e083ac3b96",
+          "shortened_url": "https://newsfilter.io/a/a5df9ea2275826c02fd9a7e083ac3b96",
+          "shortened_expanded_url": "newsfilter.io/a/a5df9ea2275...",
+          "description": "MyoKardia, Inc. (NASDAQ: MYOK) shares climbed 58.2% to $220.80 after Bristol-Myers Squibb announced a multi-billion dollar deal to buy cardio-focused biopharma Myokardia. Eidos Therapeutics, Inc. (NASDAQ: EIDX) gained 43% to $74.22 after the company announced it would be acquired by BridgeBio for $73.26 per share. Scully Royalty Ltd.",
+          "image": "https://newsfilter.io/meta-images/?url=https://storage.googleapis.com/iex/api/logos/MYOK.png",
+          "created_at": "2020-10-05T16:13:50Z",
+          "video_url": null,
+          "source": {
+            "name": "Newsfilter",
+            "website": "https://newsfilter.io"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 248216436,
+      "body": "Mid-Day Market Update: Crude Oil Jumps 7%; Nam Tai Property Shares Plunge  $PLL $LTHM $BMY $MYOK $EIDX \n\nhttps://newsfilter.io/a/a187cc338abb5e0ad0811b5fa1564201",
+      "created_at": "2020-10-05T16:13:49Z",
+      "user": {
+        "id": 2762379,
+        "username": "Newsfilter",
+        "name": "@newsfilterio",
+        "avatar_url": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "join_date": "2019-09-01",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 7030,
+        "following": 16,
+        "ideas": 558513,
+        "watchlist_stocks_count": 1,
+        "like_count": 527,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 4559,
+          "symbol": "BMY",
+          "title": "Bristol-Myers Squibb Company",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 14534
+        },
+        {
+          "id": 6821,
+          "symbol": "PLL",
+          "title": "Piedmont Lithium",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 4178
+        },
+        {
+          "id": 12846,
+          "symbol": "MYOK",
+          "title": "MyoKardia",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1914
+        },
+        {
+          "id": 14700,
+          "symbol": "EIDX",
+          "title": "Eidos Therapeutics",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 329
+        },
+        {
+          "id": 14849,
+          "symbol": "LTHM",
+          "title": "Livent",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 2196
+        }
+      ],
+      "links": [
+        {
+          "title": "Mid-Day Market Update: Crude Oil Jumps 7%; Nam Tai Property Shares Plunge",
+          "url": "https://newsfilter.io/a/a187cc338abb5e0ad0811b5fa1564201",
+          "shortened_url": "https://newsfilter.io/a/a187cc338abb5e0ad0811b5fa1564201",
+          "shortened_expanded_url": "newsfilter.io/a/a187cc338ab...",
+          "description": "Midway through trading Monday, the Dow traded up 1.31% to 28045.99 while the NASDAQ rose 1.68% to 11260.83. The S&P also rose, gaining 1.36% to 3,394.04. The U.S. has the highest number of coronavirus cases and deaths in the world, reporting a total of 7,418,730 cases with around 209,730...",
+          "image": "https://newsfilter.io/meta-images/?url=https://storage.googleapis.com/iex/api/logos/PLL.png",
+          "created_at": "2020-10-05T16:13:50Z",
+          "video_url": null,
+          "source": {
+            "name": "Newsfilter",
+            "website": "https://newsfilter.io"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 248216333,
+      "body": "$FEDU squeeze themmm\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 going to explode on this volume!! \ud83d\ude80 \n\nWatching $GRNQ $MYOK $WWR $EIDX",
+      "created_at": "2020-10-05T16:13:30Z",
+      "user": {
+        "id": 1087330,
+        "username": "DrMarc",
+        "name": "Marc",
+        "avatar_url": "https://avatars.stocktwits.com/production/1087330/thumb-1593322337.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1087330/thumb-1593322337.png",
+        "join_date": "2017-06-09",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 3026,
+        "following": 73,
+        "ideas": 1800,
+        "watchlist_stocks_count": 10,
+        "like_count": 933,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 3964,
+          "symbol": "WWR",
+          "title": "Westwater Resources Inc",
+          "aliases": [
+            "URRE"
+          ],
+          "is_following": false,
+          "watchlist_count": 16403
+        },
+        {
+          "id": 12846,
+          "symbol": "MYOK",
+          "title": "MyoKardia",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1927
+        },
+        {
+          "id": 14120,
+          "symbol": "FEDU",
+          "title": "Four Seasons Education (Cayman) Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 597
+        },
+        {
+          "id": 14700,
+          "symbol": "EIDX",
+          "title": "Eidos Therapeutics",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 329
+        },
+        {
+          "id": 14862,
+          "symbol": "GRNQ",
+          "title": "Greenpro Capital Corp",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 2949
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 248216333,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "likes": {
+        "total": 3,
+        "user_ids": [
+          1667345,
+          1452012,
+          3304255
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 248212608,
+      "body": "Mid-Day Top 5 Gainers Report: \n$TMX (170%) \n$GRNQ (82%) \n$MYOK (58%) \n$ARTL (44%) \n$EIDX (41%)",
+      "created_at": "2020-10-05T16:01:04Z",
+      "user": {
+        "id": 2942797,
+        "username": "tradethehalt",
+        "name": "Trade The Halt",
+        "avatar_url": "https://avatars.stocktwits.com/production/2942797/thumb-1596040003.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2942797/thumb-1596040003.png",
+        "join_date": "2019-12-01",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 6950,
+        "following": 0,
+        "ideas": 19729,
+        "watchlist_stocks_count": 0,
+        "like_count": 158,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5874,
+        "title": "Trade The Halt v3",
+        "url": "https://app.tradethehalt.com"
+      },
+      "symbols": [
+        {
+          "id": 7439,
+          "symbol": "TMX",
+          "title": "Telefonos de Mexico, S.A.B. de C.V.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 23
+        },
+        {
+          "id": 12846,
+          "symbol": "MYOK",
+          "title": "MyoKardia",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1914
+        },
+        {
+          "id": 14700,
+          "symbol": "EIDX",
+          "title": "Eidos Therapeutics",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 329
+        },
+        {
+          "id": 14862,
+          "symbol": "GRNQ",
+          "title": "Greenpro Capital Corp",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 2949
+        },
+        {
+          "id": 15424,
+          "symbol": "ARTL",
+          "title": "Artelo Biosciences",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 2662
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          4146283
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": false
+      }
+    },
+    {
+      "id": 248212238,
+      "body": "$MYOK @StockJester are you holding out for the completion of the merger? Any ideas on the next one?",
+      "created_at": "2020-10-05T15:59:52Z",
+      "user": {
+        "id": 279613,
+        "username": "CobraCapital",
+        "name": "CobraCapital",
+        "avatar_url": "https://avatars.stocktwits.com/production/279613/thumb-1386085943.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/279613/thumb-1386085943.png",
+        "join_date": "2013-11-11",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 76,
+        "following": 2,
+        "ideas": 5168,
+        "watchlist_stocks_count": 25,
+        "like_count": 779,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 12846,
+          "symbol": "MYOK",
+          "title": "MyoKardia",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1914
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 248212238,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          4146283
+        ]
+      },
+      "mentioned_users": [
+        "@StockJester"
+      ],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 248210001,
+      "body": "\u27a0 TREN\u0110 FLOW \u26a1\ufe0e  @ 11:50am EST\nThese symbols are currently trending across multiple platforms including discord, stocktwits, twitter and more...\n\n1. $REGN\n2. $MYOK\n3. $XPEV\n4. $PLUG\n5. $WWR\n6. SQ\n7. GRNQ\n8. CRVS\n9. AMD\n10. DOCU",
+      "created_at": "2020-10-05T15:52:04Z",
+      "user": {
+        "id": 1441018,
+        "username": "WickedSplits",
+        "name": "\u0506\u01b8\ufe0e\u039bL-TI\u04cdE FIN\u039bNCI\u039bL VI\u0179",
+        "avatar_url": "https://avatars.stocktwits.com/production/1441018/thumb-1595382842.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1441018/thumb-1595382842.png",
+        "join_date": "2018-03-12",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 873,
+        "following": 9,
+        "ideas": 5036,
+        "watchlist_stocks_count": 4,
+        "like_count": 48,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 3158,
+          "symbol": "PLUG",
+          "title": "Plug Power Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 73111
+        },
+        {
+          "id": 3356,
+          "symbol": "REGN",
+          "title": "Regeneron Pharmaceuticals, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 13218
+        },
+        {
+          "id": 3964,
+          "symbol": "WWR",
+          "title": "Westwater Resources Inc",
+          "aliases": [
+            "URRE"
+          ],
+          "is_following": false,
+          "watchlist_count": 16403
+        },
+        {
+          "id": 12846,
+          "symbol": "MYOK",
+          "title": "MyoKardia",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1914
+        },
+        {
+          "id": 15842,
+          "symbol": "XPEV",
+          "title": "XPENG INC.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 8641
+        }
+      ],
+      "likes": {
+        "total": 2,
+        "user_ids": [
+          3326188,
+          4146283
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 248209006,
+      "body": "$MYOK look so wonderful today!",
+      "created_at": "2020-10-05T15:48:36Z",
+      "user": {
+        "id": 4107545,
+        "username": "Dedin9",
+        "name": "Dedin9",
+        "avatar_url": "https://avatars.stocktwits.com/production/4107545/thumb-1601907079.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/4107545/thumb-1601907079.png",
+        "join_date": "2020-09-25",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 11,
+        "following": 22,
+        "ideas": 33,
+        "watchlist_stocks_count": 0,
+        "like_count": 41,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 12846,
+          "symbol": "MYOK",
+          "title": "MyoKardia",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1940
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 248209006,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "likes": {
+        "total": 3,
+        "user_ids": [
+          4146283,
+          4146312,
+          4126509
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 248205718,
+      "body": "$FEDU added!! Education plays on fire\ud83d\udea8\ud83d\udea8\ud83d\udea8 watching $GRNQ $MYOK",
+      "created_at": "2020-10-05T15:38:00Z",
+      "user": {
+        "id": 1087330,
+        "username": "DrMarc",
+        "name": "Marc",
+        "avatar_url": "https://avatars.stocktwits.com/production/1087330/thumb-1593322337.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1087330/thumb-1593322337.png",
+        "join_date": "2017-06-09",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 3026,
+        "following": 73,
+        "ideas": 1800,
+        "watchlist_stocks_count": 10,
+        "like_count": 924,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 12846,
+          "symbol": "MYOK",
+          "title": "MyoKardia",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1914
+        },
+        {
+          "id": 14120,
+          "symbol": "FEDU",
+          "title": "Four Seasons Education (Cayman) Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 597
+        },
+        {
+          "id": 14862,
+          "symbol": "GRNQ",
+          "title": "Greenpro Capital Corp",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 2949
+        }
+      ],
+      "likes": {
+        "total": 4,
+        "user_ids": [
+          3648803,
+          2973299,
+          1667345,
+          4146312
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 248204729,
+      "body": "\ud83d\udd25Top Gainers: $GRNQ $MYOK $EIDX $SRL $HGEN \ud83d\udd25",
+      "created_at": "2020-10-05T15:34:44Z",
+      "user": {
+        "id": 2814628,
+        "username": "NoremacNewellTrading_",
+        "name": "Noremac Newell Trading",
+        "avatar_url": "https://avatars.stocktwits.com/production/2814628/thumb-1568814361.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2814628/thumb-1568814361.png",
+        "join_date": "2019-09-17",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 2956,
+        "following": 13,
+        "ideas": 1607,
+        "watchlist_stocks_count": 0,
+        "like_count": 193,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 12846,
+          "symbol": "MYOK",
+          "title": "MyoKardia",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1914
+        },
+        {
+          "id": 14700,
+          "symbol": "EIDX",
+          "title": "Eidos Therapeutics",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 326
+        },
+        {
+          "id": 14862,
+          "symbol": "GRNQ",
+          "title": "Greenpro Capital Corp",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 2860
+        },
+        {
+          "id": 15476,
+          "symbol": "SRL",
+          "title": "Scully Royalty",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 36
+        },
+        {
+          "id": 15909,
+          "symbol": "HGEN",
+          "title": "Humanigen",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 488
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_248204729.png",
+          "large": "https://charts.stocktwits.com/production/large_248204729.png",
+          "original": "https://charts.stocktwits.com/production/original_248204729.png",
+          "url": "https://charts.stocktwits.com/production/original_248204729.png"
+        },
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 248201249,
+      "body": "Our cursory review of the $BMY acquisition of $MYOK to assess the amounts paid as multiples of estimated peak sales.\n\n$XLRN $GBT $BPMC \n\nhttps://www.youtube.com/watch?v=Y6yzrEvJ6Wg",
+      "created_at": "2020-10-05T15:23:04Z",
+      "user": {
+        "id": 2228201,
+        "username": "Boston_Investor",
+        "name": "PEJ",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2019-07-28",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 237,
+        "following": 12,
+        "ideas": 975,
+        "watchlist_stocks_count": 11,
+        "like_count": 463,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 4559,
+          "symbol": "BMY",
+          "title": "Bristol-Myers Squibb Company",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 14536
+        },
+        {
+          "id": 11572,
+          "symbol": "XLRN",
+          "title": "Acceleron Pharma, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1523
+        },
+        {
+          "id": 12581,
+          "symbol": "BPMC",
+          "title": "Blueprint Medicines",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1308
+        },
+        {
+          "id": 12761,
+          "symbol": "GBT",
+          "title": "Global Blood Therapeutics",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 4419
+        },
+        {
+          "id": 12846,
+          "symbol": "MYOK",
+          "title": "MyoKardia",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1940
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 248201249,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "links": [
+        {
+          "title": "Analysis of Bristol-Myers Squibb's (BMY) Acquisition of MyoKardia, Inc. (MYOK) dated October 5, 2020",
+          "url": "https://www.youtube.com/watch?v=Y6yzrEvJ6Wg",
+          "shortened_url": "https://www.youtube.com/watch?v=Y6yzrEvJ6Wg",
+          "shortened_expanded_url": "youtube.com/watch?v=Y6yzrEv...",
+          "description": "The following is a simple analysis of Bristol-Myers Squibb's acquisition of MyoKardia, Inc. announced this morning October 5, 2020 as a multiple of estimated...",
+          "image": "https://i.ytimg.com/vi/Y6yzrEvJ6Wg/hqdefault.jpg",
+          "created_at": "2020-10-05T15:23:05Z",
+          "video_url": "//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FY6yzrEvJ6Wg%3Ffeature%3Doembed=YouTube=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DY6yzrEvJ6Wg=https%3A%2F%2Fi.ytimg.com%2Fvi%2FY6yzrEvJ6Wg%2Fhqdefault.jpg=799f78c4081511e084894040444cdc60=text%2Fhtml=youtube",
+          "source": {
+            "name": "YouTube",
+            "website": "https://www.youtube.com/"
+          }
+        }
+      ],
+      "likes": {
+        "total": 2,
+        "user_ids": [
+          1060133,
+          1220442
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 248201134,
+      "body": "(MYOK) Alert: Johnson Fistel Investigates Proposed Sale of MyoKardia; Is $225 a Fair Price? https://marketwirenews.com/articles/-myok-alert-johnson-fistel-investigates-proposed-sal-8142813907556659.html?i=c $MYOK News Article",
+      "created_at": "2020-10-05T15:22:40Z",
+      "user": {
+        "id": 2847651,
+        "username": "GreenBendick",
+        "name": "Bendick Greenor",
+        "avatar_url": "https://avatars.stocktwits.com/production/2847651/thumb-1571318094.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2847651/thumb-1571318094.png",
+        "join_date": "2019-10-07",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 33,
+        "following": 4,
+        "ideas": 3436,
+        "watchlist_stocks_count": 2,
+        "like_count": 0,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5010,
+        "title": "Stock Twits Api Login",
+        "url": "https://momogains.com"
+      },
+      "symbols": [
+        {
+          "id": 12846,
+          "symbol": "MYOK",
+          "title": "MyoKardia",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1914
+        }
+      ],
+      "links": [
+        {
+          "title": "(MYOK) Alert: Johnson Fistel Investigates Proposed Sale of MyoKardia; Is $225 a Fair Price?",
+          "url": "https://marketwirenews.com/articles/-myok-alert-johnson-fistel-investigates-proposed-sal-8142813907556659.html?i=c",
+          "shortened_url": "https://marketwirenews.com/articles/-myok-alert-johnson-fistel-investigates-proposed-sal-8142813907556659.html?i=c",
+          "shortened_expanded_url": "marketwirenews.com/news-rel...",
+          "description": "SAN DIEGO , Oct. 5, 2020 /PRNewswire/ -- Shareholder rights law firm Johnson Fistel, LLP has launched an investigation into whether the board members of MyoKardia, Inc. (\"MyoKardia\" or the \"Company\") (NASDAQ: MYOK) breached their fiduciary duties in connection with the proposed sale of the Company to Bristol Myers Squibb (NYSE: BMY).",
+          "image": "https://assets.marketwirenews.com/img/stock-breaking-news.jpg",
+          "created_at": "2020-10-05T15:22:42Z",
+          "video_url": null,
+          "source": {
+            "name": "Market Wire News",
+            "website": "https://marketwirenews.com"
+          }
+        }
+      ],
+      "reshares": {
+        "reshared_count": 1,
+        "user_ids": [
+          679543
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": false
+      }
+    },
+    {
+      "id": 248199395,
+      "body": "Does &#39;Aggressive&#39; Bristol-Myers Have the Right Prescription for Investors? $MRK $SGEN $BMY $MYOK  https://realmoney.thestreet.com/investing/stocks/does-aggressive-bristol-myers-have-the-right-prescription-for-investors--15449628",
+      "created_at": "2020-10-05T15:17:10Z",
+      "user": {
+        "id": 286647,
+        "username": "Sarge986",
+        "name": "Stephen Guilfoyle",
+        "avatar_url": "https://avatars.stocktwits.com/production/286647/thumb-1502440767.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/286647/thumb-1502440767.png",
+        "join_date": "2013-12-02",
+        "official": true,
+        "identity": "Official",
+        "classification": [
+          "suggested",
+          "official"
+        ],
+        "followers": 651,
+        "following": 31,
+        "ideas": 4616,
+        "watchlist_stocks_count": 40,
+        "like_count": 91,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 3506,
+          "symbol": "SGEN",
+          "title": "Seattle Genetics Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 3940
+        },
+        {
+          "id": 4559,
+          "symbol": "BMY",
+          "title": "Bristol-Myers Squibb Company",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 14534
+        },
+        {
+          "id": 6368,
+          "symbol": "MRK",
+          "title": "Merck & Co. Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 13109
+        },
+        {
+          "id": 12846,
+          "symbol": "MYOK",
+          "title": "MyoKardia",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1914
+        }
+      ],
+      "links": [
+        {
+          "title": "Does 'Aggressive' Bristol-Myers Have the Right Prescription for Investors?",
+          "url": "https://realmoney.thestreet.com/investing/stocks/does-aggressive-bristol-myers-have-the-right-prescription-for-investors--15449628",
+          "shortened_url": "https://realmoney.thestreet.com/investing/stocks/does-aggressive-bristol-myers-have-the-right-prescription-for-investors--15449628",
+          "shortened_expanded_url": "realmoney.thestreet.com/inv...",
+          "description": "What was it, a month ago? Not even. I looked it up. I am referring to the Merck ( MRK) deal or deals with Seattle Genetics ( SGEN) . While Seattle Genetics remains an independent company in the wake of those agreements, Merck did become an investor in that firm at a premium while doing what larger pharmaceutical names always do when they need to.",
+          "image": "http://s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/3bae178e-0f61-11e9-8ba1-5789fc3b23ec.jpg",
+          "created_at": "2020-10-05T15:17:10Z",
+          "video_url": null,
+          "source": {
+            "name": "RealMoney",
+            "website": "https://realmoney.thestreet.com"
+          }
+        }
+      ],
+      "likes": {
+        "total": 2,
+        "user_ids": [
+          4135022,
+          4146528
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 248197498,
+      "body": "UPDATE 3-Bristol Myers expands heart drug business with $13 bln deal for MyoKardia\n\u2014 Reuters\n$MYOK",
+      "created_at": "2020-10-05T15:11:07Z",
+      "user": {
+        "id": 1171931,
+        "username": "Faws",
+        "name": "Faws.com",
+        "avatar_url": "https://avatars.stocktwits.com/production/1171931/thumb-1504728208.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1171931/thumb-1504728208.png",
+        "join_date": "2017-08-29",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 959,
+        "following": 0,
+        "ideas": 57588,
+        "watchlist_stocks_count": 0,
+        "like_count": 0,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 3541,
+        "title": "Faws",
+        "url": "https://faws.com"
+      },
+      "symbols": [
+        {
+          "id": 12846,
+          "symbol": "MYOK",
+          "title": "MyoKardia",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1914
+        }
+      ],
+      "likes": {
+        "total": 2,
+        "user_ids": [
+          4146528,
+          4146312
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": false
+      }
+    },
+    {
+      "id": 248197060,
+      "body": "Bristol Myers expands heart drug business with $13 billion deal for MyoKardia  $BMY $MYOK $MRK \n\nhttps://newsfilter.io/a/bc1ec2714617ede47400b068a5c604e8",
+      "created_at": "2020-10-05T15:09:43Z",
+      "user": {
+        "id": 2762379,
+        "username": "Newsfilter",
+        "name": "@newsfilterio",
+        "avatar_url": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "join_date": "2019-09-01",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 7029,
+        "following": 16,
+        "ideas": 558513,
+        "watchlist_stocks_count": 1,
+        "like_count": 527,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 4559,
+          "symbol": "BMY",
+          "title": "Bristol-Myers Squibb Company",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 14534
+        },
+        {
+          "id": 6368,
+          "symbol": "MRK",
+          "title": "Merck & Co. Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 13109
+        },
+        {
+          "id": 12846,
+          "symbol": "MYOK",
+          "title": "MyoKardia",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1914
+        }
+      ],
+      "links": [
+        {
+          "title": "Bristol Myers expands heart drug business with $13 billion deal for MyoKardia",
+          "url": "https://newsfilter.io/a/bc1ec2714617ede47400b068a5c604e8",
+          "shortened_url": "https://newsfilter.io/a/bc1ec2714617ede47400b068a5c604e8",
+          "shortened_expanded_url": "newsfilter.io/a/bc1ec271461...",
+          "description": "(Reuters) - Bristol Myers Squibb Co said on Monday it would buy MyoKardia Inc for about $13 billion to bolster its portfolio of heart disease treatments, as it seeks to reduce some of its dependence on cancer drugs.",
+          "image": "https://s3.reutersmedia.net/resources/r/?m=02&d=20201005&t=2&i=1536207012&&fh=&fw=&ll=&pl=&sq=&r=LYNXMPEG9410Q",
+          "created_at": "2020-10-05T15:09:44Z",
+          "video_url": null,
+          "source": {
+            "name": "Newsfilter",
+            "website": "https://newsfilter.io"
+          }
+        }
+      ],
+      "likes": {
+        "total": 2,
+        "user_ids": [
+          4146528,
+          4146312
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 248196857,
+      "body": "$BE, $GAN and $MYOK are the top gainers in the Russel 2000 for the day. https://www.chartmill.com/stock/stock-screener?v=3&amp;f=ind_18&amp;s=pt&amp;utm_source=stocktwits&amp;utm_medium=screener&amp;utm_content=Stock_Screener:_top_Russel_2000_gainers&amp;utm_campaign=social_tracking",
+      "created_at": "2020-10-05T15:09:00Z",
+      "user": {
+        "id": 47688,
+        "username": "ChartMill",
+        "name": "ChartMill",
+        "avatar_url": "https://avatars.stocktwits.com/production/47688/thumb-1363343728.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/47688/thumb-1363343728.png",
+        "join_date": "2011-01-26",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 21399,
+        "following": 892,
+        "ideas": 1061480,
+        "watchlist_stocks_count": 20,
+        "like_count": 32,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1135,
+        "title": "ChartMill",
+        "url": "http://www.chartmill.com"
+      },
+      "symbols": [
+        {
+          "id": 12846,
+          "symbol": "MYOK",
+          "title": "MyoKardia",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1914
+        },
+        {
+          "id": 14722,
+          "symbol": "BE",
+          "title": "Bloom Energy Corp",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 7217
+        },
+        {
+          "id": 15606,
+          "symbol": "GAN",
+          "title": "GAN Limited",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 6191
+        }
+      ],
+      "links": [
+        {
+          "title": null,
+          "url": "https://www.chartmill.com/stock/stock-screener?v=3&f=ind_18&s=pt&utm_source=stocktwits&utm_medium=screener&utm_content=Stock_Screener:_top_Russel_2000_gainers&utm_campaign=social_tracking",
+          "shortened_url": "https://www.chartmill.com/stock/stock-screener?v=3&f=ind_18&s=pt&utm_source=stocktwits&utm_medium=screener&utm_content=Stock_Screener:_top_Russel_2000_gainers&utm_campaign=social_tracking",
+          "shortened_expanded_url": "chartmill.com/stock/stock-s...",
+          "description": null,
+          "image": null,
+          "created_at": "2020-10-05T15:09:00Z",
+          "video_url": null,
+          "source": {
+            "name": "Chartmill",
+            "website": "https://www.chartmill.com"
+          }
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          4146312
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": false
+      }
+    },
+    {
+      "id": 248196173,
+      "body": "Bristol Myers Squibb to Acquire MyoKardia for $13.1 Billion in Cash https://marketwirenews.com/articles/bristol-myers-squibb-to-acquire-myokardia-for-13-1-b-6714571634044809.html?i=c $MYOK News out",
+      "created_at": "2020-10-05T15:06:44Z",
+      "user": {
+        "id": 2848324,
+        "username": "HailDaHall",
+        "name": "Hailey Hall",
+        "avatar_url": "https://avatars.stocktwits.com/production/2848324/thumb-1570484839.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2848324/thumb-1570484839.png",
+        "join_date": "2019-10-07",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 25,
+        "following": 0,
+        "ideas": 3391,
+        "watchlist_stocks_count": 2,
+        "like_count": 0,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5010,
+        "title": "Stock Twits Api Login",
+        "url": "https://momogains.com"
+      },
+      "symbols": [
+        {
+          "id": 12846,
+          "symbol": "MYOK",
+          "title": "MyoKardia",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1908
+        }
+      ],
+      "links": [
+        {
+          "title": "Bristol Myers Squibb to Acquire MyoKardia for $13.1 Billion in Cash",
+          "url": "https://marketwirenews.com/articles/bristol-myers-squibb-to-acquire-myokardia-for-13-1-b-6714571634044809.html?i=c",
+          "shortened_url": "https://marketwirenews.com/articles/bristol-myers-squibb-to-acquire-myokardia-for-13-1-b-6714571634044809.html?i=c",
+          "shortened_expanded_url": "marketwirenews.com/news-rel...",
+          "description": "Mavacamten Is a Potential First-in-Class Medicine with Compelling Data in the Treatment of Patients with Symptomatic Obstructive Hypertrophic Cardiomyopathy Mavacamten Will Be a Medium- and Long-Term Growth Driver Presenting a Significant Commercial Opportunity upon Approval Promising Portfolio of Pipeline Candidates Strengthens and Extends Bristol Myers Squibb's Leading Cardiovascular Franchise Expected to be Accretive to Non-GAAP Earnings Starting in 2023 Bristol Myers Squibb (NYSE: BMY) and MyoKardia, Inc.",
+          "image": "https://assets.marketwirenews.com/img/stock-breaking-news.jpg",
+          "created_at": "2020-10-05T15:06:46Z",
+          "video_url": null,
+          "source": {
+            "name": "Market Wire News",
+            "website": "https://marketwirenews.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": false
+      }
+    },
+    {
+      "id": 248194086,
+      "body": "$MYOK Holy fuck",
+      "created_at": "2020-10-05T14:59:59Z",
+      "user": {
+        "id": 4045567,
+        "username": "StonkMorty",
+        "name": "StonkMorty",
+        "avatar_url": "https://avatars.stocktwits.com/production/4045567/thumb-1601731772.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/4045567/thumb-1601731772.png",
+        "join_date": "2020-09-04",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 3,
+        "following": 0,
+        "ideas": 72,
+        "watchlist_stocks_count": 9,
+        "like_count": 57,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2095,
+        "title": "StockTwits For Android ",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 12846,
+          "symbol": "MYOK",
+          "title": "MyoKardia",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1914
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          4146312
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 248193483,
+      "body": "$BMY&#39;s cardiovascular portfolio has stronger heartbeat with acquisition of $MYOK https://www.briefing.com/#IN20201005104009BMY",
+      "created_at": "2020-10-05T14:58:01Z",
+      "user": {
+        "id": 8115,
+        "username": "briefingcom",
+        "name": "Briefingcom",
+        "avatar_url": "https://avatars.stocktwits.com/production/8115/thumb-1340802633.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/8115/thumb-1340802633.png",
+        "join_date": "2010-01-25",
+        "official": true,
+        "identity": "Official",
+        "classification": [
+          "official"
+        ],
+        "followers": 85554,
+        "following": 818,
+        "ideas": 77648,
+        "watchlist_stocks_count": 8,
+        "like_count": 65,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 4559,
+          "symbol": "BMY",
+          "title": "Bristol-Myers Squibb Company",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 14532
+        },
+        {
+          "id": 12846,
+          "symbol": "MYOK",
+          "title": "MyoKardia",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1908
+        }
+      ],
+      "links": [
+        {
+          "title": "Briefing.com",
+          "url": "https://www.briefing.com/#IN20201005104009BMY",
+          "shortened_url": "https://www.briefing.com/#IN20201005104009BMY",
+          "shortened_expanded_url": "briefing.com/",
+          "description": "Futures take a hit overnight in response to President Trump and the First Lady testing positive for covid-19. Employment data disappoints adding to the weakness as the final quarter of the year gets underway.Expectations for October ahead of the US Election in early November are choppy at best.",
+          "image": null,
+          "created_at": "2020-10-05T14:58:01Z",
+          "video_url": null,
+          "source": {
+            "name": "Briefing",
+            "website": "https://www.briefing.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 248192953,
+      "body": "$IBB My June buys have turned back to green in case you were following that trade.  Doesn&#39;t mean it will continue for reasons I&#39;ve covered (see pr).  Testing just above the prior lower high.  Volume is not stupendous.  News today helped with $REGN (#Trump on their Ab cocktail) and $BMY buyout of $MYOK.",
+      "created_at": "2020-10-05T14:56:34Z",
+      "user": {
+        "id": 15302,
+        "username": "SunAndStorm",
+        "name": "David Durand",
+        "avatar_url": "https://avatars.stocktwits.com/production/15302/thumb-1393022401.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/15302/thumb-1393022401.png",
+        "join_date": "2010-05-18",
+        "official": false,
+        "identity": "User",
+        "classification": [
+          "suggested"
+        ],
+        "followers": 32463,
+        "following": 5,
+        "ideas": 36315,
+        "watchlist_stocks_count": 69,
+        "like_count": 573,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 2213,
+          "symbol": "IBB",
+          "title": "iShares Nasdaq Biotechnology ETF",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 23307
+        },
+        {
+          "id": 3356,
+          "symbol": "REGN",
+          "title": "Regeneron Pharmaceuticals, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 13218
+        },
+        {
+          "id": 4559,
+          "symbol": "BMY",
+          "title": "Bristol-Myers Squibb Company",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 14534
+        },
+        {
+          "id": 12846,
+          "symbol": "MYOK",
+          "title": "MyoKardia",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1914
+        }
+      ],
+      "likes": {
+        "total": 4,
+        "user_ids": [
+          4141946,
+          4044805,
+          4125241,
+          4146312
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 248190561,
+      "body": "$MYOK any pullback expected? i&#39;m sure there will be some people who want to pull out some profits. Will jump in anywhere under $200",
+      "created_at": "2020-10-05T14:49:00Z",
+      "user": {
+        "id": 3849118,
+        "username": "KMKMKM",
+        "name": "KM",
+        "avatar_url": "https://avatars.stocktwits.com/production/3849118/thumb-1600802310.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3849118/thumb-1600802310.png",
+        "join_date": "2020-07-24",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 8,
+        "following": 1,
+        "ideas": 859,
+        "watchlist_stocks_count": 29,
+        "like_count": 200,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 12846,
+          "symbol": "MYOK",
+          "title": "MyoKardia",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1914
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 248190561,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 248189687,
+      "body": "Cytokinetics, Epizyme highlighted as possible M&amp;A targets after MyoKardia deal - $MYOK - http://thefly.com/permalinks/entry.php/MYOKid31701",
+      "created_at": "2020-10-05T14:46:14Z",
+      "user": {
+        "id": 29849,
+        "username": "theflynews",
+        "name": "TheFly",
+        "avatar_url": "https://avatars.stocktwits.com/production/29849/thumb-1517499041.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/29849/thumb-1517499041.png",
+        "join_date": "2010-11-17",
+        "official": true,
+        "identity": "Official",
+        "classification": [
+          "official"
+        ],
+        "followers": 164958,
+        "following": 0,
+        "ideas": 22209,
+        "watchlist_stocks_count": 1,
+        "like_count": 1,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1022,
+        "title": "Zapier",
+        "url": "https://zapier.com/"
+      },
+      "symbols": [
+        {
+          "id": 12846,
+          "symbol": "MYOK",
+          "title": "MyoKardia",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1908
+        }
+      ],
+      "links": [
+        {
+          "title": null,
+          "url": "http://thefly.com/permalinks/entry.php/MYOKid31701",
+          "shortened_url": "http://thefly.com/permalinks/entry.php/MYOKid31701",
+          "shortened_expanded_url": "thefly.com/landingPageNews....",
+          "description": "The Fly is a leading digital publisher of real-time financial news. The Fly team scours all sources of company news and delivers short-form stories consisting of only market moving content.",
+          "image": null,
+          "created_at": "2020-10-05T14:46:15Z",
+          "video_url": null,
+          "source": {
+            "name": "Thefly",
+            "website": "https://thefly.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": false
+      }
+    },
+    {
+      "id": 248188566,
+      "body": "Mid-Morning Market Update: Markets Open Higher; Bristol-Myers Squibb To Acquire MyoKardia For $13B  $LAC $LTHM $BMY $MYOK $EIDX \n\nhttps://newsfilter.io/a/608a13bf6fcc8c0f13e8fa07f79a1dca",
+      "created_at": "2020-10-05T14:42:47Z",
+      "user": {
+        "id": 2762379,
+        "username": "Newsfilter",
+        "name": "@newsfilterio",
+        "avatar_url": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "join_date": "2019-09-01",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 7024,
+        "following": 16,
+        "ideas": 558332,
+        "watchlist_stocks_count": 1,
+        "like_count": 527,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 4559,
+          "symbol": "BMY",
+          "title": "Bristol-Myers Squibb Company",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 14532
+        },
+        {
+          "id": 12846,
+          "symbol": "MYOK",
+          "title": "MyoKardia",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1908
+        },
+        {
+          "id": 14441,
+          "symbol": "LAC",
+          "title": "Lithium Americas Corp",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 8009
+        },
+        {
+          "id": 14700,
+          "symbol": "EIDX",
+          "title": "Eidos Therapeutics",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 326
+        },
+        {
+          "id": 14849,
+          "symbol": "LTHM",
+          "title": "Livent",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 2151
+        }
+      ],
+      "links": [
+        {
+          "title": "Mid-Morning Market Update: Markets Open Higher; Bristol-Myers Squibb To Acquire MyoKardia For $13B",
+          "url": "https://newsfilter.io/a/608a13bf6fcc8c0f13e8fa07f79a1dca",
+          "shortened_url": "https://newsfilter.io/a/608a13bf6fcc8c0f13e8fa07f79a1dca",
+          "shortened_expanded_url": "newsfilter.io/a/608a13bf6fc...",
+          "description": "Following the market opening Monday, the Dow traded up 1.11% to 27,987.67 while the NASDAQ rose 1.54% to 11,245.11. The S&P also rose, gaining 1.14% to 3,386.58. The U.S. has the highest number of coronavirus cases and deaths in the world, reporting a total of 7,418,730 cases with around 209,...",
+          "image": "https://newsfilter.io/meta-images/?url=https://storage.googleapis.com/iex/api/logos/LAC.png",
+          "created_at": "2020-10-05T14:42:48Z",
+          "video_url": null,
+          "source": {
+            "name": "Newsfilter",
+            "website": "https://newsfilter.io"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 248187227,
+      "body": "$GRNQ $MYOK $EIDX Among today&#39;s top runners \ud83c\udf89 like if you caught them! Be sure to drop a follow if you need any fresh ideas, we&#39;ve got you covered over here! \ud83d\udc47",
+      "created_at": "2020-10-05T14:38:57Z",
+      "user": {
+        "id": 1582078,
+        "username": "MS_Money_Moves",
+        "name": "M's",
+        "avatar_url": "https://avatars.stocktwits.com/production/1582078/thumb-1579192536.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1582078/thumb-1579192536.png",
+        "join_date": "2018-08-21",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 3216,
+        "following": 303,
+        "ideas": 7708,
+        "watchlist_stocks_count": 100,
+        "like_count": 6739,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 12846,
+          "symbol": "MYOK",
+          "title": "MyoKardia",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1914
+        },
+        {
+          "id": 14700,
+          "symbol": "EIDX",
+          "title": "Eidos Therapeutics",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 329
+        },
+        {
+          "id": 14862,
+          "symbol": "GRNQ",
+          "title": "Greenpro Capital Corp",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 2949
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 248187227,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "likes": {
+        "total": 3,
+        "user_ids": [
+          1723429,
+          2961171,
+          3408416
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 248185597,
+      "body": "$MYOK Congrats to the long &amp; science-based investors! Keep listening to Quarterly CCs and studying clinical trial designs. They pay off. \ud83e\udd11",
+      "created_at": "2020-10-05T14:33:58Z",
+      "user": {
+        "id": 890046,
+        "username": "ians",
+        "name": "Ian [Fortune Favors theBrave]",
+        "avatar_url": "https://avatars.stocktwits.com/production/890046/thumb-1506876146.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/890046/thumb-1506876146.png",
+        "join_date": "2016-11-29",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 403,
+        "following": 130,
+        "ideas": 9916,
+        "watchlist_stocks_count": 145,
+        "like_count": 15645,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 12846,
+          "symbol": "MYOK",
+          "title": "MyoKardia",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1908
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_248185597.png",
+          "large": "https://charts.stocktwits.com/production/large_248185597.png",
+          "original": "https://charts.stocktwits.com/production/original_248185597.png",
+          "url": "https://charts.stocktwits.com/production/original_248185597.png"
+        },
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 248184494,
+      "body": "Mon Oct 5th\nGaining stocks this morning:\n\n$MYOK: +58.2%\n$ENLV: +30.6%\n$EIDX: +38.7%\n$HGEN: +25.6%\n$PLSE: +18.4%\nGAN: +17.8%\nAXGT: +17.0%\nCYTK: +15.6%\nEXPI: +14.9%\nAOSL: +14.6%\n\nclick here for a visual version:\nhttps://thebubbleboard.com/?tickers=MYOK,ENLV,EIDX,HGEN,PLSE,GAN,AXGT,CYTK,EXPI,AOSL&amp;name=Oct%205th%20gainers&amp;utm_medium=bot-post",
+      "created_at": "2020-10-05T14:30:56Z",
+      "user": {
+        "id": 3628389,
+        "username": "BubbleBoard",
+        "name": "The Bubble Board",
+        "avatar_url": "https://avatars.stocktwits.com/production/3628389/thumb-1593179485.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3628389/thumb-1593179485.png",
+        "join_date": "2020-06-15",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 2241,
+        "following": 0,
+        "ideas": 2286,
+        "watchlist_stocks_count": 10,
+        "like_count": 43,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5596,
+        "title": "Test App",
+        "url": "https://torchlabs.io"
+      },
+      "symbols": [
+        {
+          "id": 12143,
+          "symbol": "ENLV",
+          "title": "ENLIVEX THERAPEUTICS ",
+          "aliases": [
+            "ORPN"
+          ],
+          "is_following": false,
+          "watchlist_count": 5912
+        },
+        {
+          "id": 12846,
+          "symbol": "MYOK",
+          "title": "MyoKardia",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1908
+        },
+        {
+          "id": 13223,
+          "symbol": "PLSE",
+          "title": "Pulse Biosciences",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1469
+        },
+        {
+          "id": 14700,
+          "symbol": "EIDX",
+          "title": "Eidos Therapeutics",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 326
+        },
+        {
+          "id": 15909,
+          "symbol": "HGEN",
+          "title": "Humanigen",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 484
+        }
+      ],
+      "links": [
+        {
+          "title": "The Bubble Board",
+          "url": "https://thebubbleboard.com/?tickers=MYOK,ENLV,EIDX,HGEN,PLSE,GAN,AXGT,CYTK,EXPI,AOSL&name=Oct%205th%20gainers&utm_medium=bot-post",
+          "shortened_url": "https://thebubbleboard.com/?tickers=MYOK,ENLV,EIDX,HGEN,PLSE,GAN,AXGT,CYTK,EXPI,AOSL&name=Oct%205th%20gainers&utm_medium=bot-post",
+          "shortened_expanded_url": "thebubbleboard.com/?tickers...",
+          "description": "A visual take on watchlists. See what your stocks are doing without hunting through a list of tickers. A better way to follow the stock market.",
+          "image": "https://thebubbleboard.com/images/twitter-card-2.png",
+          "created_at": "2020-10-05T14:30:57Z",
+          "video_url": null,
+          "source": {
+            "name": "Thebubbleboard",
+            "website": "https://thebubbleboard.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_248184494.",
+          "large": "https://charts.stocktwits.com/production/large_248184494.",
+          "original": "https://charts.stocktwits.com/production/original_248184494.",
+          "url": "https://charts.stocktwits.com/production/original_248184494."
+        },
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": false
+      }
+    }
+  ]
+}

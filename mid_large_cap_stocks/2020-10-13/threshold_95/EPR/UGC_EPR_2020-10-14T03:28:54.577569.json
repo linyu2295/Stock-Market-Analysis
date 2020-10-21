@@ -1,0 +1,1859 @@
+{
+  "response": {
+    "status": 200
+  },
+  "symbol": {
+    "id": 5199,
+    "symbol": "EPR",
+    "title": "Entertainment Properties Trust",
+    "aliases": [],
+    "is_following": false,
+    "watchlist_count": 2487
+  },
+  "cursor": {
+    "more": true,
+    "since": 250022026,
+    "max": 249176734
+  },
+  "messages": [
+    {
+      "id": 250022026,
+      "body": "Breaking down in the afternoon \n$RCL $PLYA $CCL $EPR $PGRE  \n \n+3 more results \nstockbeep.com/bd-oct13p",
+      "created_at": "2020-10-13T19:06:27Z",
+      "user": {
+        "id": 1572122,
+        "username": "Stockbeep_Scanner",
+        "name": "stockbeep.com",
+        "avatar_url": "https://avatars.stocktwits.com/production/1572122/thumb-1543837039.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1572122/thumb-1543837039.png",
+        "join_date": "2018-08-10",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 4086,
+        "following": 11,
+        "ideas": 7456,
+        "watchlist_stocks_count": 0,
+        "like_count": 43,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1022,
+        "title": "Zapier",
+        "url": "https://zapier.com/"
+      },
+      "symbols": [
+        {
+          "id": 4681,
+          "symbol": "CCL",
+          "title": "Carnival Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 49550
+        },
+        {
+          "id": 5199,
+          "symbol": "EPR",
+          "title": "Entertainment Properties Trust",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 2486
+        },
+        {
+          "id": 6992,
+          "symbol": "RCL",
+          "title": "Royal Caribbean Cruises Ltd.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 23884
+        },
+        {
+          "id": 12194,
+          "symbol": "PGRE",
+          "title": "Paramount Group",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 191
+        },
+        {
+          "id": 13194,
+          "symbol": "PLYA",
+          "title": "Playa Hotels & Resorts",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 666
+        }
+      ],
+      "links": [
+        {
+          "title": "Breakdown Stocks Today | NYSE, NASDAQ and AMEX.",
+          "url": "stockbeep.com/bd-oct13p",
+          "shortened_url": "stockbeep.com/bd-oct13p",
+          "shortened_expanded_url": "stockbeep.com/breakdown-stocks",
+          "description": "This scan helps traders identify today's breakdown stocks as they happen. Breakdown stocks are defined as those having moved below support levels. Breakdown stocks often exhibit sharp and sudden downward moves. At Stockbeep we use the 5-day range to indicate current resistance and support levels.",
+          "image": "https://stockbeep.com/images/breakdown-stocks-NYSE-NASDAQ-AMEX.png",
+          "created_at": "2020-10-13T19:06:28Z",
+          "video_url": null,
+          "source": {
+            "name": "StockBeep",
+            "website": "https://stockbeep.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": false
+      }
+    },
+    {
+      "id": 250012238,
+      "body": "Unusual vol losers in the afternoon \n$CCX $RCL $EPR $C  \n \nScan updates every 5 secs. \nstockbeep.com/uvl-oct13p",
+      "created_at": "2020-10-13T18:36:53Z",
+      "user": {
+        "id": 1572122,
+        "username": "Stockbeep_Scanner",
+        "name": "stockbeep.com",
+        "avatar_url": "https://avatars.stocktwits.com/production/1572122/thumb-1543837039.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1572122/thumb-1543837039.png",
+        "join_date": "2018-08-10",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 4086,
+        "following": 11,
+        "ideas": 7452,
+        "watchlist_stocks_count": 0,
+        "like_count": 43,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1022,
+        "title": "Zapier",
+        "url": "https://zapier.com/"
+      },
+      "symbols": [
+        {
+          "id": 4641,
+          "symbol": "C",
+          "title": "Citigroup, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 28711
+        },
+        {
+          "id": 5199,
+          "symbol": "EPR",
+          "title": "Entertainment Properties Trust",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 2486
+        },
+        {
+          "id": 6992,
+          "symbol": "RCL",
+          "title": "Royal Caribbean Cruises Ltd.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 23884
+        },
+        {
+          "id": 9275,
+          "symbol": "CCX",
+          "title": "Churchill Capital Corp II",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1228
+        }
+      ],
+      "links": [
+        {
+          "title": "Unusual Volume Losers Today - Down On High Relative Volume (RVol) | NYSE, NASDAQ and AMEX",
+          "url": "stockbeep.com/uvl-oct13p",
+          "shortened_url": "stockbeep.com/uvl-oct13p",
+          "shortened_expanded_url": "stockbeep.com/unusual-volum...",
+          "description": "Unusual volume losers are stocks that are moving lower on unusually high volume. Increased volume flows are correlated with volatility. A heightened volume indicates something is going on today and that the stock is \"in play\". A stock moving down on unusually high volume typically implies distribution of the stock.",
+          "image": "https://stockbeep.com/images/unusual-volume-losers-NYSE-NASDAQ-AMEX.png",
+          "created_at": "2020-10-13T18:36:55Z",
+          "video_url": null,
+          "source": {
+            "name": "StockBeep",
+            "website": "https://stockbeep.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": false
+      }
+    },
+    {
+      "id": 250005054,
+      "body": "$EPR is this stock falling due to amc?",
+      "created_at": "2020-10-13T18:14:18Z",
+      "user": {
+        "id": 3835817,
+        "username": "Mrwristy",
+        "name": "Nono",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2020-07-22",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 0,
+        "following": 3,
+        "ideas": 48,
+        "watchlist_stocks_count": 2,
+        "like_count": 16,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 5199,
+          "symbol": "EPR",
+          "title": "Entertainment Properties Trust",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 2486
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 250005054,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 250001987,
+      "body": "$CNK now $EPR is  where I doubled today ... that is best value play indirectly in same sector .... add it here and hold more than year for easy double with dividend ...",
+      "created_at": "2020-10-13T18:04:45Z",
+      "user": {
+        "id": 1025369,
+        "username": "money_matters_a_lot",
+        "name": "Simple",
+        "avatar_url": "https://avatars.stocktwits.com/production/1025369/thumb-1564946965.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1025369/thumb-1564946965.png",
+        "join_date": "2017-04-11",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 98,
+        "following": 17,
+        "ideas": 6688,
+        "watchlist_stocks_count": 14,
+        "like_count": 4439,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 4784,
+          "symbol": "CNK",
+          "title": "Cinemark Holdings Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 3825
+        },
+        {
+          "id": 5199,
+          "symbol": "EPR",
+          "title": "Entertainment Properties Trust",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 2486
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 249995573,
+      "body": "$EPR Added 3000 EPR preferred @ ~$17. Raising my cost avg but I wanted more exposure.",
+      "created_at": "2020-10-13T17:45:31Z",
+      "user": {
+        "id": 623810,
+        "username": "tdorsey",
+        "name": "Tom Dorsey",
+        "avatar_url": "https://avatars.stocktwits.com/production/623810/thumb-1450378629.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/623810/thumb-1450378629.png",
+        "join_date": "2015-10-29",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 226,
+        "following": 37,
+        "ideas": 8505,
+        "watchlist_stocks_count": 13,
+        "like_count": 2422,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 5199,
+          "symbol": "EPR",
+          "title": "Entertainment Properties Trust",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 2486
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          2163010
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 249993730,
+      "body": "$EPR almost buying time",
+      "created_at": "2020-10-13T17:40:08Z",
+      "user": {
+        "id": 3819821,
+        "username": "FaustusEternalBanned",
+        "name": "Jack",
+        "avatar_url": "https://avatars.stocktwits.com/production/3819821/thumb-1595452642.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3819821/thumb-1595452642.png",
+        "join_date": "2020-07-20",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 4,
+        "following": 10,
+        "ideas": 670,
+        "watchlist_stocks_count": 62,
+        "like_count": 197,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2095,
+        "title": "StockTwits For Android ",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 5199,
+          "symbol": "EPR",
+          "title": "Entertainment Properties Trust",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 2486
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          221338
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bearish"
+        }
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 249972935,
+      "body": "RBC Capital Downgrades EPR Props to Sector Perform, Lowers Price Target to $32\n\nRelated Tickers: $EPR",
+      "created_at": "2020-10-13T16:34:29Z",
+      "user": {
+        "id": 3539670,
+        "username": "QuantData",
+        "name": "Quant Data",
+        "avatar_url": "https://avatars.stocktwits.com/production/3539670/thumb-1602473985.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3539670/thumb-1602473985.png",
+        "join_date": "2020-06-03",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 476,
+        "following": 0,
+        "ideas": 5915,
+        "watchlist_stocks_count": 0,
+        "like_count": 14,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5828,
+        "title": "QuantData",
+        "url": "https://quantdata.us"
+      },
+      "symbols": [
+        {
+          "id": 5199,
+          "symbol": "EPR",
+          "title": "Entertainment Properties Trust",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 2488
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": false
+      }
+    },
+    {
+      "id": 249968678,
+      "body": "$EPR RBC Capital Downgrades to Sector Perform : PT $32.00 https://stockhoot.com/ExtSymbol.aspx?from=AnalystRatingTweet&amp;symbol=EPR&amp;t=351&amp;Social=StockTwits",
+      "created_at": "2020-10-13T16:20:38Z",
+      "user": {
+        "id": 835250,
+        "username": "Stockhoot",
+        "name": "Stockhoot",
+        "avatar_url": "https://avatars.stocktwits.com/production/835250/thumb-1510088734.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/835250/thumb-1510088734.png",
+        "join_date": "2016-09-06",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 1851,
+        "following": 103,
+        "ideas": 64705,
+        "watchlist_stocks_count": 8,
+        "like_count": 33,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 3360,
+        "title": "StockHoot",
+        "url": "https://stockhoot.com"
+      },
+      "symbols": [
+        {
+          "id": 5199,
+          "symbol": "EPR",
+          "title": "Entertainment Properties Trust",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 2488
+        }
+      ],
+      "links": [
+        {
+          "title": "EPR - EPR Properties Charts, Trade Ideas, Earnings, Ratings",
+          "url": "https://stockhoot.com/ExtSymbol.aspx?from=AnalystRatingTweet&symbol=EPR&t=351&Social=StockTwits",
+          "shortened_url": "https://stockhoot.com/ExtSymbol.aspx?from=AnalystRatingTweet&symbol=EPR&t=351&Social=StockTwits",
+          "shortened_expanded_url": "stockhoot.com/ExtSymbol.asp...",
+          "description": "EPR : Get live stock charts, earnings, Benzinga ratings and daily stock tips from independent traders who track EPR. Follow their trades and see their score card",
+          "image": "https://storage.googleapis.com/iex/api/logos/EPR.png",
+          "created_at": "2020-10-13T16:20:40Z",
+          "video_url": null,
+          "source": {
+            "name": "Stockhoot",
+            "website": "https://stockhoot.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": false
+      }
+    },
+    {
+      "id": 249967858,
+      "body": "$EPR Anyone get the sense that EPR will start to invest in more recession resistant businesses?  They left themselves extremely exposed to the coronavirus and perhaps getting into grocery or residential might help protect their portfolio?",
+      "created_at": "2020-10-13T16:18:01Z",
+      "user": {
+        "id": 3261883,
+        "username": "toddkaz",
+        "name": "Todd Kaz",
+        "avatar_url": "https://avatars.stocktwits.com/production/3261883/thumb-1587246046.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3261883/thumb-1587246046.png",
+        "join_date": "2020-04-03",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 62,
+        "following": 31,
+        "ideas": 8914,
+        "watchlist_stocks_count": 25,
+        "like_count": 672,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 5199,
+          "symbol": "EPR",
+          "title": "Entertainment Properties Trust",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 2486
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 249967858,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 4
+      },
+      "likes": {
+        "total": 2,
+        "user_ids": [
+          3225072,
+          3266548
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 249963498,
+      "body": "$EPR Drop a few more $$ and I&#39;ll load the boat",
+      "created_at": "2020-10-13T16:04:10Z",
+      "user": {
+        "id": 1173823,
+        "username": "OMEG",
+        "name": "Omega Man",
+        "avatar_url": "https://avatars.stocktwits.com/production/1173823/thumb-1598053453.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1173823/thumb-1598053453.png",
+        "join_date": "2017-08-30",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 33,
+        "following": 183,
+        "ideas": 1852,
+        "watchlist_stocks_count": 107,
+        "like_count": 4325,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2095,
+        "title": "StockTwits For Android ",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 5199,
+          "symbol": "EPR",
+          "title": "Entertainment Properties Trust",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 2488
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 249935462,
+      "body": "$EPR thanks for the shorts that\u2019s given a cheaper price to buy. Nice!",
+      "created_at": "2020-10-13T14:41:06Z",
+      "user": {
+        "id": 181678,
+        "username": "BullYa",
+        "name": "BullYa",
+        "avatar_url": "https://avatars.stocktwits.com/production/181678/thumb-1359146498.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/181678/thumb-1359146498.png",
+        "join_date": "2012-09-07",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 193,
+        "following": 64,
+        "ideas": 13739,
+        "watchlist_stocks_count": 86,
+        "like_count": 365,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 5199,
+          "symbol": "EPR",
+          "title": "Entertainment Properties Trust",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 2488
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 249935462,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          1173823
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 249930400,
+      "body": "$EPR I got out - I really believe this is a great long term stock.. but nothing but bad news for probably the next month or two.  I think it\u2019s headed back to $20, time will tell.  Good luck all.",
+      "created_at": "2020-10-13T14:27:43Z",
+      "user": {
+        "id": 3849891,
+        "username": "gmo84",
+        "name": "Dan G",
+        "avatar_url": "https://avatars.stocktwits.com/production/3849891/thumb-1596809258.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3849891/thumb-1596809258.png",
+        "join_date": "2020-07-24",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 0,
+        "following": 1,
+        "ideas": 32,
+        "watchlist_stocks_count": 9,
+        "like_count": 79,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 5199,
+          "symbol": "EPR",
+          "title": "Entertainment Properties Trust",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 2489
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 249930400,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          251176
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 249929561,
+      "body": "$EPR It\u2019s almost as if there\u2019s a global pandemic out there that\u2019s only worsening.",
+      "created_at": "2020-10-13T14:25:43Z",
+      "user": {
+        "id": 620528,
+        "username": "tomsmac",
+        "name": "Tom",
+        "avatar_url": "https://avatars.stocktwits.com/production/620528/thumb-1547998735.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/620528/thumb-1547998735.png",
+        "join_date": "2015-10-23",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 88,
+        "following": 69,
+        "ideas": 9188,
+        "watchlist_stocks_count": 21,
+        "like_count": 1550,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 5199,
+          "symbol": "EPR",
+          "title": "Entertainment Properties Trust",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 2486
+        }
+      ],
+      "likes": {
+        "total": 2,
+        "user_ids": [
+          1076381,
+          3266548
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 249914826,
+      "body": "$EPR keep loading it up \ud83d\ude80\ud83d\ude80\ud83d\ude80",
+      "created_at": "2020-10-13T13:50:30Z",
+      "user": {
+        "id": 181678,
+        "username": "BullYa",
+        "name": "BullYa",
+        "avatar_url": "https://avatars.stocktwits.com/production/181678/thumb-1359146498.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/181678/thumb-1359146498.png",
+        "join_date": "2012-09-07",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 193,
+        "following": 64,
+        "ideas": 13728,
+        "watchlist_stocks_count": 86,
+        "like_count": 365,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 5199,
+          "symbol": "EPR",
+          "title": "Entertainment Properties Trust",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 2489
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 249911296,
+      "body": "$EPR oh boy time to load it up",
+      "created_at": "2020-10-13T13:42:39Z",
+      "user": {
+        "id": 181678,
+        "username": "BullYa",
+        "name": "BullYa",
+        "avatar_url": "https://avatars.stocktwits.com/production/181678/thumb-1359146498.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/181678/thumb-1359146498.png",
+        "join_date": "2012-09-07",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 193,
+        "following": 64,
+        "ideas": 13728,
+        "watchlist_stocks_count": 86,
+        "like_count": 365,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 5199,
+          "symbol": "EPR",
+          "title": "Entertainment Properties Trust",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 2489
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 249911296,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 249851468,
+      "body": "Epr Properties $EPR Trading Report http://tinyurl.com/y5rczdq3",
+      "created_at": "2020-10-13T03:30:04Z",
+      "user": {
+        "id": 456768,
+        "username": "stocktradersdaily",
+        "name": "Stock Traders Daily",
+        "avatar_url": "https://avatars.stocktwits.com/production/456768/thumb-1422538105.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/456768/thumb-1422538105.png",
+        "join_date": "2015-01-29",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 484,
+        "following": 0,
+        "ideas": 54098,
+        "watchlist_stocks_count": 0,
+        "like_count": 0,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 4326,
+        "title": "Stock Traders Daily",
+        "url": "https://www.stocktradersdaily.com"
+      },
+      "symbols": [
+        {
+          "id": 5199,
+          "symbol": "EPR",
+          "title": "Entertainment Properties Trust",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 2490
+        }
+      ],
+      "links": [
+        {
+          "title": "Epr Properties $EPR Trading Report",
+          "url": "http://tinyurl.com/y5rczdq3",
+          "shortened_url": "http://tinyurl.com/y5rczdq3",
+          "shortened_expanded_url": "news.stocktradersdaily.com/...",
+          "description": "Stock Traders Daily is celebrating 20 years, providing proactive risk-controlled strategies all along, and this is a good example. When we couple this with out market based analysis, the probabilities of going with the flow increases, and that is material over time. The Epr Properties (NYSE: EPR) report below can help you, but we have more details too.",
+          "image": "https://news.stocktradersdaily.com/images/STD-banner-336x280-v1r2.jpg",
+          "created_at": "2020-10-13T03:30:08Z",
+          "video_url": null,
+          "source": {
+            "name": "Stocktradersdaily",
+            "website": "https://news.stocktradersdaily.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_249851468.png",
+          "large": "https://charts.stocktwits.com/production/large_249851468.png",
+          "original": "https://charts.stocktwits.com/production/original_249851468.png",
+          "url": "https://charts.stocktwits.com/production/original_249851468.png"
+        },
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": false
+      }
+    },
+    {
+      "id": 249837572,
+      "body": "$EPR \u201cThree tenants represent a significant portion of our lease revenues.\nAMC, Topgolf and Regal, represent a significant portion of our total revenue. For the year ended December 31, 2019, of approximately $123.8 million or 17.6% were derived from rental payments by AMC, approximately $79.0 million or 11.2% were derived from rental payments by TopGolf and approximately $75.8 million or 10.8% were derived from rental payments by Regal.\nIf for any reason AMC, TopGolf and/or Regal failed to perform under their lease obligations, we could be required to reduce or suspend our shareholder dividends and may not have sufficient funds to support operations or service our debt until substitute tenants are obtained. If that happened, we cannot predict when or whether we could obtain substitute quality tenants on acceptable terms.\u201d",
+      "created_at": "2020-10-13T01:28:01Z",
+      "user": {
+        "id": 620528,
+        "username": "tomsmac",
+        "name": "Tom",
+        "avatar_url": "https://avatars.stocktwits.com/production/620528/thumb-1547998735.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/620528/thumb-1547998735.png",
+        "join_date": "2015-10-23",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 89,
+        "following": 69,
+        "ideas": 9175,
+        "watchlist_stocks_count": 21,
+        "like_count": 1545,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 5199,
+          "symbol": "EPR",
+          "title": "Entertainment Properties Trust",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 2490
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 249837572,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          586852
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 249831199,
+      "body": "$EPR Here\u2019s what I\u2019m confident will happen. Unfortunately we\u2019re about to move into an epic period of Covid-19 and thanks to all of the knuckleheads and \u201cmasks are unconstitutional\u201d fools. I can\u2019t see anyway the theaters, privately own or a chain, can survive it.\n\nEPR is nit going to retrofit and repurpose their property. Retail is dying. My bottom line is that EPR will sell their properties and distribute a special dividend to its preferred shareholders. That\u2019s why they pay the premium of being a preferred shareholder not to mention the CxO suite.",
+      "created_at": "2020-10-13T00:39:13Z",
+      "user": {
+        "id": 620528,
+        "username": "tomsmac",
+        "name": "Tom",
+        "avatar_url": "https://avatars.stocktwits.com/production/620528/thumb-1547998735.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/620528/thumb-1547998735.png",
+        "join_date": "2015-10-23",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 90,
+        "following": 69,
+        "ideas": 9180,
+        "watchlist_stocks_count": 21,
+        "like_count": 1546,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 5199,
+          "symbol": "EPR",
+          "title": "Entertainment Properties Trust",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 2489
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          3478157
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 249747960,
+      "body": "$EPR $SPG $CNK Quote from the guy running the Vaccine program for the Government a week ago.  \n \n&quot;Slaoui said efficacy data on one or two vaccines will be available within the next month or two, for which there will be enough doses to immunize 30 million people between November and December.&quot; \n \nhttps://www.reuters.com/article/us-health-coronavirus-usa-vaccine/u-s-vaccine-program-head-slaoui-expects-pfizer-moderna-vaccine-data-readouts-in-november-december-idUSKBN26R3FE?rpc=401&amp;",
+      "created_at": "2020-10-12T18:11:47Z",
+      "user": {
+        "id": 3195593,
+        "username": "eaDingleberry",
+        "name": "eaDingleberry",
+        "avatar_url": "https://avatars.stocktwits.com/production/3195593/thumb-1596595747.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3195593/thumb-1596595747.png",
+        "join_date": "2020-03-17",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 2,
+        "following": 0,
+        "ideas": 182,
+        "watchlist_stocks_count": 0,
+        "like_count": 24,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 4784,
+          "symbol": "CNK",
+          "title": "Cinemark Holdings Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 3799
+        },
+        {
+          "id": 5199,
+          "symbol": "EPR",
+          "title": "Entertainment Properties Trust",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 2489
+        },
+        {
+          "id": 7264,
+          "symbol": "SPG",
+          "title": "Simon Property Group Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 9973
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 249747960,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "links": [
+        {
+          "title": "U.S. vaccine program head Slaoui expects Pfizer, Moderna vaccine data readouts in November-December",
+          "url": "https://www.reuters.com/article/us-health-coronavirus-usa-vaccine/u-s-vaccine-program-head-slaoui-expects-pfizer-moderna-vaccine-data-readouts-in-november-december-idUSKBN26R3FE?rpc=401&",
+          "shortened_url": "https://www.reuters.com/article/us-health-coronavirus-usa-vaccine/u-s-vaccine-program-head-slaoui-expects-pfizer-moderna-vaccine-data-readouts-in-november-december-idUSKBN26R3FE?rpc=401&",
+          "shortened_expanded_url": "reuters.com/article/us-heal...",
+          "description": "(Reuters) - The chief adviser for the U.S. government's Operation Warp Speed COVID-19 vaccine program, Moncef Slaoui, on Tuesday said efficacy data readouts are expected from Pfizer Inc and Moderna Inc between next month and December.",
+          "image": "https://static.reuters.com/resources/r/?m=02&d=20201006&t=2&i=1536426722&r=LYNXMPEG951ZN&w=800",
+          "created_at": "2020-10-12T18:11:48Z",
+          "video_url": null,
+          "source": {
+            "name": "U.S.",
+            "website": "https://www.reuters.com"
+          }
+        }
+      ],
+      "likes": {
+        "total": 4,
+        "user_ids": [
+          421433,
+          2825270,
+          3849891,
+          3816518
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 249719659,
+      "body": "$EPR $SPG Looks like they&#39;re gunning tech and fear for one last stretch before the election. Vaccine and antibody news is imminent before December and a reevaluation of the multiples will lead to a 2001 sized crash.",
+      "created_at": "2020-10-12T16:33:29Z",
+      "user": {
+        "id": 3195593,
+        "username": "eaDingleberry",
+        "name": "eaDingleberry",
+        "avatar_url": "https://avatars.stocktwits.com/production/3195593/thumb-1596595747.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3195593/thumb-1596595747.png",
+        "join_date": "2020-03-17",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 2,
+        "following": 0,
+        "ideas": 182,
+        "watchlist_stocks_count": 0,
+        "like_count": 24,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 5199,
+          "symbol": "EPR",
+          "title": "Entertainment Properties Trust",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 2491
+        },
+        {
+          "id": 7264,
+          "symbol": "SPG",
+          "title": "Simon Property Group Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 9969
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          1949887
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 249590034,
+      "body": "$EPR drove by what used to be a movie theatre in cherry hill nj today. It\u2019s now been repurposed into a restoration hardware or something along those lines. \n\nDon\u2019t count epr out on repurposing some of those theatres, especially if they have time and money on their hands. \n\nThe prefs are getting interesting here.",
+      "created_at": "2020-10-11T22:20:02Z",
+      "user": {
+        "id": 2163010,
+        "username": "financiern",
+        "name": "Financiern",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2019-06-26",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 28,
+        "following": 38,
+        "ideas": 1186,
+        "watchlist_stocks_count": 40,
+        "like_count": 4256,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 5199,
+          "symbol": "EPR",
+          "title": "Entertainment Properties Trust",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 2488
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 249590034,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "likes": {
+        "total": 2,
+        "user_ids": [
+          4091657,
+          3758030
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 249576052,
+      "body": "The Greatly Exaggerated Demise Of EPR Properties ($EPR) | Seeking Alpha https://seekingalpha.com/article/4378338-greatly-exaggerated-demise-of-epr-properties #REIT #investing",
+      "created_at": "2020-10-11T18:55:02Z",
+      "user": {
+        "id": 331635,
+        "username": "ghost007",
+        "name": "ghost007",
+        "avatar_url": "https://avatars.stocktwits.com/production/331635/thumb-1470355924.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/331635/thumb-1470355924.png",
+        "join_date": "2014-03-18",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 17,
+        "following": 146,
+        "ideas": 598,
+        "watchlist_stocks_count": 131,
+        "like_count": 52,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 5199,
+          "symbol": "EPR",
+          "title": "Entertainment Properties Trust",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 2486
+        }
+      ],
+      "links": [
+        {
+          "title": "The Greatly Exaggerated Demise Of EPR Properties (NYSE:EPR)",
+          "url": "https://seekingalpha.com/article/4378338-greatly-exaggerated-demise-of-epr-properties",
+          "shortened_url": "https://seekingalpha.com/article/4378338-greatly-exaggerated-demise-of-epr-properties",
+          "shortened_expanded_url": "seekingalpha.com/article/43...",
+          "description": "Mark Twain, the American writer and humorist, in response to an English journalist who contacted him to ask whether the rumours that he was dead was true, famously replied stating that such reports of his death \"were an exaggeration\". After all, how else would one be able to respond to a journalist seeking comments on one's own death?",
+          "image": "https://static.seekingalpha.com/uploads/2020/10/8/41871776-16021847968873177_origin.png",
+          "created_at": "2020-10-11T18:55:04Z",
+          "video_url": null,
+          "source": {
+            "name": "Seeking Alpha",
+            "website": "https://seekingalpha.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 249540254,
+      "body": "Are the daytraders watching this? $EPR&#39;s Aroon indicator drops into Downtrend on October 9, 2020. View odds for this and other indicators: https://srnk.us/go/2194533",
+      "created_at": "2020-10-11T03:14:58Z",
+      "user": {
+        "id": 967528,
+        "username": "tickeron",
+        "name": "Tickeron",
+        "avatar_url": "https://avatars.stocktwits.com/production/967528/thumb-1492026736.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/967528/thumb-1492026736.png",
+        "join_date": "2017-02-23",
+        "official": true,
+        "identity": "Official",
+        "classification": [
+          "official"
+        ],
+        "followers": 3622,
+        "following": 108,
+        "ideas": 414355,
+        "watchlist_stocks_count": 0,
+        "like_count": 0,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5810,
+        "title": "Tickeron",
+        "url": "https://tickeron.com"
+      },
+      "symbols": [
+        {
+          "id": 5199,
+          "symbol": "EPR",
+          "title": "Entertainment Properties Trust",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 2490
+        }
+      ],
+      "links": [
+        {
+          "title": "Tickeron - A.I. Trading With Odds of Success",
+          "url": "https://srnk.us/go/2194533",
+          "shortened_url": "https://srnk.us/go/2194533",
+          "shortened_expanded_url": "tickeron.com/ticker/EPR/?ut...",
+          "description": "Our A.I.-powered algorithms generate and verify trade ideas. Invest in trends, trade with patterns, and analyze Stocks, ETFs, Mutual Funds, FOREX, Cryptos.",
+          "image": "https://tickeron.com/Img/Seo/main.png",
+          "created_at": "2020-10-11T03:14:59Z",
+          "video_url": null,
+          "source": {
+            "name": "Tickeron Inc.",
+            "website": "https://tickeron.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_249540254.",
+          "large": "https://charts.stocktwits.com/production/large_249540254.",
+          "original": "https://charts.stocktwits.com/production/original_249540254.",
+          "url": "https://charts.stocktwits.com/production/original_249540254."
+        },
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": false
+      }
+    },
+    {
+      "id": 249488713,
+      "body": "$EPR by December this stock will b back to dividend, gonna wait til it drops more and buy a shit ton under anticipation",
+      "created_at": "2020-10-10T12:43:35Z",
+      "user": {
+        "id": 3840538,
+        "username": "Spyder6",
+        "name": "Joshua",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2020-07-23",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 2,
+        "following": 4,
+        "ideas": 631,
+        "watchlist_stocks_count": 13,
+        "like_count": 241,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 5199,
+          "symbol": "EPR",
+          "title": "Entertainment Properties Trust",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 2490
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 249312588,
+      "body": "$EPR https://seekingalpha.com/article/4378338-greatly-exaggerated-demise-of-epr-properties",
+      "created_at": "2020-10-09T15:07:43Z",
+      "user": {
+        "id": 373165,
+        "username": "Izquierdo19",
+        "name": "Daniel",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2014-07-08",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 0,
+        "following": 59,
+        "ideas": 14,
+        "watchlist_stocks_count": 23,
+        "like_count": 25,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 5199,
+          "symbol": "EPR",
+          "title": "Entertainment Properties Trust",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 2491
+        }
+      ],
+      "links": [
+        {
+          "title": "The Greatly Exaggerated Demise Of EPR Properties (NYSE:EPR)",
+          "url": "https://seekingalpha.com/article/4378338-greatly-exaggerated-demise-of-epr-properties",
+          "shortened_url": "https://seekingalpha.com/article/4378338-greatly-exaggerated-demise-of-epr-properties",
+          "shortened_expanded_url": "seekingalpha.com/article/43...",
+          "description": "Mark Twain, the American writer and humorist, in response to an English journalist who contacted him to ask whether the rumours that he was dead was true, famously replied stating that such reports of his death \"were an exaggeration\". After all, how else would one be able to respond to a journalist seeking comments on one's own death?",
+          "image": "https://static.seekingalpha.com/uploads/2020/10/8/41871776-16021847968873177_origin.png",
+          "created_at": "2020-10-09T15:07:44Z",
+          "video_url": null,
+          "source": {
+            "name": "Seeking Alpha",
+            "website": "https://seekingalpha.com"
+          }
+        }
+      ],
+      "likes": {
+        "total": 2,
+        "user_ids": [
+          3259830,
+          2163010
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 249290943,
+      "body": "2020-10-08 Short sale volume (not short interest) for $EPR is 49%. http://shortvolumes.com/?t=EPR via @shortvolumes",
+      "created_at": "2020-10-09T14:14:35Z",
+      "user": {
+        "id": 1246819,
+        "username": "shortvolumes",
+        "name": "shortvolumes",
+        "avatar_url": "https://avatars.stocktwits.com/production/1246819/thumb-1511564141.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1246819/thumb-1511564141.png",
+        "join_date": "2017-10-30",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 3457,
+        "following": 61,
+        "ideas": 192157,
+        "watchlist_stocks_count": 0,
+        "like_count": 3,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 5199,
+          "symbol": "EPR",
+          "title": "Entertainment Properties Trust",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 2489
+        }
+      ],
+      "links": [
+        {
+          "title": "Daily short sale volume percent for stock ticker EPR is 49% on Oct 08, 2020",
+          "url": "http://shortvolumes.com/?t=EPR",
+          "shortened_url": "http://shortvolumes.com/?t=EPR",
+          "shortened_expanded_url": "shortvolumes.com/?t=EPR",
+          "description": "Daily short sale volume for stock ticker EPR is 49% on Oct 08, 2020. The short sale volume percent is down -17% compare to Oct 07, 2020.",
+          "image": "http://shortvolumes.com/wp-content/uploads/2017/11/logo-1.png",
+          "created_at": "2020-10-09T14:14:36Z",
+          "video_url": null,
+          "source": {
+            "name": "Shortvolumes",
+            "website": "http://shortvolumes.com"
+          }
+        }
+      ],
+      "mentioned_users": [
+        "@shortvolumes"
+      ],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 249284489,
+      "body": "$EPR NEW ARTICLE : The Greatly Exaggerated Demise Of EPR Properties https://www.stck.pro/news/EPR/8342079",
+      "created_at": "2020-10-09T14:00:04Z",
+      "user": {
+        "id": 1555408,
+        "username": "STCKPRO",
+        "name": "STCK.PRO",
+        "avatar_url": "https://avatars.stocktwits.com/production/1555408/thumb-1576077822.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1555408/thumb-1576077822.png",
+        "join_date": "2018-07-24",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 4116,
+        "following": 2,
+        "ideas": 246920,
+        "watchlist_stocks_count": 17,
+        "like_count": 52,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5011,
+        "title": "STCK.PRO",
+        "url": "https://dashboard.stck.pro"
+      },
+      "symbols": [
+        {
+          "id": 5199,
+          "symbol": "EPR",
+          "title": "Entertainment Properties Trust",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 2489
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 249284489,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "links": [
+        {
+          "title": null,
+          "url": "https://www.stck.pro/news/EPR/8342079",
+          "shortened_url": "https://www.stck.pro/news/EPR/8342079",
+          "shortened_expanded_url": "stck.pro/news/EPR/8342079",
+          "description": null,
+          "image": null,
+          "created_at": "2020-10-09T14:00:07Z",
+          "video_url": null,
+          "source": {
+            "name": "Stck",
+            "website": "http://www.stck.pro"
+          }
+        }
+      ],
+      "reshares": {
+        "reshared_count": 1,
+        "user_ids": [
+          620528
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": false
+      }
+    },
+    {
+      "id": 249250750,
+      "body": "$EPR Is this monthly or quarterly div?",
+      "created_at": "2020-10-09T12:05:20Z",
+      "user": {
+        "id": 3873462,
+        "username": "Rovkyb",
+        "name": "MB",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2020-07-29",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 2,
+        "following": 11,
+        "ideas": 26,
+        "watchlist_stocks_count": 1,
+        "like_count": 23,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 5199,
+          "symbol": "EPR",
+          "title": "Entertainment Properties Trust",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 2490
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 249250750,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 249238098,
+      "body": "$EPR could hit 27~28 today",
+      "created_at": "2020-10-09T10:20:30Z",
+      "user": {
+        "id": 181678,
+        "username": "BullYa",
+        "name": "BullYa",
+        "avatar_url": "https://avatars.stocktwits.com/production/181678/thumb-1359146498.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/181678/thumb-1359146498.png",
+        "join_date": "2012-09-07",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 193,
+        "following": 64,
+        "ideas": 13722,
+        "watchlist_stocks_count": 86,
+        "like_count": 365,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 5199,
+          "symbol": "EPR",
+          "title": "Entertainment Properties Trust",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 2490
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 249176734,
+      "body": "$EPR---Very oversold, possibly 26.00+",
+      "created_at": "2020-10-08T22:41:53Z",
+      "user": {
+        "id": 234612,
+        "username": "MikeCaymanTrades",
+        "name": "Michael J Frank III",
+        "avatar_url": "https://avatars.stocktwits.com/production/234612/thumb-1602199492.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/234612/thumb-1602199492.png",
+        "join_date": "2013-05-20",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 2825,
+        "following": 68,
+        "ideas": 18427,
+        "watchlist_stocks_count": 77,
+        "like_count": 4265,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 5199,
+          "symbol": "EPR",
+          "title": "Entertainment Properties Trust",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 2490
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          811850
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    }
+  ]
+}

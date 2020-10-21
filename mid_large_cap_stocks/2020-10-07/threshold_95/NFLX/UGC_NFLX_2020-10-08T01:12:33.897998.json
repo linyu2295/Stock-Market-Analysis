@@ -1,0 +1,1802 @@
+{
+  "response": {
+    "status": 200
+  },
+  "symbol": {
+    "id": 2839,
+    "symbol": "NFLX",
+    "title": "Netflix, Inc.",
+    "aliases": [],
+    "is_following": false,
+    "watchlist_count": 287983
+  },
+  "cursor": {
+    "more": true,
+    "since": 248790050,
+    "max": 248778342
+  },
+  "messages": [
+    {
+      "id": 248790050,
+      "body": "Wish You Could Fast-Forward This Earnings Season? Pause To Preview Comms Sector  $NFLX $FB $GOOGL $DIS $AMZN \n\nhttps://newsfilter.io/a/6abccb3829bfbb649135b1c98c8c25d9",
+      "created_at": "2020-10-07T17:09:23Z",
+      "user": {
+        "id": 2762379,
+        "username": "Newsfilter",
+        "name": "@newsfilterio",
+        "avatar_url": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "join_date": "2019-09-01",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 7082,
+        "following": 16,
+        "ideas": 563038,
+        "watchlist_stocks_count": 1,
+        "like_count": 527,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 864,
+          "symbol": "AMZN",
+          "title": "Amazon.com Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 337235
+        },
+        {
+          "id": 2839,
+          "symbol": "NFLX",
+          "title": "Netflix, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 287983
+        },
+        {
+          "id": 4983,
+          "symbol": "DIS",
+          "title": "Walt Disney Co.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 171954
+        },
+        {
+          "id": 7871,
+          "symbol": "FB",
+          "title": "Facebook",
+          "aliases": [
+            "FBOOK"
+          ],
+          "is_following": false,
+          "watchlist_count": 318379
+        },
+        {
+          "id": 11938,
+          "symbol": "GOOGL",
+          "title": "Alphabet Inc. Class A",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 91951
+        }
+      ],
+      "links": [
+        {
+          "title": "Wish You Could Fast-Forward This Earnings Season? Pause To Preview Comms Sector",
+          "url": "https://newsfilter.io/a/6abccb3829bfbb649135b1c98c8c25d9",
+          "shortened_url": "https://newsfilter.io/a/6abccb3829bfbb649135b1c98c8c25d9",
+          "shortened_expanded_url": "newsfilter.io/a/6abccb3829b...",
+          "description": "When you think about the earnings season straight ahead, it's important to remember that not all sectors necessarily look equal. Among sectors, the Communication Services arena is one that might stand out as investors await a fresh round of company reports. Third-quarter earnings for the...",
+          "image": "https://newsfilter.io/meta-images/?url=https://storage.googleapis.com/iex/api/logos/NFLX.png",
+          "created_at": "2020-10-07T17:09:23Z",
+          "video_url": null,
+          "source": {
+            "name": "Newsfilter",
+            "website": "https://newsfilter.io"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 248789249,
+      "body": "Trump dont fucking tweet and fuck the market up you piece of shit. \n\nIt\u2019s the pandemic and this is a source of income you orange idiot. \n\n$tsla $spy $nvda $nflx $amd",
+      "created_at": "2020-10-07T17:06:45Z",
+      "user": {
+        "id": 2889615,
+        "username": "myartmyrules",
+        "name": "TJG",
+        "avatar_url": "https://avatars.stocktwits.com/production/2889615/thumb-1583842782.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2889615/thumb-1583842782.png",
+        "join_date": "2019-10-29",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 59,
+        "following": 353,
+        "ideas": 3094,
+        "watchlist_stocks_count": 300,
+        "like_count": 4464,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 2839,
+          "symbol": "NFLX",
+          "title": "Netflix, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 287983
+        },
+        {
+          "id": 2925,
+          "symbol": "NVDA",
+          "title": "NVIDIA Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 223851
+        },
+        {
+          "id": 4331,
+          "symbol": "AMD",
+          "title": "Advanced Micro Devices, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 270401
+        },
+        {
+          "id": 7271,
+          "symbol": "SPY",
+          "title": "SPDR S&P 500",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 253900
+        },
+        {
+          "id": 8660,
+          "symbol": "TSLA",
+          "title": "Tesla, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 456801
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 248789249,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 8
+      },
+      "likes": {
+        "total": 13,
+        "user_ids": [
+          3205302,
+          2258428,
+          4078687,
+          1480673,
+          3997115,
+          837557,
+          3962544,
+          3908847,
+          161906,
+          3353636,
+          3358776,
+          4062801,
+          4016885
+        ]
+      },
+      "reshares": {
+        "reshared_count": 1,
+        "user_ids": [
+          1480324
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 248789216,
+      "body": "$NFLX NHOW... alright I\u2019ll stop",
+      "created_at": "2020-10-07T17:06:38Z",
+      "user": {
+        "id": 1312802,
+        "username": "KingDips",
+        "name": "Money/ CEO catchthedip.com",
+        "avatar_url": "https://avatars.stocktwits.com/production/1312802/thumb-1586184849.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1312802/thumb-1586184849.png",
+        "join_date": "2017-12-13",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 11854,
+        "following": 0,
+        "ideas": 10294,
+        "watchlist_stocks_count": 245,
+        "like_count": 3410,
+        "plus_tier": "life",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 2839,
+          "symbol": "NFLX",
+          "title": "Netflix, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 287983
+        }
+      ],
+      "likes": {
+        "total": 2,
+        "user_ids": [
+          4098793,
+          3632696
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_248789216.png",
+          "large": "https://charts.stocktwits.com/production/large_248789216.png",
+          "original": "https://charts.stocktwits.com/production/original_248789216.png",
+          "url": "https://charts.stocktwits.com/production/original_248789216.png"
+        },
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 248788997,
+      "body": "$NFLX \nFunny is it reverses down",
+      "created_at": "2020-10-07T17:05:55Z",
+      "user": {
+        "id": 1480324,
+        "username": "tge467",
+        "name": "Mark Jayy",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2018-04-26",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 1,
+        "following": 2,
+        "ideas": 964,
+        "watchlist_stocks_count": 27,
+        "like_count": 551,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 2839,
+          "symbol": "NFLX",
+          "title": "Netflix, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 287983
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 248788608,
+      "body": "$NFLX Sit back and relax. hopefully Positive outcome could come soon",
+      "created_at": "2020-10-07T17:04:35Z",
+      "user": {
+        "id": 4135597,
+        "username": "iyassinebolf",
+        "name": "iyassinebolf",
+        "avatar_url": "https://avatars.stocktwits.com/production/4135597/thumb-1602089584.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/4135597/thumb-1602089584.png",
+        "join_date": "2020-10-02",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 0,
+        "following": 0,
+        "ideas": 2,
+        "watchlist_stocks_count": 10,
+        "like_count": 0,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 2839,
+          "symbol": "NFLX",
+          "title": "Netflix, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 287983
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 248788250,
+      "body": "$CGC $NFLX $TSLA $SHOP \n\nAll very strong today",
+      "created_at": "2020-10-07T17:03:28Z",
+      "user": {
+        "id": 811974,
+        "username": "SonGoku",
+        "name": "Goku",
+        "avatar_url": "https://avatars.stocktwits.com/production/811974/thumb-1553153857.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/811974/thumb-1553153857.png",
+        "join_date": "2016-08-04",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 5785,
+        "following": 5377,
+        "ideas": 150178,
+        "watchlist_stocks_count": 61,
+        "like_count": 63553,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 2839,
+          "symbol": "NFLX",
+          "title": "Netflix, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 287983
+        },
+        {
+          "id": 8260,
+          "symbol": "CGC",
+          "title": "Canopy Growth Corporation ",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 63123
+        },
+        {
+          "id": 8660,
+          "symbol": "TSLA",
+          "title": "Tesla, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 456801
+        },
+        {
+          "id": 12560,
+          "symbol": "SHOP",
+          "title": "Shopify",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 71091
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          2794982
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 248787758,
+      "body": "$NFLX Face ripper.",
+      "created_at": "2020-10-07T17:01:58Z",
+      "user": {
+        "id": 2905444,
+        "username": "Do_The_Math",
+        "name": "Unknown Guy",
+        "avatar_url": "https://avatars.stocktwits.com/production/2905444/thumb-1593632345.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2905444/thumb-1593632345.png",
+        "join_date": "2019-11-08",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 177,
+        "following": 5,
+        "ideas": 3754,
+        "watchlist_stocks_count": 0,
+        "like_count": 164,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 2839,
+          "symbol": "NFLX",
+          "title": "Netflix, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 287983
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_248787758.png",
+          "large": "https://charts.stocktwits.com/production/large_248787758.png",
+          "original": "https://charts.stocktwits.com/production/original_248787758.png",
+          "url": "https://charts.stocktwits.com/production/original_248787758.png"
+        },
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 248787740,
+      "body": "Still going $NFLX",
+      "created_at": "2020-10-07T17:01:55Z",
+      "user": {
+        "id": 811974,
+        "username": "SonGoku",
+        "name": "Goku",
+        "avatar_url": "https://avatars.stocktwits.com/production/811974/thumb-1553153857.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/811974/thumb-1553153857.png",
+        "join_date": "2016-08-04",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 5785,
+        "following": 5377,
+        "ideas": 150178,
+        "watchlist_stocks_count": 61,
+        "like_count": 63553,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 2839,
+          "symbol": "NFLX",
+          "title": "Netflix, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 287983
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_248787740.png",
+          "large": "https://charts.stocktwits.com/production/large_248787740.png",
+          "original": "https://charts.stocktwits.com/production/original_248787740.png",
+          "url": "https://charts.stocktwits.com/production/original_248787740.png"
+        },
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 248787498,
+      "body": "$NVDA it\u2019s hovering because $NFLX is in the spotlight today. We need some news from the conference.... get there and 3-5% otherwise market:range bound. Pt 575 by Friday is my best guess",
+      "created_at": "2020-10-07T17:01:08Z",
+      "user": {
+        "id": 3182637,
+        "username": "JoeBiz",
+        "name": "Joe Bizzarro",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2020-03-13",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 6,
+        "following": 6,
+        "ideas": 685,
+        "watchlist_stocks_count": 13,
+        "like_count": 673,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 2839,
+          "symbol": "NFLX",
+          "title": "Netflix, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 287983
+        },
+        {
+          "id": 2925,
+          "symbol": "NVDA",
+          "title": "NVIDIA Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 223851
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 248787498,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 248787306,
+      "body": "$NFLX should be at least 300 billion MC, calls baby",
+      "created_at": "2020-10-07T17:00:34Z",
+      "user": {
+        "id": 1769117,
+        "username": "thatsbullstock",
+        "name": "John",
+        "avatar_url": "https://avatars.stocktwits.com/production/1769117/thumb-1590106062.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1769117/thumb-1590106062.png",
+        "join_date": "2018-12-20",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 127,
+        "following": 67,
+        "ideas": 5268,
+        "watchlist_stocks_count": 105,
+        "like_count": 1437,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 2839,
+          "symbol": "NFLX",
+          "title": "Netflix, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 287983
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 248786872,
+      "body": "$NFLX earnings run up. $600",
+      "created_at": "2020-10-07T16:59:08Z",
+      "user": {
+        "id": 131987,
+        "username": "cfooddon",
+        "name": "Donald Nolan",
+        "avatar_url": "https://avatars.stocktwits.com/production/131987/thumb-1538177426.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/131987/thumb-1538177426.png",
+        "join_date": "2012-01-25",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 8,
+        "following": 62,
+        "ideas": 381,
+        "watchlist_stocks_count": 30,
+        "like_count": 598,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2095,
+        "title": "StockTwits For Android ",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 2839,
+          "symbol": "NFLX",
+          "title": "Netflix, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 287983
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 248786670,
+      "body": "$NFLX get ready for $540!!!",
+      "created_at": "2020-10-07T16:58:31Z",
+      "user": {
+        "id": 725316,
+        "username": "Wanttobecomemillionaire",
+        "name": "Mars",
+        "avatar_url": "https://avatars.stocktwits.com/production/725316/thumb-1478308277.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/725316/thumb-1478308277.png",
+        "join_date": "2016-04-08",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 151,
+        "following": 90,
+        "ideas": 9490,
+        "watchlist_stocks_count": 143,
+        "like_count": 807,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 2839,
+          "symbol": "NFLX",
+          "title": "Netflix, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 287983
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 248786457,
+      "body": "$NFLX do expect some pullback tomorrow.. rolling w a put for safety.. cashed out of my weeklys.. riding out my ER calls.  Great day",
+      "created_at": "2020-10-07T16:57:50Z",
+      "user": {
+        "id": 2008977,
+        "username": "Keystonetrucker13",
+        "name": "Matthew",
+        "avatar_url": "https://avatars.stocktwits.com/production/2008977/thumb-1583825939.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2008977/thumb-1583825939.png",
+        "join_date": "2019-04-14",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 33,
+        "following": 22,
+        "ideas": 2805,
+        "watchlist_stocks_count": 6,
+        "like_count": 398,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 2839,
+          "symbol": "NFLX",
+          "title": "Netflix, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 287983
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          3910095
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 248785185,
+      "body": "$NFLX put",
+      "created_at": "2020-10-07T16:53:58Z",
+      "user": {
+        "id": 3331352,
+        "username": "filarnski",
+        "name": "Filarnski Tormund",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2020-04-20",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 2,
+        "following": 23,
+        "ideas": 25,
+        "watchlist_stocks_count": 93,
+        "like_count": 14,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2095,
+        "title": "StockTwits For Android ",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 2839,
+          "symbol": "NFLX",
+          "title": "Netflix, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 287983
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 248785185,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 248784402,
+      "body": "$NFLX after seeing so many junk stocks with less than half billion revenue going up and up .. . I\u2019m getting more bullish on FANGAM now ! If and when they burn more money will flow into big tech ..",
+      "created_at": "2020-10-07T16:51:24Z",
+      "user": {
+        "id": 1611524,
+        "username": "umandev",
+        "name": "Umandev",
+        "avatar_url": "https://avatars.stocktwits.com/production/1611524/thumb-1573051921.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1611524/thumb-1573051921.png",
+        "join_date": "2018-09-15",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 2,
+        "following": 3,
+        "ideas": 160,
+        "watchlist_stocks_count": 53,
+        "like_count": 40,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 2839,
+          "symbol": "NFLX",
+          "title": "Netflix, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 287983
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 248784367,
+      "body": "$NFLX Told you it was happening, hope you loaded the boat. On to the next target..",
+      "created_at": "2020-10-07T16:51:15Z",
+      "user": {
+        "id": 384106,
+        "username": "MoneyTreeTrading",
+        "name": "1-2 Points A Day",
+        "avatar_url": "https://avatars.stocktwits.com/production/384106/thumb-1558657560.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/384106/thumb-1558657560.png",
+        "join_date": "2014-08-05",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 217,
+        "following": 35,
+        "ideas": 13072,
+        "watchlist_stocks_count": 283,
+        "like_count": 609,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 2839,
+          "symbol": "NFLX",
+          "title": "Netflix, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 287983
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 248784367,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_248784367.png",
+          "large": "https://charts.stocktwits.com/production/large_248784367.png",
+          "original": "https://charts.stocktwits.com/production/original_248784367.png",
+          "url": "https://charts.stocktwits.com/production/original_248784367.png"
+        },
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 248783809,
+      "body": "$NFLX green abundance\ud83d\udc4f\ud83d\udc4f",
+      "created_at": "2020-10-07T16:49:34Z",
+      "user": {
+        "id": 4071564,
+        "username": "AidenM15",
+        "name": "Aiden Mark",
+        "avatar_url": "https://avatars.stocktwits.com/production/4071564/thumb-1600169877.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/4071564/thumb-1600169877.png",
+        "join_date": "2020-09-14",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 3,
+        "following": 35,
+        "ideas": 21,
+        "watchlist_stocks_count": 5,
+        "like_count": 62,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 2839,
+          "symbol": "NFLX",
+          "title": "Netflix, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 287983
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 248783796,
+      "body": "$NFLX these are now 13.25",
+      "created_at": "2020-10-07T16:49:31Z",
+      "user": {
+        "id": 3217854,
+        "username": "Print_trading",
+        "name": "Print Trading",
+        "avatar_url": "https://avatars.stocktwits.com/production/3217854/thumb-1591649170.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3217854/thumb-1591649170.png",
+        "join_date": "2020-03-23",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 343,
+        "following": 3,
+        "ideas": 1183,
+        "watchlist_stocks_count": 1,
+        "like_count": 12,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 2839,
+          "symbol": "NFLX",
+          "title": "Netflix, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 287983
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          2820444
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_248783796.png",
+          "large": "https://charts.stocktwits.com/production/large_248783796.png",
+          "original": "https://charts.stocktwits.com/production/original_248783796.png",
+          "url": "https://charts.stocktwits.com/production/original_248783796.png"
+        },
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 248783172,
+      "body": "$NFLX NEW ARTICLE : Netflix Will Surge 28% to $650, According to This Analyst https://www.stck.pro/news/NFLX/8295431",
+      "created_at": "2020-10-07T16:47:39Z",
+      "user": {
+        "id": 1555408,
+        "username": "STCKPRO",
+        "name": "STCK.PRO",
+        "avatar_url": "https://avatars.stocktwits.com/production/1555408/thumb-1576077822.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1555408/thumb-1576077822.png",
+        "join_date": "2018-07-24",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 3998,
+        "following": 2,
+        "ideas": 242645,
+        "watchlist_stocks_count": 17,
+        "like_count": 52,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5011,
+        "title": "STCK.PRO",
+        "url": "https://dashboard.stck.pro"
+      },
+      "symbols": [
+        {
+          "id": 2839,
+          "symbol": "NFLX",
+          "title": "Netflix, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 287983
+        }
+      ],
+      "links": [
+        {
+          "title": "Netflix (NFLX)",
+          "url": "https://www.stck.pro/news/NFLX/8295431",
+          "shortened_url": "https://www.stck.pro/news/NFLX/8295431",
+          "shortened_expanded_url": "stck.pro/news/NFLX",
+          "description": "Never miss an important article again, stay on top of your investments and become a better investor today! Get your moat on and sync your watchlist with Stocktwits and get all the latest news for your symbols. Sync with Stocktwits",
+          "image": "https://www.stck.pro/img/imac.png",
+          "created_at": "2020-10-07T16:47:41Z",
+          "video_url": null,
+          "source": {
+            "name": "Stck",
+            "website": "https://www.stck.pro"
+          }
+        }
+      ],
+      "likes": {
+        "total": 2,
+        "user_ids": [
+          2093302,
+          1348538
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": false
+      }
+    },
+    {
+      "id": 248782839,
+      "body": "$NFLX More room to run IMO.  Calls sweeps have been hitting all day above asK",
+      "created_at": "2020-10-07T16:46:36Z",
+      "user": {
+        "id": 609240,
+        "username": "RipShowStocks",
+        "name": "RipShow",
+        "avatar_url": "https://avatars.stocktwits.com/production/609240/thumb-1598313281.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/609240/thumb-1598313281.png",
+        "join_date": "2015-10-02",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 593,
+        "following": 172,
+        "ideas": 5323,
+        "watchlist_stocks_count": 248,
+        "like_count": 1155,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 2839,
+          "symbol": "NFLX",
+          "title": "Netflix, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 287983
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_248782839.png",
+          "large": "https://charts.stocktwits.com/production/large_248782839.png",
+          "original": "https://charts.stocktwits.com/production/original_248782839.png",
+          "url": "https://charts.stocktwits.com/production/original_248782839.png"
+        },
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 248782633,
+      "body": "Coverage Initiations, Resumptions &amp; PT Changes: $IIVI $NEWR $LEVI $NFLX $AMZN",
+      "created_at": "2020-10-07T16:45:59Z",
+      "user": {
+        "id": 850976,
+        "username": "MariaC82",
+        "name": "Maria Chaudhry",
+        "avatar_url": "https://avatars.stocktwits.com/production/850976/thumb-1547223587.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/850976/thumb-1547223587.png",
+        "join_date": "2016-09-30",
+        "official": true,
+        "identity": "Official",
+        "classification": [
+          "official"
+        ],
+        "followers": 38888,
+        "following": 138,
+        "ideas": 45784,
+        "watchlist_stocks_count": 300,
+        "like_count": 43948,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 864,
+          "symbol": "AMZN",
+          "title": "Amazon.com Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 337235
+        },
+        {
+          "id": 2273,
+          "symbol": "IIVI",
+          "title": "II-VI Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1482
+        },
+        {
+          "id": 2839,
+          "symbol": "NFLX",
+          "title": "Netflix, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 287983
+        },
+        {
+          "id": 12333,
+          "symbol": "NEWR",
+          "title": "New Relic",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 2426
+        },
+        {
+          "id": 15125,
+          "symbol": "LEVI",
+          "title": "Levi Strauss & Co.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 4692
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          4090255
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_248782633.png",
+          "large": "https://charts.stocktwits.com/production/large_248782633.png",
+          "original": "https://charts.stocktwits.com/production/original_248782633.png",
+          "url": "https://charts.stocktwits.com/production/original_248782633.png"
+        },
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 248782577,
+      "body": "$NFLX  Closed out my theta positive trade and started a long Delta trade this morning. Cheers!",
+      "created_at": "2020-10-07T16:45:47Z",
+      "user": {
+        "id": 2071755,
+        "username": "SigmaPicks",
+        "name": "Harmeet S Sachdeva, MLS",
+        "avatar_url": "https://avatars.stocktwits.com/production/2071755/thumb-1557505551.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2071755/thumb-1557505551.png",
+        "join_date": "2019-05-10",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 119,
+        "following": 24,
+        "ideas": 2485,
+        "watchlist_stocks_count": 113,
+        "like_count": 794,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 2839,
+          "symbol": "NFLX",
+          "title": "Netflix, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 287966
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 248782197,
+      "body": "$NFLX What\u2019s driving this so high?",
+      "created_at": "2020-10-07T16:44:35Z",
+      "user": {
+        "id": 469080,
+        "username": "sparkles121",
+        "name": "Sparky",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2015-02-19",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 6,
+        "following": 68,
+        "ideas": 142,
+        "watchlist_stocks_count": 95,
+        "like_count": 91,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 2839,
+          "symbol": "NFLX",
+          "title": "Netflix, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 287966
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 248780868,
+      "body": "$NFLX Recommendations to sell options (Buy-Write) on 2020-10-07 for NFLX https://wsfriend.com/autotrader/alerts/NFLX?date=2020-10-07",
+      "created_at": "2020-10-07T16:40:29Z",
+      "user": {
+        "id": 732840,
+        "username": "WallStreetFriend",
+        "name": "Wall Street Friend",
+        "avatar_url": "https://avatars.stocktwits.com/production/732840/thumb-1577167895.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/732840/thumb-1577167895.png",
+        "join_date": "2016-04-17",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 503,
+        "following": 39,
+        "ideas": 65655,
+        "watchlist_stocks_count": 31,
+        "like_count": 94,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5142,
+        "title": "Programmatic Alerts ",
+        "url": "https://wsfriend.com"
+      },
+      "symbols": [
+        {
+          "id": 2839,
+          "symbol": "NFLX",
+          "title": "Netflix, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 287966
+        }
+      ],
+      "links": [
+        {
+          "title": "Auto Trader - Programmatic alerts for buy-write strategy to sell options against your current holdings.",
+          "url": "https://wsfriend.com/autotrader/alerts/NFLX?date=2020-10-07",
+          "shortened_url": "https://wsfriend.com/autotrader/alerts/NFLX?date=2020-10-07",
+          "shortened_expanded_url": "wsfriend.com/autotrader/ale...",
+          "description": "The term buy-write is used to describe an investment strategy in which the investor buys stocks and writes call options against the stock position. The writing of the call option provides extra income for an investor who is willing to forgo some upside potential.",
+          "image": null,
+          "created_at": "2020-10-07T16:40:32Z",
+          "video_url": null,
+          "source": {
+            "name": "Wsfriend",
+            "website": "https://wsfriend.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": false
+      }
+    },
+    {
+      "id": 248780722,
+      "body": "$NFLX: The long and short term trends are both positive. This is looking good! https://www.chartmill.com/stock/quote/NFLX/technical-analysis?key=c4d94219-3435-49f8-bb2a-e19999e1d19f&amp;utm_source=stocktwits&amp;utm_medium=TA&amp;utm_content=NFLX&amp;utm_campaign=social_tracking",
+      "created_at": "2020-10-07T16:40:02Z",
+      "user": {
+        "id": 47688,
+        "username": "ChartMill",
+        "name": "ChartMill",
+        "avatar_url": "https://avatars.stocktwits.com/production/47688/thumb-1363343728.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/47688/thumb-1363343728.png",
+        "join_date": "2011-01-26",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 21457,
+        "following": 892,
+        "ideas": 1064279,
+        "watchlist_stocks_count": 20,
+        "like_count": 32,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1135,
+        "title": "ChartMill",
+        "url": "http://www.chartmill.com"
+      },
+      "symbols": [
+        {
+          "id": 2839,
+          "symbol": "NFLX",
+          "title": "Netflix, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 287966
+        }
+      ],
+      "links": [
+        {
+          "title": null,
+          "url": "https://www.chartmill.com/stock/quote/NFLX/technical-analysis?key=c4d94219-3435-49f8-bb2a-e19999e1d19f&utm_source=stocktwits&utm_medium=TA&utm_content=NFLX&utm_campaign=social_tracking",
+          "shortened_url": "https://www.chartmill.com/stock/quote/NFLX/technical-analysis?key=c4d94219-3435-49f8-bb2a-e19999e1d19f&utm_source=stocktwits&utm_medium=TA&utm_content=NFLX&utm_campaign=social_tracking",
+          "shortened_expanded_url": "chartmill.com/stock/quote/N...",
+          "description": null,
+          "image": null,
+          "created_at": "2020-10-07T16:40:03Z",
+          "video_url": null,
+          "source": {
+            "name": "Chartmill",
+            "website": "https://www.chartmill.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_248780722.png",
+          "large": "https://charts.stocktwits.com/production/large_248780722.png",
+          "original": "https://charts.stocktwits.com/production/original_248780722.png",
+          "url": "https://charts.stocktwits.com/production/original_248780722.png"
+        },
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": false
+      }
+    },
+    {
+      "id": 248780319,
+      "body": "$NFLX earnings Prerun for Netflix is always there .. 550 before earnings",
+      "created_at": "2020-10-07T16:38:43Z",
+      "user": {
+        "id": 725909,
+        "username": "PunterBlaze",
+        "name": "PunterBlaze",
+        "avatar_url": "https://avatars.stocktwits.com/production/725909/thumb-1572932867.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/725909/thumb-1572932867.png",
+        "join_date": "2016-04-09",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 51,
+        "following": 57,
+        "ideas": 3867,
+        "watchlist_stocks_count": 31,
+        "like_count": 209,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 2839,
+          "symbol": "NFLX",
+          "title": "Netflix, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 287966
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 248780049,
+      "body": "$NFLX that was dirty dip \ud83d\udc40",
+      "created_at": "2020-10-07T16:37:54Z",
+      "user": {
+        "id": 525694,
+        "username": "PAC24",
+        "name": "JP",
+        "avatar_url": "https://avatars.stocktwits.com/production/525694/thumb-1589058229.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/525694/thumb-1589058229.png",
+        "join_date": "2015-05-30",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 60,
+        "following": 3,
+        "ideas": 2618,
+        "watchlist_stocks_count": 6,
+        "like_count": 799,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 2839,
+          "symbol": "NFLX",
+          "title": "Netflix, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 287966
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 248779311,
+      "body": "On a tear today $NFLX",
+      "created_at": "2020-10-07T16:35:40Z",
+      "user": {
+        "id": 811974,
+        "username": "SonGoku",
+        "name": "Goku",
+        "avatar_url": "https://avatars.stocktwits.com/production/811974/thumb-1553153857.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/811974/thumb-1553153857.png",
+        "join_date": "2016-08-04",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 5785,
+        "following": 5377,
+        "ideas": 150178,
+        "watchlist_stocks_count": 61,
+        "like_count": 63547,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 2839,
+          "symbol": "NFLX",
+          "title": "Netflix, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 287966
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_248779311.png",
+          "large": "https://charts.stocktwits.com/production/large_248779311.png",
+          "original": "https://charts.stocktwits.com/production/original_248779311.png",
+          "url": "https://charts.stocktwits.com/production/original_248779311.png"
+        },
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 248778596,
+      "body": "$NFLX every ER, you think it&#39;ll go +5%, it doesn&#39;t until 14 days later smh",
+      "created_at": "2020-10-07T16:33:30Z",
+      "user": {
+        "id": 3256289,
+        "username": "HedonismBot",
+        "name": "IApologize4Nothinggg",
+        "avatar_url": "https://avatars.stocktwits.com/production/3256289/thumb-1585764182.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3256289/thumb-1585764182.png",
+        "join_date": "2020-04-01",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 63,
+        "following": 66,
+        "ideas": 4066,
+        "watchlist_stocks_count": 12,
+        "like_count": 1796,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 2839,
+          "symbol": "NFLX",
+          "title": "Netflix, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 287966
+        }
+      ],
+      "likes": {
+        "total": 2,
+        "user_ids": [
+          1652360,
+          3893691
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "giphy": {
+          "id": "DgB7JEuINhSz7tdAKr"
+        },
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 248778342,
+      "body": "$NFLX who got into it at the dip lol",
+      "created_at": "2020-10-07T16:32:42Z",
+      "user": {
+        "id": 725909,
+        "username": "PunterBlaze",
+        "name": "PunterBlaze",
+        "avatar_url": "https://avatars.stocktwits.com/production/725909/thumb-1572932867.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/725909/thumb-1572932867.png",
+        "join_date": "2016-04-09",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 51,
+        "following": 57,
+        "ideas": 3867,
+        "watchlist_stocks_count": 31,
+        "like_count": 209,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 2839,
+          "symbol": "NFLX",
+          "title": "Netflix, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 287966
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    }
+  ]
+}
