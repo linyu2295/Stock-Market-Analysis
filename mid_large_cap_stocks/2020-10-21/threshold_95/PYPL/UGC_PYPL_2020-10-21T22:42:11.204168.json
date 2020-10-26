@@ -1,0 +1,1943 @@
+{
+  "response": {
+    "status": 200
+  },
+  "symbol": {
+    "id": 12608,
+    "symbol": "PYPL",
+    "title": "PayPal",
+    "aliases": [],
+    "is_following": false,
+    "watchlist_count": 62133
+  },
+  "cursor": {
+    "more": true,
+    "since": 251598369,
+    "max": 251588872
+  },
+  "messages": [
+    {
+      "id": 251598369,
+      "body": "$PYPL \nVolume picking up!! \ud83d\udcc8",
+      "created_at": "2020-10-21T14:40:33Z",
+      "user": {
+        "id": 3269111,
+        "username": "Goose83",
+        "name": "Will Zimmer",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2020-04-05",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 2,
+        "following": 10,
+        "ideas": 348,
+        "watchlist_stocks_count": 89,
+        "like_count": 784,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 12608,
+          "symbol": "PYPL",
+          "title": "PayPal",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 62133
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 251598087,
+      "body": "$PYPL $SQ PayPal Brings Bitcoin Trading To Account Holders, Merchants \n\nhttps://newsfilter.io/a/d532da5589687e918403af7d3f4aa8d5",
+      "created_at": "2020-10-21T14:39:53Z",
+      "user": {
+        "id": 2762379,
+        "username": "Newsfilter",
+        "name": "@newsfilterio",
+        "avatar_url": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "join_date": "2019-09-01",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 7383,
+        "following": 16,
+        "ideas": 581373,
+        "watchlist_stocks_count": 1,
+        "like_count": 531,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 7991,
+          "symbol": "SQ",
+          "title": "Square",
+          "aliases": [
+            "SQUARE"
+          ],
+          "is_following": false,
+          "watchlist_count": 106215
+        },
+        {
+          "id": 12608,
+          "symbol": "PYPL",
+          "title": "PayPal",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 62133
+        }
+      ],
+      "links": [
+        {
+          "title": "PayPal Brings Bitcoin Trading To Account Holders, Merchants",
+          "url": "https://newsfilter.io/a/d532da5589687e918403af7d3f4aa8d5",
+          "shortened_url": "https://newsfilter.io/a/d532da5589687e918403af7d3f4aa8d5",
+          "shortened_expanded_url": "newsfilter.io/a/d532da55896...",
+          "description": "PayPal Holdings became one of largest companies to bet on cryptocurrency as a payment option Wednesday. What Happened: Paypal Holdings announced it is launching a service to allow users to buy, sell and hold cryptocurrency. The company received a conditional Bitlicense from the...",
+          "image": "https://newsfilter.io/meta-images/?url=https://storage.googleapis.com/iex/api/logos/PYPL.png",
+          "created_at": "2020-10-21T14:39:54Z",
+          "video_url": null,
+          "source": {
+            "name": "Newsfilter",
+            "website": "https://newsfilter.io"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 251596921,
+      "body": "$PYPL  $PINS long holds",
+      "created_at": "2020-10-21T14:36:55Z",
+      "user": {
+        "id": 286449,
+        "username": "Heterodontbull",
+        "name": "Jeff Gale",
+        "avatar_url": "https://avatars.stocktwits.com/production/286449/thumb-1386208123.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/286449/thumb-1386208123.png",
+        "join_date": "2013-12-02",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 283,
+        "following": 217,
+        "ideas": 14582,
+        "watchlist_stocks_count": 130,
+        "like_count": 5099,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 11742,
+          "symbol": "PINS",
+          "title": "Pinterest",
+          "aliases": [
+            "PINTEREST"
+          ],
+          "is_following": false,
+          "watchlist_count": 22326
+        },
+        {
+          "id": 12608,
+          "symbol": "PYPL",
+          "title": "PayPal",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 62133
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 251596201,
+      "body": "$PYPL shows quite a strong growth in EPS. Over the last 5 years, the EPS has been growing by 16.01% yearly. https://www.chartmill.com/stock/quote/PYPL/fundamental-analysis?key=0b412785-3eeb-41bd-9416-2c187f89e1d2&amp;utm_source=stocktwits&amp;utm_medium=FA&amp;utm_content=PYPL&amp;utm_campaign=social_tracking",
+      "created_at": "2020-10-21T14:35:00Z",
+      "user": {
+        "id": 47688,
+        "username": "ChartMill",
+        "name": "ChartMill",
+        "avatar_url": "https://avatars.stocktwits.com/production/47688/thumb-1363343728.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/47688/thumb-1363343728.png",
+        "join_date": "2011-01-26",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 21831,
+        "following": 891,
+        "ideas": 1080398,
+        "watchlist_stocks_count": 20,
+        "like_count": 32,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1135,
+        "title": "ChartMill",
+        "url": "http://www.chartmill.com"
+      },
+      "symbols": [
+        {
+          "id": 12608,
+          "symbol": "PYPL",
+          "title": "PayPal",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 62133
+        }
+      ],
+      "links": [
+        {
+          "title": null,
+          "url": "https://www.chartmill.com/stock/quote/PYPL/fundamental-analysis?key=0b412785-3eeb-41bd-9416-2c187f89e1d2&utm_source=stocktwits&utm_medium=FA&utm_content=PYPL&utm_campaign=social_tracking",
+          "shortened_url": "https://www.chartmill.com/stock/quote/PYPL/fundamental-analysis?key=0b412785-3eeb-41bd-9416-2c187f89e1d2&utm_source=stocktwits&utm_medium=FA&utm_content=PYPL&utm_campaign=social_tracking",
+          "shortened_expanded_url": "chartmill.com/stock/quote/P...",
+          "description": null,
+          "image": null,
+          "created_at": "2020-10-21T14:35:00Z",
+          "video_url": null,
+          "source": {
+            "name": "Chartmill",
+            "website": "https://www.chartmill.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": false
+      }
+    },
+    {
+      "id": 251596142,
+      "body": "$PYPL banks will now compete to buy PayPal. $250 sounds about right",
+      "created_at": "2020-10-21T14:34:52Z",
+      "user": {
+        "id": 2046260,
+        "username": "CRosebushes",
+        "name": "Enron Janitor",
+        "avatar_url": "https://avatars.stocktwits.com/production/2046260/thumb-1591280012.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2046260/thumb-1591280012.png",
+        "join_date": "2019-04-30",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 282,
+        "following": 69,
+        "ideas": 11064,
+        "watchlist_stocks_count": 20,
+        "like_count": 2027,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2095,
+        "title": "StockTwits For Android ",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 12608,
+          "symbol": "PYPL",
+          "title": "PayPal",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 62133
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 251596133,
+      "body": "$PYPL how high will this go",
+      "created_at": "2020-10-21T14:34:50Z",
+      "user": {
+        "id": 3126628,
+        "username": "Mikemike347",
+        "name": "Mikemikeur347",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2020-02-26",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 2,
+        "following": 0,
+        "ideas": 742,
+        "watchlist_stocks_count": 12,
+        "like_count": 1,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 12608,
+          "symbol": "PYPL",
+          "title": "PayPal",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 62133
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 251595733,
+      "body": "$TGC $MYOK $ERIC $TWTR $PYPL lf you really want to make a huge profit on stock trading. Then this community is for you: http://oogwaytrades.net/",
+      "created_at": "2020-10-21T14:33:49Z",
+      "user": {
+        "id": 4153206,
+        "username": "IveyKonopka",
+        "name": "Ivey Konopka",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2020-10-06",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 0,
+        "following": 0,
+        "ideas": 2,
+        "watchlist_stocks_count": 0,
+        "like_count": 0,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 549,
+          "symbol": "TGC",
+          "title": "Tengasco Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 3422
+        },
+        {
+          "id": 1761,
+          "symbol": "ERIC",
+          "title": "LM Ericsson Telephone Co.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 7298
+        },
+        {
+          "id": 7872,
+          "symbol": "TWTR",
+          "title": "Twitter",
+          "aliases": [
+            "TWIT"
+          ],
+          "is_following": false,
+          "watchlist_count": 204323
+        },
+        {
+          "id": 12608,
+          "symbol": "PYPL",
+          "title": "PayPal",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 62133
+        },
+        {
+          "id": 12846,
+          "symbol": "MYOK",
+          "title": "MyoKardia",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1908
+        }
+      ],
+      "links": [
+        {
+          "title": null,
+          "url": "http://oogwaytrades.net/",
+          "shortened_url": "http://oogwaytrades.net/",
+          "shortened_expanded_url": "oogwaytrades.net/",
+          "description": null,
+          "image": null,
+          "created_at": "2020-10-21T14:33:49Z",
+          "video_url": null,
+          "source": {
+            "name": "Oogwaytrades",
+            "website": "http://oogwaytrades.net"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 251595500,
+      "body": "$PYPL $TSLA $PINS  ~\u201cI&#39;ve  made 36k  with them. If you really want to make a huge profit on TRADING .... CHOOSE this professional chat\u201d:  stocksmarketchat.net/",
+      "created_at": "2020-10-21T14:33:13Z",
+      "user": {
+        "id": 4132286,
+        "username": "rachaelrogers",
+        "name": "Rachael Rogers",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2020-10-02",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 0,
+        "following": 0,
+        "ideas": 1,
+        "watchlist_stocks_count": 0,
+        "like_count": 0,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 8660,
+          "symbol": "TSLA",
+          "title": "Tesla, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 464530
+        },
+        {
+          "id": 11742,
+          "symbol": "PINS",
+          "title": "Pinterest",
+          "aliases": [
+            "PINTEREST"
+          ],
+          "is_following": false,
+          "watchlist_count": 22326
+        },
+        {
+          "id": 12608,
+          "symbol": "PYPL",
+          "title": "PayPal",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 62133
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 251595500,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "links": [
+        {
+          "title": null,
+          "url": "stocksmarketchat.net/",
+          "shortened_url": "stocksmarketchat.net/",
+          "shortened_expanded_url": "stocksmarketchat.net/",
+          "description": null,
+          "image": null,
+          "created_at": "2020-10-21T14:33:13Z",
+          "video_url": null,
+          "source": {
+            "name": "Stocksmarketchat",
+            "website": "http://stocksmarketchat.net"
+          }
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          4007657
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 251595398,
+      "body": "Today is a big day for AR and Crypto....$snap busting to all time highs  and Bitcoin edging to yearly highs on news $pypl is with it\n\nthe government end around continues...\n\nQuite a year for unintended consequences but Zoom and Peloton remain the brands of the year ....",
+      "created_at": "2020-10-21T14:32:58Z",
+      "user": {
+        "id": 5,
+        "username": "howardlindzon",
+        "name": "Howard Lindzon",
+        "avatar_url": "https://avatars.stocktwits.com/production/5/thumb-1503096790.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/5/thumb-1503096790.png",
+        "join_date": "2009-07-11",
+        "official": true,
+        "identity": "Official",
+        "classification": [
+          "suggested",
+          "official"
+        ],
+        "followers": 227408,
+        "following": 1822,
+        "ideas": 168933,
+        "watchlist_stocks_count": 170,
+        "like_count": 81621,
+        "plus_tier": "year",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 11746,
+          "symbol": "SNAP",
+          "title": "Snap Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 155206
+        },
+        {
+          "id": 12608,
+          "symbol": "PYPL",
+          "title": "PayPal",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 62133
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          129608
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 251594935,
+      "body": "$PYPL will it cross ath of 212.4?",
+      "created_at": "2020-10-21T14:31:48Z",
+      "user": {
+        "id": 811677,
+        "username": "9d9er",
+        "name": "D",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2016-08-04",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 13,
+        "following": 61,
+        "ideas": 3086,
+        "watchlist_stocks_count": 40,
+        "like_count": 948,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 12608,
+          "symbol": "PYPL",
+          "title": "PayPal",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 62133
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 251594935,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 251594925,
+      "body": "PayPal Brings Bitcoin Trading To Account Holders, Merchants $PYPL $BTC.X $SQ https://benzinga.com/z/17995732#.X5BGQcy0xdY.twitter",
+      "created_at": "2020-10-21T14:31:46Z",
+      "user": {
+        "id": 7108,
+        "username": "Benzinga",
+        "name": "Benzinga",
+        "avatar_url": "https://avatars.stocktwits.com/production/7108/thumb-1568827739.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/7108/thumb-1568827739.png",
+        "join_date": "2009-12-04",
+        "official": true,
+        "identity": "Official",
+        "classification": [
+          "suggested",
+          "official"
+        ],
+        "followers": 284074,
+        "following": 531,
+        "ideas": 118047,
+        "watchlist_stocks_count": 7,
+        "like_count": 112,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 7991,
+          "symbol": "SQ",
+          "title": "Square",
+          "aliases": [
+            "SQUARE"
+          ],
+          "is_following": false,
+          "watchlist_count": 106215
+        },
+        {
+          "id": 11418,
+          "symbol": "BTC.X",
+          "title": "Bitcoin BTC/USD",
+          "aliases": [
+            "BTCUSD"
+          ],
+          "is_following": false,
+          "watchlist_count": 196354
+        },
+        {
+          "id": 12608,
+          "symbol": "PYPL",
+          "title": "PayPal",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 62133
+        }
+      ],
+      "links": [
+        {
+          "title": "PayPal Brings Bitcoin Trading To Account Holders, Merchants",
+          "url": "https://benzinga.com/z/17995732#.X5BGQcy0xdY.twitter",
+          "shortened_url": "https://benzinga.com/z/17995732#.X5BGQcy0xdY.twitter",
+          "shortened_expanded_url": "benzinga.com/markets/crypto...",
+          "description": "PayPal Holdings became one of largest companies to bet on cryptocurrency as a payment option Wednesday. What Happened: Paypal Holdings (NASDAQ: PYPL) announced it is launching a service to allow users to buy, sell and hold cryptocurrency. The company received a conditional Bitlicense from the New York State Department of Financial Services.",
+          "image": "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/images/story/2012/bitcoin-1813503_1920_89.jpg",
+          "created_at": "2020-10-21T14:31:47Z",
+          "video_url": null,
+          "source": {
+            "name": "Benzinga",
+            "website": "https://www.benzinga.com"
+          }
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          262496
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 251594309,
+      "body": "$BTC.X $PYPL obviously timed this news",
+      "created_at": "2020-10-21T14:30:18Z",
+      "user": {
+        "id": 790964,
+        "username": "dontbegreedy",
+        "name": "dontbegreedy",
+        "avatar_url": "https://avatars.stocktwits.com/production/790964/thumb-1479352616.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/790964/thumb-1479352616.png",
+        "join_date": "2016-07-08",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 173,
+        "following": 168,
+        "ideas": 11929,
+        "watchlist_stocks_count": 300,
+        "like_count": 8737,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 11418,
+          "symbol": "BTC.X",
+          "title": "Bitcoin BTC/USD",
+          "aliases": [
+            "BTCUSD"
+          ],
+          "is_following": false,
+          "watchlist_count": 196354
+        },
+        {
+          "id": 12608,
+          "symbol": "PYPL",
+          "title": "PayPal",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 62133
+        }
+      ],
+      "likes": {
+        "total": 3,
+        "user_ids": [
+          699006,
+          3507471,
+          2014809
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 251594122,
+      "body": "$PYPL price target for early next week how far will this run?",
+      "created_at": "2020-10-21T14:29:50Z",
+      "user": {
+        "id": 3421750,
+        "username": "Mrbossftw",
+        "name": "Jared",
+        "avatar_url": "https://avatars.stocktwits.com/production/3421750/thumb-1592519594.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3421750/thumb-1592519594.png",
+        "join_date": "2020-05-07",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 23,
+        "following": 9,
+        "ideas": 1551,
+        "watchlist_stocks_count": 15,
+        "like_count": 1940,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2095,
+        "title": "StockTwits For Android ",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 12608,
+          "symbol": "PYPL",
+          "title": "PayPal",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 62133
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 251593435,
+      "body": "$PYPL why is this turf falling. Should be up 16 points today",
+      "created_at": "2020-10-21T14:28:14Z",
+      "user": {
+        "id": 3126628,
+        "username": "Mikemike347",
+        "name": "Mikemikeur347",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2020-02-26",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 2,
+        "following": 0,
+        "ideas": 742,
+        "watchlist_stocks_count": 12,
+        "like_count": 1,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 12608,
+          "symbol": "PYPL",
+          "title": "PayPal",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 62133
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 251592938,
+      "body": "$PYPL",
+      "created_at": "2020-10-21T14:26:55Z",
+      "user": {
+        "id": 3992995,
+        "username": "Aspir3",
+        "name": "CLX",
+        "avatar_url": "https://avatars.stocktwits.com/production/3992995/thumb-1599280060.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3992995/thumb-1599280060.png",
+        "join_date": "2020-08-23",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 1,
+        "following": 0,
+        "ideas": 88,
+        "watchlist_stocks_count": 6,
+        "like_count": 190,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2095,
+        "title": "StockTwits For Android ",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 12608,
+          "symbol": "PYPL",
+          "title": "PayPal",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 62133
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "giphy": {
+          "id": "82okbuuqL4cAVdtQei"
+        },
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 251592735,
+      "body": "$PYPL Graph looks almost identical to $AAPL.",
+      "created_at": "2020-10-21T14:26:23Z",
+      "user": {
+        "id": 1007769,
+        "username": "BorB",
+        "name": "Luis",
+        "avatar_url": "https://avatars.stocktwits.com/production/1007769/thumb-1515002395.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1007769/thumb-1515002395.png",
+        "join_date": "2017-03-25",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 63,
+        "following": 148,
+        "ideas": 4485,
+        "watchlist_stocks_count": 24,
+        "like_count": 35048,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 686,
+          "symbol": "AAPL",
+          "title": "Apple Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 519719
+        },
+        {
+          "id": 12608,
+          "symbol": "PYPL",
+          "title": "PayPal",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 62133
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 251592735,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 251592298,
+      "body": "$PYPL PayPal will let customers buy cryptocurrencies and use them for online payments... https://t.co/8Aq2XeZv8i",
+      "created_at": "2020-10-21T14:25:21Z",
+      "user": {
+        "id": 4188753,
+        "username": "thebean3",
+        "name": "Stay Focused",
+        "avatar_url": "https://avatars.stocktwits.com/production/4188753/thumb-1602816591.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/4188753/thumb-1602816591.png",
+        "join_date": "2020-10-15",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 1,
+        "following": 0,
+        "ideas": 16,
+        "watchlist_stocks_count": 45,
+        "like_count": 43,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 12608,
+          "symbol": "PYPL",
+          "title": "PayPal",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 62133
+        }
+      ],
+      "links": [
+        {
+          "title": "PayPal will let customers buy cryptocurrencies and use them to shop online",
+          "url": "https://t.co/8Aq2XeZv8i",
+          "shortened_url": "https://t.co/8Aq2XeZv8i",
+          "shortened_expanded_url": "marketwatch.com/story/paypa...",
+          "description": "PayPal Holdings Inc. plans to allow customers to buy cryptocurrency through their accounts and use cryptocurrency for merchant payments. The company announced Wednesday that it is introducing a way for customers to buy, hold, and sell certain cryptocurrencies within the PayPal wallet. This will roll out over the coming weeks in the U.S.",
+          "image": "https://images.mktw.net/im-247725/social",
+          "created_at": "2020-10-21T14:25:23Z",
+          "video_url": null,
+          "source": {
+            "name": "MarketWatch",
+            "website": "https://www.marketwatch.com"
+          }
+        }
+      ],
+      "likes": {
+        "total": 2,
+        "user_ids": [
+          2187082,
+          3834604
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 251591533,
+      "body": "$PYPL imagine $DKNG starts using BTC to bet",
+      "created_at": "2020-10-21T14:23:29Z",
+      "user": {
+        "id": 697309,
+        "username": "sv89",
+        "name": "Jumpman",
+        "avatar_url": "https://avatars.stocktwits.com/production/697309/thumb-1456864471.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/697309/thumb-1456864471.png",
+        "join_date": "2016-03-01",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 25,
+        "following": 84,
+        "ideas": 2496,
+        "watchlist_stocks_count": 219,
+        "like_count": 4448,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 12608,
+          "symbol": "PYPL",
+          "title": "PayPal",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 62133
+        },
+        {
+          "id": 15497,
+          "symbol": "DKNG",
+          "title": "DraftKings",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 46032
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 251591533,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 2
+      },
+      "likes": {
+        "total": 4,
+        "user_ids": [
+          586789,
+          1180348,
+          2187082,
+          1113311
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 251591236,
+      "body": "100% plus profits in less than 45 mins of the day, market is hot, along with POT. \n$PINS $PYPL $PTON and Ofcourse \nO $SNAP beautiful day with Options.",
+      "created_at": "2020-10-21T14:22:47Z",
+      "user": {
+        "id": 3039298,
+        "username": "BIEOptions_VC",
+        "name": "VC",
+        "avatar_url": "https://avatars.stocktwits.com/production/3039298/thumb-1593746419.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3039298/thumb-1593746419.png",
+        "join_date": "2020-01-18",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 1645,
+        "following": 45,
+        "ideas": 2464,
+        "watchlist_stocks_count": 25,
+        "like_count": 2594,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 11742,
+          "symbol": "PINS",
+          "title": "Pinterest",
+          "aliases": [
+            "PINTEREST"
+          ],
+          "is_following": false,
+          "watchlist_count": 22326
+        },
+        {
+          "id": 11746,
+          "symbol": "SNAP",
+          "title": "Snap Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 155206
+        },
+        {
+          "id": 12608,
+          "symbol": "PYPL",
+          "title": "PayPal",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 62073
+        },
+        {
+          "id": 15382,
+          "symbol": "PTON",
+          "title": "Peloton",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 25832
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 251591236,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_251591236.png",
+          "large": "https://charts.stocktwits.com/production/large_251591236.png",
+          "original": "https://charts.stocktwits.com/production/original_251591236.png",
+          "url": "https://charts.stocktwits.com/production/original_251591236.png"
+        },
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 251591016,
+      "body": "$BTC.X $ETH.X $PYPL Just for perspective, PayPal has over 10x the users as Coinbase (crypto&#39;s largest exchange). And now all these users have access to Bitcoin and other crypto&#39;s.",
+      "created_at": "2020-10-21T14:22:18Z",
+      "user": {
+        "id": 1599254,
+        "username": "itraben",
+        "name": "Isaiah Traben",
+        "avatar_url": "https://avatars.stocktwits.com/production/1599254/thumb-1536086495.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1599254/thumb-1536086495.png",
+        "join_date": "2018-09-04",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 50,
+        "following": 4,
+        "ideas": 1952,
+        "watchlist_stocks_count": 48,
+        "like_count": 2237,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 11418,
+          "symbol": "BTC.X",
+          "title": "Bitcoin BTC/USD",
+          "aliases": [
+            "BTCUSD"
+          ],
+          "is_following": false,
+          "watchlist_count": 196354
+        },
+        {
+          "id": 12608,
+          "symbol": "PYPL",
+          "title": "PayPal",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 62073
+        },
+        {
+          "id": 13016,
+          "symbol": "ETH.X",
+          "title": "Ethereum",
+          "aliases": [
+            "ETHUSD"
+          ],
+          "is_following": false,
+          "watchlist_count": 79482
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 251590145,
+      "body": "$PYPL new high",
+      "created_at": "2020-10-21T14:20:16Z",
+      "user": {
+        "id": 242202,
+        "username": "aboveandbeyond7",
+        "name": "M",
+        "avatar_url": "https://avatars.stocktwits.com/production/242202/thumb-1593536889.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/242202/thumb-1593536889.png",
+        "join_date": "2013-06-28",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 17,
+        "following": 95,
+        "ideas": 2237,
+        "watchlist_stocks_count": 181,
+        "like_count": 881,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 12608,
+          "symbol": "PYPL",
+          "title": "PayPal",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 62073
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "giphy": {
+          "id": "upg0i1m4DLe5q"
+        },
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 251589994,
+      "body": "$PYPL PayPal will let customers buy cryptocurrencies and use them for online payments\n\nhttps://www.marketwatch.com/story/paypal-will-let-customers-buy-cryptocurrencies-and-use-them-for-online-payments-11603283352?mod=newsviewer_click",
+      "created_at": "2020-10-21T14:19:55Z",
+      "user": {
+        "id": 962572,
+        "username": "topstockalerts",
+        "name": "Top Stock Alerts",
+        "avatar_url": "https://avatars.stocktwits.com/production/962572/thumb-1506783043.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/962572/thumb-1506783043.png",
+        "join_date": "2017-02-19",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 55166,
+        "following": 52,
+        "ideas": 116993,
+        "watchlist_stocks_count": 9,
+        "like_count": 2194,
+        "plus_tier": "life",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2095,
+        "title": "StockTwits For Android ",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 12608,
+          "symbol": "PYPL",
+          "title": "PayPal",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 62073
+        }
+      ],
+      "links": [
+        {
+          "title": "PayPal will let customers buy cryptocurrencies and use them for online payments",
+          "url": "https://www.marketwatch.com/story/paypal-will-let-customers-buy-cryptocurrencies-and-use-them-for-online-payments-11603283352?mod=newsviewer_click",
+          "shortened_url": "https://www.marketwatch.com/story/paypal-will-let-customers-buy-cryptocurrencies-and-use-them-for-online-payments-11603283352?mod=newsviewer_click",
+          "shortened_expanded_url": "marketwatch.com/story/paypa...",
+          "description": "PayPal Holdings Inc. plans to allow customers to buy cryptocurrency through their accounts and use cryptocurrency for merchant payments. The company announced Wednesday that it is introducing a way for customers to buy, hold, and sell certain cryptocurrencies within the PayPal wallet. This will roll out over the coming weeks in the U.S.",
+          "image": "https://images.mktw.net/im-247725/social",
+          "created_at": "2020-10-21T14:19:56Z",
+          "video_url": null,
+          "source": {
+            "name": "MarketWatch",
+            "website": "https://www.marketwatch.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 251589782,
+      "body": "$PYPL \nContracts alerted at $385, hit $952 today. \nDrop a follow, more of these to come.\n\n$SPY $AAPL $TSLA",
+      "created_at": "2020-10-21T14:19:28Z",
+      "user": {
+        "id": 4093794,
+        "username": "OTS_TOS",
+        "name": "Option Trading Snipers",
+        "avatar_url": "https://avatars.stocktwits.com/production/4093794/thumb-1602462196.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/4093794/thumb-1602462196.png",
+        "join_date": "2020-09-21",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 547,
+        "following": 30,
+        "ideas": 359,
+        "watchlist_stocks_count": 0,
+        "like_count": 0,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 686,
+          "symbol": "AAPL",
+          "title": "Apple Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 519719
+        },
+        {
+          "id": 7271,
+          "symbol": "SPY",
+          "title": "SPDR S&P 500",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 260557
+        },
+        {
+          "id": 8660,
+          "symbol": "TSLA",
+          "title": "Tesla, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 464530
+        },
+        {
+          "id": 12608,
+          "symbol": "PYPL",
+          "title": "PayPal",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 62073
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 251589782,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 2
+      },
+      "likes": {
+        "total": 3,
+        "user_ids": [
+          3571654,
+          2901295,
+          697309
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_251589782.png",
+          "large": "https://charts.stocktwits.com/production/large_251589782.png",
+          "original": "https://charts.stocktwits.com/production/original_251589782.png",
+          "url": "https://charts.stocktwits.com/production/original_251589782.png"
+        },
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 251589739,
+      "body": "$PYPL NEW ARTICLE : Grayscale crypto funds rally on PayPal plans to accept them https://www.stck.pro/news/PYPL/8631139",
+      "created_at": "2020-10-21T14:19:21Z",
+      "user": {
+        "id": 1555408,
+        "username": "STCKPRO",
+        "name": "STCK.PRO",
+        "avatar_url": "https://avatars.stocktwits.com/production/1555408/thumb-1576077822.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1555408/thumb-1576077822.png",
+        "join_date": "2018-07-24",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 4247,
+        "following": 2,
+        "ideas": 254329,
+        "watchlist_stocks_count": 17,
+        "like_count": 52,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5011,
+        "title": "STCK.PRO",
+        "url": "https://dashboard.stck.pro"
+      },
+      "symbols": [
+        {
+          "id": 12608,
+          "symbol": "PYPL",
+          "title": "PayPal",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 62073
+        }
+      ],
+      "links": [
+        {
+          "title": "PayPal Holdings (PYPL)",
+          "url": "https://www.stck.pro/news/PYPL/8631139",
+          "shortened_url": "https://www.stck.pro/news/PYPL/8631139",
+          "shortened_expanded_url": "stck.pro/news/PYPL",
+          "description": "Never miss an important article again, stay on top of your investments and become a better investor today! Get your moat on and sync your watchlist with Stocktwits and get all the latest news for your symbols. Sync with Stocktwits",
+          "image": "https://www.stck.pro/img/imac.png",
+          "created_at": "2020-10-21T14:19:24Z",
+          "video_url": null,
+          "source": {
+            "name": "Stck",
+            "website": "https://www.stck.pro"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_251589739.jpg",
+          "large": "https://charts.stocktwits.com/production/large_251589739.jpg",
+          "original": "https://charts.stocktwits.com/production/original_251589739.jpg",
+          "url": "https://charts.stocktwits.com/production/original_251589739.jpg"
+        },
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": false
+      }
+    },
+    {
+      "id": 251589437,
+      "body": "$PYPL got in at 208.75",
+      "created_at": "2020-10-21T14:18:39Z",
+      "user": {
+        "id": 1885832,
+        "username": "BlueHorseshoe66",
+        "name": "Blue Horseshoe Loves...",
+        "avatar_url": "https://avatars.stocktwits.com/production/1885832/thumb-1599072897.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1885832/thumb-1599072897.png",
+        "join_date": "2019-02-21",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 32,
+        "following": 5,
+        "ideas": 630,
+        "watchlist_stocks_count": 5,
+        "like_count": 281,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 12608,
+          "symbol": "PYPL",
+          "title": "PayPal",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 62073
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 251589355,
+      "body": "$PYPL what is this going to today?",
+      "created_at": "2020-10-21T14:18:27Z",
+      "user": {
+        "id": 3455357,
+        "username": "Stockboy199",
+        "name": "Danny Robinson",
+        "avatar_url": "https://avatars.stocktwits.com/production/3455357/thumb-1590581191.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3455357/thumb-1590581191.png",
+        "join_date": "2020-05-14",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 0,
+        "following": 31,
+        "ideas": 96,
+        "watchlist_stocks_count": 109,
+        "like_count": 123,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 12608,
+          "symbol": "PYPL",
+          "title": "PayPal",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 62073
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 251589355,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          2187082
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 251589338,
+      "body": "$PYPL launches new service enabling its customers to buy, hold, and sell cryptocurrency directly from their PayPal account",
+      "created_at": "2020-10-21T14:18:25Z",
+      "user": {
+        "id": 8115,
+        "username": "briefingcom",
+        "name": "Briefingcom",
+        "avatar_url": "https://avatars.stocktwits.com/production/8115/thumb-1340802633.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/8115/thumb-1340802633.png",
+        "join_date": "2010-01-25",
+        "official": true,
+        "identity": "Official",
+        "classification": [
+          "official"
+        ],
+        "followers": 85614,
+        "following": 819,
+        "ideas": 78701,
+        "watchlist_stocks_count": 8,
+        "like_count": 66,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 12608,
+          "symbol": "PYPL",
+          "title": "PayPal",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 62073
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 251589139,
+      "body": "$PYPL about to hit new highs.  Feelin good!",
+      "created_at": "2020-10-21T14:17:56Z",
+      "user": {
+        "id": 889347,
+        "username": "MayGodGettheGlory",
+        "name": "Mike",
+        "avatar_url": "https://avatars.stocktwits.com/production/889347/thumb-1510316576.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/889347/thumb-1510316576.png",
+        "join_date": "2016-11-29",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 2,
+        "following": 62,
+        "ideas": 342,
+        "watchlist_stocks_count": 7,
+        "like_count": 373,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2095,
+        "title": "StockTwits For Android ",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 12608,
+          "symbol": "PYPL",
+          "title": "PayPal",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 62073
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 251589054,
+      "body": "$PYPL new ATHs",
+      "created_at": "2020-10-21T14:17:44Z",
+      "user": {
+        "id": 851303,
+        "username": "32Trades",
+        "name": "TraderTim",
+        "avatar_url": "https://avatars.stocktwits.com/production/851303/thumb-1579965157.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/851303/thumb-1579965157.png",
+        "join_date": "2016-10-01",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 1859,
+        "following": 35,
+        "ideas": 8113,
+        "watchlist_stocks_count": 7,
+        "like_count": 581,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 12608,
+          "symbol": "PYPL",
+          "title": "PayPal",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 62073
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 251588872,
+      "body": "$MGI let\u2019s see some rocket memes.   This stock is a BEAST.   Just look at $SQ and $PYPL.  Only a matter of time before we see &gt;$10 then &gt;$20.",
+      "created_at": "2020-10-21T14:17:19Z",
+      "user": {
+        "id": 2976793,
+        "username": "HundredThousandAire",
+        "name": "Babushka Boi",
+        "avatar_url": "https://avatars.stocktwits.com/production/2976793/thumb-1589837792.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2976793/thumb-1589837792.png",
+        "join_date": "2019-12-19",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 16,
+        "following": 55,
+        "ideas": 571,
+        "watchlist_stocks_count": 66,
+        "like_count": 1223,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 6290,
+          "symbol": "MGI",
+          "title": "Moneygram International Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 6157
+        },
+        {
+          "id": 7991,
+          "symbol": "SQ",
+          "title": "Square",
+          "aliases": [
+            "SQUARE"
+          ],
+          "is_following": false,
+          "watchlist_count": 106204
+        },
+        {
+          "id": 12608,
+          "symbol": "PYPL",
+          "title": "PayPal",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 62133
+        }
+      ],
+      "likes": {
+        "total": 4,
+        "user_ids": [
+          3047320,
+          3183280,
+          4066350,
+          3353127
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    }
+  ]
+}

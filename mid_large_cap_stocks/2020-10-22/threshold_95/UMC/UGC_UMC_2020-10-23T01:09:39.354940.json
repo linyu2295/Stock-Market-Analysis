@@ -1,0 +1,1845 @@
+{
+  "response": {
+    "status": 200
+  },
+  "symbol": {
+    "id": 7564,
+    "symbol": "UMC",
+    "title": "United Microelectronics Corporation",
+    "aliases": [],
+    "is_following": false,
+    "watchlist_count": 1651
+  },
+  "cursor": {
+    "more": true,
+    "since": 251902227,
+    "max": 249913674
+  },
+  "messages": [
+    {
+      "id": 251902227,
+      "body": "$UMC this looks like it wants to rip for a new 52 week high",
+      "created_at": "2020-10-22T15:50:20Z",
+      "user": {
+        "id": 738806,
+        "username": "andy1104",
+        "name": "Andy Richter",
+        "avatar_url": "https://avatars.stocktwits.com/production/738806/thumb-1519001333.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/738806/thumb-1519001333.png",
+        "join_date": "2016-04-25",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 81,
+        "following": 344,
+        "ideas": 3407,
+        "watchlist_stocks_count": 293,
+        "like_count": 7063,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 7564,
+          "symbol": "UMC",
+          "title": "United Microelectronics Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1651
+        }
+      ],
+      "likes": {
+        "total": 2,
+        "user_ids": [
+          3807293,
+          1415129
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 251892691,
+      "body": "$UMC steady climbing while $HYLN $TTCF $OPES $NKLA is dropping get in before it \ud83d\udca5",
+      "created_at": "2020-10-22T15:23:42Z",
+      "user": {
+        "id": 3450351,
+        "username": "dnyce2227",
+        "name": "Dc",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2020-05-13",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 1,
+        "following": 2,
+        "ideas": 109,
+        "watchlist_stocks_count": 58,
+        "like_count": 55,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2095,
+        "title": "StockTwits For Android ",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 7564,
+          "symbol": "UMC",
+          "title": "United Microelectronics Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1646
+        },
+        {
+          "id": 15566,
+          "symbol": "NKLA",
+          "title": "Nikola Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 72531
+        },
+        {
+          "id": 15610,
+          "symbol": "TTCF",
+          "title": "Tattooed Chef",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 21270
+        },
+        {
+          "id": 15645,
+          "symbol": "OPES",
+          "title": "Opes Acquisition Corp",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 7952
+        },
+        {
+          "id": 15711,
+          "symbol": "HYLN",
+          "title": "Hyliion Holdings",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 32927
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 251892691,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 251837093,
+      "body": "$UMC https://finance.yahoo.com/news/taiwans-umc-hopes-settle-u-122432395.html\n\nReason why it&#39;s up a bit pre-market.",
+      "created_at": "2020-10-22T13:07:01Z",
+      "user": {
+        "id": 3807293,
+        "username": "Your_friend_Satan",
+        "name": "Satan",
+        "avatar_url": "https://avatars.stocktwits.com/production/3807293/thumb-1596131211.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3807293/thumb-1596131211.png",
+        "join_date": "2020-07-17",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 7,
+        "following": 5,
+        "ideas": 239,
+        "watchlist_stocks_count": 40,
+        "like_count": 42,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 7564,
+          "symbol": "UMC",
+          "title": "United Microelectronics Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1646
+        }
+      ],
+      "links": [
+        {
+          "title": "Taiwan's UMC hopes to settle U.S. trade-secret lawsuit soon",
+          "url": "https://finance.yahoo.com/news/taiwans-umc-hopes-settle-u-122432395.html",
+          "shortened_url": "https://finance.yahoo.com/news/taiwans-umc-hopes-settle-u-122432395.html",
+          "shortened_expanded_url": "finance.yahoo.com/news/taiw...",
+          "description": "Taiwanese contract chipmaker United Microelectronics Corp (UMC) said on Thursday it hoped a business espionage lawsuit brought by the U.S. Department of Justice (DOJ) against the company could be settled soon. UMC has been in talks with the DOJ and has submitted a proposal for the matter to be resolved, involving a settlement of $60 million, it said in a filing to Taiwan's stock exchange.",
+          "image": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png",
+          "created_at": "2020-10-22T13:07:02Z",
+          "video_url": null,
+          "source": {
+            "name": "Yahoo",
+            "website": "https://finance.yahoo.com"
+          }
+        }
+      ],
+      "likes": {
+        "total": 2,
+        "user_ids": [
+          738806,
+          4006702
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 251826347,
+      "body": "$UMC this is the real deal let&#39;s good gotta get my profit back from losing it on $HYLN garbage",
+      "created_at": "2020-10-22T12:21:15Z",
+      "user": {
+        "id": 3450351,
+        "username": "dnyce2227",
+        "name": "Dc",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2020-05-13",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 1,
+        "following": 2,
+        "ideas": 109,
+        "watchlist_stocks_count": 58,
+        "like_count": 55,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2095,
+        "title": "StockTwits For Android ",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 7564,
+          "symbol": "UMC",
+          "title": "United Microelectronics Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1646
+        },
+        {
+          "id": 15711,
+          "symbol": "HYLN",
+          "title": "Hyliion Holdings",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 32929
+        }
+      ],
+      "likes": {
+        "total": 3,
+        "user_ids": [
+          4169563,
+          1479506,
+          738806
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "giphy": {
+          "id": "3o85xC8sdW7vmG6bRe"
+        },
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 251825336,
+      "body": "$FCEL come to $UMC this will be your money maker climbing slowly great future will hit 10.00$ by end of year easily semiconductors are in everything this company is solid the everything train is long gone",
+      "created_at": "2020-10-22T12:16:06Z",
+      "user": {
+        "id": 3450351,
+        "username": "dnyce2227",
+        "name": "Dc",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2020-05-13",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 1,
+        "following": 2,
+        "ideas": 95,
+        "watchlist_stocks_count": 58,
+        "like_count": 55,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2095,
+        "title": "StockTwits For Android ",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 1842,
+          "symbol": "FCEL",
+          "title": "FuelCell Energy Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 58246
+        },
+        {
+          "id": 7564,
+          "symbol": "UMC",
+          "title": "United Microelectronics Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1634
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 251824923,
+      "body": "$HYLN take your money out of this and into $UMC you will make all your money back semiconductors are everywhere and are in everything this is a solid company do your dd and join the party before its to late!!!!!",
+      "created_at": "2020-10-22T12:14:04Z",
+      "user": {
+        "id": 3450351,
+        "username": "dnyce2227",
+        "name": "Dc",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2020-05-13",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 1,
+        "following": 2,
+        "ideas": 95,
+        "watchlist_stocks_count": 58,
+        "like_count": 55,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2095,
+        "title": "StockTwits For Android ",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 7564,
+          "symbol": "UMC",
+          "title": "United Microelectronics Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1634
+        },
+        {
+          "id": 15711,
+          "symbol": "HYLN",
+          "title": "Hyliion Holdings",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 32930
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          4159332
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 251823569,
+      "body": "$AIHS hop on $UMC its a hidden gem semiconductor industry is big",
+      "created_at": "2020-10-22T12:07:07Z",
+      "user": {
+        "id": 3450351,
+        "username": "dnyce2227",
+        "name": "Dc",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2020-05-13",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 1,
+        "following": 2,
+        "ideas": 111,
+        "watchlist_stocks_count": 59,
+        "like_count": 56,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2095,
+        "title": "StockTwits For Android ",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 7564,
+          "symbol": "UMC",
+          "title": "United Microelectronics Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1651
+        },
+        {
+          "id": 14121,
+          "symbol": "AIHS",
+          "title": "Senmiao Technology Limited",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 6589
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 251823375,
+      "body": "$ISIG hop on $UMC semiconductors or the future been in green for 3 +weeks",
+      "created_at": "2020-10-22T12:06:20Z",
+      "user": {
+        "id": 3450351,
+        "username": "dnyce2227",
+        "name": "Dc",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2020-05-13",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 1,
+        "following": 2,
+        "ideas": 111,
+        "watchlist_stocks_count": 59,
+        "like_count": 56,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2095,
+        "title": "StockTwits For Android ",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 2348,
+          "symbol": "ISIG",
+          "title": "Insignia Systems Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 2274
+        },
+        {
+          "id": 7564,
+          "symbol": "UMC",
+          "title": "United Microelectronics Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1651
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 251823375,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 4
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 251809483,
+      "body": "$UMC Form 6-K (report of foreign issuer [rules 13a-16 and 15d-16]) filed with the SEC \n\nhttps://newsfilter.io/a/55f97a4a1188fedc626756cb1971deb6",
+      "created_at": "2020-10-22T10:10:48Z",
+      "user": {
+        "id": 2762379,
+        "username": "Newsfilter",
+        "name": "@newsfilterio",
+        "avatar_url": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "join_date": "2019-09-01",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 7391,
+        "following": 16,
+        "ideas": 582691,
+        "watchlist_stocks_count": 1,
+        "like_count": 531,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 7564,
+          "symbol": "UMC",
+          "title": "United Microelectronics Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1634
+        }
+      ],
+      "links": [
+        {
+          "title": null,
+          "url": "https://newsfilter.io/a/55f97a4a1188fedc626756cb1971deb6",
+          "shortened_url": "https://newsfilter.io/a/55f97a4a1188fedc626756cb1971deb6",
+          "shortened_expanded_url": "newsfilter.io/a/55f97a4a118...",
+          "description": null,
+          "image": null,
+          "created_at": "2020-10-22T10:10:54Z",
+          "video_url": null,
+          "source": {
+            "name": "Newsfilter",
+            "website": "http://newsfilter.io"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 251796325,
+      "body": "$UMC",
+      "created_at": "2020-10-22T04:38:24Z",
+      "user": {
+        "id": 3509905,
+        "username": "Dillon2410",
+        "name": "Dillon Jones",
+        "avatar_url": "https://avatars.stocktwits.com/production/3509905/thumb-1593720043.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3509905/thumb-1593720043.png",
+        "join_date": "2020-05-27",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 1,
+        "following": 5,
+        "ideas": 27,
+        "watchlist_stocks_count": 27,
+        "like_count": 107,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 7564,
+          "symbol": "UMC",
+          "title": "United Microelectronics Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1634
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          4006702
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_251796325.png",
+          "large": "https://charts.stocktwits.com/production/large_251796325.png",
+          "original": "https://charts.stocktwits.com/production/original_251796325.png",
+          "url": "https://charts.stocktwits.com/production/original_251796325.png"
+        },
+        "sentiment": null
+      }
+    },
+    {
+      "id": 251564347,
+      "body": "$UMC $UMC Everyday is green day! Bulls day!",
+      "created_at": "2020-10-21T13:14:34Z",
+      "user": {
+        "id": 4104928,
+        "username": "SophiaAvery",
+        "name": "Sophia Avery hillston",
+        "avatar_url": "https://avatars.stocktwits.com/production/4104928/thumb-1602849811.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/4104928/thumb-1602849811.png",
+        "join_date": "2020-09-24",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 17,
+        "following": 181,
+        "ideas": 84,
+        "watchlist_stocks_count": 0,
+        "like_count": 360,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 7564,
+          "symbol": "UMC",
+          "title": "United Microelectronics Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1646
+        }
+      ],
+      "likes": {
+        "total": 2,
+        "user_ids": [
+          4006702,
+          738806
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 251515730,
+      "body": "$UMC Anyone aware of any upcoming catalyst for this stock?",
+      "created_at": "2020-10-21T03:54:01Z",
+      "user": {
+        "id": 3807293,
+        "username": "Your_friend_Satan",
+        "name": "Satan",
+        "avatar_url": "https://avatars.stocktwits.com/production/3807293/thumb-1596131211.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3807293/thumb-1596131211.png",
+        "join_date": "2020-07-17",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 7,
+        "following": 5,
+        "ideas": 238,
+        "watchlist_stocks_count": 40,
+        "like_count": 42,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 7564,
+          "symbol": "UMC",
+          "title": "United Microelectronics Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1643
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 251515730,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 5
+      },
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          4104928
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 251400813,
+      "body": "$UMC ooook UMC moving up a little quicker",
+      "created_at": "2020-10-20T18:12:26Z",
+      "user": {
+        "id": 738806,
+        "username": "andy1104",
+        "name": "Andy Richter",
+        "avatar_url": "https://avatars.stocktwits.com/production/738806/thumb-1519001333.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/738806/thumb-1519001333.png",
+        "join_date": "2016-04-25",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 81,
+        "following": 343,
+        "ideas": 3396,
+        "watchlist_stocks_count": 293,
+        "like_count": 7049,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 7564,
+          "symbol": "UMC",
+          "title": "United Microelectronics Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1643
+        }
+      ],
+      "likes": {
+        "total": 3,
+        "user_ids": [
+          4006702,
+          3509905,
+          4104928
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 251135191,
+      "body": "$UMC look at it inch away",
+      "created_at": "2020-10-19T16:59:34Z",
+      "user": {
+        "id": 3589956,
+        "username": "WhiteyGweilo",
+        "name": "JG",
+        "avatar_url": "https://avatars.stocktwits.com/production/3589956/thumb-1603246571.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3589956/thumb-1603246571.png",
+        "join_date": "2020-06-09",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 24,
+        "following": 51,
+        "ideas": 1072,
+        "watchlist_stocks_count": 97,
+        "like_count": 2440,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 7564,
+          "symbol": "UMC",
+          "title": "United Microelectronics Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1643
+        }
+      ],
+      "likes": {
+        "total": 4,
+        "user_ids": [
+          4006702,
+          3509905,
+          738806,
+          4104928
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 250933985,
+      "body": "4 Semiconductor Stocks Making the Guts of Everything Electronic\n\n$SMICY $UMC\n\nhttps://investorplace.com/2020/10/4-semiconductor-stocks-making-the-guts-of-everything-electronic/",
+      "created_at": "2020-10-17T20:46:28Z",
+      "user": {
+        "id": 962572,
+        "username": "topstockalerts",
+        "name": "Top Stock Alerts",
+        "avatar_url": "https://avatars.stocktwits.com/production/962572/thumb-1506783043.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/962572/thumb-1506783043.png",
+        "join_date": "2017-02-19",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 55235,
+        "following": 52,
+        "ideas": 117186,
+        "watchlist_stocks_count": 9,
+        "like_count": 2197,
+        "plus_tier": "life",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2095,
+        "title": "StockTwits For Android ",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 7564,
+          "symbol": "UMC",
+          "title": "United Microelectronics Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1651
+        }
+      ],
+      "links": [
+        {
+          "title": "4 Semiconductor Stocks Making the Guts of Everything Electronic",
+          "url": "https://investorplace.com/2020/10/4-semiconductor-stocks-making-the-guts-of-everything-electronic/",
+          "shortened_url": "https://investorplace.com/2020/10/4-semiconductor-stocks-making-the-guts-of-everything-electronic/",
+          "shortened_expanded_url": "investorplace.com/2020/10/4...",
+          "description": "Apple (NASDAQ:) had its minor moment in the media earlier this week as it presented more of its iPhones. The phones are finally catching up with bigger competitors such as Samsung Electronics (SSNLF,005930 Korea), Xiaomi (OTCMKTS:) and ZTE (OTCMKTS:) by containing transmission chips and software to operate on fifth-generation (5G) wireless standards.",
+          "image": "https://investorplace.com/wp-content/uploads/2019/07/semiconductor1600c.jpg",
+          "created_at": "2020-10-17T20:46:29Z",
+          "video_url": null,
+          "source": {
+            "name": "InvestorPlace",
+            "website": "https://investorplace.com"
+          }
+        }
+      ],
+      "likes": {
+        "total": 2,
+        "user_ids": [
+          738806,
+          4104928
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 250879886,
+      "body": "$GE $F $BUD $UMC $UNG Oh yeah baby. That feeling you get when EVERY single option hits. Good end to the week.",
+      "created_at": "2020-10-17T01:21:42Z",
+      "user": {
+        "id": 1249010,
+        "username": "Market_Sentiment",
+        "name": "Scott",
+        "avatar_url": "https://avatars.stocktwits.com/production/1249010/thumb-1518197167.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1249010/thumb-1518197167.png",
+        "join_date": "2017-11-01",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 332,
+        "following": 50,
+        "ideas": 10877,
+        "watchlist_stocks_count": 62,
+        "like_count": 6579,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 4613,
+          "symbol": "BUD",
+          "title": "Anheuser-Busch InBev",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 7935
+        },
+        {
+          "id": 5281,
+          "symbol": "F",
+          "title": "Ford Motor Co.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 96855
+        },
+        {
+          "id": 5481,
+          "symbol": "GE",
+          "title": "General Electric Co.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 113912
+        },
+        {
+          "id": 7564,
+          "symbol": "UMC",
+          "title": "United Microelectronics Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1643
+        },
+        {
+          "id": 7568,
+          "symbol": "UNG",
+          "title": "United States Natural Gas",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 11217
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 250879886,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "likes": {
+        "total": 4,
+        "user_ids": [
+          1550223,
+          3938014,
+          667956,
+          4104928
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_250879886.PNG",
+          "large": "https://charts.stocktwits.com/production/large_250879886.PNG",
+          "original": "https://charts.stocktwits.com/production/original_250879886.PNG",
+          "url": "https://charts.stocktwits.com/production/original_250879886.PNG"
+        },
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 250740491,
+      "body": "$UMC United Microelectronics on the rise https://seekingalpha.com/article/4378587-united-microelectronics-on-rise",
+      "created_at": "2020-10-16T14:59:57Z",
+      "user": {
+        "id": 884024,
+        "username": "Shareholdersunite",
+        "name": "Shareholdersunite",
+        "avatar_url": "https://avatars.stocktwits.com/production/884024/thumb-1479605596.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/884024/thumb-1479605596.png",
+        "join_date": "2016-11-20",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 107,
+        "following": 63,
+        "ideas": 1085,
+        "watchlist_stocks_count": 0,
+        "like_count": 7,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 7564,
+          "symbol": "UMC",
+          "title": "United Microelectronics Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1634
+        }
+      ],
+      "links": [
+        {
+          "title": "United Microelectronics On The Rise (NYSE:UMC)",
+          "url": "https://seekingalpha.com/article/4378587-united-microelectronics-on-rise",
+          "shortened_url": "https://seekingalpha.com/article/4378587-united-microelectronics-on-rise",
+          "shortened_expanded_url": "seekingalpha.com/article/43...",
+          "description": "We wrote about United Microelectronics ( UMC) a year ago ( here and here), and we were quite optimistic about the prospects for the company. As it turns out, the stock has been a real winner: And the good stock performance is based on rapidly, one might say even dramatically, improving fundamentals: We think the investment thesis is fairly straightforward: There is a structural tailwind of ever more silicon going into ever more stuff.",
+          "image": "https://static.seekingalpha.com/uploads/2020/10/11/saupload_chart_18.ashx",
+          "created_at": "2020-10-16T14:59:58Z",
+          "video_url": null,
+          "source": {
+            "name": "Seeking Alpha",
+            "website": "https://seekingalpha.com"
+          }
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          3807293
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 250705174,
+      "body": "$UMC buying opportunity",
+      "created_at": "2020-10-16T13:36:02Z",
+      "user": {
+        "id": 738806,
+        "username": "andy1104",
+        "name": "Andy Richter",
+        "avatar_url": "https://avatars.stocktwits.com/production/738806/thumb-1519001333.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/738806/thumb-1519001333.png",
+        "join_date": "2016-04-25",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 82,
+        "following": 342,
+        "ideas": 3398,
+        "watchlist_stocks_count": 293,
+        "like_count": 7043,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 7564,
+          "symbol": "UMC",
+          "title": "United Microelectronics Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1632
+        }
+      ],
+      "likes": {
+        "total": 3,
+        "user_ids": [
+          2971801,
+          3893145,
+          3589956
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 250632011,
+      "body": "How does this affect your portfolio? $UMC&#39;s in Uptrend: Moving Average Convergence Divergence (MACD) Histogram just turned positive. View odds for this and other indicators: https://srnk.us/go/2208617",
+      "created_at": "2020-10-16T00:54:52Z",
+      "user": {
+        "id": 967528,
+        "username": "tickeron",
+        "name": "Tickeron",
+        "avatar_url": "https://avatars.stocktwits.com/production/967528/thumb-1492026736.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/967528/thumb-1492026736.png",
+        "join_date": "2017-02-23",
+        "official": true,
+        "identity": "Official",
+        "classification": [
+          "official"
+        ],
+        "followers": 3726,
+        "following": 108,
+        "ideas": 421316,
+        "watchlist_stocks_count": 0,
+        "like_count": 0,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5810,
+        "title": "Tickeron",
+        "url": "https://tickeron.com"
+      },
+      "symbols": [
+        {
+          "id": 7564,
+          "symbol": "UMC",
+          "title": "United Microelectronics Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1634
+        }
+      ],
+      "links": [
+        {
+          "title": "Tickeron - A.I. Trading With Odds of Success",
+          "url": "https://srnk.us/go/2208617",
+          "shortened_url": "https://srnk.us/go/2208617",
+          "shortened_expanded_url": "tickeron.com/ticker/UMC/?ut...",
+          "description": "Our A.I.-powered algorithms generate and verify trade ideas. Invest in trends, trade with patterns, and analyze Stocks, ETFs, Mutual Funds, FOREX, Cryptos.",
+          "image": "https://tickeron.com/Img/Seo/main.png",
+          "created_at": "2020-10-16T00:54:53Z",
+          "video_url": null,
+          "source": {
+            "name": "Tickeron Inc.",
+            "website": "https://tickeron.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_250632011.",
+          "large": "https://charts.stocktwits.com/production/large_250632011.",
+          "original": "https://charts.stocktwits.com/production/original_250632011.",
+          "url": "https://charts.stocktwits.com/production/original_250632011."
+        },
+        "sentiment": null
+      }
+    },
+    {
+      "id": 250574314,
+      "body": "Up 83% on $GE Calls. Up 20% on $F Calls. Flat on $BUD Calls, $UMC Puts and $UNG Puts. But Bullish on the bail out.",
+      "created_at": "2020-10-15T19:56:03Z",
+      "user": {
+        "id": 1249010,
+        "username": "Market_Sentiment",
+        "name": "Scott",
+        "avatar_url": "https://avatars.stocktwits.com/production/1249010/thumb-1518197167.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1249010/thumb-1518197167.png",
+        "join_date": "2017-11-01",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 332,
+        "following": 50,
+        "ideas": 10877,
+        "watchlist_stocks_count": 62,
+        "like_count": 6579,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 4613,
+          "symbol": "BUD",
+          "title": "Anheuser-Busch InBev",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 7935
+        },
+        {
+          "id": 5281,
+          "symbol": "F",
+          "title": "Ford Motor Co.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 96856
+        },
+        {
+          "id": 5481,
+          "symbol": "GE",
+          "title": "General Electric Co.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 113901
+        },
+        {
+          "id": 7564,
+          "symbol": "UMC",
+          "title": "United Microelectronics Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1634
+        },
+        {
+          "id": 7568,
+          "symbol": "UNG",
+          "title": "United States Natural Gas",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 11218
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 250574314,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "likes": {
+        "total": 3,
+        "user_ids": [
+          1757398,
+          2943144,
+          1491358
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 250535831,
+      "body": "$UMC I am not an expert, but this looks like a bull flag to me",
+      "created_at": "2020-10-15T17:53:12Z",
+      "user": {
+        "id": 4006702,
+        "username": "boihhrw",
+        "name": "Joe Man",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2020-08-26",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 0,
+        "following": 15,
+        "ideas": 86,
+        "watchlist_stocks_count": 42,
+        "like_count": 88,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 7564,
+          "symbol": "UMC",
+          "title": "United Microelectronics Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1651
+        }
+      ],
+      "likes": {
+        "total": 2,
+        "user_ids": [
+          3814803,
+          3763783
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_250535831.png",
+          "large": "https://charts.stocktwits.com/production/large_250535831.png",
+          "original": "https://charts.stocktwits.com/production/original_250535831.png",
+          "url": "https://charts.stocktwits.com/production/original_250535831.png"
+        },
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 250534340,
+      "body": "$UMC why you no grow \ud83d\ude22 now",
+      "created_at": "2020-10-15T17:47:59Z",
+      "user": {
+        "id": 3814803,
+        "username": "JNZO",
+        "name": "Jade",
+        "avatar_url": "https://avatars.stocktwits.com/production/3814803/thumb-1602783636.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3814803/thumb-1602783636.png",
+        "join_date": "2020-07-19",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 19,
+        "following": 7,
+        "ideas": 210,
+        "watchlist_stocks_count": 10,
+        "like_count": 224,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 7564,
+          "symbol": "UMC",
+          "title": "United Microelectronics Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1634
+        }
+      ],
+      "likes": {
+        "total": 5,
+        "user_ids": [
+          4006702,
+          832085,
+          738806,
+          1409634,
+          1474918
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 250248870,
+      "body": "$UMC United Micro Corporation (UMC), Wipro Limited (WIT), CimbaBay Therapeutics (CBAY), Pacific Ethanol (PEIX) and\u2026 https://stocknews.com/news/umc-wit-cbay-peix-surf-5-strong-buy-stocks-under-10-to-own-for-2021/",
+      "created_at": "2020-10-14T16:52:19Z",
+      "user": {
+        "id": 894342,
+        "username": "StockNews",
+        "name": "StockNews.com",
+        "avatar_url": "https://avatars.stocktwits.com/production/894342/thumb-1587062169.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/894342/thumb-1587062169.png",
+        "join_date": "2016-12-05",
+        "official": true,
+        "identity": "Official",
+        "classification": [
+          "official"
+        ],
+        "followers": 7274,
+        "following": 22,
+        "ideas": 187573,
+        "watchlist_stocks_count": 13,
+        "like_count": 48,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2965,
+        "title": "StockNews.com News Feed",
+        "url": "https://stocknews.com"
+      },
+      "symbols": [
+        {
+          "id": 7564,
+          "symbol": "UMC",
+          "title": "United Microelectronics Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1651
+        }
+      ],
+      "links": [
+        {
+          "title": "UMC: 5",
+          "url": "https://stocknews.com/news/umc-wit-cbay-peix-surf-5-strong-buy-stocks-under-10-to-own-for-2021/",
+          "shortened_url": "https://stocknews.com/news/umc-wit-cbay-peix-surf-5-strong-buy-stocks-under-10-to-own-for-2021/",
+          "shortened_expanded_url": "stocknews.com/news/umc-wit-...",
+          "description": "Plenty of tech stocks and other growth-oriented stocks are clearly overpriced at this point. However, there are some unrecognized diamonds in the rough, many of which are priced under $10. Stocks priced under $10 are particularly attractive as they generate significant interest from everyday traders looking to buy into companies with lower share prices.",
+          "image": "https://stocknews.com/wp-content/uploads/2020/09/atvi-grvy-ea-ttwo-scaled.jpg",
+          "created_at": "2020-10-14T16:52:22Z",
+          "video_url": null,
+          "source": {
+            "name": "StockNews.com",
+            "website": "https://stocknews.com"
+          }
+        }
+      ],
+      "likes": {
+        "total": 3,
+        "user_ids": [
+          738806,
+          4006702,
+          362028
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 250211413,
+      "body": "$UMC I need to add more positions here. This is a hidden winnerfor the semiconductor sector just like $NIO is for the EV sector",
+      "created_at": "2020-10-14T14:56:47Z",
+      "user": {
+        "id": 3814803,
+        "username": "JNZO",
+        "name": "Jade",
+        "avatar_url": "https://avatars.stocktwits.com/production/3814803/thumb-1602783636.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3814803/thumb-1602783636.png",
+        "join_date": "2020-07-19",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 19,
+        "following": 7,
+        "ideas": 210,
+        "watchlist_stocks_count": 10,
+        "like_count": 224,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 6499,
+          "symbol": "NIO",
+          "title": "NIO Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 126979
+        },
+        {
+          "id": 7564,
+          "symbol": "UMC",
+          "title": "United Microelectronics Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1633
+        }
+      ],
+      "likes": {
+        "total": 3,
+        "user_ids": [
+          1415129,
+          3624675,
+          4006702
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 250144731,
+      "body": "$UMC Tell you a good entry point for this, the Friday before earnings \ud83d\ude0f\ud83d\ude09 Earnings scheduled (28th October)",
+      "created_at": "2020-10-14T10:21:37Z",
+      "user": {
+        "id": 3728033,
+        "username": "Lewism66",
+        "name": "Lewis",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2020-07-02",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 3,
+        "following": 0,
+        "ideas": 293,
+        "watchlist_stocks_count": 8,
+        "like_count": 1085,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 7564,
+          "symbol": "UMC",
+          "title": "United Microelectronics Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1634
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 250144731,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 2
+      },
+      "likes": {
+        "total": 3,
+        "user_ids": [
+          4006702,
+          3893145,
+          1474918
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 250099109,
+      "body": "$UMC been waiting / watching and researching looking for good entry point. Could be this week could be next charts looking solid.",
+      "created_at": "2020-10-14T00:05:01Z",
+      "user": {
+        "id": 1491358,
+        "username": "Wilder992001",
+        "name": "Derek Webber",
+        "avatar_url": "https://avatars.stocktwits.com/production/1491358/thumb-1599253907.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1491358/thumb-1599253907.png",
+        "join_date": "2018-05-10",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 22,
+        "following": 524,
+        "ideas": 105,
+        "watchlist_stocks_count": 155,
+        "like_count": 160,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 7564,
+          "symbol": "UMC",
+          "title": "United Microelectronics Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1651
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          4006702
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 250065956,
+      "body": "$ICHR Semiconductor industry is thriving with no signs of slowing down.  This is one of a few bargains to be had and is very undervalued.  $UMC is another that I\u2019d consider undervalued given their growth prospects and industry relationships.",
+      "created_at": "2020-10-13T21:15:57Z",
+      "user": {
+        "id": 3807293,
+        "username": "Your_friend_Satan",
+        "name": "Satan",
+        "avatar_url": "https://avatars.stocktwits.com/production/3807293/thumb-1596131211.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3807293/thumb-1596131211.png",
+        "join_date": "2020-07-17",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 8,
+        "following": 5,
+        "ideas": 237,
+        "watchlist_stocks_count": 40,
+        "like_count": 42,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 7564,
+          "symbol": "UMC",
+          "title": "United Microelectronics Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1633
+        },
+        {
+          "id": 13274,
+          "symbol": "ICHR",
+          "title": "Ichor Holdings",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 2366
+        }
+      ],
+      "likes": {
+        "total": 2,
+        "user_ids": [
+          655882,
+          1415129
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 250055055,
+      "body": "$UMC the chat is very quiet.",
+      "created_at": "2020-10-13T20:38:26Z",
+      "user": {
+        "id": 4006702,
+        "username": "boihhrw",
+        "name": "Joe Man",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2020-08-26",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 0,
+        "following": 15,
+        "ideas": 86,
+        "watchlist_stocks_count": 42,
+        "like_count": 88,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2095,
+        "title": "StockTwits For Android ",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 7564,
+          "symbol": "UMC",
+          "title": "United Microelectronics Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1651
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 250055055,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "mentioned_users": [],
+      "entities": {
+        "giphy": {
+          "id": "xT9IgG50Fb7Mi0prBC"
+        },
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 249916230,
+      "body": "$UMC ",
+      "created_at": "2020-10-13T13:53:34Z",
+      "user": {
+        "id": 4006702,
+        "username": "boihhrw",
+        "name": "Joe Man",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2020-08-26",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 0,
+        "following": 15,
+        "ideas": 86,
+        "watchlist_stocks_count": 42,
+        "like_count": 88,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 7564,
+          "symbol": "UMC",
+          "title": "United Microelectronics Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1651
+        }
+      ],
+      "likes": {
+        "total": 2,
+        "user_ids": [
+          738806,
+          3695276
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 249913674,
+      "body": "$UMC bought more shares of this hidden gem",
+      "created_at": "2020-10-13T13:47:51Z",
+      "user": {
+        "id": 3814803,
+        "username": "JNZO",
+        "name": "Jade",
+        "avatar_url": "https://avatars.stocktwits.com/production/3814803/thumb-1602783636.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3814803/thumb-1602783636.png",
+        "join_date": "2020-07-19",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 21,
+        "following": 7,
+        "ideas": 210,
+        "watchlist_stocks_count": 10,
+        "like_count": 224,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 7564,
+          "symbol": "UMC",
+          "title": "United Microelectronics Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1643
+        }
+      ],
+      "likes": {
+        "total": 3,
+        "user_ids": [
+          1415129,
+          4006702,
+          738806
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    }
+  ]
+}

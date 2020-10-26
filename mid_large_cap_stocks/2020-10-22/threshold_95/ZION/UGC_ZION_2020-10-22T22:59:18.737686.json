@@ -1,0 +1,1930 @@
+{
+  "response": {
+    "status": 200
+  },
+  "symbol": {
+    "id": 4191,
+    "symbol": "ZION",
+    "title": "Zions Bancorp.",
+    "aliases": [],
+    "is_following": false,
+    "watchlist_count": 739
+  },
+  "cursor": {
+    "more": true,
+    "since": 251813758,
+    "max": 251051722
+  },
+  "messages": [
+    {
+      "id": 251813758,
+      "body": "ZionsBancorporation $ZION BidaskScore is Downgraded to StronglySold https://bidaskclub.com/news/company/2020-10-21/ZION",
+      "created_at": "2020-10-22T11:02:04Z",
+      "user": {
+        "id": 1177001,
+        "username": "BidaskBot",
+        "name": "BidaskBot",
+        "avatar_url": "https://avatars.stocktwits.com/production/1177001/thumb-1504377126.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1177001/thumb-1504377126.png",
+        "join_date": "2017-09-02",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 1012,
+        "following": 21,
+        "ideas": 64820,
+        "watchlist_stocks_count": 20,
+        "like_count": 1008,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 3725,
+        "title": "BidaskBot",
+        "url": "https://bidaskclub.com"
+      },
+      "symbols": [
+        {
+          "id": 4191,
+          "symbol": "ZION",
+          "title": "Zions Bancorp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 739
+        }
+      ],
+      "links": [
+        {
+          "title": "BidaskClub.com - See where people invest",
+          "url": "https://bidaskclub.com/news/company/2020-10-21/ZION",
+          "shortened_url": "https://bidaskclub.com/news/company/2020-10-21/ZION",
+          "shortened_expanded_url": "bidaskclub.com/news/company...",
+          "description": "Use the proprietary BidaskScore to see where people invest. Use the market heatmap and market screener to explore the US equity stock market",
+          "image": null,
+          "created_at": "2020-10-22T11:02:04Z",
+          "video_url": null,
+          "source": {
+            "name": "Bidaskclub",
+            "website": "https://bidaskclub.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_251813758.png",
+          "large": "https://charts.stocktwits.com/production/large_251813758.png",
+          "original": "https://charts.stocktwits.com/production/original_251813758.png",
+          "url": "https://charts.stocktwits.com/production/original_251813758.png"
+        },
+        "sentiment": null
+      }
+    },
+    {
+      "id": 251756317,
+      "body": "$ZION reported 2 new insider trades to the SEC in the last 2 minutes.\n\n$1,294,969.12 of shares sold by Zions Bancorporation, National Association /ut/ (10% Owner)   https://newsfilter.io/articles/4-form-e72a1b3442cdc402a5743fea7f38a855\n$12,841.92 of shares acquired by Maio Keith D (EVP - Chief Risk Officer)   https://newsfilter.io/articles/4-form-266069ff886a7bdde99935571d7ec0e0",
+      "created_at": "2020-10-21T23:08:33Z",
+      "user": {
+        "id": 2762379,
+        "username": "Newsfilter",
+        "name": "@newsfilterio",
+        "avatar_url": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "join_date": "2019-09-01",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 7384,
+        "following": 16,
+        "ideas": 582838,
+        "watchlist_stocks_count": 1,
+        "like_count": 531,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 4191,
+          "symbol": "ZION",
+          "title": "Zions Bancorp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 739
+        }
+      ],
+      "links": [
+        {
+          "title": null,
+          "url": "https://newsfilter.io/articles/4-form-e72a1b3442cdc402a5743fea7f38a855",
+          "shortened_url": "https://newsfilter.io/articles/4-form-e72a1b3442cdc402a5743fea7f38a855",
+          "shortened_expanded_url": "newsfilter.io/articles/4-fo...",
+          "description": null,
+          "image": null,
+          "created_at": "2020-10-21T23:08:33Z",
+          "video_url": null,
+          "source": {
+            "name": "Newsfilter",
+            "website": "https://newsfilter.io"
+          }
+        },
+        {
+          "title": null,
+          "url": "https://newsfilter.io/articles/4-form-266069ff886a7bdde99935571d7ec0e0",
+          "shortened_url": "https://newsfilter.io/articles/4-form-266069ff886a7bdde99935571d7ec0e0",
+          "shortened_expanded_url": "newsfilter.io/articles/4-fo...",
+          "description": null,
+          "image": null,
+          "created_at": "2020-10-21T23:08:33Z",
+          "video_url": null,
+          "source": {
+            "name": "Newsfilter",
+            "website": "https://newsfilter.io"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 251755926,
+      "body": "Major owner of Zions Bancorporation just disposed of 18,722 shares  http://www.conferencecalltranscripts.org/4/summary2/?id=8463919 $ZION",
+      "created_at": "2020-10-21T23:06:17Z",
+      "user": {
+        "id": 210967,
+        "username": "cctranscripts",
+        "name": "Conference Call Transcripts",
+        "avatar_url": "https://avatars.stocktwits.com/production/210967/thumb-1363372333.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/210967/thumb-1363372333.png",
+        "join_date": "2013-01-30",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 6294,
+        "following": 9,
+        "ideas": 2347222,
+        "watchlist_stocks_count": 0,
+        "like_count": 755,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1130,
+        "title": "cctranscripts",
+        "url": "http://conferencecalltranscripts.org"
+      },
+      "symbols": [
+        {
+          "id": 4191,
+          "symbol": "ZION",
+          "title": "Zions Bancorp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 739
+        }
+      ],
+      "links": [
+        {
+          "title": "Conference Call Transcripts",
+          "url": "http://www.conferencecalltranscripts.org/4/summary2/?id=8463919",
+          "shortened_url": "http://www.conferencecalltranscripts.org/4/summary2/?id=8463919",
+          "shortened_expanded_url": "conferencecalltranscripts.o...",
+          "description": "Get notified next time ZION.US makes a similar move! Bancorporation, National Zions, a major owner of Zions Bancorporation, recently disposed of 18,722 shares of the company. The disposals took place at prices ranging from $68.96 to $69.35 per share, on dates ranging from October 20 to October 21, 2020.",
+          "image": null,
+          "created_at": "2020-10-21T23:06:18Z",
+          "video_url": null,
+          "source": {
+            "name": "Conferencecalltranscripts",
+            "website": "http://www.conferencecalltranscripts.org"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 251755766,
+      "body": "$ZION [15s. delayed] filed SEC form 4: 10% Owner ZIONS BANCORPORATION, NATIONAL ASSOCIATION /UT/: \nDisposed 18,722 of Class C non-voting c https://s.flashalert.me/LOdRD",
+      "created_at": "2020-10-21T23:05:26Z",
+      "user": {
+        "id": 595702,
+        "username": "fla",
+        "name": "FlashAlert_me",
+        "avatar_url": "https://avatars.stocktwits.com/production/595702/thumb-1550769466.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/595702/thumb-1550769466.png",
+        "join_date": "2015-09-09",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 2608,
+        "following": 60,
+        "ideas": 701070,
+        "watchlist_stocks_count": 0,
+        "like_count": 4,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 4622,
+        "title": "FlashAlert",
+        "url": "https://flashalert.me/"
+      },
+      "symbols": [
+        {
+          "id": 4191,
+          "symbol": "ZION",
+          "title": "Zions Bancorp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 739
+        }
+      ],
+      "links": [
+        {
+          "title": "Flash Alert",
+          "url": "https://s.flashalert.me/LOdRD",
+          "shortened_url": "https://s.flashalert.me/LOdRD",
+          "shortened_expanded_url": "sec.gov/Archives/edgar/data...",
+          "description": "Real-time alerts about equities, ETFs, cryptocurrencies and more sent to any device",
+          "image": null,
+          "created_at": "2020-10-21T23:05:27Z",
+          "video_url": null,
+          "source": {
+            "name": "Flashalert",
+            "website": "https://flashalert.me"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 251755737,
+      "body": "Zions Bancorporation&#39;s EVP - Chief Risk Officer just picked up 441 shares  http://www.conferencecalltranscripts.org/4/summary/?id=8463917 $ZION",
+      "created_at": "2020-10-21T23:05:13Z",
+      "user": {
+        "id": 210967,
+        "username": "cctranscripts",
+        "name": "Conference Call Transcripts",
+        "avatar_url": "https://avatars.stocktwits.com/production/210967/thumb-1363372333.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/210967/thumb-1363372333.png",
+        "join_date": "2013-01-30",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 6294,
+        "following": 9,
+        "ideas": 2347222,
+        "watchlist_stocks_count": 0,
+        "like_count": 755,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1130,
+        "title": "cctranscripts",
+        "url": "http://conferencecalltranscripts.org"
+      },
+      "symbols": [
+        {
+          "id": 4191,
+          "symbol": "ZION",
+          "title": "Zions Bancorp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 739
+        }
+      ],
+      "links": [
+        {
+          "title": "Conference Call Transcripts",
+          "url": "http://www.conferencecalltranscripts.org/4/summary/?id=8463917",
+          "shortened_url": "http://www.conferencecalltranscripts.org/4/summary/?id=8463917",
+          "shortened_expanded_url": "conferencecalltranscripts.o...",
+          "description": "Get notified next time ZION.US makes a similar move! Keith D Maio, Zions Bancorporation's EVP - Chief Risk Officer, recently acquired 441 shares of the company. The buys took place at $29.12 per share, on October 01, 2020. Maio now owns 43,254 shares of the company. Maio operates out of Salt Lake City, UT.",
+          "image": null,
+          "created_at": "2020-10-21T23:05:14Z",
+          "video_url": null,
+          "source": {
+            "name": "Conferencecalltranscripts",
+            "website": "http://www.conferencecalltranscripts.org"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 251755498,
+      "body": "$ZION [15s. delayed] filed SEC form 4: EVP - Chief Risk Officer Maio Keith D: \nGranted 441 of Common Stock at price $29.12 on 2020-10-01,  https://s.flashalert.me/DVaLt",
+      "created_at": "2020-10-21T23:03:53Z",
+      "user": {
+        "id": 595702,
+        "username": "fla",
+        "name": "FlashAlert_me",
+        "avatar_url": "https://avatars.stocktwits.com/production/595702/thumb-1550769466.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/595702/thumb-1550769466.png",
+        "join_date": "2015-09-09",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 2608,
+        "following": 60,
+        "ideas": 701070,
+        "watchlist_stocks_count": 0,
+        "like_count": 4,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 4622,
+        "title": "FlashAlert",
+        "url": "https://flashalert.me/"
+      },
+      "symbols": [
+        {
+          "id": 4191,
+          "symbol": "ZION",
+          "title": "Zions Bancorp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 739
+        }
+      ],
+      "links": [
+        {
+          "title": "Flash Alert",
+          "url": "https://s.flashalert.me/DVaLt",
+          "shortened_url": "https://s.flashalert.me/DVaLt",
+          "shortened_expanded_url": "sec.gov/Archives/edgar/data...",
+          "description": "Real-time alerts about equities, ETFs, cryptocurrencies and more sent to any device",
+          "image": null,
+          "created_at": "2020-10-21T23:03:54Z",
+          "video_url": null,
+          "source": {
+            "name": "Flashalert",
+            "website": "https://flashalert.me"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 251592544,
+      "body": "$ZION Implied Volatility expiration 11/20/2020 #maxpain #options http://maximum-pain.com/iv/ZION?m=11%2f20%2f2020",
+      "created_at": "2020-10-21T14:25:57Z",
+      "user": {
+        "id": 1216862,
+        "username": "OptionsTech",
+        "name": "Dan Smith",
+        "avatar_url": "https://avatars.stocktwits.com/production/1216862/thumb-1507373900.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1216862/thumb-1507373900.png",
+        "join_date": "2017-10-07",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 539,
+        "following": 1,
+        "ideas": 17268,
+        "watchlist_stocks_count": 0,
+        "like_count": 0,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 4191,
+          "symbol": "ZION",
+          "title": "Zions Bancorp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 739
+        }
+      ],
+      "links": [
+        {
+          "title": "Stock Option Max Pain",
+          "url": "http://maximum-pain.com/iv/ZION?m=11%2f20%2f2020",
+          "shortened_url": "http://maximum-pain.com/iv/ZION?m=11%2f20%2f2020",
+          "shortened_expanded_url": "maximum-pain.com/iv/ZION?m=...",
+          "description": null,
+          "image": null,
+          "created_at": "2020-10-21T14:25:58Z",
+          "video_url": null,
+          "source": {
+            "name": "Maximum-pain",
+            "website": "http://maximum-pain.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_251592544.png",
+          "large": "https://charts.stocktwits.com/production/large_251592544.png",
+          "original": "https://charts.stocktwits.com/production/original_251592544.png",
+          "url": "https://charts.stocktwits.com/production/original_251592544.png"
+        },
+        "sentiment": null
+      }
+    },
+    {
+      "id": 251284620,
+      "body": "$ZION (+0.1% pre) Zions higher after Q3 EPS beats as loan loss provision declines - SA\n\nhttp://ooc.bz/l/62326",
+      "created_at": "2020-10-20T12:19:30Z",
+      "user": {
+        "id": 348830,
+        "username": "OpenOutcrier",
+        "name": "Open Outcrier",
+        "avatar_url": "https://avatars.stocktwits.com/production/348830/thumb-1423676197.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/348830/thumb-1423676197.png",
+        "join_date": "2014-04-30",
+        "official": false,
+        "identity": "User",
+        "classification": [
+          "suggested"
+        ],
+        "followers": 193471,
+        "following": 139,
+        "ideas": 118868,
+        "watchlist_stocks_count": 0,
+        "like_count": 974,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2384,
+        "title": "Open Outcrier",
+        "url": "http://openoutcrier.com"
+      },
+      "symbols": [
+        {
+          "id": 4191,
+          "symbol": "ZION",
+          "title": "Zions Bancorp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 739
+        }
+      ],
+      "links": [
+        {
+          "title": "Zions +2.2% after Q3 EPS beats as loan loss provision declines (NASDAQ:ZION)",
+          "url": "http://ooc.bz/l/62326",
+          "shortened_url": "http://ooc.bz/l/62326",
+          "shortened_expanded_url": "seekingalpha.com/news/36234...",
+          "description": "Zions Bancorporation (NASDAQ:ZION) gains 2.2% in after-hours trading after Q3 EPS of $1.01 beat the consensus of 90 cents and compared with 34 cents in Q2 and $1.17 in the year-ago quarter as the bank continued to deal with headwinds from the COVID-19 pandemic.&#34;The pandemic-induced recession has resulted in weak loan demand at Zions and across the industry, with the exception of residential mortgages, where we've experienced record production and income,&#34; said Zions Chairman and CEO Harris H.",
+          "image": "https://static3.seekingalpha.com/assets/og_image_192-59bfd51c9fe6af025b2f9f96c807e46f8e2f06c5ae787b15bf1423e6c676d4db.png",
+          "created_at": "2020-10-20T12:19:31Z",
+          "video_url": null,
+          "source": {
+            "name": "Seeking Alpha",
+            "website": "https://seekingalpha.com"
+          }
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          4210731
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 251278691,
+      "body": "$ZION beats by $0.12 https://www.briefing.com/in-depth-analysis/Content/Article?ArticleId=IN20201019161127ZION",
+      "created_at": "2020-10-20T11:42:25Z",
+      "user": {
+        "id": 8115,
+        "username": "briefingcom",
+        "name": "Briefingcom",
+        "avatar_url": "https://avatars.stocktwits.com/production/8115/thumb-1340802633.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/8115/thumb-1340802633.png",
+        "join_date": "2010-01-25",
+        "official": true,
+        "identity": "Official",
+        "classification": [
+          "official"
+        ],
+        "followers": 85612,
+        "following": 819,
+        "ideas": 78731,
+        "watchlist_stocks_count": 8,
+        "like_count": 66,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 4191,
+          "symbol": "ZION",
+          "title": "Zions Bancorp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 739
+        }
+      ],
+      "links": [
+        {
+          "title": "Briefing.com",
+          "url": "https://www.briefing.com/in-depth-analysis/Content/Article?ArticleId=IN20201019161127ZION",
+          "shortened_url": "https://www.briefing.com/in-depth-analysis/Content/Article?ArticleId=IN20201019161127ZION",
+          "shortened_expanded_url": "briefing.com/in-depth-analy...",
+          "description": "cookie policy and learn more.",
+          "image": null,
+          "created_at": "2020-10-20T11:42:27Z",
+          "video_url": null,
+          "source": {
+            "name": "Briefing",
+            "website": "https://www.briefing.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 251244267,
+      "body": "$ZION Q3 2020 Earnings Conference Call https://youtu.be/UbDKIgCJGUU",
+      "created_at": "2020-10-20T01:49:02Z",
+      "user": {
+        "id": 3448129,
+        "username": "Earnings_calls",
+        "name": "Earnings Calls",
+        "avatar_url": "https://avatars.stocktwits.com/production/3448129/thumb-1595260244.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3448129/thumb-1595260244.png",
+        "join_date": "2020-05-13",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 22,
+        "following": 8,
+        "ideas": 452,
+        "watchlist_stocks_count": 8,
+        "like_count": 0,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 4191,
+          "symbol": "ZION",
+          "title": "Zions Bancorp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 739
+        }
+      ],
+      "links": [
+        {
+          "title": "ZION Stock | Zions Bancorporation Q3 FY20 Earnings Call",
+          "url": "https://youtu.be/UbDKIgCJGUU",
+          "shortened_url": "https://youtu.be/UbDKIgCJGUU",
+          "shortened_expanded_url": "youtube.com/watch?v=UbDKIgC...",
+          "description": "Access earnings call transcripts https://news.alphastreet.com/earnings-call-transcripts/ Listen on: https://anchor.fm/earningspodcast/ https://open.spotify.c...",
+          "image": "https://i.ytimg.com/vi/UbDKIgCJGUU/hqdefault.jpg",
+          "created_at": "2020-10-20T01:49:03Z",
+          "video_url": "//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FUbDKIgCJGUU%3Ffeature%3Doembed=YouTube=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DUbDKIgCJGUU=https%3A%2F%2Fi.ytimg.com%2Fvi%2FUbDKIgCJGUU%2Fhqdefault.jpg=799f78c4081511e084894040444cdc60=text%2Fhtml=youtube",
+          "source": {
+            "name": "YouTube",
+            "website": "https://www.youtube.com/"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 251233256,
+      "body": "Major owner of Zions Bancorporation just disposed of 17,086 shares  http://www.conferencecalltranscripts.org/4/summary2/?id=8456344 $ZION",
+      "created_at": "2020-10-20T00:10:15Z",
+      "user": {
+        "id": 210967,
+        "username": "cctranscripts",
+        "name": "Conference Call Transcripts",
+        "avatar_url": "https://avatars.stocktwits.com/production/210967/thumb-1363372333.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/210967/thumb-1363372333.png",
+        "join_date": "2013-01-30",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 6294,
+        "following": 9,
+        "ideas": 2347270,
+        "watchlist_stocks_count": 0,
+        "like_count": 755,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1130,
+        "title": "cctranscripts",
+        "url": "http://conferencecalltranscripts.org"
+      },
+      "symbols": [
+        {
+          "id": 4191,
+          "symbol": "ZION",
+          "title": "Zions Bancorp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 739
+        }
+      ],
+      "links": [
+        {
+          "title": "Conference Call Transcripts",
+          "url": "http://www.conferencecalltranscripts.org/4/summary2/?id=8456344",
+          "shortened_url": "http://www.conferencecalltranscripts.org/4/summary2/?id=8456344",
+          "shortened_expanded_url": "conferencecalltranscripts.o...",
+          "description": "Get notified next time ZION.US makes a similar move! Bancorporation, National Zions, a major owner of Zions Bancorporation, recently disposed of 17,086 shares of the company. The disposals took place at prices ranging from $68.17 to $69.23 per share, on dates ranging from October 16 to October 19, 2020.",
+          "image": null,
+          "created_at": "2020-10-20T00:10:15Z",
+          "video_url": null,
+          "source": {
+            "name": "Conferencecalltranscripts",
+            "website": "http://www.conferencecalltranscripts.org"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 251233236,
+      "body": "$ZION [15s. delayed] filed SEC form 4: 10% Owner ZIONS BANCORPORATION, NATIONAL ASSOCIATION /UT/: \nDisposed 17,086 of Class C non-voting c https://s.flashalert.me/iyu8C",
+      "created_at": "2020-10-20T00:10:06Z",
+      "user": {
+        "id": 595702,
+        "username": "fla",
+        "name": "FlashAlert_me",
+        "avatar_url": "https://avatars.stocktwits.com/production/595702/thumb-1550769466.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/595702/thumb-1550769466.png",
+        "join_date": "2015-09-09",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 2610,
+        "following": 60,
+        "ideas": 701182,
+        "watchlist_stocks_count": 0,
+        "like_count": 4,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 4622,
+        "title": "FlashAlert",
+        "url": "https://flashalert.me/"
+      },
+      "symbols": [
+        {
+          "id": 4191,
+          "symbol": "ZION",
+          "title": "Zions Bancorp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 739
+        }
+      ],
+      "links": [
+        {
+          "title": "Flash Alert",
+          "url": "https://s.flashalert.me/iyu8C",
+          "shortened_url": "https://s.flashalert.me/iyu8C",
+          "shortened_expanded_url": "sec.gov/Archives/edgar/data...",
+          "description": "Real-time alerts about equities, ETFs, cryptocurrencies and more sent to any device",
+          "image": null,
+          "created_at": "2020-10-20T00:10:07Z",
+          "video_url": null,
+          "source": {
+            "name": "Flashalert",
+            "website": "https://flashalert.me"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 251233193,
+      "body": "$ZION $1,175,391.78 of shares sold by Zions Bancorporation, National Association /ut/ (10% Owner), reported in a new form 4 filed with the SEC  \n\nhttps://newsfilter.io/a/d869e4a4850fbec429bc83f76c81f930",
+      "created_at": "2020-10-20T00:09:44Z",
+      "user": {
+        "id": 2762379,
+        "username": "Newsfilter",
+        "name": "@newsfilterio",
+        "avatar_url": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "join_date": "2019-09-01",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 7385,
+        "following": 16,
+        "ideas": 582881,
+        "watchlist_stocks_count": 1,
+        "like_count": 531,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 4191,
+          "symbol": "ZION",
+          "title": "Zions Bancorp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 739
+        }
+      ],
+      "links": [
+        {
+          "title": "4 Form - Statement of changes in beneficial ownership of securities - ZIONS BANCORPORATION, NATIONAL ASSOCIATION /UT/ (0000109380) (Reporting)",
+          "url": "https://newsfilter.io/a/d869e4a4850fbec429bc83f76c81f930",
+          "shortened_url": "https://newsfilter.io/a/d869e4a4850fbec429bc83f76c81f930",
+          "shortened_expanded_url": "newsfilter.io/a/d869e4a4850...",
+          "description": "SEC FORM 4 SEC Form 4 Check this box if no longer subject to Section 16. Form 4 or Form 5 obligations may continue. See Instruction 1(b). Table II - Derivative Securities Acquired, Disposed of, or Beneficially Owned (e.g., puts, calls, warrants, options, convertible securities) 1. Title of Derivative Security (Instr.",
+          "image": "https://newsfilter.io/meta-images/?url=https://storage.googleapis.com/iex/api/logos/ZION.png",
+          "created_at": "2020-10-20T00:09:46Z",
+          "video_url": null,
+          "source": {
+            "name": "Newsfilter",
+            "website": "https://newsfilter.io"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 251204826,
+      "body": "$ZION NEW ARTICLE : Zions +2.2% after Q3 EPS beats as loan loss provision declines https://www.stck.pro/news/ZION/8585448",
+      "created_at": "2020-10-19T21:04:16Z",
+      "user": {
+        "id": 1555408,
+        "username": "STCKPRO",
+        "name": "STCK.PRO",
+        "avatar_url": "https://avatars.stocktwits.com/production/1555408/thumb-1576077822.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1555408/thumb-1576077822.png",
+        "join_date": "2018-07-24",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 4245,
+        "following": 2,
+        "ideas": 254807,
+        "watchlist_stocks_count": 18,
+        "like_count": 52,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5011,
+        "title": "STCK.PRO",
+        "url": "https://dashboard.stck.pro"
+      },
+      "symbols": [
+        {
+          "id": 4191,
+          "symbol": "ZION",
+          "title": "Zions Bancorp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 739
+        }
+      ],
+      "links": [
+        {
+          "title": "Zions Bancorporation (ZION)",
+          "url": "https://www.stck.pro/news/ZION/8585448",
+          "shortened_url": "https://www.stck.pro/news/ZION/8585448",
+          "shortened_expanded_url": "stck.pro/news/ZION",
+          "description": "Never miss an important article again, stay on top of your investments and become a better investor today! Get your moat on and sync your watchlist with Stocktwits and get all the latest news for your symbols. Sync with Stocktwits",
+          "image": "https://www.stck.pro/img/imac.png",
+          "created_at": "2020-10-19T21:04:20Z",
+          "video_url": null,
+          "source": {
+            "name": "Stck",
+            "website": "https://www.stck.pro"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": false
+      }
+    },
+    {
+      "id": 251204678,
+      "body": "$ZION Zions +2.2% after Q3 EPS beats as loan loss provision declines \n\nhttps://newsfilter.io/a/8a641ee3e6b8da48d30bb72fb70dfa2c",
+      "created_at": "2020-10-19T21:03:34Z",
+      "user": {
+        "id": 2762379,
+        "username": "Newsfilter",
+        "name": "@newsfilterio",
+        "avatar_url": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "join_date": "2019-09-01",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 7383,
+        "following": 16,
+        "ideas": 582205,
+        "watchlist_stocks_count": 1,
+        "like_count": 531,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 4191,
+          "symbol": "ZION",
+          "title": "Zions Bancorp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 739
+        }
+      ],
+      "links": [
+        {
+          "title": "Zions +2.2% after Q3 EPS beats as loan loss provision declines",
+          "url": "https://newsfilter.io/a/8a641ee3e6b8da48d30bb72fb70dfa2c",
+          "shortened_url": "https://newsfilter.io/a/8a641ee3e6b8da48d30bb72fb70dfa2c",
+          "shortened_expanded_url": "newsfilter.io/a/8a641ee3e6b...",
+          "description": "Zions Bancorporation gains 2.2% in after-hours trading after Q3 EPS of $1.01 beats the consensus of 90 cents and compares with 34 cents in Q2 and $1.17 in the year-ago quarter as the bank continued to deal with headwinds from the COVID-19 pandemic.\"The pandemic-induced recession has resulted in weak loan demand at Zions and across the industry, with the exception of residential mortgages, where we've experienced record production and income,\" said Zions Chairman and CEO Harris H.",
+          "image": "https://newsfilter.io/meta-images/?url=https://storage.googleapis.com/iex/api/logos/ZION.png",
+          "created_at": "2020-10-19T21:03:35Z",
+          "video_url": null,
+          "source": {
+            "name": "Newsfilter",
+            "website": "https://newsfilter.io"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 251199166,
+      "body": "Zions Bancorporation, National Association Reports Third Quarter Financial Results http://www.conferencecalltranscripts.org/summary/?id=72494&amp;pr=true $ZION",
+      "created_at": "2020-10-19T20:41:21Z",
+      "user": {
+        "id": 210967,
+        "username": "cctranscripts",
+        "name": "Conference Call Transcripts",
+        "avatar_url": "https://avatars.stocktwits.com/production/210967/thumb-1363372333.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/210967/thumb-1363372333.png",
+        "join_date": "2013-01-30",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 6293,
+        "following": 9,
+        "ideas": 2346894,
+        "watchlist_stocks_count": 0,
+        "like_count": 755,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1130,
+        "title": "cctranscripts",
+        "url": "http://conferencecalltranscripts.org"
+      },
+      "symbols": [
+        {
+          "id": 4191,
+          "symbol": "ZION",
+          "title": "Zions Bancorp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 739
+        }
+      ],
+      "links": [
+        {
+          "title": "Conference Call Transcripts",
+          "url": "http://www.conferencecalltranscripts.org/summary/?id=72494&pr=true",
+          "shortened_url": "http://www.conferencecalltranscripts.org/summary/?id=72494&pr=true",
+          "shortened_expanded_url": "conferencecalltranscripts.o...",
+          "description": "Get notified next time ZION.US makes a similar move! SALT LAKE CITY--(BUSINESS WIRE)--Zions Bancorporation, N.A.",
+          "image": null,
+          "created_at": "2020-10-19T20:41:21Z",
+          "video_url": null,
+          "source": {
+            "name": "Conferencecalltranscripts",
+            "website": "http://www.conferencecalltranscripts.org"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": false
+      }
+    },
+    {
+      "id": 251195791,
+      "body": "$ZION Zions Bancorporation, National Association Reports Third Quarter Financial Results https://www.otcdynamics.com/zion-zions-bancorporation-national-association-reports-third-quarter-financial-results",
+      "created_at": "2020-10-19T20:28:59Z",
+      "user": {
+        "id": 253206,
+        "username": "otcdynamics",
+        "name": "otcdynamics",
+        "avatar_url": "https://avatars.stocktwits.com/production/253206/thumb-1432182723.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/253206/thumb-1432182723.png",
+        "join_date": "2013-08-16",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 371,
+        "following": 0,
+        "ideas": 50546,
+        "watchlist_stocks_count": 0,
+        "like_count": 55,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5512,
+        "title": "project_n",
+        "url": "https://www.otcdynamics.com"
+      },
+      "symbols": [
+        {
+          "id": 4191,
+          "symbol": "ZION",
+          "title": "Zions Bancorp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 739
+        }
+      ],
+      "links": [
+        {
+          "title": "$ZION Zions Bancorporation, National Association Reports Third Quarter Financial Results",
+          "url": "https://www.otcdynamics.com/zion-zions-bancorporation-national-association-reports-third-quarter-financial-results",
+          "shortened_url": "https://www.otcdynamics.com/zion-zions-bancorporation-national-association-reports-third-quarter-financial-results",
+          "shortened_expanded_url": "otcdynamics.com/zion-zions-...",
+          "description": "Zions Bancorporation, N.A. (NASDAQ: ZION) (\"Zions\" or \"the Bank\") today reported net earnings applicable to common shareholders for the third quarter of 2020 of $167 million, or $1.01 per diluted common share, compared with net earnings applicable to common shareholders of $214 million, or $1.17 per diluted common share, for the third quarter of 2019 and net earnings applicable to common shareholders of $57 million, or $0.34 per diluted common share, for the second quarter of 2020.",
+          "image": null,
+          "created_at": "2020-10-19T20:29:00Z",
+          "video_url": null,
+          "source": {
+            "name": "Otcdynamics",
+            "website": "https://www.otcdynamics.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": false
+      }
+    },
+    {
+      "id": 251194961,
+      "body": "$ZION just filed with the SEC a Earnings Release and a Financial Exhibit https://last10k.com/sec-filings/zion/0000109380-20-000235.htm?utm_source=stocktwits&amp;utm_medium=forum&amp;utm_campaign=8K&amp;utm_term=zion",
+      "created_at": "2020-10-19T20:25:53Z",
+      "user": {
+        "id": 1409376,
+        "username": "Last10K",
+        "name": "Last10K.com",
+        "avatar_url": "https://avatars.stocktwits.com/production/1409376/thumb-1559672751.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1409376/thumb-1559672751.png",
+        "join_date": "2018-02-13",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 1237,
+        "following": 0,
+        "ideas": 224736,
+        "watchlist_stocks_count": 0,
+        "like_count": 352,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 3968,
+        "title": "Last10K",
+        "url": "https://last10k.com"
+      },
+      "symbols": [
+        {
+          "id": 4191,
+          "symbol": "ZION",
+          "title": "Zions Bancorp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 739
+        }
+      ],
+      "links": [
+        {
+          "title": "Zions Bancorporation, National Association (ZION) 10K Annual Reports & 10Q SEC Filings | Last10K",
+          "url": "https://last10k.com/sec-filings/zion/0000109380-20-000235.htm?utm_source=stocktwits&utm_medium=forum&utm_campaign=8K&utm_term=zion",
+          "shortened_url": "https://last10k.com/sec-filings/zion/0000109380-20-000235.htm?utm_source=stocktwits&utm_medium=forum&utm_campaign=8K&utm_term=zion",
+          "shortened_expanded_url": "last10k.com/sec-filings/zion",
+          "description": "ZIONS BANCORPORATION, N.A. Zions Bancorporation, N.A.One South MainSalt Lake City, UT 84133January 21, 2020 www.zionsbancorporation.com Fourth Quarter 2019 Financial Results: FOR IMMEDIATE RELEASE Investor and Media Contact: James Abbott (801) 844-7637 Zions Bancorporation, N.A.",
+          "image": "https://last10k.com/wp-content/uploads/notifications.png",
+          "created_at": "2020-10-19T20:25:57Z",
+          "video_url": null,
+          "source": {
+            "name": "Last10k",
+            "website": "https://last10k.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": false
+      }
+    },
+    {
+      "id": 251194504,
+      "body": "$ZION [15s. delayed] filed form 8-K on October 19, 16:22:43: Item2.02: Results of Operations &amp; Financial Condition https://s.flashalert.me/XNMiFE",
+      "created_at": "2020-10-19T20:24:01Z",
+      "user": {
+        "id": 595702,
+        "username": "fla",
+        "name": "FlashAlert_me",
+        "avatar_url": "https://avatars.stocktwits.com/production/595702/thumb-1550769466.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/595702/thumb-1550769466.png",
+        "join_date": "2015-09-09",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 2612,
+        "following": 60,
+        "ideas": 700530,
+        "watchlist_stocks_count": 0,
+        "like_count": 4,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 4622,
+        "title": "FlashAlert",
+        "url": "https://flashalert.me/"
+      },
+      "symbols": [
+        {
+          "id": 4191,
+          "symbol": "ZION",
+          "title": "Zions Bancorp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 739
+        }
+      ],
+      "links": [
+        {
+          "title": "Flash Alert",
+          "url": "https://s.flashalert.me/XNMiFE",
+          "shortened_url": "https://s.flashalert.me/XNMiFE",
+          "shortened_expanded_url": "sec.gov/Archives/edgar/data...",
+          "description": "Real-time alerts about equities, ETFs, cryptocurrencies and more sent to any device",
+          "image": null,
+          "created_at": "2020-10-19T20:24:02Z",
+          "video_url": null,
+          "source": {
+            "name": "Flashalert",
+            "website": "https://flashalert.me"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": false
+      }
+    },
+    {
+      "id": 251194379,
+      "body": "$ZION Form 8-K: Results of Operations and Financial Condition.On October 19, 2020, Zions Bancorporation, National Association announced its financial results for the quarter ended September 30, 2020 a.. \n\nhttps://newsfilter.io/a/c7287f26ad259644c247cfd436da215e",
+      "created_at": "2020-10-19T20:23:37Z",
+      "user": {
+        "id": 2762379,
+        "username": "Newsfilter",
+        "name": "@newsfilterio",
+        "avatar_url": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "join_date": "2019-09-01",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 7385,
+        "following": 16,
+        "ideas": 581935,
+        "watchlist_stocks_count": 1,
+        "like_count": 531,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 4191,
+          "symbol": "ZION",
+          "title": "Zions Bancorp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 739
+        }
+      ],
+      "links": [
+        {
+          "title": "8-K Form - Current report, items 2.02 and 9.01 - ZIONS BANCORPORATION, NATIONAL ASSOCIATION /UT/ (0000109380) (Filer)",
+          "url": "https://newsfilter.io/a/c7287f26ad259644c247cfd436da215e",
+          "shortened_url": "https://newsfilter.io/a/c7287f26ad259644c247cfd436da215e",
+          "shortened_expanded_url": "newsfilter.io/a/c7287f26ad2...",
+          "description": "zion-20201019 SECURITIES AND EXCHANGE COMMISSION Pursuant to Section 13 OR 15(d) of the Securities Exchange Act of 1934 Date of Report (date of earliest event reported) October 19, 2020 ZIONS BANCORPORATION, NATIONAL ASSOCIATION (Exact name of registrant as specified in its charter) Registrant's telephone number, including area code ( 801)",
+          "image": "https://newsfilter.io/meta-images/?url=https://storage.googleapis.com/iex/api/logos/ZION.png",
+          "created_at": "2020-10-19T20:23:38Z",
+          "video_url": null,
+          "source": {
+            "name": "Newsfilter",
+            "website": "https://newsfilter.io"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 251193860,
+      "body": "$ZION NEW ARTICLE : Zions Bancorporation, National Association Reports Third Quarter Financial Results https://www.stck.pro/news/ZION/8584429",
+      "created_at": "2020-10-19T20:21:44Z",
+      "user": {
+        "id": 1555408,
+        "username": "STCKPRO",
+        "name": "STCK.PRO",
+        "avatar_url": "https://avatars.stocktwits.com/production/1555408/thumb-1576077822.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1555408/thumb-1576077822.png",
+        "join_date": "2018-07-24",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 4247,
+        "following": 2,
+        "ideas": 254807,
+        "watchlist_stocks_count": 18,
+        "like_count": 52,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5011,
+        "title": "STCK.PRO",
+        "url": "https://dashboard.stck.pro"
+      },
+      "symbols": [
+        {
+          "id": 4191,
+          "symbol": "ZION",
+          "title": "Zions Bancorp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 739
+        }
+      ],
+      "links": [
+        {
+          "title": "Zions Bancorporation (ZION)",
+          "url": "https://www.stck.pro/news/ZION/8584429",
+          "shortened_url": "https://www.stck.pro/news/ZION/8584429",
+          "shortened_expanded_url": "stck.pro/news/ZION",
+          "description": "Never miss an important article again, stay on top of your investments and become a better investor today! Get your moat on and sync your watchlist with Stocktwits and get all the latest news for your symbols. Sync with Stocktwits",
+          "image": "https://www.stck.pro/img/imac.png",
+          "created_at": "2020-10-19T20:21:52Z",
+          "video_url": null,
+          "source": {
+            "name": "Stck",
+            "website": "https://www.stck.pro"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_251193860.jpg",
+          "large": "https://charts.stocktwits.com/production/large_251193860.jpg",
+          "original": "https://charts.stocktwits.com/production/original_251193860.jpg",
+          "url": "https://charts.stocktwits.com/production/original_251193860.jpg"
+        },
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": false
+      }
+    },
+    {
+      "id": 251193582,
+      "body": "$ZION Earnings Call Today: 5:30 PM EST \nAnalyst Rating: Buy \nWebcast: http://mmm.wallstreethorizon.com/u.asp?u=288096",
+      "created_at": "2020-10-19T20:20:42Z",
+      "user": {
+        "id": 1298079,
+        "username": "StockPods",
+        "name": "StockPods.com",
+        "avatar_url": "https://avatars.stocktwits.com/production/1298079/thumb-1547240999.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1298079/thumb-1547240999.png",
+        "join_date": "2017-12-05",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 769,
+        "following": 34,
+        "ideas": 18705,
+        "watchlist_stocks_count": 6,
+        "like_count": 198,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 4191,
+          "symbol": "ZION",
+          "title": "Zions Bancorp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 739
+        }
+      ],
+      "links": [
+        {
+          "title": "Corporate Profile",
+          "url": "http://mmm.wallstreethorizon.com/u.asp?u=288096",
+          "shortened_url": "http://mmm.wallstreethorizon.com/u.asp?u=288096",
+          "shortened_expanded_url": "snl.com/IRW/CorporateProfil...",
+          "description": null,
+          "image": null,
+          "created_at": "2020-10-19T20:20:43Z",
+          "video_url": null,
+          "source": {
+            "name": "Snl",
+            "website": "http://www.snl.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 251193041,
+      "body": "$ZION NEW ARTICLE : Zions EPS beats by $0.11, beats on revenue https://www.stck.pro/news/ZION/8584414",
+      "created_at": "2020-10-19T20:18:50Z",
+      "user": {
+        "id": 1555408,
+        "username": "STCKPRO",
+        "name": "STCK.PRO",
+        "avatar_url": "https://avatars.stocktwits.com/production/1555408/thumb-1576077822.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1555408/thumb-1576077822.png",
+        "join_date": "2018-07-24",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 4247,
+        "following": 2,
+        "ideas": 254807,
+        "watchlist_stocks_count": 18,
+        "like_count": 52,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5011,
+        "title": "STCK.PRO",
+        "url": "https://dashboard.stck.pro"
+      },
+      "symbols": [
+        {
+          "id": 4191,
+          "symbol": "ZION",
+          "title": "Zions Bancorp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 739
+        }
+      ],
+      "links": [
+        {
+          "title": "Zions Bancorporation (ZION)",
+          "url": "https://www.stck.pro/news/ZION/8584414",
+          "shortened_url": "https://www.stck.pro/news/ZION/8584414",
+          "shortened_expanded_url": "stck.pro/news/ZION",
+          "description": "Never miss an important article again, stay on top of your investments and become a better investor today! Get your moat on and sync your watchlist with Stocktwits and get all the latest news for your symbols. Sync with Stocktwits",
+          "image": "https://www.stck.pro/img/imac.png",
+          "created_at": "2020-10-19T20:19:00Z",
+          "video_url": null,
+          "source": {
+            "name": "Stck",
+            "website": "https://www.stck.pro"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": false
+      }
+    },
+    {
+      "id": 251192958,
+      "body": "$ZION Zions EPS beats by $0.11, beats on revenue \n\nhttps://newsfilter.io/a/d7b54c84f5fdcd38044b7845bf5eef85",
+      "created_at": "2020-10-19T20:18:34Z",
+      "user": {
+        "id": 2762379,
+        "username": "Newsfilter",
+        "name": "@newsfilterio",
+        "avatar_url": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "join_date": "2019-09-01",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 7385,
+        "following": 16,
+        "ideas": 581935,
+        "watchlist_stocks_count": 1,
+        "like_count": 531,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 4191,
+          "symbol": "ZION",
+          "title": "Zions Bancorp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 739
+        }
+      ],
+      "links": [
+        {
+          "title": "Zions EPS beats by $0.11, beats on revenue",
+          "url": "https://newsfilter.io/a/d7b54c84f5fdcd38044b7845bf5eef85",
+          "shortened_url": "https://newsfilter.io/a/d7b54c84f5fdcd38044b7845bf5eef85",
+          "shortened_expanded_url": "newsfilter.io/a/d7b54c84f5f...",
+          "description": "Zions: Q3 Non-GAAP EPS of $1.01 beats by $0.11.Revenue of $712M beats by $3.67M.\"Approximately 9% of our borrowers availed themselves of loan modifications or short-term deferrals earlier this year, with 88% of deferred loans having completed the deferral period before August 1. At quarter-end with an additional 0.2% having been charged off.",
+          "image": "https://newsfilter.io/meta-images/?url=https://storage.googleapis.com/iex/api/logos/ZION.png",
+          "created_at": "2020-10-19T20:18:34Z",
+          "video_url": null,
+          "source": {
+            "name": "Newsfilter",
+            "website": "https://newsfilter.io"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 251191596,
+      "body": "$ZION [15s. delayed]: Issued Press Release on October 19, 16:10:00: Zions Bancorporation, National Association Reports Third Quarter Finan https://s.flashalert.me/FoppD6",
+      "created_at": "2020-10-19T20:14:28Z",
+      "user": {
+        "id": 595702,
+        "username": "fla",
+        "name": "FlashAlert_me",
+        "avatar_url": "https://avatars.stocktwits.com/production/595702/thumb-1550769466.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/595702/thumb-1550769466.png",
+        "join_date": "2015-09-09",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 2611,
+        "following": 60,
+        "ideas": 700530,
+        "watchlist_stocks_count": 0,
+        "like_count": 4,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 4622,
+        "title": "FlashAlert",
+        "url": "https://flashalert.me/"
+      },
+      "symbols": [
+        {
+          "id": 4191,
+          "symbol": "ZION",
+          "title": "Zions Bancorp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 739
+        }
+      ],
+      "links": [
+        {
+          "title": "Flash Alert",
+          "url": "https://s.flashalert.me/FoppD6",
+          "shortened_url": "https://s.flashalert.me/FoppD6",
+          "shortened_expanded_url": "businesswire.com/news/home/...",
+          "description": "Real-time alerts about equities, ETFs, cryptocurrencies and more sent to any device",
+          "image": null,
+          "created_at": "2020-10-19T20:14:28Z",
+          "video_url": null,
+          "source": {
+            "name": "Flashalert",
+            "website": "https://flashalert.me"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": false
+      }
+    },
+    {
+      "id": 251191012,
+      "body": "$ZION Zions Bancorporation, National Association Reports Third Quarter Financial Results\nhttps://www.stocktitan.net/news/ZION/zions-bancorporation-national-association-reports-third-quarter-z5891gudbcuo.html",
+      "created_at": "2020-10-19T20:12:33Z",
+      "user": {
+        "id": 3372441,
+        "username": "Stock_Titan",
+        "name": "StockTitan",
+        "avatar_url": "https://avatars.stocktwits.com/production/3372441/thumb-1588173612.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3372441/thumb-1588173612.png",
+        "join_date": "2020-04-28",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 407,
+        "following": 0,
+        "ideas": 22563,
+        "watchlist_stocks_count": 0,
+        "like_count": 0,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5677,
+        "title": "StockTitan",
+        "url": "https://stocktitan.net"
+      },
+      "symbols": [
+        {
+          "id": 4191,
+          "symbol": "ZION",
+          "title": "Zions Bancorp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 739
+        }
+      ],
+      "links": [
+        {
+          "title": "Zions Bancorporation, National Association Reports Third Quarter | StockTitan.net",
+          "url": "https://www.stocktitan.net/news/ZION/zions-bancorporation-national-association-reports-third-quarter-z5891gudbcuo.html",
+          "shortened_url": "https://www.stocktitan.net/news/ZION/zions-bancorporation-national-association-reports-third-quarter-z5891gudbcuo.html",
+          "shortened_expanded_url": "stocktitan.net/news/ZION/zi...",
+          "description": "SALT LAKE CITY--()--Zions Bancorporation, N.A. (NASDAQ: ZION) (\"Zions\" or \"the Bank\") today reported net earnings applicable to common shareholders for the third quarter of 2020 of $167 million, or $1.01 per diluted common share, compared with net earnings applicable to common shareholders of $214 million, or $1.17 per diluted common share, for the third quarter of 2019 and net earnings applicable to common shareholders of $57 million, or $0.34 per diluted common share, for the second quarter of 2020.",
+          "image": "https://static.stocktitan.net/company-logo/zion.png",
+          "created_at": "2020-10-19T20:12:36Z",
+          "video_url": null,
+          "source": {
+            "name": "Stocktitan",
+            "website": "https://www.stocktitan.net"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": false
+      }
+    },
+    {
+      "id": 251190375,
+      "body": "$ZION Zions Bancorporation, National Association Reports Third Quarter Financial Results \n\nhttps://newsfilter.io/a/04a0984f6c117c0eb8f95aede23ab303",
+      "created_at": "2020-10-19T20:10:36Z",
+      "user": {
+        "id": 2762379,
+        "username": "Newsfilter",
+        "name": "@newsfilterio",
+        "avatar_url": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "join_date": "2019-09-01",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 7385,
+        "following": 16,
+        "ideas": 581935,
+        "watchlist_stocks_count": 1,
+        "like_count": 531,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 4191,
+          "symbol": "ZION",
+          "title": "Zions Bancorp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 739
+        }
+      ],
+      "links": [
+        {
+          "title": "Zions Bancorporation, National Association Reports Third Quarter Financial Results",
+          "url": "https://newsfilter.io/a/04a0984f6c117c0eb8f95aede23ab303",
+          "shortened_url": "https://newsfilter.io/a/04a0984f6c117c0eb8f95aede23ab303",
+          "shortened_expanded_url": "newsfilter.io/a/04a0984f6c1...",
+          "description": "Zions Bancorporation, N.A. reported net earnings applicable to common shareholders for the third quarter of 2020 of $167 million, or $1.01 per diluted common share, compared with net earnings applicable to common shareholders of $214 million, or $1.17 per diluted common share, for the third quarter of 2019 and net earnings applicable to common shareholders of $57 million, or $0.34 per diluted common share, for the second quarter of 2020.",
+          "image": "https://newsfilter.io/meta-images/?url=https://storage.googleapis.com/iex/api/logos/ZION.png",
+          "created_at": "2020-10-19T20:10:36Z",
+          "video_url": null,
+          "source": {
+            "name": "Newsfilter",
+            "website": "https://newsfilter.io"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": true
+      }
+    },
+    {
+      "id": 251101758,
+      "body": "$ZION is scheduled to report #earnings after the market closes today via @eWhispers http://eps.sh/s/zion",
+      "created_at": "2020-10-19T15:01:47Z",
+      "user": {
+        "id": 627461,
+        "username": "epsguid",
+        "name": "Earnings Whispers News",
+        "avatar_url": "https://avatars.stocktwits.com/production/627461/thumb-1495623645.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/627461/thumb-1495623645.png",
+        "join_date": "2015-11-04",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 2381,
+        "following": 378,
+        "ideas": 57085,
+        "watchlist_stocks_count": 0,
+        "like_count": 21,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2326,
+        "title": "Earnings Whispers News",
+        "url": "https://www.earningswhispers.com"
+      },
+      "symbols": [
+        {
+          "id": 4191,
+          "symbol": "ZION",
+          "title": "Zions Bancorp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 739
+        }
+      ],
+      "links": [
+        {
+          "title": "Zions Bancorp (ZION) is Expected to Beat",
+          "url": "http://eps.sh/s/zion",
+          "shortened_url": "http://eps.sh/s/zion",
+          "shortened_expanded_url": "earningswhispers.com/stocks...",
+          "description": "Zions Bancorp (ZION) reports earnings on 10/19/2020 and is expected to beat estimates with an Earnings Whisper number of $0.89. Shares are down 2.4% since reporting last quarter",
+          "image": "https://www.earningswhispers.com/images/og-more.gif",
+          "created_at": "2020-10-19T15:01:48Z",
+          "video_url": null,
+          "source": {
+            "name": "EarningsWhispers.com",
+            "website": "https://www.earningswhispers.com"
+          }
+        }
+      ],
+      "mentioned_users": [
+        "@eWhispers"
+      ],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_251101758.",
+          "large": "https://charts.stocktwits.com/production/large_251101758.",
+          "original": "https://charts.stocktwits.com/production/original_251101758.",
+          "url": "https://charts.stocktwits.com/production/original_251101758."
+        },
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 0,
+        "official_api": false
+      }
+    },
+    {
+      "id": 251062409,
+      "body": "$ZION #Earnings today AMC - Get Chart, Ratings, Trade Ideas  https://stockhoot.com/EarningsCalendar.aspx?from=IndividualTweet&amp;symbol=ZION&amp;t=767&amp;Social=StockTwits",
+      "created_at": "2020-10-19T12:58:07Z",
+      "user": {
+        "id": 835250,
+        "username": "Stockhoot",
+        "name": "Stockhoot",
+        "avatar_url": "https://avatars.stocktwits.com/production/835250/thumb-1510088734.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/835250/thumb-1510088734.png",
+        "join_date": "2016-09-06",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 1877,
+        "following": 103,
+        "ideas": 65680,
+        "watchlist_stocks_count": 8,
+        "like_count": 33,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 3360,
+        "title": "StockHoot",
+        "url": "https://stockhoot.com"
+      },
+      "symbols": [
+        {
+          "id": 4191,
+          "symbol": "ZION",
+          "title": "Zions Bancorp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 739
+        }
+      ],
+      "links": [
+        {
+          "title": "Earnings Info for $ZION",
+          "url": "https://stockhoot.com/EarningsCalendar.aspx?from=IndividualTweet&symbol=ZION&t=767&Social=StockTwits",
+          "shortened_url": "https://stockhoot.com/EarningsCalendar.aspx?from=IndividualTweet&symbol=ZION&t=767&Social=StockTwits",
+          "shortened_expanded_url": "stockhoot.com/EarningsCalen...",
+          "description": "Get actionable trade and investment ideas from top traders in the stock market.",
+          "image": "https://stockhoot.com/SocialPost/ZIONEarnings.png?t=611",
+          "created_at": "2020-10-19T12:58:09Z",
+          "video_url": null,
+          "source": {
+            "name": "StockHoot",
+            "website": "https://stockhoot.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_251062409.png",
+          "large": "https://charts.stocktwits.com/production/large_251062409.png",
+          "original": "https://charts.stocktwits.com/production/original_251062409.png",
+          "url": "https://charts.stocktwits.com/production/original_251062409.png"
+        },
+        "sentiment": null
+      }
+    },
+    {
+      "id": 251051722,
+      "body": "Upcoming earnings AMC $IBM $CDNS $PPG $ZION https://stockhoot.com/EarningsCalendar.aspx?from=MorningTweet&amp;sort=date&amp;Bull=true&amp;Bear=true&amp;BMO=false&amp;AMC=true&amp;dt=10/19/2020&amp;sd=&amp;ed=&amp;Social=StockTwits",
+      "created_at": "2020-10-19T11:56:59Z",
+      "user": {
+        "id": 835250,
+        "username": "Stockhoot",
+        "name": "Stockhoot",
+        "avatar_url": "https://avatars.stocktwits.com/production/835250/thumb-1510088734.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/835250/thumb-1510088734.png",
+        "join_date": "2016-09-06",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 1875,
+        "following": 103,
+        "ideas": 65631,
+        "watchlist_stocks_count": 8,
+        "like_count": 33,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 3360,
+        "title": "StockHoot",
+        "url": "https://stockhoot.com"
+      },
+      "symbols": [
+        {
+          "id": 1249,
+          "symbol": "CDNS",
+          "title": "Cadence Design Systems Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1662
+        },
+        {
+          "id": 4191,
+          "symbol": "ZION",
+          "title": "Zions Bancorp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 739
+        },
+        {
+          "id": 5786,
+          "symbol": "IBM",
+          "title": "International Business Machines Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 43823
+        },
+        {
+          "id": 6858,
+          "symbol": "PPG",
+          "title": "PPG Industries Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1087
+        }
+      ],
+      "links": [
+        {
+          "title": "Earnings Calendar - Trade Ideas",
+          "url": "https://stockhoot.com/EarningsCalendar.aspx?from=MorningTweet&sort=date&Bull=true&Bear=true&BMO=false&AMC=true&dt=10/19/2020&sd=&ed=&Social=StockTwits",
+          "shortened_url": "https://stockhoot.com/EarningsCalendar.aspx?from=MorningTweet&sort=date&Bull=true&Bear=true&BMO=false&AMC=true&dt=10/19/2020&sd=&ed=&Social=StockTwits",
+          "shortened_expanded_url": "stockhoot.com/EarningsCalen...",
+          "description": "Get actionable trade and investment ideas from top traders in the stock market.",
+          "image": "https://storage.googleapis.com/iex/api/logos/BXS.png",
+          "created_at": "2020-10-19T11:57:00Z",
+          "video_url": null,
+          "source": {
+            "name": "Stockhoot",
+            "website": "https://stockhoot.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    }
+  ]
+}
