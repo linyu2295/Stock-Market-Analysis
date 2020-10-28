@@ -1,0 +1,1971 @@
+{
+  "response": {
+    "status": 200
+  },
+  "symbol": {
+    "id": 4649,
+    "symbol": "CAJ",
+    "title": "Canon Inc.",
+    "aliases": [],
+    "is_following": false,
+    "watchlist_count": 554
+  },
+  "cursor": {
+    "more": true,
+    "since": 252689632,
+    "max": 250133708
+  },
+  "messages": [
+    {
+      "id": 252689632,
+      "body": "2020-10-26 MA5-MA15 Bull Crossover Stock: $ABEV, $CAJ, $SJI, $TELL, $YGYI",
+      "created_at": "2020-10-27T12:11:48Z",
+      "user": {
+        "id": 190867,
+        "username": "stoxlineinvestment",
+        "name": "msilcpom",
+        "avatar_url": "https://avatars.stocktwits.com/production/190867/thumb-1351089533.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/190867/thumb-1351089533.png",
+        "join_date": "2012-10-24",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 1830,
+        "following": 224,
+        "ideas": 12407,
+        "watchlist_stocks_count": 1,
+        "like_count": 1,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 2717,
+          "symbol": "TELL",
+          "title": "Tellurian Inc",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 8957
+        },
+        {
+          "id": 4219,
+          "symbol": "ABEV",
+          "title": "Companhia de Bebidas Das Americas (AMBEV)",
+          "aliases": [
+            "ABV"
+          ],
+          "is_following": false,
+          "watchlist_count": 2245
+        },
+        {
+          "id": 4649,
+          "symbol": "CAJ",
+          "title": "Canon Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 554
+        },
+        {
+          "id": 7208,
+          "symbol": "SJI",
+          "title": "South Jersey Industries, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 153
+        },
+        {
+          "id": 14861,
+          "symbol": "YGYI",
+          "title": "Youngevity International Inc",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 4554
+        }
+      ],
+      "likes": {
+        "total": 2,
+        "user_ids": [
+          4178079,
+          3846725
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 252593155,
+      "body": "$CAJ patiently waiting here for some good news",
+      "created_at": "2020-10-26T19:44:56Z",
+      "user": {
+        "id": 4074679,
+        "username": "mileymaron12",
+        "name": "miley maron",
+        "avatar_url": "https://avatars.stocktwits.com/production/4074679/thumb-1601992230.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/4074679/thumb-1601992230.png",
+        "join_date": "2020-09-15",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 2,
+        "following": 1,
+        "ideas": 82,
+        "watchlist_stocks_count": 0,
+        "like_count": 0,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 4649,
+          "symbol": "CAJ",
+          "title": "Canon Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 549
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 252593155,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          3928760
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 252579623,
+      "body": "2020-10-26 18:50:28+00:00 Trade Alerts at website , we have discord too check profile for links.\n$CAJ, $TNK, $TSEM    Moving",
+      "created_at": "2020-10-26T18:50:29Z",
+      "user": {
+        "id": 1511377,
+        "username": "YuMiStocks_Trade",
+        "name": "YuMIStocksTrade.com",
+        "avatar_url": "https://avatars.stocktwits.com/production/1511377/thumb-1596895665.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1511377/thumb-1596895665.png",
+        "join_date": "2018-06-04",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 250,
+        "following": 1,
+        "ideas": 2828,
+        "watchlist_stocks_count": 34,
+        "like_count": 597,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5846,
+        "title": "ConfluxBot",
+        "url": "https://app.confluxbot.com"
+      },
+      "symbols": [
+        {
+          "id": 3878,
+          "symbol": "TSEM",
+          "title": "Tower Semiconductor Ltd.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1537
+        },
+        {
+          "id": 4649,
+          "symbol": "CAJ",
+          "title": "Canon Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 547
+        },
+        {
+          "id": 7445,
+          "symbol": "TNK",
+          "title": "Teekay Tankers Ltd.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 3631
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 252551922,
+      "body": "$CAJ NEW ARTICLE : Canon trades higher on strong operating profit in imaging systems https://www.stck.pro/news/CAJ/8753073",
+      "created_at": "2020-10-26T17:12:05Z",
+      "user": {
+        "id": 1555408,
+        "username": "STCKPRO",
+        "name": "STCK.PRO",
+        "avatar_url": "https://avatars.stocktwits.com/production/1555408/thumb-1576077822.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1555408/thumb-1576077822.png",
+        "join_date": "2018-07-24",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 4317,
+        "following": 2,
+        "ideas": 258651,
+        "watchlist_stocks_count": 18,
+        "like_count": 52,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5011,
+        "title": "STCK.PRO",
+        "url": "https://dashboard.stck.pro"
+      },
+      "symbols": [
+        {
+          "id": 4649,
+          "symbol": "CAJ",
+          "title": "Canon Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 547
+        }
+      ],
+      "links": [
+        {
+          "title": "Canon (CAJ)",
+          "url": "https://www.stck.pro/news/CAJ/8753073",
+          "shortened_url": "https://www.stck.pro/news/CAJ/8753073",
+          "shortened_expanded_url": "stck.pro/news/CAJ",
+          "description": "Description : Canon, Inc. engages in the development, manufacture, and sale of office multifunction devices, copying machines, printers, cameras, and lithography equipment. It operates through the following segments: Office Business Unit (BU), Imaging System BU, Medical System BU and Industry and Others BU.",
+          "image": "https://www.stck.pro/img/imac.png",
+          "created_at": "2020-10-26T17:12:07Z",
+          "video_url": null,
+          "source": {
+            "name": "Stck",
+            "website": "https://www.stck.pro"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 252482838,
+      "body": "$CAJ - http://www.trade-ideas.com/ticky/ticky.html?symbol=CAJ - Significant Breakout with Unusual Social Activity - Up 7% for the day.",
+      "created_at": "2020-10-26T13:30:40Z",
+      "user": {
+        "id": 116462,
+        "username": "TradeIdeasQuant",
+        "name": "Trade-Ideas Quant",
+        "avatar_url": "https://avatars.stocktwits.com/production/116462/thumb-1458241309.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/116462/thumb-1458241309.png",
+        "join_date": "2011-11-07",
+        "official": true,
+        "identity": "Official",
+        "classification": [
+          "official"
+        ],
+        "followers": 43681,
+        "following": 5,
+        "ideas": 237704,
+        "watchlist_stocks_count": 0,
+        "like_count": 0,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1008,
+        "title": "TI Pro Collaboration",
+        "url": "http://trade-ideas.com"
+      },
+      "symbols": [
+        {
+          "id": 4649,
+          "symbol": "CAJ",
+          "title": "Canon Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 547
+        }
+      ],
+      "links": [
+        {
+          "title": "CAJ",
+          "url": "http://www.trade-ideas.com/ticky/ticky.html?symbol=CAJ",
+          "shortened_url": "http://www.trade-ideas.com/ticky/ticky.html?symbol=CAJ",
+          "shortened_expanded_url": "trade-ideas.com/ticky/ticky...",
+          "description": "Trade Ideas Finds Your Next Trade in Canon, Inc ADS LAST PRICE - 09:08am CAJ is trading UP +$0.90 or +5.5% from yesterday's close of $16.45.",
+          "image": null,
+          "created_at": "2020-10-26T13:30:41Z",
+          "video_url": null,
+          "source": {
+            "name": "Trade-ideas",
+            "website": "https://www.trade-ideas.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 252479872,
+      "body": "$CAJ updates FY 2020Pre-Market guidance to EPS and revenue guidance to $29.905-29.905 billion. https://www.marketbeat.com/g/51919",
+      "created_at": "2020-10-26T13:19:28Z",
+      "user": {
+        "id": 284541,
+        "username": "EarningsInsider",
+        "name": "MarketBeat Earnings",
+        "avatar_url": "https://avatars.stocktwits.com/production/284541/thumb-1484326078.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/284541/thumb-1484326078.png",
+        "join_date": "2013-11-25",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 52001,
+        "following": 0,
+        "ideas": 159274,
+        "watchlist_stocks_count": 0,
+        "like_count": 0,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1022,
+        "title": "Zapier",
+        "url": "https://zapier.com/"
+      },
+      "symbols": [
+        {
+          "id": 4649,
+          "symbol": "CAJ",
+          "title": "Canon Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 554
+        }
+      ],
+      "links": [
+        {
+          "title": null,
+          "url": "https://www.marketbeat.com/g/51919",
+          "shortened_url": "https://www.marketbeat.com/g/51919",
+          "shortened_expanded_url": "marketbeat.com/g/51919/",
+          "description": null,
+          "image": null,
+          "created_at": "2020-10-26T13:19:28Z",
+          "video_url": null,
+          "source": {
+            "name": "Marketbeat",
+            "website": "https://www.marketbeat.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 252456391,
+      "body": "Report of foreign issuer [Rules 13a-16 and 15d-16] http://www.conferencecalltranscripts.org/no/summary2/?id=8473693 $CAJ",
+      "created_at": "2020-10-26T10:16:14Z",
+      "user": {
+        "id": 210967,
+        "username": "cctranscripts",
+        "name": "Conference Call Transcripts",
+        "avatar_url": "https://avatars.stocktwits.com/production/210967/thumb-1363372333.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/210967/thumb-1363372333.png",
+        "join_date": "2013-01-30",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 6319,
+        "following": 10,
+        "ideas": 2352526,
+        "watchlist_stocks_count": 0,
+        "like_count": 756,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1130,
+        "title": "cctranscripts",
+        "url": "http://conferencecalltranscripts.org"
+      },
+      "symbols": [
+        {
+          "id": 4649,
+          "symbol": "CAJ",
+          "title": "Canon Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 553
+        }
+      ],
+      "links": [
+        {
+          "title": "Conference Call Transcripts",
+          "url": "http://www.conferencecalltranscripts.org/no/summary2/?id=8473693",
+          "shortened_url": "http://www.conferencecalltranscripts.org/no/summary2/?id=8473693",
+          "shortened_expanded_url": "conferencecalltranscripts.o...",
+          "description": "Get notified next time CAJ.US makes a similar move! Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf bythe undersigned, thereunto duly authorized. *Print the name and title of the signing officer under his signature.",
+          "image": null,
+          "created_at": "2020-10-26T10:16:14Z",
+          "video_url": null,
+          "source": {
+            "name": "Conferencecalltranscripts",
+            "website": "http://www.conferencecalltranscripts.org"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 252456042,
+      "body": "$CAJ NEW ARTICLE : Canon EPS beats by $0.14, misses on revenue https://www.stck.pro/news/CAJ/8744212",
+      "created_at": "2020-10-26T10:09:14Z",
+      "user": {
+        "id": 1555408,
+        "username": "STCKPRO",
+        "name": "STCK.PRO",
+        "avatar_url": "https://avatars.stocktwits.com/production/1555408/thumb-1576077822.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1555408/thumb-1576077822.png",
+        "join_date": "2018-07-24",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 4327,
+        "following": 2,
+        "ideas": 259439,
+        "watchlist_stocks_count": 18,
+        "like_count": 52,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5011,
+        "title": "STCK.PRO",
+        "url": "https://dashboard.stck.pro"
+      },
+      "symbols": [
+        {
+          "id": 4649,
+          "symbol": "CAJ",
+          "title": "Canon Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 553
+        }
+      ],
+      "links": [
+        {
+          "title": "Canon (CAJ)",
+          "url": "https://www.stck.pro/news/CAJ/8744212",
+          "shortened_url": "https://www.stck.pro/news/CAJ/8744212",
+          "shortened_expanded_url": "stck.pro/news/CAJ",
+          "description": "Description : Canon, Inc. engages in the development, manufacture, and sale of office multifunction devices, copying machines, printers, cameras, and lithography equipment. It operates through the following segments: Office Business Unit (BU), Imaging System BU, Medical System BU and Industry and Others BU.",
+          "image": "https://www.stck.pro/img/imac.png",
+          "created_at": "2020-10-26T10:09:16Z",
+          "video_url": null,
+          "source": {
+            "name": "Stck",
+            "website": "https://www.stck.pro"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 252455836,
+      "body": "Report of foreign issuer [Rules 13a-16 and 15d-16] http://www.conferencecalltranscripts.org/no/summary/?id=8473565 $CAJ",
+      "created_at": "2020-10-26T10:05:26Z",
+      "user": {
+        "id": 210967,
+        "username": "cctranscripts",
+        "name": "Conference Call Transcripts",
+        "avatar_url": "https://avatars.stocktwits.com/production/210967/thumb-1363372333.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/210967/thumb-1363372333.png",
+        "join_date": "2013-01-30",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 6319,
+        "following": 10,
+        "ideas": 2352511,
+        "watchlist_stocks_count": 0,
+        "like_count": 756,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1130,
+        "title": "cctranscripts",
+        "url": "http://conferencecalltranscripts.org"
+      },
+      "symbols": [
+        {
+          "id": 4649,
+          "symbol": "CAJ",
+          "title": "Canon Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 553
+        }
+      ],
+      "links": [
+        {
+          "title": "Conference Call Transcripts",
+          "url": "http://www.conferencecalltranscripts.org/no/summary/?id=8473565",
+          "shortened_url": "http://www.conferencecalltranscripts.org/no/summary/?id=8473565",
+          "shortened_expanded_url": "conferencecalltranscripts.o...",
+          "description": "Get notified next time CAJ.US makes a similar move! Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signedon its behalf by the undersigned, thereunto duly authorized. *Print the name and title of the signing officer under his signature.",
+          "image": null,
+          "created_at": "2020-10-26T10:05:29Z",
+          "video_url": null,
+          "source": {
+            "name": "Conferencecalltranscripts",
+            "website": "http://www.conferencecalltranscripts.org"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 252450131,
+      "body": "Preview Of Canon, Inc. ($CAJ) 3Q20 Earnings\n\nhttps://www.stockmarketintellects.com/preview-of-canon-inc-caj-3q20-earnings/",
+      "created_at": "2020-10-26T07:21:48Z",
+      "user": {
+        "id": 2189196,
+        "username": "stockmarketintellects",
+        "name": "SMI News Alerts",
+        "avatar_url": "https://avatars.stocktwits.com/production/2189196/thumb-1593090548.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2189196/thumb-1593090548.png",
+        "join_date": "2019-07-11",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 156,
+        "following": 0,
+        "ideas": 11640,
+        "watchlist_stocks_count": 0,
+        "like_count": 0,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 4649,
+          "symbol": "CAJ",
+          "title": "Canon Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 553
+        }
+      ],
+      "links": [
+        {
+          "title": "Preview Of Canon, Inc. ($CAJ) 3Q20 Earnings - Stock Market Intellects",
+          "url": "https://www.stockmarketintellects.com/preview-of-canon-inc-caj-3q20-earnings/",
+          "shortened_url": "https://www.stockmarketintellects.com/preview-of-canon-inc-caj-3q20-earnings/",
+          "shortened_expanded_url": "stockmarketintellects.com/p...",
+          "description": "Canon, Inc. (NYSE:CAJ) is reporting third quarter financial results on Monday 26th October 2020, after market close. According to analysts surveyed by Thomson Reuters, CAJ is expected to report 3Q20 income of $ 0.01 per share from revenue of $ 7086.72 million. For the full year, analysts anticipate top line of $ 29244.30 million, while [...]",
+          "image": "https://i1.wp.com/www.stockmarketintellects.com/wp-content/uploads/2020/06/smi-social.png?fit=220%2C181&ssl=1",
+          "created_at": "2020-10-26T07:21:50Z",
+          "video_url": null,
+          "source": {
+            "name": "Stock Market Intellects",
+            "website": "https://www.stockmarketintellects.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 252446404,
+      "body": "$CAJ ER on 10/26 Before Open. SP were DOWN 13 times out of last 20 qtrs (65%) in ER. Earnings per share (EPS) estimate: $0.04. $CAJ. What&#39;s your preference buying/selling in Earnings?\n\nhttps://stocksearning.com/stocks/CAJ/earnings-date\n#CAJ #CanonInc #stockmarket #stocktwits #Stocksearning",
+      "created_at": "2020-10-26T05:06:55Z",
+      "user": {
+        "id": 347689,
+        "username": "StocksEarning",
+        "name": "StocksEarning",
+        "avatar_url": "https://avatars.stocktwits.com/production/347689/thumb-1485814810.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/347689/thumb-1485814810.png",
+        "join_date": "2014-04-28",
+        "official": true,
+        "identity": "Official",
+        "classification": [
+          "official"
+        ],
+        "followers": 15661,
+        "following": 86,
+        "ideas": 131172,
+        "watchlist_stocks_count": 13,
+        "like_count": 704,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 4649,
+          "symbol": "CAJ",
+          "title": "Canon Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 553
+        }
+      ],
+      "links": [
+        {
+          "title": "Canon, Inc. (CAJ) Earnings Date",
+          "url": "https://stocksearning.com/stocks/CAJ/earnings-date",
+          "shortened_url": "https://stocksearning.com/stocks/CAJ/earnings-date",
+          "shortened_expanded_url": "stocksearning.com/stocks/CA...",
+          "description": "Ride-the-Wave Strategy - Best for Stock Traders Ride-the-Wave targets multi-day price momentum following a company's earnings announcement (EA).",
+          "image": "http://StockEarnings.com/images/TwitterCardLogo.jpg",
+          "created_at": "2020-10-26T05:06:58Z",
+          "video_url": null,
+          "source": {
+            "name": "Stocksearning",
+            "website": "https://stocksearning.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_252446404.png",
+          "large": "https://charts.stocktwits.com/production/large_252446404.png",
+          "original": "https://charts.stocktwits.com/production/original_252446404.png",
+          "url": "https://charts.stocktwits.com/production/original_252446404.png"
+        },
+        "sentiment": null
+      }
+    },
+    {
+      "id": 252417964,
+      "body": "Reporting earnings tomorrow (Mon Oct 26th):\n\nSAP SE (SAP)\nNIDEC Corp. (NJDCY)\nHCA Healthcare, Inc. (HCA)\nTwilio, Inc. (TWLO)\nNXP Semiconductors NV (NXPI)\n\nalong with: $OTIS $KLBAY $ARE $CAJ $BRO\n\nfollow them here:\nhttps://thebubbleboard.com/?tickers=SAP,NJDCY,HCA,TWLO,NXPI,OTIS,KLBAY,ARE,CAJ,BRO&amp;name=earnings%20Mon%20Oct%2026th&amp;utm_medium=bot-post",
+      "created_at": "2020-10-25T21:45:18Z",
+      "user": {
+        "id": 3628389,
+        "username": "BubbleBoard",
+        "name": "The Bubble Board",
+        "avatar_url": "https://avatars.stocktwits.com/production/3628389/thumb-1593179485.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3628389/thumb-1593179485.png",
+        "join_date": "2020-06-15",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 2522,
+        "following": 0,
+        "ideas": 2653,
+        "watchlist_stocks_count": 10,
+        "like_count": 44,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5596,
+        "title": "Test App",
+        "url": "https://torchlabs.io"
+      },
+      "symbols": [
+        {
+          "id": 4368,
+          "symbol": "ARE",
+          "title": "Alexandria Real Estate Equities Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 361
+        },
+        {
+          "id": 4589,
+          "symbol": "BRO",
+          "title": "Brown & Brown Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 255
+        },
+        {
+          "id": 4649,
+          "symbol": "CAJ",
+          "title": "Canon Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 554
+        },
+        {
+          "id": 15586,
+          "symbol": "OTIS",
+          "title": "Otis Worldwide Corp",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 481
+        }
+      ],
+      "links": [
+        {
+          "title": "The Bubble Board",
+          "url": "https://thebubbleboard.com/?tickers=SAP,NJDCY,HCA,TWLO,NXPI,OTIS,KLBAY,ARE,CAJ,BRO&name=earnings%20Mon%20Oct%2026th&utm_medium=bot-post",
+          "shortened_url": "https://thebubbleboard.com/?tickers=SAP,NJDCY,HCA,TWLO,NXPI,OTIS,KLBAY,ARE,CAJ,BRO&name=earnings%20Mon%20Oct%2026th&utm_medium=bot-post",
+          "shortened_expanded_url": "thebubbleboard.com/?tickers...",
+          "description": "A visual take on watchlists. See what your stocks are doing without hunting through a list of tickers. A better way to follow the stock market.",
+          "image": "https://thebubbleboard.com/images/twitter-card-2.png",
+          "created_at": "2020-10-25T21:45:19Z",
+          "video_url": null,
+          "source": {
+            "name": "Thebubbleboard",
+            "website": "https://thebubbleboard.com"
+          }
+        }
+      ],
+      "likes": {
+        "total": 2,
+        "user_ids": [
+          1834455,
+          4235067
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_252417964.",
+          "large": "https://charts.stocktwits.com/production/large_252417964.",
+          "original": "https://charts.stocktwits.com/production/original_252417964.",
+          "url": "https://charts.stocktwits.com/production/original_252417964."
+        },
+        "sentiment": null
+      }
+    },
+    {
+      "id": 252391235,
+      "body": "Canon Inc - ADR to report earnings on October 26, 2020. Earnings per share (EPS) estimate: $0.04 $CAJ https://srnk.us/go/2243498",
+      "created_at": "2020-10-25T14:03:25Z",
+      "user": {
+        "id": 967528,
+        "username": "tickeron",
+        "name": "Tickeron",
+        "avatar_url": "https://avatars.stocktwits.com/production/967528/thumb-1492026736.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/967528/thumb-1492026736.png",
+        "join_date": "2017-02-23",
+        "official": true,
+        "identity": "Official",
+        "classification": [
+          "official"
+        ],
+        "followers": 3783,
+        "following": 108,
+        "ideas": 425213,
+        "watchlist_stocks_count": 0,
+        "like_count": 0,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5810,
+        "title": "Tickeron",
+        "url": "https://tickeron.com"
+      },
+      "symbols": [
+        {
+          "id": 4649,
+          "symbol": "CAJ",
+          "title": "Canon Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 547
+        }
+      ],
+      "links": [
+        {
+          "title": "Tickeron - A.I. Trading With Odds of Success",
+          "url": "https://srnk.us/go/2243498",
+          "shortened_url": "https://srnk.us/go/2243498",
+          "shortened_expanded_url": "tickeron.com/news/7649563?u...",
+          "description": "Our A.I.-powered algorithms generate and verify trade ideas. Invest in trends, trade with patterns, and analyze Stocks, ETFs, Mutual Funds, FOREX, Cryptos.",
+          "image": "https://tickeron.com/Img/Seo/main.png",
+          "created_at": "2020-10-25T14:03:26Z",
+          "video_url": null,
+          "source": {
+            "name": "Tickeron Inc.",
+            "website": "https://tickeron.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_252391235.png",
+          "large": "https://charts.stocktwits.com/production/large_252391235.png",
+          "original": "https://charts.stocktwits.com/production/original_252391235.png",
+          "url": "https://charts.stocktwits.com/production/original_252391235.png"
+        },
+        "sentiment": null
+      }
+    },
+    {
+      "id": 252149431,
+      "body": "$CAJ NEW ARTICLE : Earnings Preview: Canon https://www.stck.pro/news/CAJ/8675452",
+      "created_at": "2020-10-23T14:15:06Z",
+      "user": {
+        "id": 1555408,
+        "username": "STCKPRO",
+        "name": "STCK.PRO",
+        "avatar_url": "https://avatars.stocktwits.com/production/1555408/thumb-1576077822.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1555408/thumb-1576077822.png",
+        "join_date": "2018-07-24",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 4312,
+        "following": 2,
+        "ideas": 258513,
+        "watchlist_stocks_count": 18,
+        "like_count": 52,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5011,
+        "title": "STCK.PRO",
+        "url": "https://dashboard.stck.pro"
+      },
+      "symbols": [
+        {
+          "id": 4649,
+          "symbol": "CAJ",
+          "title": "Canon Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 547
+        }
+      ],
+      "links": [
+        {
+          "title": null,
+          "url": "https://www.stck.pro/news/CAJ/8675452",
+          "shortened_url": "https://www.stck.pro/news/CAJ/8675452",
+          "shortened_expanded_url": "stck.pro/news/CAJ/8675452",
+          "description": null,
+          "image": null,
+          "created_at": "2020-10-23T14:15:08Z",
+          "video_url": null,
+          "source": {
+            "name": "Stck",
+            "website": "http://www.stck.pro"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_252149431.jpg",
+          "large": "https://charts.stocktwits.com/production/large_252149431.jpg",
+          "original": "https://charts.stocktwits.com/production/original_252149431.jpg",
+          "url": "https://charts.stocktwits.com/production/original_252149431.jpg"
+        },
+        "sentiment": null
+      }
+    },
+    {
+      "id": 251846528,
+      "body": "$CAJ $IMAX = wake up to profit = thanks ! waiting on $T = all big-cap!\nhttps://www.quora.com/What-is-the-best-stock-to-invest-in-for-the-Coronavirus",
+      "created_at": "2020-10-22T13:38:01Z",
+      "user": {
+        "id": 484574,
+        "username": "khmerxbxboi",
+        "name": "Sot Ali the Bum God",
+        "avatar_url": "https://avatars.stocktwits.com/production/484574/thumb-1550789727.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/484574/thumb-1550789727.png",
+        "join_date": "2015-03-13",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 971,
+        "following": 249,
+        "ideas": 12364,
+        "watchlist_stocks_count": 300,
+        "like_count": 29253,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 2277,
+          "symbol": "IMAX",
+          "title": "IMAX Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 2305
+        },
+        {
+          "id": 4649,
+          "symbol": "CAJ",
+          "title": "Canon Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 547
+        },
+        {
+          "id": 7341,
+          "symbol": "T",
+          "title": "AT&T, Inc.",
+          "aliases": [
+            "ATT"
+          ],
+          "is_following": false,
+          "watchlist_count": 71512
+        }
+      ],
+      "links": [
+        {
+          "title": "What is the best stock to invest in for the Coronavirus?",
+          "url": "https://www.quora.com/What-is-the-best-stock-to-invest-in-for-the-Coronavirus",
+          "shortened_url": "https://www.quora.com/What-is-the-best-stock-to-invest-in-for-the-Coronavirus",
+          "shortened_expanded_url": "quora.com/What-is-the-best-...",
+          "description": "Answer (1 of 44): Apple shares have been in pullback mode ever since the iPhone maker slashed its fiscal second-quarter revenue forecast on account of the coronavirus outbreak. The company pointed out that the shutdown of many of its own stores (as well as partner stores) in China, will hurt iPho...",
+          "image": "https://qph.fs.quoracdn.net/main-custom-t-1385961-600x315-eoojaqqkyvrynzjdgptfrlxtxlkrkknp.jpeg",
+          "created_at": "2020-10-22T13:38:01Z",
+          "video_url": null,
+          "source": {
+            "name": "Quora",
+            "website": "https://www.quora.com"
+          }
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          4220831
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 251728217,
+      "body": "$CAJ Canon Receives Three Keypoint Intelligence Awards in Buyers Lab Round-Up https://www.otcdynamics.com/caj-canon-receives-three-keypoint-intelligence-awards-in-buyers-lab-round-up",
+      "created_at": "2020-10-21T20:57:03Z",
+      "user": {
+        "id": 253206,
+        "username": "otcdynamics",
+        "name": "otcdynamics",
+        "avatar_url": "https://avatars.stocktwits.com/production/253206/thumb-1432182723.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/253206/thumb-1432182723.png",
+        "join_date": "2013-08-16",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 385,
+        "following": 0,
+        "ideas": 52394,
+        "watchlist_stocks_count": 0,
+        "like_count": 55,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5512,
+        "title": "project_n",
+        "url": "https://www.otcdynamics.com"
+      },
+      "symbols": [
+        {
+          "id": 4649,
+          "symbol": "CAJ",
+          "title": "Canon Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 553
+        }
+      ],
+      "links": [
+        {
+          "title": "$CAJ Canon Receives Three Keypoint Intelligence Awards in Buyers Lab Round-Up",
+          "url": "https://www.otcdynamics.com/caj-canon-receives-three-keypoint-intelligence-awards-in-buyers-lab-round-up",
+          "shortened_url": "https://www.otcdynamics.com/caj-canon-receives-three-keypoint-intelligence-awards-in-buyers-lab-round-up",
+          "shortened_expanded_url": "otcdynamics.com/caj-canon-r...",
+          "description": "MELVILLE, N.Y., Oct. 21, 2020 /PRNewswire/ -- Keypoint Intelligence has recognized the advances that Canon U.S.A. Inc., a leader in digital imaging solutions, has made in production print and wide format/display graphics with the announcement of BLI Outstanding Innovation Awards in Production Print for three Canon products: the varioPRINT iX-series sheetfed inkjet press, the ProStream 1800 continuous feed inkjet press, and the Arizona 2300 flatbed printer series.",
+          "image": null,
+          "created_at": "2020-10-21T20:57:06Z",
+          "video_url": null,
+          "source": {
+            "name": "Otcdynamics",
+            "website": "https://www.otcdynamics.com"
+          }
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          484574
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 251727539,
+      "body": "$CAJ NEW ARTICLE : Canon Receives Three Keypoint Intelligence Awards in Buyers Lab Round-Up https://www.stck.pro/news/CAJ/8638815",
+      "created_at": "2020-10-21T20:54:40Z",
+      "user": {
+        "id": 1555408,
+        "username": "STCKPRO",
+        "name": "STCK.PRO",
+        "avatar_url": "https://avatars.stocktwits.com/production/1555408/thumb-1576077822.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1555408/thumb-1576077822.png",
+        "join_date": "2018-07-24",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 4321,
+        "following": 2,
+        "ideas": 259194,
+        "watchlist_stocks_count": 18,
+        "like_count": 52,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5011,
+        "title": "STCK.PRO",
+        "url": "https://dashboard.stck.pro"
+      },
+      "symbols": [
+        {
+          "id": 4649,
+          "symbol": "CAJ",
+          "title": "Canon Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 549
+        }
+      ],
+      "links": [
+        {
+          "title": "Canon (CAJ)",
+          "url": "https://www.stck.pro/news/CAJ/8638815",
+          "shortened_url": "https://www.stck.pro/news/CAJ/8638815",
+          "shortened_expanded_url": "stck.pro/news/CAJ",
+          "description": "Description : Canon, Inc. engages in the development, manufacture, and sale of office multifunction devices, copying machines, printers, cameras, and lithography equipment. It operates through the following segments: Office Business Unit (BU), Imaging System BU, Medical System BU and Industry and Others BU.",
+          "image": "https://www.stck.pro/img/imac.png",
+          "created_at": "2020-10-21T20:54:44Z",
+          "video_url": null,
+          "source": {
+            "name": "Stck",
+            "website": "https://www.stck.pro"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_251727539.jpg",
+          "large": "https://charts.stocktwits.com/production/large_251727539.jpg",
+          "original": "https://charts.stocktwits.com/production/original_251727539.jpg",
+          "url": "https://charts.stocktwits.com/production/original_251727539.jpg"
+        },
+        "sentiment": null
+      }
+    },
+    {
+      "id": 251723234,
+      "body": "$CAJ: Canon Receives Three Keypoint Intelligence Awards in Buyers Lab Round-Up https://www.chartmill.com/news/CAJ/prnews-2020-10-21-canon-receives-three-keypoint-intelligence-awards-in-buyers-lab-round-up?utm_source=stocktwits&amp;utm_medium=pressRelease&amp;utm_content=CAJ&amp;utm_campaign=social_tracking",
+      "created_at": "2020-10-21T20:39:00Z",
+      "user": {
+        "id": 47688,
+        "username": "ChartMill",
+        "name": "ChartMill",
+        "avatar_url": "https://avatars.stocktwits.com/production/47688/thumb-1363343728.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/47688/thumb-1363343728.png",
+        "join_date": "2011-01-26",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 21929,
+        "following": 891,
+        "ideas": 1086363,
+        "watchlist_stocks_count": 20,
+        "like_count": 32,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1135,
+        "title": "ChartMill",
+        "url": "http://www.chartmill.com"
+      },
+      "symbols": [
+        {
+          "id": 4649,
+          "symbol": "CAJ",
+          "title": "Canon Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 549
+        }
+      ],
+      "links": [
+        {
+          "title": null,
+          "url": "https://www.chartmill.com/news/CAJ/prnews-2020-10-21-canon-receives-three-keypoint-intelligence-awards-in-buyers-lab-round-up?utm_source=stocktwits&utm_medium=pressRelease&utm_content=CAJ&utm_campaign=social_tracking",
+          "shortened_url": "https://www.chartmill.com/news/CAJ/prnews-2020-10-21-canon-receives-three-keypoint-intelligence-awards-in-buyers-lab-round-up?utm_source=stocktwits&utm_medium=pressRelease&utm_content=CAJ&utm_campaign=social_tracking",
+          "shortened_expanded_url": "chartmill.com/news/CAJ/prne...",
+          "description": null,
+          "image": null,
+          "created_at": "2020-10-21T20:39:00Z",
+          "video_url": null,
+          "source": {
+            "name": "Chartmill",
+            "website": "https://www.chartmill.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 251719350,
+      "body": "$CAJ Canon Receives Three Keypoint Intelligence Awards in Buyers Lab Round-Up\nhttps://www.stocktitan.net/news/CAJ/canon-receives-three-keypoint-intelligence-awards-in-buyers-lab-nx9akkp7gmon.html",
+      "created_at": "2020-10-21T20:27:56Z",
+      "user": {
+        "id": 3372441,
+        "username": "Stock_Titan",
+        "name": "StockTitan",
+        "avatar_url": "https://avatars.stocktwits.com/production/3372441/thumb-1588173612.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3372441/thumb-1588173612.png",
+        "join_date": "2020-04-28",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 428,
+        "following": 0,
+        "ideas": 24239,
+        "watchlist_stocks_count": 0,
+        "like_count": 0,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5677,
+        "title": "StockTitan",
+        "url": "https://stocktitan.net"
+      },
+      "symbols": [
+        {
+          "id": 4649,
+          "symbol": "CAJ",
+          "title": "Canon Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 549
+        }
+      ],
+      "links": [
+        {
+          "title": "Canon Receives Three Keypoint Intelligence Awards in Buyers Lab | StockTitan.net",
+          "url": "https://www.stocktitan.net/news/CAJ/canon-receives-three-keypoint-intelligence-awards-in-buyers-lab-nx9akkp7gmon.html",
+          "shortened_url": "https://www.stocktitan.net/news/CAJ/canon-receives-three-keypoint-intelligence-awards-in-buyers-lab-nx9akkp7gmon.html",
+          "shortened_expanded_url": "stocktitan.net/news/CAJ/can...",
+          "description": "MELVILLE, N.Y., Oct. 21, 2020 -- Keypoint Intelligence has recognized the advances that Canon U.S.A. Inc., a leader in digital imaging solutions, has made in production print and wide format/display graphics with the announcement of BLI Outstanding Innovation Awards in Production Print for three Canon products: the varioPRINT iX-series sheetfed inkjet press, the ProStream 1800 continuous feed inkjet press, and the Arizona 2300 flatbed printer series.",
+          "image": "https://static.stocktitan.net/company-logo/caj.png",
+          "created_at": "2020-10-21T20:27:57Z",
+          "video_url": null,
+          "source": {
+            "name": "Stocktitan",
+            "website": "https://www.stocktitan.net"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 251412134,
+      "body": "$CAJ slow like a turtle but worth buying",
+      "created_at": "2020-10-20T18:54:16Z",
+      "user": {
+        "id": 484574,
+        "username": "khmerxbxboi",
+        "name": "Sot Ali the Bum God",
+        "avatar_url": "https://avatars.stocktwits.com/production/484574/thumb-1550789727.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/484574/thumb-1550789727.png",
+        "join_date": "2015-03-13",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 971,
+        "following": 249,
+        "ideas": 12366,
+        "watchlist_stocks_count": 300,
+        "like_count": 29253,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 4649,
+          "symbol": "CAJ",
+          "title": "Canon Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 547
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          4161999
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 251263398,
+      "body": "What do you think of this? $CAJ&#39;s in Downtrend: Moving Average Convergence Divergence (MACD) Histogram just turned negative. View odds for this and other indicators: https://srnk.us/go/2223817",
+      "created_at": "2020-10-20T07:04:54Z",
+      "user": {
+        "id": 967528,
+        "username": "tickeron",
+        "name": "Tickeron",
+        "avatar_url": "https://avatars.stocktwits.com/production/967528/thumb-1492026736.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/967528/thumb-1492026736.png",
+        "join_date": "2017-02-23",
+        "official": true,
+        "identity": "Official",
+        "classification": [
+          "official"
+        ],
+        "followers": 3796,
+        "following": 108,
+        "ideas": 425896,
+        "watchlist_stocks_count": 0,
+        "like_count": 0,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5810,
+        "title": "Tickeron",
+        "url": "https://tickeron.com"
+      },
+      "symbols": [
+        {
+          "id": 4649,
+          "symbol": "CAJ",
+          "title": "Canon Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 553
+        }
+      ],
+      "links": [
+        {
+          "title": "Tickeron - A.I. Trading With Odds of Success",
+          "url": "https://srnk.us/go/2223817",
+          "shortened_url": "https://srnk.us/go/2223817",
+          "shortened_expanded_url": "tickeron.com/ticker/CAJ/?ut...",
+          "description": "Our A.I.-powered algorithms generate and verify trade ideas. Invest in trends, trade with patterns, and analyze Stocks, ETFs, Mutual Funds, FOREX, Cryptos.",
+          "image": "https://tickeron.com/Img/Seo/main.png",
+          "created_at": "2020-10-20T07:04:55Z",
+          "video_url": null,
+          "source": {
+            "name": "Tickeron Inc.",
+            "website": "https://tickeron.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_251263398.",
+          "large": "https://charts.stocktwits.com/production/large_251263398.",
+          "original": "https://charts.stocktwits.com/production/original_251263398.",
+          "url": "https://charts.stocktwits.com/production/original_251263398."
+        },
+        "sentiment": null
+      }
+    },
+    {
+      "id": 251166187,
+      "body": "$GILD and $CAJ making a new 52 week low. https://www.chartmill.com/stock/stock-screener?f=p_pg10,v1_50b500,s2_nl,exch_us&amp;v=3&amp;utm_source=stocktwits&amp;utm_medium=screener&amp;utm_content=Stock_Screener:_New_52_week_low_today&amp;utm_campaign=social_tracking",
+      "created_at": "2020-10-19T18:55:00Z",
+      "user": {
+        "id": 47688,
+        "username": "ChartMill",
+        "name": "ChartMill",
+        "avatar_url": "https://avatars.stocktwits.com/production/47688/thumb-1363343728.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/47688/thumb-1363343728.png",
+        "join_date": "2011-01-26",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 21927,
+        "following": 891,
+        "ideas": 1086226,
+        "watchlist_stocks_count": 20,
+        "like_count": 32,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1135,
+        "title": "ChartMill",
+        "url": "http://www.chartmill.com"
+      },
+      "symbols": [
+        {
+          "id": 2010,
+          "symbol": "GILD",
+          "title": "Gilead Sciences Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 73111
+        },
+        {
+          "id": 4649,
+          "symbol": "CAJ",
+          "title": "Canon Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 547
+        }
+      ],
+      "links": [
+        {
+          "title": null,
+          "url": "https://www.chartmill.com/stock/stock-screener?f=p_pg10,v1_50b500,s2_nl,exch_us&v=3&utm_source=stocktwits&utm_medium=screener&utm_content=Stock_Screener:_New_52_week_low_today&utm_campaign=social_tracking",
+          "shortened_url": "https://www.chartmill.com/stock/stock-screener?f=p_pg10,v1_50b500,s2_nl,exch_us&v=3&utm_source=stocktwits&utm_medium=screener&utm_content=Stock_Screener:_New_52_week_low_today&utm_campaign=social_tracking",
+          "shortened_expanded_url": "chartmill.com/stock/stock-s...",
+          "description": null,
+          "image": null,
+          "created_at": "2020-10-19T18:55:00Z",
+          "video_url": null,
+          "source": {
+            "name": "Chartmill",
+            "website": "https://www.chartmill.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 251096686,
+      "body": "$CAJ NEW ARTICLE : Canon U.S.A. Announces Three New Industrial Imaging Sensors https://www.stck.pro/news/CAJ/8578165",
+      "created_at": "2020-10-19T14:47:05Z",
+      "user": {
+        "id": 1555408,
+        "username": "STCKPRO",
+        "name": "STCK.PRO",
+        "avatar_url": "https://avatars.stocktwits.com/production/1555408/thumb-1576077822.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1555408/thumb-1576077822.png",
+        "join_date": "2018-07-24",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 4314,
+        "following": 2,
+        "ideas": 258588,
+        "watchlist_stocks_count": 18,
+        "like_count": 52,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5011,
+        "title": "STCK.PRO",
+        "url": "https://dashboard.stck.pro"
+      },
+      "symbols": [
+        {
+          "id": 4649,
+          "symbol": "CAJ",
+          "title": "Canon Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 547
+        }
+      ],
+      "links": [
+        {
+          "title": "Canon (CAJ)",
+          "url": "https://www.stck.pro/news/CAJ/8578165",
+          "shortened_url": "https://www.stck.pro/news/CAJ/8578165",
+          "shortened_expanded_url": "stck.pro/news/CAJ",
+          "description": "Description : Canon, Inc. engages in the development, manufacture, and sale of office multifunction devices, copying machines, printers, cameras, and lithography equipment. It operates through the following segments: Office Business Unit (BU), Imaging System BU, Medical System BU and Industry and Others BU.",
+          "image": "https://www.stck.pro/img/imac.png",
+          "created_at": "2020-10-19T14:47:08Z",
+          "video_url": null,
+          "source": {
+            "name": "Stck",
+            "website": "https://www.stck.pro"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_251096686.jpg",
+          "large": "https://charts.stocktwits.com/production/large_251096686.jpg",
+          "original": "https://charts.stocktwits.com/production/original_251096686.jpg",
+          "url": "https://charts.stocktwits.com/production/original_251096686.jpg"
+        },
+        "sentiment": null
+      }
+    },
+    {
+      "id": 251091812,
+      "body": "$CAJ: Canon U.S.A. Announces Three New Industrial Imaging Sensors https://www.chartmill.com/stock/quote/CAJ/news?utm_source=stocktwits&amp;utm_medium=pressRelease&amp;utm_content=CAJ&amp;utm_campaign=social_tracking",
+      "created_at": "2020-10-19T14:33:00Z",
+      "user": {
+        "id": 47688,
+        "username": "ChartMill",
+        "name": "ChartMill",
+        "avatar_url": "https://avatars.stocktwits.com/production/47688/thumb-1363343728.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/47688/thumb-1363343728.png",
+        "join_date": "2011-01-26",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 21926,
+        "following": 891,
+        "ideas": 1086000,
+        "watchlist_stocks_count": 20,
+        "like_count": 32,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1135,
+        "title": "ChartMill",
+        "url": "http://www.chartmill.com"
+      },
+      "symbols": [
+        {
+          "id": 4649,
+          "symbol": "CAJ",
+          "title": "Canon Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 547
+        }
+      ],
+      "links": [
+        {
+          "title": null,
+          "url": "https://www.chartmill.com/stock/quote/CAJ/news?utm_source=stocktwits&utm_medium=pressRelease&utm_content=CAJ&utm_campaign=social_tracking",
+          "shortened_url": "https://www.chartmill.com/stock/quote/CAJ/news?utm_source=stocktwits&utm_medium=pressRelease&utm_content=CAJ&utm_campaign=social_tracking",
+          "shortened_expanded_url": "chartmill.com/stock/quote/C...",
+          "description": null,
+          "image": null,
+          "created_at": "2020-10-19T14:33:00Z",
+          "video_url": null,
+          "source": {
+            "name": "Chartmill",
+            "website": "https://www.chartmill.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 251091416,
+      "body": "$CAJ Canon U.S.A. Announces Three New Industrial Imaging Sensors https://www.otcdynamics.com/caj-canon-u-s-a-announces-three-new-industrial-imaging-sensors",
+      "created_at": "2020-10-19T14:31:47Z",
+      "user": {
+        "id": 253206,
+        "username": "otcdynamics",
+        "name": "otcdynamics",
+        "avatar_url": "https://avatars.stocktwits.com/production/253206/thumb-1432182723.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/253206/thumb-1432182723.png",
+        "join_date": "2013-08-16",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 384,
+        "following": 0,
+        "ideas": 52088,
+        "watchlist_stocks_count": 0,
+        "like_count": 55,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5512,
+        "title": "project_n",
+        "url": "https://www.otcdynamics.com"
+      },
+      "symbols": [
+        {
+          "id": 4649,
+          "symbol": "CAJ",
+          "title": "Canon Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 547
+        }
+      ],
+      "links": [
+        {
+          "title": "$CAJ Canon U.S.A. Announces Three New Industrial Imaging Sensors",
+          "url": "https://www.otcdynamics.com/caj-canon-u-s-a-announces-three-new-industrial-imaging-sensors",
+          "shortened_url": "https://www.otcdynamics.com/caj-canon-u-s-a-announces-three-new-industrial-imaging-sensors",
+          "shortened_expanded_url": "otcdynamics.com/caj-canon-u...",
+          "description": "MELVILLE, N.Y., Oct. 19, 2020 /PRNewswire/ -- As imaging sensors continue to be an essential component of industrial processes, Canon U.S.A., Inc., a leader in digital imaging solutions, is excited to announce three new CMOS (complementary metal-oxide semiconductors) sensors: the ultra-high-resolution LI8020 series, the ultra-high sensitivity LI3030 series, and the LI7050SAC.",
+          "image": null,
+          "created_at": "2020-10-19T14:31:48Z",
+          "video_url": null,
+          "source": {
+            "name": "Otcdynamics",
+            "website": "https://www.otcdynamics.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 251089871,
+      "body": "$CAJ Canon U.S.A. Announces Three New Industrial Imaging Sensors\nhttps://www.stocktitan.net/news/CAJ/canon-u-s-a-announces-three-new-industrial-imaging-yqiyjczt30g0.html",
+      "created_at": "2020-10-19T14:26:59Z",
+      "user": {
+        "id": 3372441,
+        "username": "Stock_Titan",
+        "name": "StockTitan",
+        "avatar_url": "https://avatars.stocktwits.com/production/3372441/thumb-1588173612.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3372441/thumb-1588173612.png",
+        "join_date": "2020-04-28",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 421,
+        "following": 0,
+        "ideas": 24145,
+        "watchlist_stocks_count": 0,
+        "like_count": 0,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5677,
+        "title": "StockTitan",
+        "url": "https://stocktitan.net"
+      },
+      "symbols": [
+        {
+          "id": 4649,
+          "symbol": "CAJ",
+          "title": "Canon Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 547
+        }
+      ],
+      "links": [
+        {
+          "title": "Canon U.S.A. Announces Three New Industrial Imaging Sensors | StockTitan.net",
+          "url": "https://www.stocktitan.net/news/CAJ/canon-u-s-a-announces-three-new-industrial-imaging-yqiyjczt30g0.html",
+          "shortened_url": "https://www.stocktitan.net/news/CAJ/canon-u-s-a-announces-three-new-industrial-imaging-yqiyjczt30g0.html",
+          "shortened_expanded_url": "stocktitan.net/news/CAJ/can...",
+          "description": "MELVILLE, N.Y., Oct. 19, 2020 --As imaging sensors continue to be an essential component of industrial processes, Canon U.S.A., Inc., a leader in digital imaging solutions, is excited to announce three new CMOS (complementary metal-oxide semiconductors) sensors: the ultra-high-resolution LI8020 series, the ultra-high sensitivity LI3030 series, and the LI7050SAC.",
+          "image": "https://static.stocktitan.net/company-logo/caj.png",
+          "created_at": "2020-10-19T14:27:01Z",
+          "video_url": null,
+          "source": {
+            "name": "Stocktitan",
+            "website": "https://www.stocktitan.net"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 250647137,
+      "body": "$APA $CAJ $JAGX $UBX = hope a ok run tomorrow or next week... got to make them moves !!!\nhttps://www.quora.com/What-is-the-best-stock-to-invest-in-for-the-Coronavirus",
+      "created_at": "2020-10-16T02:57:31Z",
+      "user": {
+        "id": 484574,
+        "username": "khmerxbxboi",
+        "name": "Sot Ali the Bum God",
+        "avatar_url": "https://avatars.stocktwits.com/production/484574/thumb-1550789727.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/484574/thumb-1550789727.png",
+        "join_date": "2015-03-13",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 972,
+        "following": 248,
+        "ideas": 12440,
+        "watchlist_stocks_count": 300,
+        "like_count": 29307,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 4356,
+          "symbol": "APA",
+          "title": "Apache Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 8828
+        },
+        {
+          "id": 4649,
+          "symbol": "CAJ",
+          "title": "Canon Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 554
+        },
+        {
+          "id": 12192,
+          "symbol": "JAGX",
+          "title": "Jaguar Health Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 36001
+        },
+        {
+          "id": 14586,
+          "symbol": "UBX",
+          "title": "Unity Biotechnology",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1987
+        }
+      ],
+      "links": [
+        {
+          "title": "What is the best stock to invest in for the Coronavirus?",
+          "url": "https://www.quora.com/What-is-the-best-stock-to-invest-in-for-the-Coronavirus",
+          "shortened_url": "https://www.quora.com/What-is-the-best-stock-to-invest-in-for-the-Coronavirus",
+          "shortened_expanded_url": "quora.com/What-is-the-best-...",
+          "description": "Answer (1 of 44): Apple shares have been in pullback mode ever since the iPhone maker slashed its fiscal second-quarter revenue forecast on account of the coronavirus outbreak. The company pointed out that the shutdown of many of its own stores (as well as partner stores) in China, will hurt iPho...",
+          "image": "https://qph.fs.quoracdn.net/main-custom-t-1385961-600x315-eoojaqqkyvrynzjdgptfrlxtxlkrkknp.jpeg",
+          "created_at": "2020-10-16T02:57:31Z",
+          "video_url": null,
+          "source": {
+            "name": "Quora",
+            "website": "https://www.quora.com"
+          }
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          3493039
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 250138750,
+      "body": "Canon $CAJ BidaskScore is Lowered to StronglySold https://bidaskclub.com/news/company/2020-10-13/CAJ",
+      "created_at": "2020-10-14T08:25:03Z",
+      "user": {
+        "id": 1177001,
+        "username": "BidaskBot",
+        "name": "BidaskBot",
+        "avatar_url": "https://avatars.stocktwits.com/production/1177001/thumb-1504377126.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1177001/thumb-1504377126.png",
+        "join_date": "2017-09-02",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 1032,
+        "following": 21,
+        "ideas": 66087,
+        "watchlist_stocks_count": 20,
+        "like_count": 1008,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 3725,
+        "title": "BidaskBot",
+        "url": "https://bidaskclub.com"
+      },
+      "symbols": [
+        {
+          "id": 4649,
+          "symbol": "CAJ",
+          "title": "Canon Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 554
+        }
+      ],
+      "links": [
+        {
+          "title": "BidaskClub.com - See where people invest",
+          "url": "https://bidaskclub.com/news/company/2020-10-13/CAJ",
+          "shortened_url": "https://bidaskclub.com/news/company/2020-10-13/CAJ",
+          "shortened_expanded_url": "bidaskclub.com/news/company...",
+          "description": "Use the proprietary BidaskScore to see where people invest. Use the market heatmap and market screener to explore the US equity stock market",
+          "image": null,
+          "created_at": "2020-10-14T08:25:04Z",
+          "video_url": null,
+          "source": {
+            "name": "Bidaskclub",
+            "website": "https://bidaskclub.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_250138750.png",
+          "large": "https://charts.stocktwits.com/production/large_250138750.png",
+          "original": "https://charts.stocktwits.com/production/original_250138750.png",
+          "url": "https://charts.stocktwits.com/production/original_250138750.png"
+        },
+        "sentiment": null
+      }
+    },
+    {
+      "id": 250133725,
+      "body": "$CAJ Canon Debuts The Company&#39;s First-Ever, Compact Telephoto Monocular, The PowerShot ZOOM https://www.otcdynamics.com/caj-canon-debuts-the-companys-first-ever-compact-telephoto-monocular-the-powershot-zoom",
+      "created_at": "2020-10-14T06:09:00Z",
+      "user": {
+        "id": 253206,
+        "username": "otcdynamics",
+        "name": "otcdynamics",
+        "avatar_url": "https://avatars.stocktwits.com/production/253206/thumb-1432182723.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/253206/thumb-1432182723.png",
+        "join_date": "2013-08-16",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 384,
+        "following": 0,
+        "ideas": 52064,
+        "watchlist_stocks_count": 0,
+        "like_count": 55,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5512,
+        "title": "project_n",
+        "url": "https://www.otcdynamics.com"
+      },
+      "symbols": [
+        {
+          "id": 4649,
+          "symbol": "CAJ",
+          "title": "Canon Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 547
+        }
+      ],
+      "links": [
+        {
+          "title": "$CAJ Canon Debuts The Company's First-Ever, Compact Telephoto Monocular, The PowerShot ZOOM",
+          "url": "https://www.otcdynamics.com/caj-canon-debuts-the-companys-first-ever-compact-telephoto-monocular-the-powershot-zoom",
+          "shortened_url": "https://www.otcdynamics.com/caj-canon-debuts-the-companys-first-ever-compact-telephoto-monocular-the-powershot-zoom",
+          "shortened_expanded_url": "otcdynamics.com/caj-canon-d...",
+          "description": "MELVILLE, N.Y., Oct. 14, 2020 /PRNewswire/ -- Hiking, birdwatching and nature gazing, consumers are embracing the beauty of the outdoors this season and beyond. With this in mind, it is important to have a convenient and intuitive imaging tool to explore the world.",
+          "image": null,
+          "created_at": "2020-10-14T06:09:02Z",
+          "video_url": null,
+          "source": {
+            "name": "Otcdynamics",
+            "website": "https://www.otcdynamics.com"
+          }
+        }
+      ],
+      "likes": {
+        "total": 2,
+        "user_ids": [
+          3440853,
+          4161999
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 250133708,
+      "body": "$CAJ Improved Eye Autofocus Paired With New Video And Streaming Functions Make The New Canon EOS M50 Mark II Camera A Strong Imaging Tool For Content Creators And Imaging Storytellers https://www.otcdynamics.com/caj-improved-eye-autofocus-paired-with-new-video-and-streaming-functions-make-the-new-canon-eos-m50-mark-ii-camera-a-strong-imaging-tool-for-content-creators-and-imaging-storytellers",
+      "created_at": "2020-10-14T06:08:20Z",
+      "user": {
+        "id": 253206,
+        "username": "otcdynamics",
+        "name": "otcdynamics",
+        "avatar_url": "https://avatars.stocktwits.com/production/253206/thumb-1432182723.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/253206/thumb-1432182723.png",
+        "join_date": "2013-08-16",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 385,
+        "following": 0,
+        "ideas": 52390,
+        "watchlist_stocks_count": 0,
+        "like_count": 55,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5512,
+        "title": "project_n",
+        "url": "https://www.otcdynamics.com"
+      },
+      "symbols": [
+        {
+          "id": 4649,
+          "symbol": "CAJ",
+          "title": "Canon Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 553
+        }
+      ],
+      "links": [
+        {
+          "title": "$CAJ Improved Eye Autofocus Paired With New Video And Streaming Functions Make The New Canon EOS M50 Mark II Camera A Strong Imaging Tool For Content Creators And Imaging Storytellers",
+          "url": "https://www.otcdynamics.com/caj-improved-eye-autofocus-paired-with-new-video-and-streaming-functions-make-the-new-canon-eos-m50-mark-ii-camera-a-strong-imaging-tool-for-content-creators-and-imaging-storytellers",
+          "shortened_url": "https://www.otcdynamics.com/caj-improved-eye-autofocus-paired-with-new-video-and-streaming-functions-make-the-new-canon-eos-m50-mark-ii-camera-a-strong-imaging-tool-for-content-creators-and-imaging-storytellers",
+          "shortened_expanded_url": "otcdynamics.com/caj-improve...",
+          "description": "\"Our customer base includes future content creators and imaging storytellers; it's in our best interest to continuously provide high-quality products that are easy to use in the creative world of photography and video content creation, as well as streaming,\" said Tatsuro \"Tony\" Kano, executive vice president and general manager of the Canon U.S.A., Inc.",
+          "image": null,
+          "created_at": "2020-10-14T06:08:20Z",
+          "video_url": null,
+          "source": {
+            "name": "Otcdynamics",
+            "website": "https://www.otcdynamics.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    }
+  ]
+}

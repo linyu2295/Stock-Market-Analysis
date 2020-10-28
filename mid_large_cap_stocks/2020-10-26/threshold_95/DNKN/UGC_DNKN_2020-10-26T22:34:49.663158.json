@@ -1,0 +1,1792 @@
+{
+  "response": {
+    "status": 200
+  },
+  "symbol": {
+    "id": 9637,
+    "symbol": "DNKN",
+    "title": "Dunkin Donuts",
+    "aliases": [],
+    "is_following": false,
+    "watchlist_count": 4966
+  },
+  "cursor": {
+    "more": true,
+    "since": 252504084,
+    "max": 252494581
+  },
+  "messages": [
+    {
+      "id": 252504084,
+      "body": "$DNKN 111 close",
+      "created_at": "2020-10-26T14:32:37Z",
+      "user": {
+        "id": 1130017,
+        "username": "ImWolfie",
+        "name": "Dalba",
+        "avatar_url": "https://avatars.stocktwits.com/production/1130017/thumb-1591310804.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1130017/thumb-1591310804.png",
+        "join_date": "2017-07-19",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 23,
+        "following": 8,
+        "ideas": 856,
+        "watchlist_stocks_count": 15,
+        "like_count": 148,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 9637,
+          "symbol": "DNKN",
+          "title": "Dunkin Donuts",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 4966
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 252503671,
+      "body": "NEW POST: A Case of the Mondays Before Big Thursday  https://marketchess.com/2020/10/26/a-case-mondays-before-big-thursday  $AMZN $DNKN $QQQ $SPY $ZM",
+      "created_at": "2020-10-26T14:31:30Z",
+      "user": {
+        "id": 8482,
+        "username": "chessNwine",
+        "name": "Chess",
+        "avatar_url": "https://avatars.stocktwits.com/production/8482/thumb-1439749361.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/8482/thumb-1439749361.png",
+        "join_date": "2010-02-09",
+        "official": true,
+        "identity": "Official",
+        "classification": [
+          "suggested",
+          "official"
+        ],
+        "followers": 94879,
+        "following": 9999,
+        "ideas": 26072,
+        "watchlist_stocks_count": 5,
+        "like_count": 9832,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 864,
+          "symbol": "AMZN",
+          "title": "Amazon.com Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 344140
+        },
+        {
+          "id": 7271,
+          "symbol": "SPY",
+          "title": "SPDR S&P 500",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 263180
+        },
+        {
+          "id": 9581,
+          "symbol": "QQQ",
+          "title": "PowerShares Nasdaq-100 QQQ",
+          "aliases": [
+            "QQQQ"
+          ],
+          "is_following": false,
+          "watchlist_count": 77443
+        },
+        {
+          "id": 9637,
+          "symbol": "DNKN",
+          "title": "Dunkin Donuts",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 4966
+        },
+        {
+          "id": 15168,
+          "symbol": "ZM",
+          "title": "Zoom Video Communications, Inc",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 43207
+        }
+      ],
+      "links": [
+        {
+          "title": "A Case of the Mondays Before Big Thursday",
+          "url": "https://marketchess.com/2020/10/26/a-case-mondays-before-big-thursday",
+          "shortened_url": "https://marketchess.com/2020/10/26/a-case-mondays-before-big-thursday",
+          "shortened_expanded_url": "marketchess.com/2020/10/26/...",
+          "description": "An outlier red Monday morning open is shaking things up a bit for what has mostly been a one-way market for a while now, despite some quiet consolidations below the surface. As I write this, the senior indices are off by about 1% with the notable exception of tech outperforming--Perhaps it is a replay of February/March, where names like AMZN ZM...",
+          "image": "http://images.marketchess.com/im/11799/36c.jpg",
+          "created_at": "2020-10-26T14:31:31Z",
+          "video_url": null,
+          "source": {
+            "name": "Marketchess",
+            "website": "https://marketchess.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 252503394,
+      "body": "Mon Oct 26th\nGaining stocks this morning:\n\n$SELB: +23.9%\n$DNKN: +15.9%\n$MRTX: +14.7%\n$FHTX: +14.2%\n$GRTX: +10.4%\nSI: +8.2%\nFROG: +7.7%\nCO: +7.6%\nANAB: +7.3%\n\nclick here for a visual version:\nhttps://thebubbleboard.com/?tickers=SELB,DNKN,MRTX,FHTX,GRTX,SI,FROG,CO,ANAB&amp;name=Oct%2026th%20gainers&amp;utm_medium=bot-post",
+      "created_at": "2020-10-26T14:30:37Z",
+      "user": {
+        "id": 3628389,
+        "username": "BubbleBoard",
+        "name": "The Bubble Board",
+        "avatar_url": "https://avatars.stocktwits.com/production/3628389/thumb-1593179485.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3628389/thumb-1593179485.png",
+        "join_date": "2020-06-15",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 2518,
+        "following": 0,
+        "ideas": 2632,
+        "watchlist_stocks_count": 10,
+        "like_count": 44,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5596,
+        "title": "Test App",
+        "url": "https://torchlabs.io"
+      },
+      "symbols": [
+        {
+          "id": 9637,
+          "symbol": "DNKN",
+          "title": "Dunkin Donuts",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 4966
+        },
+        {
+          "id": 11777,
+          "symbol": "MRTX",
+          "title": "Mirati Therapeutics, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 3175
+        },
+        {
+          "id": 13034,
+          "symbol": "SELB",
+          "title": "Selecta Biosciences",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 5724
+        },
+        {
+          "id": 15435,
+          "symbol": "GRTX",
+          "title": "Galera Therapeutics",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 295
+        },
+        {
+          "id": 16039,
+          "symbol": "FHTX",
+          "title": "Foghorn Therapeutics Inc",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 5
+        }
+      ],
+      "links": [
+        {
+          "title": "The Bubble Board",
+          "url": "https://thebubbleboard.com/?tickers=SELB,DNKN,MRTX,FHTX,GRTX,SI,FROG,CO,ANAB&name=Oct%2026th%20gainers&utm_medium=bot-post",
+          "shortened_url": "https://thebubbleboard.com/?tickers=SELB,DNKN,MRTX,FHTX,GRTX,SI,FROG,CO,ANAB&name=Oct%2026th%20gainers&utm_medium=bot-post",
+          "shortened_expanded_url": "thebubbleboard.com/?tickers...",
+          "description": "A visual take on watchlists. See what your stocks are doing without hunting through a list of tickers. A better way to follow the stock market.",
+          "image": "https://thebubbleboard.com/images/twitter-card-2.png",
+          "created_at": "2020-10-26T14:30:37Z",
+          "video_url": null,
+          "source": {
+            "name": "Thebubbleboard",
+            "website": "https://thebubbleboard.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_252503394.",
+          "large": "https://charts.stocktwits.com/production/large_252503394.",
+          "original": "https://charts.stocktwits.com/production/original_252503394.",
+          "url": "https://charts.stocktwits.com/production/original_252503394."
+        },
+        "sentiment": null
+      }
+    },
+    {
+      "id": 252502688,
+      "body": "$DNKN volume is crazy",
+      "created_at": "2020-10-26T14:28:16Z",
+      "user": {
+        "id": 4142166,
+        "username": "Courage01",
+        "name": "Cesar Cesar",
+        "avatar_url": "https://avatars.stocktwits.com/production/4142166/thumb-1601789674.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/4142166/thumb-1601789674.png",
+        "join_date": "2020-10-04",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 0,
+        "following": 17,
+        "ideas": 5,
+        "watchlist_stocks_count": 0,
+        "like_count": 3,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 9637,
+          "symbol": "DNKN",
+          "title": "Dunkin Donuts",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 4966
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 252502564,
+      "body": "$DKNG keep seeing $DNKN trending and twice I got excited. For a second. I can\u2019t be the only one? \ud83d\ude02",
+      "created_at": "2020-10-26T14:27:55Z",
+      "user": {
+        "id": 3454240,
+        "username": "RagingBull76",
+        "name": "Darien Taylor",
+        "avatar_url": "https://avatars.stocktwits.com/production/3454240/thumb-1603584686.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3454240/thumb-1603584686.png",
+        "join_date": "2020-05-14",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 146,
+        "following": 106,
+        "ideas": 3151,
+        "watchlist_stocks_count": 31,
+        "like_count": 2349,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 9637,
+          "symbol": "DNKN",
+          "title": "Dunkin Donuts",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 4966
+        },
+        {
+          "id": 15497,
+          "symbol": "DKNG",
+          "title": "DraftKings",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 46857
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 252502564,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "likes": {
+        "total": 2,
+        "user_ids": [
+          3749119,
+          1817378
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 252501976,
+      "body": "$DNKN cheers to the bulls on this green day! \ud83c\udf69 \ud83c\udf7b",
+      "created_at": "2020-10-26T14:25:59Z",
+      "user": {
+        "id": 4235963,
+        "username": "SamuraiGary",
+        "name": "Gary",
+        "avatar_url": "https://avatars.stocktwits.com/production/4235963/thumb-1603722510.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/4235963/thumb-1603722510.png",
+        "join_date": "2020-10-26",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 2,
+        "following": 12,
+        "ideas": 4,
+        "watchlist_stocks_count": 3,
+        "like_count": 15,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 9637,
+          "symbol": "DNKN",
+          "title": "Dunkin Donuts",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 4966
+        }
+      ],
+      "likes": {
+        "total": 2,
+        "user_ids": [
+          4124399,
+          4154963
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 252501955,
+      "body": "$DNKN Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. Check dc on my profile and what are you waiting for? http://psce.pw/TeleHealthTakeOver",
+      "created_at": "2020-10-26T14:25:54Z",
+      "user": {
+        "id": 4154804,
+        "username": "osmldorrifzpfF17",
+        "name": "osmldo rrifzpf",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2020-10-07",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 1,
+        "following": 10,
+        "ideas": 11,
+        "watchlist_stocks_count": 0,
+        "like_count": 0,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 9637,
+          "symbol": "DNKN",
+          "title": "Dunkin Donuts",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 4966
+        }
+      ],
+      "links": [
+        {
+          "title": "Top Tele health Stocks Right This Second. Investors Must See!",
+          "url": "http://psce.pw/TeleHealthTakeOver",
+          "shortened_url": "http://psce.pw/TeleHealthTakeOver",
+          "shortened_expanded_url": "researchdrivennews.com/the-...",
+          "description": "With the worst global health crisis of our lifetime showing no signs of slowing, the massive $11.9 trillion health care industry is undergoing a massive revolution.(1) Along the way, it's creating a QUARTER TRILLION DOLLAR opportunity for Canadian-based companies like CloudMD Software & Services Inc.",
+          "image": "https://researchdrivennews.com/wp-content/uploads/sites/14/2020/10/cropped-Web.jpeg",
+          "created_at": "2020-10-26T14:25:58Z",
+          "video_url": null,
+          "source": {
+            "name": "Research Driven News",
+            "website": "https://researchdrivennews.com"
+          }
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          4235963
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 252501908,
+      "body": "$DNKN wake BEARS! I guess you are on the part of the line.",
+      "created_at": "2020-10-26T14:25:46Z",
+      "user": {
+        "id": 4155192,
+        "username": "azwaccfwz6567",
+        "name": "azwac cfwz",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2020-10-07",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 0,
+        "following": 0,
+        "ideas": 2,
+        "watchlist_stocks_count": 0,
+        "like_count": 0,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 9637,
+          "symbol": "DNKN",
+          "title": "Dunkin Donuts",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 4966
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          4154963
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 252501474,
+      "body": "$DNKN \ud83c\udf69  \u2615\ufe0f",
+      "created_at": "2020-10-26T14:24:21Z",
+      "user": {
+        "id": 647889,
+        "username": "bomb",
+        "name": "dot com",
+        "avatar_url": "https://avatars.stocktwits.com/production/647889/thumb-1530838338.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/647889/thumb-1530838338.png",
+        "join_date": "2015-12-07",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 56,
+        "following": 71,
+        "ideas": 2368,
+        "watchlist_stocks_count": 32,
+        "like_count": 7613,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 9637,
+          "symbol": "DNKN",
+          "title": "Dunkin Donuts",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 4966
+        }
+      ],
+      "likes": {
+        "total": 2,
+        "user_ids": [
+          3000976,
+          4235963
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 252501099,
+      "body": "$DNKN dont forget the other coffee company : $FARM",
+      "created_at": "2020-10-26T14:23:10Z",
+      "user": {
+        "id": 276704,
+        "username": "stockchancellor",
+        "name": "ACG",
+        "avatar_url": "https://avatars.stocktwits.com/production/276704/thumb-1561064511.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/276704/thumb-1561064511.png",
+        "join_date": "2013-11-02",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 190,
+        "following": 2,
+        "ideas": 10411,
+        "watchlist_stocks_count": 61,
+        "like_count": 212,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 1825,
+          "symbol": "FARM",
+          "title": "Farmer Brothers Co.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 243
+        },
+        {
+          "id": 9637,
+          "symbol": "DNKN",
+          "title": "Dunkin Donuts",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 4966
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 252501029,
+      "body": "Mid-Morning Market Update: Markets Open Lower; Hasbro Reports Upbeat Profit  $DNKN $LAIX $HAS $LLIT $SELB \n\nhttps://newsfilter.io/a/05615731f99d42afaf6ffb25dc75e5f9",
+      "created_at": "2020-10-26T14:22:57Z",
+      "user": {
+        "id": 2762379,
+        "username": "Newsfilter",
+        "name": "@newsfilterio",
+        "avatar_url": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "join_date": "2019-09-01",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 7445,
+        "following": 16,
+        "ideas": 587699,
+        "watchlist_stocks_count": 1,
+        "like_count": 531,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 5637,
+          "symbol": "HAS",
+          "title": "Hasbro Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 4401
+        },
+        {
+          "id": 9637,
+          "symbol": "DNKN",
+          "title": "Dunkin Donuts",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 4966
+        },
+        {
+          "id": 13034,
+          "symbol": "SELB",
+          "title": "Selecta Biosciences",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 5724
+        },
+        {
+          "id": 14143,
+          "symbol": "LLIT",
+          "title": "Lianluo Smart Ltd",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 8623
+        },
+        {
+          "id": 14947,
+          "symbol": "LAIX",
+          "title": "LAIX Inc",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 384
+        }
+      ],
+      "links": [
+        {
+          "title": "Mid-Morning Market Update: Markets Open Lower; Hasbro Reports Upbeat Profit",
+          "url": "https://newsfilter.io/a/05615731f99d42afaf6ffb25dc75e5f9",
+          "shortened_url": "https://newsfilter.io/a/05615731f99d42afaf6ffb25dc75e5f9",
+          "shortened_expanded_url": "newsfilter.io/a/05615731f99...",
+          "description": "Following the market opening Monday, the Dow traded down 1.33% to 27957.65 while the NASDAQ fell 0.17% to 11529.00. The S&P also fell, dropping 0.92% to 3,433.47. The U.S. has the highest number of coronavirus cases and deaths in the world, reporting a total of 8,636,990 cases with around 225,...",
+          "image": "https://newsfilter.io/meta-images/?url=https://storage.googleapis.com/iex/api/logos/DNKN.png",
+          "created_at": "2020-10-26T14:22:58Z",
+          "video_url": null,
+          "source": {
+            "name": "Newsfilter",
+            "website": "https://newsfilter.io"
+          }
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          4155170
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 252500982,
+      "body": "$DNKN uh I lost money",
+      "created_at": "2020-10-26T14:22:49Z",
+      "user": {
+        "id": 1607362,
+        "username": "organica7",
+        "name": "Jeff",
+        "avatar_url": "https://avatars.stocktwits.com/production/1607362/thumb-1602374995.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1607362/thumb-1602374995.png",
+        "join_date": "2018-09-12",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 50,
+        "following": 43,
+        "ideas": 2770,
+        "watchlist_stocks_count": 300,
+        "like_count": 271,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 9637,
+          "symbol": "DNKN",
+          "title": "Dunkin Donuts",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 4966
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          3288730
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_252500982.png",
+          "large": "https://charts.stocktwits.com/production/large_252500982.png",
+          "original": "https://charts.stocktwits.com/production/original_252500982.png",
+          "url": "https://charts.stocktwits.com/production/original_252500982.png"
+        },
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 252500512,
+      "body": "$DNKN 105 target",
+      "created_at": "2020-10-26T14:21:14Z",
+      "user": {
+        "id": 808961,
+        "username": "tony93",
+        "name": "Tony",
+        "avatar_url": "https://avatars.stocktwits.com/production/808961/thumb-1574100456.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/808961/thumb-1574100456.png",
+        "join_date": "2016-08-01",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 438,
+        "following": 421,
+        "ideas": 10307,
+        "watchlist_stocks_count": 300,
+        "like_count": 124,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 9637,
+          "symbol": "DNKN",
+          "title": "Dunkin Donuts",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 4966
+        }
+      ],
+      "likes": {
+        "total": 3,
+        "user_ids": [
+          647889,
+          4235963,
+          1286656
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 252500443,
+      "body": "$DNKN: Instead of being &quot;time to make the doughnuts,&quot; maybe it&#39;s time to make a deal $MCD https://www.briefing.com/#IN20201026101836DNKN",
+      "created_at": "2020-10-26T14:21:00Z",
+      "user": {
+        "id": 8115,
+        "username": "briefingcom",
+        "name": "Briefingcom",
+        "avatar_url": "https://avatars.stocktwits.com/production/8115/thumb-1340802633.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/8115/thumb-1340802633.png",
+        "join_date": "2010-01-25",
+        "official": true,
+        "identity": "Official",
+        "classification": [
+          "official"
+        ],
+        "followers": 85622,
+        "following": 819,
+        "ideas": 79016,
+        "watchlist_stocks_count": 8,
+        "like_count": 66,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 6245,
+          "symbol": "MCD",
+          "title": "McDonald's Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 26996
+        },
+        {
+          "id": 9637,
+          "symbol": "DNKN",
+          "title": "Dunkin Donuts",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 4966
+        }
+      ],
+      "links": [
+        {
+          "title": "Briefing.com",
+          "url": "https://www.briefing.com/#IN20201026101836DNKN",
+          "shortened_url": "https://www.briefing.com/#IN20201026101836DNKN",
+          "shortened_expanded_url": "briefing.com/",
+          "description": "Futures are perking up this Friday morning, poised to make an attempt to rally out of its eight day pullback off the October highs. On days like this, the TA Scans table comes in very handy to find quality set-ups.Given the broader market's pullback, the actually results from the Pullback Long candidates are all fair game.",
+          "image": null,
+          "created_at": "2020-10-26T14:21:01Z",
+          "video_url": null,
+          "source": {
+            "name": "Briefing",
+            "website": "https://www.briefing.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 252500255,
+      "body": "$DNKN nice bounce off the lows",
+      "created_at": "2020-10-26T14:20:25Z",
+      "user": {
+        "id": 808961,
+        "username": "tony93",
+        "name": "Tony",
+        "avatar_url": "https://avatars.stocktwits.com/production/808961/thumb-1574100456.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/808961/thumb-1574100456.png",
+        "join_date": "2016-08-01",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 438,
+        "following": 421,
+        "ideas": 10307,
+        "watchlist_stocks_count": 300,
+        "like_count": 124,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 9637,
+          "symbol": "DNKN",
+          "title": "Dunkin Donuts",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 4966
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 252500112,
+      "body": "$DNKN Learn to wait for the perfect timing bulls",
+      "created_at": "2020-10-26T14:19:54Z",
+      "user": {
+        "id": 4206643,
+        "username": "youknowthedrill",
+        "name": "brim",
+        "avatar_url": "https://avatars.stocktwits.com/production/4206643/thumb-1603122133.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/4206643/thumb-1603122133.png",
+        "join_date": "2020-10-19",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 1,
+        "following": 6,
+        "ideas": 4,
+        "watchlist_stocks_count": 10,
+        "like_count": 4,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 9637,
+          "symbol": "DNKN",
+          "title": "Dunkin Donuts",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 4966
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 252500112,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          4154963
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 252500055,
+      "body": "$SBUX we don\u2019t get bought out we buy other companies out $DNKN",
+      "created_at": "2020-10-26T14:19:43Z",
+      "user": {
+        "id": 2259537,
+        "username": "hotdips",
+        "name": "Mark",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2019-08-15",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 7,
+        "following": 87,
+        "ideas": 30,
+        "watchlist_stocks_count": 20,
+        "like_count": 55,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 3465,
+          "symbol": "SBUX",
+          "title": "Starbucks Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 80756
+        },
+        {
+          "id": 9637,
+          "symbol": "DNKN",
+          "title": "Dunkin Donuts",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 4966
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 252498993,
+      "body": "$DNKN Dunkin Brands Group, Inc. (NASDAQ:DNKN) is one of the most actively traded stocks in the current Pre Market session. It is currently trading at $104.62",
+      "created_at": "2020-10-26T14:16:26Z",
+      "user": {
+        "id": 4074780,
+        "username": "Tickerupdates",
+        "name": "Tickerupdates",
+        "avatar_url": "https://avatars.stocktwits.com/production/4074780/thumb-1600196653.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/4074780/thumb-1600196653.png",
+        "join_date": "2020-09-15",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 0,
+        "following": 0,
+        "ideas": 11,
+        "watchlist_stocks_count": 0,
+        "like_count": 0,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 9637,
+          "symbol": "DNKN",
+          "title": "Dunkin Donuts",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 4906
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 252498804,
+      "body": "$DNKN 6 mill in volume is crazy for Dunkin",
+      "created_at": "2020-10-26T14:15:52Z",
+      "user": {
+        "id": 1130017,
+        "username": "ImWolfie",
+        "name": "Dalba",
+        "avatar_url": "https://avatars.stocktwits.com/production/1130017/thumb-1591310804.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1130017/thumb-1591310804.png",
+        "join_date": "2017-07-19",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 23,
+        "following": 8,
+        "ideas": 856,
+        "watchlist_stocks_count": 15,
+        "like_count": 148,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 9637,
+          "symbol": "DNKN",
+          "title": "Dunkin Donuts",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 4906
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 252498655,
+      "body": "$DNKN going to get a iced coffee",
+      "created_at": "2020-10-26T14:15:25Z",
+      "user": {
+        "id": 1130017,
+        "username": "ImWolfie",
+        "name": "Dalba",
+        "avatar_url": "https://avatars.stocktwits.com/production/1130017/thumb-1591310804.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1130017/thumb-1591310804.png",
+        "join_date": "2017-07-19",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 23,
+        "following": 8,
+        "ideas": 856,
+        "watchlist_stocks_count": 15,
+        "like_count": 148,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 9637,
+          "symbol": "DNKN",
+          "title": "Dunkin Donuts",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 4966
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          3421694
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 252498595,
+      "body": "$DNKN nobody should be bearish on this company js",
+      "created_at": "2020-10-26T14:15:14Z",
+      "user": {
+        "id": 1452854,
+        "username": "Its_ID",
+        "name": "Andres Dominguez",
+        "avatar_url": "https://avatars.stocktwits.com/production/1452854/thumb-1603655255.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1452854/thumb-1603655255.png",
+        "join_date": "2018-03-22",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 14,
+        "following": 10,
+        "ideas": 830,
+        "watchlist_stocks_count": 9,
+        "like_count": 2246,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 9637,
+          "symbol": "DNKN",
+          "title": "Dunkin Donuts",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 4906
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 252498404,
+      "body": "$DNKN How is this higher than $SBUX? I dont get it.",
+      "created_at": "2020-10-26T14:14:39Z",
+      "user": {
+        "id": 693739,
+        "username": "starfire",
+        "name": "Starfire",
+        "avatar_url": "https://avatars.stocktwits.com/production/693739/thumb-1456936703.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/693739/thumb-1456936703.png",
+        "join_date": "2016-02-23",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 301,
+        "following": 224,
+        "ideas": 16739,
+        "watchlist_stocks_count": 171,
+        "like_count": 8439,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 3465,
+          "symbol": "SBUX",
+          "title": "Starbucks Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 80756
+        },
+        {
+          "id": 9637,
+          "symbol": "DNKN",
+          "title": "Dunkin Donuts",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 4966
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 252498404,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          1452854
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 252498035,
+      "body": "$DNKN $AAPL $TSLA $TQQQ $SQQQ \nWeekly Stock Watchlist:",
+      "created_at": "2020-10-26T14:13:37Z",
+      "user": {
+        "id": 3965575,
+        "username": "VelocityStockNetwork",
+        "name": "VelocityStockNetwork",
+        "avatar_url": "https://avatars.stocktwits.com/production/3965575/thumb-1597681690.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3965575/thumb-1597681690.png",
+        "join_date": "2020-08-17",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 14,
+        "following": 1,
+        "ideas": 260,
+        "watchlist_stocks_count": 5,
+        "like_count": 88,
+        "plus_tier": "year",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 686,
+          "symbol": "AAPL",
+          "title": "Apple Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 521779
+        },
+        {
+          "id": 8227,
+          "symbol": "SQQQ",
+          "title": "ProShares UltraPro Short QQQ",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 18126
+        },
+        {
+          "id": 8233,
+          "symbol": "TQQQ",
+          "title": "ProShares UltraPro QQQ",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 17224
+        },
+        {
+          "id": 8660,
+          "symbol": "TSLA",
+          "title": "Tesla, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 467326
+        },
+        {
+          "id": 9637,
+          "symbol": "DNKN",
+          "title": "Dunkin Donuts",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 4906
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 252497220,
+      "body": "$DNKN like Bulls they are giving you an opportunity such like this!",
+      "created_at": "2020-10-26T14:11:14Z",
+      "user": {
+        "id": 4155189,
+        "username": "flvtkjhrwo619",
+        "name": "flvtkj hrwo",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2020-10-07",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 0,
+        "following": 0,
+        "ideas": 1,
+        "watchlist_stocks_count": 0,
+        "like_count": 0,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 9637,
+          "symbol": "DNKN",
+          "title": "Dunkin Donuts",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 4906
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 252496984,
+      "body": "$DNKN Shorts woke up early to cover today...another day of possible uptrend. This might be the best time to read the potential of these companies. Take a peek Dc on profile.http://psce.pw/ECommerceCouldBoom",
+      "created_at": "2020-10-26T14:10:33Z",
+      "user": {
+        "id": 4225010,
+        "username": "exsamme",
+        "name": "exsamme",
+        "avatar_url": "https://avatars.stocktwits.com/production/4225010/thumb-1603452877.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/4225010/thumb-1603452877.png",
+        "join_date": "2020-10-23",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 1,
+        "following": 4,
+        "ideas": 11,
+        "watchlist_stocks_count": 100,
+        "like_count": 4,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 9637,
+          "symbol": "DNKN",
+          "title": "Dunkin Donuts",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 4906
+        }
+      ],
+      "links": [
+        {
+          "title": "Slipping Under The Radar Companies With BreakOut Potential. Daily News See Here",
+          "url": "http://psce.pw/ECommerceCouldBoom",
+          "shortened_url": "http://psce.pw/ECommerceCouldBoom",
+          "shortened_expanded_url": "researchdrivennews.com/trac...",
+          "description": "With the global e-commerce boom showing no signs of slowing, it's creating BIG opportunity for severely undervalued Logiq Inc. ( STOCK:LGIQ). In fact, trading with a market cap of approx. $93 million, LGIQ is growing FAST in the $6.5 trillion global e-commerce market(1), and the $4.3 trillion mobile commerce market.(2) The very same markets that drove: Shopify from approx.",
+          "image": "https://researchdrivennews.com/wp-content/uploads/sites/14/2020/07/cropped-6.jpg",
+          "created_at": "2020-10-26T14:10:33Z",
+          "video_url": null,
+          "source": {
+            "name": "Research Driven News",
+            "website": "https://researchdrivennews.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 252496529,
+      "body": "\ud83c\udf69 | $DNKN  \u2615\ufe0f | $SBUX \nDunkin&#39; stock soars after chain confirms sale talks with Inspire Brands https://www.cnbc.com/2020/10/26/dunkin-stock-soars-18percent-after-chain-confirms-sale-talks-with-inspire-brands.html?__source=iosappshare%7Ccom.apple.UIKit.activity.CopyToPasteboard",
+      "created_at": "2020-10-26T14:09:17Z",
+      "user": {
+        "id": 1653746,
+        "username": "askprofprofit",
+        "name": "Professor Profit",
+        "avatar_url": "https://avatars.stocktwits.com/production/1653746/thumb-1601662093.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1653746/thumb-1601662093.png",
+        "join_date": "2018-10-10",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 4140,
+        "following": 1813,
+        "ideas": 16035,
+        "watchlist_stocks_count": 209,
+        "like_count": 3489,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 3465,
+          "symbol": "SBUX",
+          "title": "Starbucks Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 80756
+        },
+        {
+          "id": 9637,
+          "symbol": "DNKN",
+          "title": "Dunkin Donuts",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 4906
+        }
+      ],
+      "links": [
+        {
+          "title": "Dunkin' stock soars 18% after chain confirms sale talks with Inspire Brands",
+          "url": "https://www.cnbc.com/2020/10/26/dunkin-stock-soars-18percent-after-chain-confirms-sale-talks-with-inspire-brands.html?__source=iosappshare%7Ccom.apple.UIKit.activity.CopyToPasteboard",
+          "shortened_url": "https://www.cnbc.com/2020/10/26/dunkin-stock-soars-18percent-after-chain-confirms-sale-talks-with-inspire-brands.html?__source=iosappshare%7Ccom.apple.UIKit.activity.CopyToPasteboard",
+          "shortened_expanded_url": "cnbc.com/2020/10/26/dunkin-...",
+          "description": "Shares of Dunkin' surged 18% in premarket trading after the company confirmed sale talks with Inspire Brands, the privately held owner of Arby's and Jimmy John's. The New York Times, which broke the news of the discussions, reported that the deal is valued at $8.8 billion, or $106.50 per share.",
+          "image": "https://image.cnbcfm.com/api/v1/image/106761420-1603716002948-gettyimages-1261798553-nng_3071_2020072830813471.jpeg?v=1603716040",
+          "created_at": "2020-10-26T14:09:17Z",
+          "video_url": null,
+          "source": {
+            "name": "CNBC",
+            "website": "https://www.cnbc.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_252496529.png",
+          "large": "https://charts.stocktwits.com/production/large_252496529.png",
+          "original": "https://charts.stocktwits.com/production/original_252496529.png",
+          "url": "https://charts.stocktwits.com/production/original_252496529.png"
+        },
+        "sentiment": null
+      }
+    },
+    {
+      "id": 252496173,
+      "body": "$DNKN omgggg yes. earnings are gonna top this baby off too",
+      "created_at": "2020-10-26T14:08:12Z",
+      "user": {
+        "id": 3674989,
+        "username": "monkeyexplosion",
+        "name": "Barry",
+        "avatar_url": "https://avatars.stocktwits.com/production/3674989/thumb-1592930218.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3674989/thumb-1592930218.png",
+        "join_date": "2020-06-23",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 1,
+        "following": 0,
+        "ideas": 93,
+        "watchlist_stocks_count": 1,
+        "like_count": 120,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 9637,
+          "symbol": "DNKN",
+          "title": "Dunkin Donuts",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 4966
+        }
+      ],
+      "likes": {
+        "total": 2,
+        "user_ids": [
+          4155170,
+          4206643
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 252496096,
+      "body": "$DNKN Return On Capital Employed Overview: Dunkin Brands Group \n\nhttps://newsfilter.io/a/124250f9fbe50f85c152fd749718e3f2",
+      "created_at": "2020-10-26T14:07:58Z",
+      "user": {
+        "id": 2762379,
+        "username": "Newsfilter",
+        "name": "@newsfilterio",
+        "avatar_url": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "join_date": "2019-09-01",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 7442,
+        "following": 16,
+        "ideas": 587699,
+        "watchlist_stocks_count": 1,
+        "like_count": 531,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 9637,
+          "symbol": "DNKN",
+          "title": "Dunkin Donuts",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 4906
+        }
+      ],
+      "links": [
+        {
+          "title": "Return On Capital Employed Overview: Dunkin Brands Group",
+          "url": "https://newsfilter.io/a/124250f9fbe50f85c152fd749718e3f2",
+          "shortened_url": "https://newsfilter.io/a/124250f9fbe50f85c152fd749718e3f2",
+          "shortened_expanded_url": "newsfilter.io/a/124250f9fbe...",
+          "description": "Looking at Q2, Dunkin Brands Group (NASDAQ: DNKN) earned $77.17 million, a 20.42% increase from the preceding quarter. Dunkin Brands Group's sales decreased to $287.38 million, a 11.07% change since Q1. Dunkin Brands Group earned $96.98 million, and sales totaled $323.14 million in Q1.",
+          "image": "https://newsfilter.io/meta-images/?url=https://storage.googleapis.com/iex/api/logos/DNKN.png",
+          "created_at": "2020-10-26T14:07:58Z",
+          "video_url": null,
+          "source": {
+            "name": "Newsfilter",
+            "website": "https://newsfilter.io"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 252495982,
+      "body": "$DNKN",
+      "created_at": "2020-10-26T14:07:39Z",
+      "user": {
+        "id": 3653030,
+        "username": "Seankap07",
+        "name": "Sean Kaplan",
+        "avatar_url": "https://avatars.stocktwits.com/production/3653030/thumb-1594999124.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3653030/thumb-1594999124.png",
+        "join_date": "2020-06-19",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 3,
+        "following": 77,
+        "ideas": 77,
+        "watchlist_stocks_count": 9,
+        "like_count": 253,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 9637,
+          "symbol": "DNKN",
+          "title": "Dunkin Donuts",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 4906
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          4155170
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "giphy": {
+          "id": "l0HU7yHIK6Nc3WcE0"
+        },
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 252494581,
+      "body": "$DNKN \nIf you got the #CheatAlgo \nYou rode this baby for the past 10 days!\nLet&#39;s go!\nLink in profile!",
+      "created_at": "2020-10-26T14:03:37Z",
+      "user": {
+        "id": 4086351,
+        "username": "CheatcodeALGO",
+        "name": "Cheat Code",
+        "avatar_url": "https://avatars.stocktwits.com/production/4086351/thumb-1600917554.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/4086351/thumb-1600917554.png",
+        "join_date": "2020-09-18",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 135,
+        "following": 3,
+        "ideas": 75,
+        "watchlist_stocks_count": 133,
+        "like_count": 34,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2095,
+        "title": "StockTwits For Android ",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 9637,
+          "symbol": "DNKN",
+          "title": "Dunkin Donuts",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 4906
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          4155170
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_252494581.png",
+          "large": "https://charts.stocktwits.com/production/large_252494581.png",
+          "original": "https://charts.stocktwits.com/production/original_252494581.png",
+          "url": "https://charts.stocktwits.com/production/original_252494581.png"
+        },
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,2200 @@
+{
+  "response": {
+    "status": 200
+  },
+  "symbol": {
+    "id": 6183,
+    "symbol": "LLY",
+    "title": "Eli Lilly & Co.",
+    "aliases": [],
+    "is_following": false,
+    "watchlist_count": 7208
+  },
+  "cursor": {
+    "more": true,
+    "since": 252708446,
+    "max": 252691070
+  },
+  "messages": [
+    {
+      "id": 252708446,
+      "body": "$LLY - Short if below 134.02 - Stop 135.40",
+      "created_at": "2020-10-27T13:39:53Z",
+      "user": {
+        "id": 4184251,
+        "username": "GLMSTOCKSIGNALS",
+        "name": "glmstocksignalscom",
+        "avatar_url": "https://avatars.stocktwits.com/production/4184251/thumb-1603368932.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/4184251/thumb-1603368932.png",
+        "join_date": "2020-10-14",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 5,
+        "following": 0,
+        "ideas": 33,
+        "watchlist_stocks_count": 0,
+        "like_count": 0,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 6183,
+          "symbol": "LLY",
+          "title": "Eli Lilly & Co.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 7208
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bearish"
+        }
+      }
+    },
+    {
+      "id": 252705856,
+      "body": "$LLY NEW ARTICLE : Eli Lilly CEO Says Science Will Win in Covid Fight https://www.stck.pro/news/LLY/8776162",
+      "created_at": "2020-10-27T13:31:57Z",
+      "user": {
+        "id": 1555408,
+        "username": "STCKPRO",
+        "name": "STCK.PRO",
+        "avatar_url": "https://avatars.stocktwits.com/production/1555408/thumb-1576077822.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1555408/thumb-1576077822.png",
+        "join_date": "2018-07-24",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 4333,
+        "following": 2,
+        "ideas": 259963,
+        "watchlist_stocks_count": 18,
+        "like_count": 52,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5011,
+        "title": "STCK.PRO",
+        "url": "https://dashboard.stck.pro"
+      },
+      "symbols": [
+        {
+          "id": 6183,
+          "symbol": "LLY",
+          "title": "Eli Lilly & Co.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 7196
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 252705856,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "links": [
+        {
+          "title": "Eli Lilly and Company (LLY)",
+          "url": "https://www.stck.pro/news/LLY/8776162",
+          "shortened_url": "https://www.stck.pro/news/LLY/8776162",
+          "shortened_expanded_url": "stck.pro/news/LLY",
+          "description": "Never miss an important article again, stay on top of your investments and become a better investor today! Get your moat on and sync your watchlist with Stocktwits and get all the latest news for your symbols. Sync with Stocktwits",
+          "image": "https://www.stck.pro/img/imac.png",
+          "created_at": "2020-10-27T13:31:58Z",
+          "video_url": null,
+          "source": {
+            "name": "Stck",
+            "website": "https://www.stck.pro"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_252705856.jpg",
+          "large": "https://charts.stocktwits.com/production/large_252705856.jpg",
+          "original": "https://charts.stocktwits.com/production/original_252705856.jpg",
+          "url": "https://charts.stocktwits.com/production/original_252705856.jpg"
+        },
+        "sentiment": null
+      }
+    },
+    {
+      "id": 252705563,
+      "body": "Shorts: $LLY $CAT $NVAX $SWK $CHGG",
+      "created_at": "2020-10-27T13:30:55Z",
+      "user": {
+        "id": 214026,
+        "username": "NDX100",
+        "name": "Playbook Trading",
+        "avatar_url": "https://avatars.stocktwits.com/production/214026/thumb-1562858198.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/214026/thumb-1562858198.png",
+        "join_date": "2013-02-11",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 2053,
+        "following": 21,
+        "ideas": 7751,
+        "watchlist_stocks_count": 0,
+        "like_count": 484,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 2924,
+          "symbol": "NVAX",
+          "title": "Novavax, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 68014
+        },
+        {
+          "id": 4656,
+          "symbol": "CAT",
+          "title": "Caterpillar Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 21857
+        },
+        {
+          "id": 6183,
+          "symbol": "LLY",
+          "title": "Eli Lilly & Co.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 7196
+        },
+        {
+          "id": 7320,
+          "symbol": "SWK",
+          "title": "Stanley Black & Decker, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1258
+        },
+        {
+          "id": 8813,
+          "symbol": "CHGG",
+          "title": "Chegg",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 9307
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bearish"
+        }
+      }
+    },
+    {
+      "id": 252705326,
+      "body": "$REGN $LLY \n\nDoes the Lily failure in hospitalized mean that REGN has a massive opportunity or that it will be a dog also? \n\nI guess the market will tell us",
+      "created_at": "2020-10-27T13:30:02Z",
+      "user": {
+        "id": 84223,
+        "username": "kenbkb",
+        "name": "Ken Novak",
+        "avatar_url": "https://avatars.stocktwits.com/production/84223/thumb-1392061746.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/84223/thumb-1392061746.png",
+        "join_date": "2011-06-11",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 100,
+        "following": 24,
+        "ideas": 12086,
+        "watchlist_stocks_count": 65,
+        "like_count": 1481,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 3356,
+          "symbol": "REGN",
+          "title": "Regeneron Pharmaceuticals, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 13999
+        },
+        {
+          "id": 6183,
+          "symbol": "LLY",
+          "title": "Eli Lilly & Co.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 7196
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 252705079,
+      "body": "$LLY NEW ARTICLE : Eli Lilly still confident in benefits of Covid antibody treatment despite end to hospital study https://www.stck.pro/news/LLY/8776114",
+      "created_at": "2020-10-27T13:29:05Z",
+      "user": {
+        "id": 1555408,
+        "username": "STCKPRO",
+        "name": "STCK.PRO",
+        "avatar_url": "https://avatars.stocktwits.com/production/1555408/thumb-1576077822.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1555408/thumb-1576077822.png",
+        "join_date": "2018-07-24",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 4332,
+        "following": 2,
+        "ideas": 259797,
+        "watchlist_stocks_count": 18,
+        "like_count": 52,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5011,
+        "title": "STCK.PRO",
+        "url": "https://dashboard.stck.pro"
+      },
+      "symbols": [
+        {
+          "id": 6183,
+          "symbol": "LLY",
+          "title": "Eli Lilly & Co.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 7196
+        }
+      ],
+      "links": [
+        {
+          "title": "Eli Lilly and Company (LLY)",
+          "url": "https://www.stck.pro/news/LLY/8776114",
+          "shortened_url": "https://www.stck.pro/news/LLY/8776114",
+          "shortened_expanded_url": "stck.pro/news/LLY",
+          "description": "Never miss an important article again, stay on top of your investments and become a better investor today! Get your moat on and sync your watchlist with Stocktwits and get all the latest news for your symbols. Sync with Stocktwits",
+          "image": "https://www.stck.pro/img/imac.png",
+          "created_at": "2020-10-27T13:29:06Z",
+          "video_url": null,
+          "source": {
+            "name": "Stck",
+            "website": "https://www.stck.pro"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_252705079.jpg",
+          "large": "https://charts.stocktwits.com/production/large_252705079.jpg",
+          "original": "https://charts.stocktwits.com/production/original_252705079.jpg",
+          "url": "https://charts.stocktwits.com/production/original_252705079.jpg"
+        },
+        "sentiment": null
+      }
+    },
+    {
+      "id": 252704867,
+      "body": "CORRECTION  $TWLO $LLY",
+      "created_at": "2020-10-27T13:28:09Z",
+      "user": {
+        "id": 2864955,
+        "username": "TACOMASTERS",
+        "name": "TACOMASTERS",
+        "avatar_url": "https://avatars.stocktwits.com/production/2864955/thumb-1593165454.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2864955/thumb-1593165454.png",
+        "join_date": "2019-10-16",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 73,
+        "following": 17,
+        "ideas": 3021,
+        "watchlist_stocks_count": 1,
+        "like_count": 1886,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 6183,
+          "symbol": "LLY",
+          "title": "Eli Lilly & Co.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 7196
+        },
+        {
+          "id": 11489,
+          "symbol": "TWLO",
+          "title": "Twilio",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 35357
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          1488741
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 252704348,
+      "body": "Favs: $EXAS over 113, $HOG over 32.25, $LRN over 32, $LLY under 134.50! Liking $SQ as well...preferred it over $112...but still viable long...",
+      "created_at": "2020-10-27T13:26:09Z",
+      "user": {
+        "id": 446007,
+        "username": "ScalpMaster",
+        "name": "Jared Wesley",
+        "avatar_url": "https://avatars.stocktwits.com/production/446007/thumb-1476743436.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/446007/thumb-1476743436.png",
+        "join_date": "2015-01-06",
+        "official": false,
+        "identity": "User",
+        "classification": [
+          "suggested"
+        ],
+        "followers": 47168,
+        "following": 24,
+        "ideas": 8340,
+        "watchlist_stocks_count": 0,
+        "like_count": 976,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 1805,
+          "symbol": "EXAS",
+          "title": "Exact Sciences Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 8695
+        },
+        {
+          "id": 5706,
+          "symbol": "HOG",
+          "title": "Harley-Davidson, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 4046
+        },
+        {
+          "id": 6183,
+          "symbol": "LLY",
+          "title": "Eli Lilly & Co.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 7196
+        },
+        {
+          "id": 6200,
+          "symbol": "LRN",
+          "title": "K12, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 2549
+        },
+        {
+          "id": 7991,
+          "symbol": "SQ",
+          "title": "Square",
+          "aliases": [
+            "SQUARE"
+          ],
+          "is_following": false,
+          "watchlist_count": 106708
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 252704348,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "likes": {
+        "total": 10,
+        "user_ids": [
+          3650654,
+          3404678,
+          3971664,
+          3566398,
+          4065607,
+          3996798,
+          3683203,
+          3750620,
+          3260089,
+          4239340
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 252704071,
+      "body": "$LLY. nice achievement bulls it&#39;s so big and wonderful",
+      "created_at": "2020-10-27T13:24:59Z",
+      "user": {
+        "id": 4165576,
+        "username": "JamisonCleveland",
+        "name": "Jamison Cleveland",
+        "avatar_url": "https://avatars.stocktwits.com/production/4165576/thumb-1602252502.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/4165576/thumb-1602252502.png",
+        "join_date": "2020-10-09",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 0,
+        "following": 3,
+        "ideas": 4,
+        "watchlist_stocks_count": 15,
+        "like_count": 4,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 6183,
+          "symbol": "LLY",
+          "title": "Eli Lilly & Co.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 7196
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 252703626,
+      "body": "$LLY This is what I want. Let&#39;s keep this thing.",
+      "created_at": "2020-10-27T13:23:12Z",
+      "user": {
+        "id": 4155170,
+        "username": "ciqyrpnbsqurscq999",
+        "name": "ciqyrpn bsqurscq",
+        "avatar_url": "https://avatars.stocktwits.com/production/4155170/thumb-1603721667.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/4155170/thumb-1603721667.png",
+        "join_date": "2020-10-07",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 2,
+        "following": 72,
+        "ideas": 33,
+        "watchlist_stocks_count": 0,
+        "like_count": 186,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 6183,
+          "symbol": "LLY",
+          "title": "Eli Lilly & Co.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 7196
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 252701404,
+      "body": "$LLY Fight Bulls! those bears are just playing around..don&#39;t mind them  Do you think Bulls would like this idea? Check this out:  https://shr.link/EVMarketUnderPressure check DC on my Profile",
+      "created_at": "2020-10-27T13:13:19Z",
+      "user": {
+        "id": 4155170,
+        "username": "ciqyrpnbsqurscq999",
+        "name": "ciqyrpn bsqurscq",
+        "avatar_url": "https://avatars.stocktwits.com/production/4155170/thumb-1603721667.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/4155170/thumb-1603721667.png",
+        "join_date": "2020-10-07",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 2,
+        "following": 72,
+        "ideas": 33,
+        "watchlist_stocks_count": 0,
+        "like_count": 186,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 6183,
+          "symbol": "LLY",
+          "title": "Eli Lilly & Co.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 7196
+        }
+      ],
+      "links": [
+        {
+          "title": "Here Is Why Lithium A Hunted Mineral That Could Be The Next Gen Of Multi Millionaire Potentials. EV market Driving Up Demand!",
+          "url": "https://shr.link/EVMarketUnderPressure",
+          "shortened_url": "https://shr.link/EVMarketUnderPressure",
+          "shortened_expanded_url": "shr.link/EVMarketUnderPressure",
+          "description": "Here Is Why Lithium A Hunted Mineral That Could Be The Next Gen Of Multi Millionaire Potentials. EV market Driving Up Demand!",
+          "image": "https://shr.link/upload/fb_EVMarketUnderPressure_c7t.jpeg",
+          "created_at": "2020-10-27T13:13:19Z",
+          "video_url": null,
+          "source": {
+            "name": "Shr",
+            "website": "https://shr.link"
+          }
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          4165576
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 252701387,
+      "body": "Premarket losers \n$LLY $CHGG $SEDG $CAT $CNC  \n \nTrack today&#39;s losers. Live scans start 930am ET \nstockbeep.com/prelose-oct27",
+      "created_at": "2020-10-27T13:13:14Z",
+      "user": {
+        "id": 1572122,
+        "username": "Stockbeep_Scanner",
+        "name": "stockbeep.com",
+        "avatar_url": "https://avatars.stocktwits.com/production/1572122/thumb-1543837039.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1572122/thumb-1543837039.png",
+        "join_date": "2018-08-10",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 4243,
+        "following": 11,
+        "ideas": 7724,
+        "watchlist_stocks_count": 0,
+        "like_count": 43,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1022,
+        "title": "Zapier",
+        "url": "https://zapier.com/"
+      },
+      "symbols": [
+        {
+          "id": 4656,
+          "symbol": "CAT",
+          "title": "Caterpillar Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 21857
+        },
+        {
+          "id": 4781,
+          "symbol": "CNC",
+          "title": "Centene Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 2476
+        },
+        {
+          "id": 6183,
+          "symbol": "LLY",
+          "title": "Eli Lilly & Co.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 7196
+        },
+        {
+          "id": 8813,
+          "symbol": "CHGG",
+          "title": "Chegg",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 9307
+        },
+        {
+          "id": 12491,
+          "symbol": "SEDG",
+          "title": "SolarEdge Technologies",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 9007
+        }
+      ],
+      "links": [
+        {
+          "title": "Stock Scanner | Track today's losers - live from 930am EST",
+          "url": "stockbeep.com/prelose-oct27",
+          "shortened_url": "stockbeep.com/prelose-oct27",
+          "shortened_expanded_url": "stockbeep.com/rdprelose.html",
+          "description": "New Lows | Gap Down | Breakdowns | Unusual Volume Losers",
+          "image": "https://stockbeep.com/images/twitter/us/today-losers.png",
+          "created_at": "2020-10-27T13:13:16Z",
+          "video_url": null,
+          "source": {
+            "name": "Stockbeep",
+            "website": "https://stockbeep.com"
+          }
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          4155170
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 252699694,
+      "body": "$XLNX $HOG $SHOP $UPS $LLY options gappers and crappers",
+      "created_at": "2020-10-27T13:05:36Z",
+      "user": {
+        "id": 669483,
+        "username": "RichHamiltonJr",
+        "name": "Rich",
+        "avatar_url": "https://avatars.stocktwits.com/production/669483/thumb-1510752999.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/669483/thumb-1510752999.png",
+        "join_date": "2016-01-13",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 3303,
+        "following": 87,
+        "ideas": 8552,
+        "watchlist_stocks_count": 58,
+        "like_count": 4086,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 4161,
+          "symbol": "XLNX",
+          "title": "Xilinx Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 8480
+        },
+        {
+          "id": 5706,
+          "symbol": "HOG",
+          "title": "Harley-Davidson, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 4046
+        },
+        {
+          "id": 6183,
+          "symbol": "LLY",
+          "title": "Eli Lilly & Co.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 7196
+        },
+        {
+          "id": 7577,
+          "symbol": "UPS",
+          "title": "United Parcel Service, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 13653
+        },
+        {
+          "id": 12560,
+          "symbol": "SHOP",
+          "title": "Shopify",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 71976
+        }
+      ],
+      "likes": {
+        "total": 4,
+        "user_ids": [
+          4125763,
+          3290522,
+          4155170,
+          3875214
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_252699694.png",
+          "large": "https://charts.stocktwits.com/production/large_252699694.png",
+          "original": "https://charts.stocktwits.com/production/original_252699694.png",
+          "url": "https://charts.stocktwits.com/production/original_252699694.png"
+        },
+        "sentiment": null
+      }
+    },
+    {
+      "id": 252699035,
+      "body": "$LLY Lilly profit hit by COVID-19 drug development costs, weak demand \n\nhttps://newsfilter.io/a/7d9457c93573b6445a32d966a702905b",
+      "created_at": "2020-10-27T13:02:37Z",
+      "user": {
+        "id": 2762379,
+        "username": "Newsfilter",
+        "name": "@newsfilterio",
+        "avatar_url": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "join_date": "2019-09-01",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 7460,
+        "following": 16,
+        "ideas": 589130,
+        "watchlist_stocks_count": 1,
+        "like_count": 531,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 6183,
+          "symbol": "LLY",
+          "title": "Eli Lilly & Co.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 7196
+        }
+      ],
+      "links": [
+        {
+          "title": "Lilly profit hit by COVID-19 drug development costs, weak demand",
+          "url": "https://newsfilter.io/a/7d9457c93573b6445a32d966a702905b",
+          "shortened_url": "https://newsfilter.io/a/7d9457c93573b6445a32d966a702905b",
+          "shortened_expanded_url": "newsfilter.io/a/7d9457c9357...",
+          "description": "(Reuters) - Eli Lilly and Co fell short of analysts' expectations for third-quarter profit on Tuesday due to increased costs to develop COVID-19 treatments and lower demand for some its medicines. Lilly is one of the handful of companies racing to develop a treatment for COVID-19 and has sought emergency use authorization for its antibody treatment for mild to moderate patients as well as its arthritis drug baricitinib.",
+          "image": "https://s4.reutersmedia.net/resources/r/?m=02&d=20201027&t=2&i=1538960916&&fh=&fw=&ll=&pl=&sq=&r=LYNXMPEG9Q0XU",
+          "created_at": "2020-10-27T13:02:38Z",
+          "video_url": null,
+          "source": {
+            "name": "Newsfilter",
+            "website": "https://newsfilter.io"
+          }
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          4155170
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 252698111,
+      "body": "$LLY NEW ARTICLE : Eli Lilly shares slump premarket after earnings miss https://www.stck.pro/news/LLY/8772767",
+      "created_at": "2020-10-27T12:58:22Z",
+      "user": {
+        "id": 1555408,
+        "username": "STCKPRO",
+        "name": "STCK.PRO",
+        "avatar_url": "https://avatars.stocktwits.com/production/1555408/thumb-1576077822.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1555408/thumb-1576077822.png",
+        "join_date": "2018-07-24",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 4335,
+        "following": 2,
+        "ideas": 259797,
+        "watchlist_stocks_count": 18,
+        "like_count": 52,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5011,
+        "title": "STCK.PRO",
+        "url": "https://dashboard.stck.pro"
+      },
+      "symbols": [
+        {
+          "id": 6183,
+          "symbol": "LLY",
+          "title": "Eli Lilly & Co.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 7196
+        }
+      ],
+      "links": [
+        {
+          "title": "Eli Lilly and Company (LLY)",
+          "url": "https://www.stck.pro/news/LLY/8772767",
+          "shortened_url": "https://www.stck.pro/news/LLY/8772767",
+          "shortened_expanded_url": "stck.pro/news/LLY",
+          "description": "Never miss an important article again, stay on top of your investments and become a better investor today! Get your moat on and sync your watchlist with Stocktwits and get all the latest news for your symbols. Sync with Stocktwits",
+          "image": "https://www.stck.pro/img/imac.png",
+          "created_at": "2020-10-27T12:58:24Z",
+          "video_url": null,
+          "source": {
+            "name": "Stck",
+            "website": "https://www.stck.pro"
+          }
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          4155170
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 252697668,
+      "body": "$LLY NEW ARTICLE : Lilly COVID-19 antibody treatment comes up empty in NIAID study https://www.stck.pro/news/LLY/8772788",
+      "created_at": "2020-10-27T12:56:06Z",
+      "user": {
+        "id": 1555408,
+        "username": "STCKPRO",
+        "name": "STCK.PRO",
+        "avatar_url": "https://avatars.stocktwits.com/production/1555408/thumb-1576077822.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1555408/thumb-1576077822.png",
+        "join_date": "2018-07-24",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 4335,
+        "following": 2,
+        "ideas": 259797,
+        "watchlist_stocks_count": 18,
+        "like_count": 52,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5011,
+        "title": "STCK.PRO",
+        "url": "https://dashboard.stck.pro"
+      },
+      "symbols": [
+        {
+          "id": 6183,
+          "symbol": "LLY",
+          "title": "Eli Lilly & Co.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 7196
+        }
+      ],
+      "links": [
+        {
+          "title": "Eli Lilly and Company (LLY)",
+          "url": "https://www.stck.pro/news/LLY/8772788",
+          "shortened_url": "https://www.stck.pro/news/LLY/8772788",
+          "shortened_expanded_url": "stck.pro/news/LLY",
+          "description": "Never miss an important article again, stay on top of your investments and become a better investor today! Get your moat on and sync your watchlist with Stocktwits and get all the latest news for your symbols. Sync with Stocktwits",
+          "image": "https://www.stck.pro/img/imac.png",
+          "created_at": "2020-10-27T12:56:08Z",
+          "video_url": null,
+          "source": {
+            "name": "Stck",
+            "website": "https://www.stck.pro"
+          }
+        }
+      ],
+      "likes": {
+        "total": 2,
+        "user_ids": [
+          4125763,
+          4155170
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 252696505,
+      "body": "Stocks Will Try To Advance On October 27 https://mottcapitalmanagement.com/stocks-will-try-to-advance-on-october-27/ $spy $amd $exas $lly $cat",
+      "created_at": "2020-10-27T12:49:53Z",
+      "user": {
+        "id": 945301,
+        "username": "Scorpio244",
+        "name": "Michael Kramer",
+        "avatar_url": "https://avatars.stocktwits.com/production/945301/thumb-1554139485.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/945301/thumb-1554139485.png",
+        "join_date": "2017-02-04",
+        "official": true,
+        "identity": "Official",
+        "classification": [
+          "suggested",
+          "official"
+        ],
+        "followers": 17631,
+        "following": 103,
+        "ideas": 10662,
+        "watchlist_stocks_count": 20,
+        "like_count": 149,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 1805,
+          "symbol": "EXAS",
+          "title": "Exact Sciences Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 8695
+        },
+        {
+          "id": 4331,
+          "symbol": "AMD",
+          "title": "Advanced Micro Devices, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 278412
+        },
+        {
+          "id": 4656,
+          "symbol": "CAT",
+          "title": "Caterpillar Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 21842
+        },
+        {
+          "id": 6183,
+          "symbol": "LLY",
+          "title": "Eli Lilly & Co.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 7196
+        },
+        {
+          "id": 7271,
+          "symbol": "SPY",
+          "title": "SPDR S&P 500",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 264032
+        }
+      ],
+      "links": [
+        {
+          "title": "Stocks Will Try To Advance On October 27",
+          "url": "https://mottcapitalmanagement.com/stocks-will-try-to-advance-on-october-27/",
+          "shortened_url": "https://mottcapitalmanagement.com/stocks-will-try-to-advance-on-october-27/",
+          "shortened_expanded_url": "mottcapitalmanagement.com/s...",
+          "description": "This column is my opinion and expresses my views. Those views can change at a moments notice when the market changes. I am not right all the time and I do not expect to be. I disclose all my positions clearly listed on the page, and I do not trade my account on the stocks spoken of in this column unless fully disclosed.",
+          "image": "https://i1.wp.com/mottcapitalmanagement.com/wp-content/uploads/2020/10/AdobeStock_309148936-1.png?fit=1200%2C800&ssl=1",
+          "created_at": "2020-10-27T12:49:56Z",
+          "video_url": null,
+          "source": {
+            "name": "Monster Stock Market Commentary",
+            "website": "https://mottcapitalmanagement.com"
+          }
+        }
+      ],
+      "likes": {
+        "total": 3,
+        "user_ids": [
+          4240048,
+          4155522,
+          4155170
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_252696505.png",
+          "large": "https://charts.stocktwits.com/production/large_252696505.png",
+          "original": "https://charts.stocktwits.com/production/original_252696505.png",
+          "url": "https://charts.stocktwits.com/production/original_252696505.png"
+        },
+        "sentiment": null
+      }
+    },
+    {
+      "id": 252696375,
+      "body": "$LLY  Let&#39;s finish this thing get back to work.",
+      "created_at": "2020-10-27T12:49:11Z",
+      "user": {
+        "id": 4155170,
+        "username": "ciqyrpnbsqurscq999",
+        "name": "ciqyrpn bsqurscq",
+        "avatar_url": "https://avatars.stocktwits.com/production/4155170/thumb-1603721667.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/4155170/thumb-1603721667.png",
+        "join_date": "2020-10-07",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 2,
+        "following": 55,
+        "ideas": 16,
+        "watchlist_stocks_count": 0,
+        "like_count": 136,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 6183,
+          "symbol": "LLY",
+          "title": "Eli Lilly & Co.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 7192
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 252696302,
+      "body": "Dow Rises, Caterpillar Falls, and Xilinx Soars  $XLNX $CAT $LVS $LLY $SIRI \n\nhttps://newsfilter.io/a/c0f63b89812c8ee2dede4a17c9e1fd16",
+      "created_at": "2020-10-27T12:48:51Z",
+      "user": {
+        "id": 2762379,
+        "username": "Newsfilter",
+        "name": "@newsfilterio",
+        "avatar_url": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "join_date": "2019-09-01",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 7460,
+        "following": 16,
+        "ideas": 588810,
+        "watchlist_stocks_count": 1,
+        "like_count": 531,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 3543,
+          "symbol": "SIRI",
+          "title": "SIRIUS XM Radio Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 17422
+        },
+        {
+          "id": 4161,
+          "symbol": "XLNX",
+          "title": "Xilinx Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 8480
+        },
+        {
+          "id": 4656,
+          "symbol": "CAT",
+          "title": "Caterpillar Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 21842
+        },
+        {
+          "id": 6183,
+          "symbol": "LLY",
+          "title": "Eli Lilly & Co.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 7192
+        },
+        {
+          "id": 6218,
+          "symbol": "LVS",
+          "title": "Las Vegas Sands Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 10649
+        }
+      ],
+      "links": [
+        {
+          "title": "Dow Rises, Caterpillar Falls, and Xilinx Soars",
+          "url": "https://newsfilter.io/a/c0f63b89812c8ee2dede4a17c9e1fd16",
+          "shortened_url": "https://newsfilter.io/a/c0f63b89812c8ee2dede4a17c9e1fd16",
+          "shortened_expanded_url": "newsfilter.io/a/c0f63b89812...",
+          "description": "Dow Rises, Caterpillar Falls, and Xilinx Soars: AMD and Las Vegas Sands are also in play Tuesday morning as the stock market tries to recover from Monday's selloff.",
+          "image": "https://images.barrons.com/im-197202?width=620&size=1.5",
+          "created_at": "2020-10-27T12:48:52Z",
+          "video_url": null,
+          "source": {
+            "name": "Newsfilter",
+            "website": "https://newsfilter.io"
+          }
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          4155170
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 252695471,
+      "body": "Wall Street set to rise after Monday&#39;s selloff as earnings take center stage  $LLY $MMM $CAT $AAPL $AMZN \n\nhttps://newsfilter.io/a/fe1fcc73cab5f6e8a99a6ac922819eb3",
+      "created_at": "2020-10-27T12:44:27Z",
+      "user": {
+        "id": 2762379,
+        "username": "Newsfilter",
+        "name": "@newsfilterio",
+        "avatar_url": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "join_date": "2019-09-01",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 7461,
+        "following": 16,
+        "ideas": 589063,
+        "watchlist_stocks_count": 1,
+        "like_count": 531,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 686,
+          "symbol": "AAPL",
+          "title": "Apple Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 522190
+        },
+        {
+          "id": 864,
+          "symbol": "AMZN",
+          "title": "Amazon.com Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 344517
+        },
+        {
+          "id": 4656,
+          "symbol": "CAT",
+          "title": "Caterpillar Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 21842
+        },
+        {
+          "id": 6183,
+          "symbol": "LLY",
+          "title": "Eli Lilly & Co.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 7192
+        },
+        {
+          "id": 6334,
+          "symbol": "MMM",
+          "title": "3M Co.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 16224
+        }
+      ],
+      "links": [
+        {
+          "title": "Wall Street set to rise after Monday's selloff as earnings take center stage",
+          "url": "https://newsfilter.io/a/fe1fcc73cab5f6e8a99a6ac922819eb3",
+          "shortened_url": "https://newsfilter.io/a/fe1fcc73cab5f6e8a99a6ac922819eb3",
+          "shortened_expanded_url": "newsfilter.io/a/fe1fcc73cab...",
+          "description": "(Reuters) - U.S. stock index futures edged higher on Tuesday following the benchmark S&P 500's worst day in a month as investors parsed through a deluge of corporate earnings, while bracing for volatility ahead of Election Day. Drugmaker Eli Lilly and Co fell 4% after it reported a fall in quarterly profit.",
+          "image": "https://s3.reutersmedia.net/resources/r/?m=02&d=20201027&t=2&i=1538961751&&fh=&fw=&ll=&pl=&sq=&r=LYNXMPEG9Q0Y7",
+          "created_at": "2020-10-27T12:44:28Z",
+          "video_url": null,
+          "source": {
+            "name": "Newsfilter",
+            "website": "https://newsfilter.io"
+          }
+        }
+      ],
+      "likes": {
+        "total": 4,
+        "user_ids": [
+          4235855,
+          4125763,
+          4155170,
+          4225346
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 252695453,
+      "body": "$LLY misses by $0.17, misses on revs; guides FY20 EPS in-line, revs in-line https://www.briefing.com/in-depth-analysis/Content/Article?ArticleId=IN20201027063452LLY",
+      "created_at": "2020-10-27T12:44:19Z",
+      "user": {
+        "id": 8115,
+        "username": "briefingcom",
+        "name": "Briefingcom",
+        "avatar_url": "https://avatars.stocktwits.com/production/8115/thumb-1340802633.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/8115/thumb-1340802633.png",
+        "join_date": "2010-01-25",
+        "official": true,
+        "identity": "Official",
+        "classification": [
+          "official"
+        ],
+        "followers": 85628,
+        "following": 819,
+        "ideas": 79094,
+        "watchlist_stocks_count": 8,
+        "like_count": 66,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 6183,
+          "symbol": "LLY",
+          "title": "Eli Lilly & Co.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 7192
+        }
+      ],
+      "links": [
+        {
+          "title": "Briefing.com",
+          "url": "https://www.briefing.com/in-depth-analysis/Content/Article?ArticleId=IN20201027063452LLY",
+          "shortened_url": "https://www.briefing.com/in-depth-analysis/Content/Article?ArticleId=IN20201027063452LLY",
+          "shortened_expanded_url": "briefing.com/in-depth-analy...",
+          "description": "LLY: Eli Lilly misses by $0.17, misses on revs; guides FY20 EPS in-line, revs in-line (141.70) Reports Q3 (Sep) earnings of $1.54 per share, $0.17 worse than the S&P Capital IQ Consensus of $1.71; revenues rose 4.8% year/year to $5.74 bln vs the $5.87 bln S&P Capital IQ Consensus.",
+          "image": null,
+          "created_at": "2020-10-27T12:44:19Z",
+          "video_url": null,
+          "source": {
+            "name": "Briefing",
+            "website": "https://www.briefing.com"
+          }
+        }
+      ],
+      "likes": {
+        "total": 2,
+        "user_ids": [
+          4125763,
+          4155170
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 252695406,
+      "body": "$LLY NEW ARTICLE : Lilly slips 5% on Q3 miss, GAAP EPS guidance lowered https://www.stck.pro/news/LLY/8772797",
+      "created_at": "2020-10-27T12:44:06Z",
+      "user": {
+        "id": 1555408,
+        "username": "STCKPRO",
+        "name": "STCK.PRO",
+        "avatar_url": "https://avatars.stocktwits.com/production/1555408/thumb-1576077822.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1555408/thumb-1576077822.png",
+        "join_date": "2018-07-24",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 4335,
+        "following": 2,
+        "ideas": 259797,
+        "watchlist_stocks_count": 18,
+        "like_count": 52,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5011,
+        "title": "STCK.PRO",
+        "url": "https://dashboard.stck.pro"
+      },
+      "symbols": [
+        {
+          "id": 6183,
+          "symbol": "LLY",
+          "title": "Eli Lilly & Co.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 7192
+        }
+      ],
+      "links": [
+        {
+          "title": "Eli Lilly and Company (LLY)",
+          "url": "https://www.stck.pro/news/LLY/8772797",
+          "shortened_url": "https://www.stck.pro/news/LLY/8772797",
+          "shortened_expanded_url": "stck.pro/news/LLY",
+          "description": "Never miss an important article again, stay on top of your investments and become a better investor today! Get your moat on and sync your watchlist with Stocktwits and get all the latest news for your symbols. Sync with Stocktwits",
+          "image": "https://www.stck.pro/img/imac.png",
+          "created_at": "2020-10-27T12:44:08Z",
+          "video_url": null,
+          "source": {
+            "name": "Stck",
+            "website": "https://www.stck.pro"
+          }
+        }
+      ],
+      "likes": {
+        "total": 2,
+        "user_ids": [
+          4125763,
+          4155170
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 252695129,
+      "body": "NIH halts testing of a combination of $LLY antibody medication with $GILD&#39;s remdesivir.",
+      "created_at": "2020-10-27T12:42:33Z",
+      "user": {
+        "id": 8115,
+        "username": "briefingcom",
+        "name": "Briefingcom",
+        "avatar_url": "https://avatars.stocktwits.com/production/8115/thumb-1340802633.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/8115/thumb-1340802633.png",
+        "join_date": "2010-01-25",
+        "official": true,
+        "identity": "Official",
+        "classification": [
+          "official"
+        ],
+        "followers": 85628,
+        "following": 819,
+        "ideas": 79094,
+        "watchlist_stocks_count": 8,
+        "like_count": 66,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 2010,
+          "symbol": "GILD",
+          "title": "Gilead Sciences Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 73128
+        },
+        {
+          "id": 6183,
+          "symbol": "LLY",
+          "title": "Eli Lilly & Co.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 7192
+        }
+      ],
+      "likes": {
+        "total": 2,
+        "user_ids": [
+          4155170,
+          4125763
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 252695071,
+      "body": "$HGEN Lenzilumab is a Recombinant anti GM-CSF antibody - $LLY and $REGN antibodies are in whole or in part based on Convalescent Antibodies - have and will fail in severe-critical COVID where HGEN passed with flying colors at the Mayo Clinic.",
+      "created_at": "2020-10-27T12:42:14Z",
+      "user": {
+        "id": 244398,
+        "username": "fezziwig2019",
+        "name": "$HGEN $ISEE $ECOR $AMZN",
+        "avatar_url": "https://avatars.stocktwits.com/production/244398/thumb-1373598698.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/244398/thumb-1373598698.png",
+        "join_date": "2013-07-12",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 89,
+        "following": 10,
+        "ideas": 1293,
+        "watchlist_stocks_count": 13,
+        "like_count": 104,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 3356,
+          "symbol": "REGN",
+          "title": "Regeneron Pharmaceuticals, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 13999
+        },
+        {
+          "id": 6183,
+          "symbol": "LLY",
+          "title": "Eli Lilly & Co.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 7196
+        },
+        {
+          "id": 15909,
+          "symbol": "HGEN",
+          "title": "Humanigen",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 697
+        }
+      ],
+      "likes": {
+        "total": 6,
+        "user_ids": [
+          4239948,
+          4155170,
+          4125763,
+          4089469,
+          3442963,
+          3121185
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 252694699,
+      "body": "40 Stocks Moving in Tuesday&#39;s Pre-Market Session  https://benzinga.com/z/18069356#.X5gU0xHSx9U.twitter $XLNX $APTX $NEE $ALLO $LLY",
+      "created_at": "2020-10-27T12:40:10Z",
+      "user": {
+        "id": 7108,
+        "username": "Benzinga",
+        "name": "Benzinga",
+        "avatar_url": "https://avatars.stocktwits.com/production/7108/thumb-1568827739.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/7108/thumb-1568827739.png",
+        "join_date": "2009-12-04",
+        "official": true,
+        "identity": "Official",
+        "classification": [
+          "suggested",
+          "official"
+        ],
+        "followers": 284131,
+        "following": 531,
+        "ideas": 118173,
+        "watchlist_stocks_count": 7,
+        "like_count": 112,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 4161,
+          "symbol": "XLNX",
+          "title": "Xilinx Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 8480
+        },
+        {
+          "id": 6183,
+          "symbol": "LLY",
+          "title": "Eli Lilly & Co.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 7192
+        },
+        {
+          "id": 8656,
+          "symbol": "NEE",
+          "title": "NextEra Energy, Inc.",
+          "aliases": [
+            "FPL"
+          ],
+          "is_following": false,
+          "watchlist_count": 5600
+        },
+        {
+          "id": 14702,
+          "symbol": "APTX",
+          "title": "Aptinyx",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 2024
+        },
+        {
+          "id": 14961,
+          "symbol": "ALLO",
+          "title": "Allogene Therapeutics, Inc",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1001
+        }
+      ],
+      "links": [
+        {
+          "title": "40 Stocks Moving in Tuesday's Pre-Market Session",
+          "url": "https://benzinga.com/z/18069356#.X5gU0xHSx9U.twitter",
+          "shortened_url": "https://benzinga.com/z/18069356#.X5gU0xHSx9U.twitter",
+          "shortened_expanded_url": "benzinga.com/news/20/10/180...",
+          "description": "1847 Goedeker Inc. (NASDAQ: GOED) rose 125.8% to $15.60 in pre-market trading. 1847 Goedeker reported the purchase of Appliances Connection for $210 million. Insignia Systems, Inc. (NASDAQ: ISIG) rose 72.3% to $1.63 in pre-market trading after climbing over 10% on Monday.",
+          "image": "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/images/story/2012/premkt_movers_230.png",
+          "created_at": "2020-10-27T12:40:11Z",
+          "video_url": null,
+          "source": {
+            "name": "Benzinga",
+            "website": "https://www.benzinga.com"
+          }
+        }
+      ],
+      "likes": {
+        "total": 2,
+        "user_ids": [
+          4155522,
+          4240048
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 252693185,
+      "body": "$CCL LY-CoV555, and a combination product composed of $LLY LY-CoV555 and LY-CoV016 antibodies are reported to have spectacular results. (Great news for the cruise industry which can keep a full set of doses on &quot;retainer&quot; for use in the event of an exposure on board) In an investor news release, the company stated that in a phase 2 randomized double-blind controlled trial it observed a 72% decrease in hospitalizations and ER visits with LY-CoV555 and an 85.5% decrease using the combination product.  These trials are still ONGOING.  The only one that was stopped was for the people who were already hospitalized and severely ill!",
+      "created_at": "2020-10-27T12:31:47Z",
+      "user": {
+        "id": 3442963,
+        "username": "drsnipes",
+        "name": "Dawn-Elise Snipes",
+        "avatar_url": "https://avatars.stocktwits.com/production/3442963/thumb-1593440036.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3442963/thumb-1593440036.png",
+        "join_date": "2020-05-12",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 16,
+        "following": 2,
+        "ideas": 177,
+        "watchlist_stocks_count": 12,
+        "like_count": 80,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 4681,
+          "symbol": "CCL",
+          "title": "Carnival Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 50168
+        },
+        {
+          "id": 6183,
+          "symbol": "LLY",
+          "title": "Eli Lilly & Co.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 7184
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 252693185,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 252692350,
+      "body": "$SRNE way too quiet here for whatever reason. $PFE and $LLY trending for all the wrong reasons.\nCollaboration or Buyout could be a possibility after FDA clearance maybe ?",
+      "created_at": "2020-10-27T12:27:00Z",
+      "user": {
+        "id": 4049374,
+        "username": "LongAndStrongBull",
+        "name": "TJ",
+        "avatar_url": "https://avatars.stocktwits.com/production/4049374/thumb-1602883672.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/4049374/thumb-1602883672.png",
+        "join_date": "2020-09-05",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 20,
+        "following": 21,
+        "ideas": 981,
+        "watchlist_stocks_count": 5,
+        "like_count": 795,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 6183,
+          "symbol": "LLY",
+          "title": "Eli Lilly & Co.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 7192
+        },
+        {
+          "id": 6728,
+          "symbol": "PFE",
+          "title": "Pfizer Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 36888
+        },
+        {
+          "id": 11709,
+          "symbol": "SRNE",
+          "title": "Sorrento Therapeutics Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 60147
+        }
+      ],
+      "likes": {
+        "total": 11,
+        "user_ids": [
+          4077233,
+          3246865,
+          812532,
+          3975940,
+          3673079,
+          2985571,
+          3886799,
+          3037235,
+          3764848,
+          1608794,
+          3010320
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "giphy": {
+          "id": "SVIgUi7tumff2UZAY6"
+        },
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 252691585,
+      "body": "$LLY updates FY20 guidance to $7.20-$7.40 EPS and revenue guidance to $23.7-$24.2 billion. https://www.marketbeat.com/g/51990",
+      "created_at": "2020-10-27T12:22:30Z",
+      "user": {
+        "id": 284541,
+        "username": "EarningsInsider",
+        "name": "MarketBeat Earnings",
+        "avatar_url": "https://avatars.stocktwits.com/production/284541/thumb-1484326078.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/284541/thumb-1484326078.png",
+        "join_date": "2013-11-25",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 52001,
+        "following": 0,
+        "ideas": 159274,
+        "watchlist_stocks_count": 0,
+        "like_count": 0,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1022,
+        "title": "Zapier",
+        "url": "https://zapier.com/"
+      },
+      "symbols": [
+        {
+          "id": 6183,
+          "symbol": "LLY",
+          "title": "Eli Lilly & Co.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 7184
+        }
+      ],
+      "links": [
+        {
+          "title": null,
+          "url": "https://www.marketbeat.com/g/51990",
+          "shortened_url": "https://www.marketbeat.com/g/51990",
+          "shortened_expanded_url": "marketbeat.com/g/51990/",
+          "description": null,
+          "image": null,
+          "created_at": "2020-10-27T12:22:31Z",
+          "video_url": null,
+          "source": {
+            "name": "Marketbeat",
+            "website": "https://www.marketbeat.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 252691442,
+      "body": "$SRNE $LLY can have a chance at having a Covid-19 cure... but would need to BO $SRNE.",
+      "created_at": "2020-10-27T12:21:37Z",
+      "user": {
+        "id": 3793071,
+        "username": "WisconsinStockFun",
+        "name": "Al",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2020-07-15",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 2,
+        "following": 2,
+        "ideas": 190,
+        "watchlist_stocks_count": 0,
+        "like_count": 466,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 6183,
+          "symbol": "LLY",
+          "title": "Eli Lilly & Co.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 7192
+        },
+        {
+          "id": 11709,
+          "symbol": "SRNE",
+          "title": "Sorrento Therapeutics Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 60147
+        }
+      ],
+      "likes": {
+        "total": 9,
+        "user_ids": [
+          3889507,
+          3767500,
+          3246865,
+          4235896,
+          3684210,
+          929532,
+          2892805,
+          4125763,
+          3973014
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 252691125,
+      "body": "Stocks Making The Biggest Moves PM 2: $SWK $HOG $LLY $JBLU $AIG &amp; More https://www.cnbc.com/2020/10/27/stocks-making-the-biggest-moves-in-the-premarket-xilinx-merck-caterpillar-3m-more.html?__source=iosappshare%7Ccom.apple.UIKit.activity.CopyToPasteboard",
+      "created_at": "2020-10-27T12:19:56Z",
+      "user": {
+        "id": 850976,
+        "username": "MariaC82",
+        "name": "Maria Chaudhry",
+        "avatar_url": "https://avatars.stocktwits.com/production/850976/thumb-1547223587.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/850976/thumb-1547223587.png",
+        "join_date": "2016-09-30",
+        "official": true,
+        "identity": "Official",
+        "classification": [
+          "official"
+        ],
+        "followers": 39109,
+        "following": 143,
+        "ideas": 46295,
+        "watchlist_stocks_count": 300,
+        "like_count": 43986,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 2385,
+          "symbol": "JBLU",
+          "title": "JetBlue Airways Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 19939
+        },
+        {
+          "id": 4296,
+          "symbol": "AIG",
+          "title": "American International Group, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 5085
+        },
+        {
+          "id": 5706,
+          "symbol": "HOG",
+          "title": "Harley-Davidson, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 4034
+        },
+        {
+          "id": 6183,
+          "symbol": "LLY",
+          "title": "Eli Lilly & Co.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 7192
+        },
+        {
+          "id": 7320,
+          "symbol": "SWK",
+          "title": "Stanley Black & Decker, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1258
+        }
+      ],
+      "links": [
+        {
+          "title": "Stocks making the biggest moves in the premarket: Xilinx, Merck, Caterpillar, 3M & more",
+          "url": "https://www.cnbc.com/2020/10/27/stocks-making-the-biggest-moves-in-the-premarket-xilinx-merck-caterpillar-3m-more.html?__source=iosappshare%7Ccom.apple.UIKit.activity.CopyToPasteboard",
+          "shortened_url": "https://www.cnbc.com/2020/10/27/stocks-making-the-biggest-moves-in-the-premarket-xilinx-merck-caterpillar-3m-more.html?__source=iosappshare%7Ccom.apple.UIKit.activity.CopyToPasteboard",
+          "shortened_expanded_url": "cnbc.com/2020/10/27/stocks-...",
+          "description": "Xilinx (XLNX) - The chipmaker agreed to be bought by Advanced Micro Devices (AMD) for $35 billion in stock, a deal valued at $143 per share. The deal is expected to close by the end of 2021. Separately, AMD reported better-than-expected profit and revenue for its latest quarter.",
+          "image": "https://image.cnbcfm.com/api/v1/image/106199783-1571877036909gettyimages-1152688042.jpeg?v=1571877091",
+          "created_at": "2020-10-27T12:19:57Z",
+          "video_url": null,
+          "source": {
+            "name": "CNBC",
+            "website": "https://www.cnbc.com"
+          }
+        }
+      ],
+      "likes": {
+        "total": 7,
+        "user_ids": [
+          4235855,
+          4235896,
+          4126419,
+          3367152,
+          452625,
+          4125763,
+          4155170
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 252691070,
+      "body": "$CCL Don&#39;t you think it is interesting that right before the election, all of a sudden multiple vaccine trials have been paused by an &quot;independent review board&quot;  CCL goes up as soon as there is a vaccine.  We already know there are excellent  therapeutics $LLY $REGN which are preventing hospitalizations and deaths.",
+      "created_at": "2020-10-27T12:19:34Z",
+      "user": {
+        "id": 3442963,
+        "username": "drsnipes",
+        "name": "Dawn-Elise Snipes",
+        "avatar_url": "https://avatars.stocktwits.com/production/3442963/thumb-1593440036.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3442963/thumb-1593440036.png",
+        "join_date": "2020-05-12",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 17,
+        "following": 2,
+        "ideas": 189,
+        "watchlist_stocks_count": 12,
+        "like_count": 82,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 3356,
+          "symbol": "REGN",
+          "title": "Regeneron Pharmaceuticals, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 13999
+        },
+        {
+          "id": 4681,
+          "symbol": "CCL",
+          "title": "Carnival Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 50167
+        },
+        {
+          "id": 6183,
+          "symbol": "LLY",
+          "title": "Eli Lilly & Co.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 7196
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 252691070,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "likes": {
+        "total": 7,
+        "user_ids": [
+          410402,
+          4235896,
+          4125763,
+          3950748,
+          3773214,
+          660577,
+          451028
+        ]
+      },
+      "reshares": {
+        "reshared_count": 1,
+        "user_ids": [
+          1666370
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    }
+  ]
+}
