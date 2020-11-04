@@ -1,0 +1,3 @@
+Pulling stock prices every 15 mins...
+
+Relative threshold

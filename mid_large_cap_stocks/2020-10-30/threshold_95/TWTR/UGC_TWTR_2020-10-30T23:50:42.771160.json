@@ -1,0 +1,1771 @@
+{
+  "response": {
+    "status": 200
+  },
+  "symbol": {
+    "id": 7872,
+    "symbol": "TWTR",
+    "title": "Twitter",
+    "aliases": [
+      "TWIT"
+    ],
+    "is_following": false,
+    "watchlist_count": 209120
+  },
+  "cursor": {
+    "more": true,
+    "since": 253569187,
+    "max": 253566853
+  },
+  "messages": [
+    {
+      "id": 253569187,
+      "body": "$TWTR on tuesday we wash our hands with the orange stain. I&#39;ll keep buying the dips.",
+      "created_at": "2020-10-30T15:50:36Z",
+      "user": {
+        "id": 3901766,
+        "username": "eelam_3tar",
+        "name": "kobe yogan",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2020-08-04",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 1,
+        "following": 0,
+        "ideas": 66,
+        "watchlist_stocks_count": 0,
+        "like_count": 7,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 7872,
+          "symbol": "TWTR",
+          "title": "Twitter",
+          "aliases": [
+            "TWIT"
+          ],
+          "is_following": false,
+          "watchlist_count": 209120
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 253569104,
+      "body": "$TWTR will Trump be able to tweet from prison in New York?",
+      "created_at": "2020-10-30T15:50:22Z",
+      "user": {
+        "id": 719698,
+        "username": "greg81",
+        "name": "Greg",
+        "avatar_url": "https://avatars.stocktwits.com/production/719698/thumb-1469235152.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/719698/thumb-1469235152.png",
+        "join_date": "2016-04-02",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 3,
+        "following": 65,
+        "ideas": 140,
+        "watchlist_stocks_count": 6,
+        "like_count": 117,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2095,
+        "title": "StockTwits For Android ",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 7872,
+          "symbol": "TWTR",
+          "title": "Twitter",
+          "aliases": [
+            "TWIT"
+          ],
+          "is_following": false,
+          "watchlist_count": 209120
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 253569104,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 253569071,
+      "body": "$TWTR $SQ Once they kick Dorsey out these will both rocket haha.",
+      "created_at": "2020-10-30T15:50:17Z",
+      "user": {
+        "id": 496858,
+        "username": "BitDow",
+        "name": "Alex 0",
+        "avatar_url": "https://avatars.stocktwits.com/production/496858/thumb-1437776077.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/496858/thumb-1437776077.png",
+        "join_date": "2015-04-07",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 22,
+        "following": 102,
+        "ideas": 2905,
+        "watchlist_stocks_count": 39,
+        "like_count": 2710,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 7872,
+          "symbol": "TWTR",
+          "title": "Twitter",
+          "aliases": [
+            "TWIT"
+          ],
+          "is_following": false,
+          "watchlist_count": 209120
+        },
+        {
+          "id": 7991,
+          "symbol": "SQ",
+          "title": "Square",
+          "aliases": [
+            "SQUARE"
+          ],
+          "is_following": false,
+          "watchlist_count": 106996
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253568994,
+      "body": "&gt; booked $TWTR puts....   lucky double (see post from yesterday)  earnings whisper almost messed it up for me",
+      "created_at": "2020-10-30T15:50:02Z",
+      "user": {
+        "id": 112631,
+        "username": "racernic",
+        "name": "Nic",
+        "avatar_url": "https://avatars.stocktwits.com/production/112631/thumb-1331934877.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/112631/thumb-1331934877.png",
+        "join_date": "2011-10-18",
+        "official": true,
+        "identity": "Official",
+        "classification": [
+          "suggested",
+          "official"
+        ],
+        "followers": 16890,
+        "following": 4,
+        "ideas": 38797,
+        "watchlist_stocks_count": 14,
+        "like_count": 3169,
+        "plus_tier": "",
+        "premium_room": "MainStreetOptions",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 7872,
+          "symbol": "TWTR",
+          "title": "Twitter",
+          "aliases": [
+            "TWIT"
+          ],
+          "is_following": false,
+          "watchlist_count": 209120
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          493790
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253568988,
+      "body": "$TWTR instead of reading bullshit on this app may i offer the classic novels 1984 or Fahrenheit 451",
+      "created_at": "2020-10-30T15:50:01Z",
+      "user": {
+        "id": 2187561,
+        "username": "_MasterChief_",
+        "name": "The Demon",
+        "avatar_url": "https://avatars.stocktwits.com/production/2187561/thumb-1575613806.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2187561/thumb-1575613806.png",
+        "join_date": "2019-07-11",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 110,
+        "following": 52,
+        "ideas": 3719,
+        "watchlist_stocks_count": 200,
+        "like_count": 10495,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 7872,
+          "symbol": "TWTR",
+          "title": "Twitter",
+          "aliases": [
+            "TWIT"
+          ],
+          "is_following": false,
+          "watchlist_count": 209120
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 253568988,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          1569279
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_253568988.gif",
+          "large": "https://charts.stocktwits.com/production/large_253568988.gif",
+          "original": "https://charts.stocktwits.com/production/original_253568988.gif",
+          "url": "https://charts.stocktwits.com/production/original_253568988.gif"
+        },
+        "sentiment": {
+          "basic": "Bearish"
+        }
+      }
+    },
+    {
+      "id": 253568986,
+      "body": "$TWTR  stop investing in a company that literally pushes anti capitalist bullshit constantly and suppresses anyone who supports a free and thriving market",
+      "created_at": "2020-10-30T15:50:01Z",
+      "user": {
+        "id": 1554356,
+        "username": "bdsg95",
+        "name": "Bruno",
+        "avatar_url": "https://avatars.stocktwits.com/production/1554356/thumb-1598743890.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1554356/thumb-1598743890.png",
+        "join_date": "2018-07-23",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 18,
+        "following": 19,
+        "ideas": 1248,
+        "watchlist_stocks_count": 33,
+        "like_count": 1652,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 7872,
+          "symbol": "TWTR",
+          "title": "Twitter",
+          "aliases": [
+            "TWIT"
+          ],
+          "is_following": false,
+          "watchlist_count": 209120
+        }
+      ],
+      "likes": {
+        "total": 2,
+        "user_ids": [
+          3360390,
+          4074187
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bearish"
+        }
+      }
+    },
+    {
+      "id": 253568924,
+      "body": "$TWTR Bought the dip. easy money!",
+      "created_at": "2020-10-30T15:49:52Z",
+      "user": {
+        "id": 3901766,
+        "username": "eelam_3tar",
+        "name": "kobe yogan",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2020-08-04",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 1,
+        "following": 0,
+        "ideas": 66,
+        "watchlist_stocks_count": 0,
+        "like_count": 7,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 7872,
+          "symbol": "TWTR",
+          "title": "Twitter",
+          "aliases": [
+            "TWIT"
+          ],
+          "is_following": false,
+          "watchlist_count": 209120
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 253568901,
+      "body": "$TWTR Was going to load up on puts on this garbage yesterday but I didnt smh.",
+      "created_at": "2020-10-30T15:49:48Z",
+      "user": {
+        "id": 3908213,
+        "username": "JCREWs",
+        "name": "hmm",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2020-08-05",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 6,
+        "following": 0,
+        "ideas": 415,
+        "watchlist_stocks_count": 10,
+        "like_count": 210,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 7872,
+          "symbol": "TWTR",
+          "title": "Twitter",
+          "aliases": [
+            "TWIT"
+          ],
+          "is_following": false,
+          "watchlist_count": 209120
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bearish"
+        }
+      }
+    },
+    {
+      "id": 253568406,
+      "body": "$TWTR don\u2019t expect a dead cat bounce soon. Wait after election.  The election has consequences. If trump wins, twtr will drop hard again. They tried to rig election.",
+      "created_at": "2020-10-30T15:48:26Z",
+      "user": {
+        "id": 564843,
+        "username": "TheStockPredictor",
+        "name": "I am long as long as I see it",
+        "avatar_url": "https://avatars.stocktwits.com/production/564843/thumb-1499541359.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/564843/thumb-1499541359.png",
+        "join_date": "2015-08-06",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 2500,
+        "following": 5,
+        "ideas": 16823,
+        "watchlist_stocks_count": 57,
+        "like_count": 565,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 7872,
+          "symbol": "TWTR",
+          "title": "Twitter",
+          "aliases": [
+            "TWIT"
+          ],
+          "is_following": false,
+          "watchlist_count": 209120
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 253568406,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 3
+      },
+      "likes": {
+        "total": 4,
+        "user_ids": [
+          3311194,
+          1076704,
+          4223058,
+          3360390
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bearish"
+        }
+      }
+    },
+    {
+      "id": 253568206,
+      "body": "$TWTR $SNAP \n\nA little bit silly that the one is twice the valuation m if the other, no?",
+      "created_at": "2020-10-30T15:47:50Z",
+      "user": {
+        "id": 907279,
+        "username": "bobsizzla",
+        "name": "bob sizzla",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2016-12-21",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 58,
+        "following": 61,
+        "ideas": 9937,
+        "watchlist_stocks_count": 5,
+        "like_count": 251,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 7872,
+          "symbol": "TWTR",
+          "title": "Twitter",
+          "aliases": [
+            "TWIT"
+          ],
+          "is_following": false,
+          "watchlist_count": 209120
+        },
+        {
+          "id": 11746,
+          "symbol": "SNAP",
+          "title": "Snap Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 159216
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 253568206,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253568152,
+      "body": "$PINS $SNAP \nI would definitely buy these 2 winners\nI would hold off on $TWTR and maybe you can nibble on $FB",
+      "created_at": "2020-10-30T15:47:40Z",
+      "user": {
+        "id": 1502923,
+        "username": "BringItOnNow",
+        "name": "Slick Rick",
+        "avatar_url": "https://avatars.stocktwits.com/production/1502923/thumb-1528291603.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1502923/thumb-1528291603.png",
+        "join_date": "2018-05-23",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 179,
+        "following": 21,
+        "ideas": 6055,
+        "watchlist_stocks_count": 84,
+        "like_count": 2371,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 7871,
+          "symbol": "FB",
+          "title": "Facebook",
+          "aliases": [
+            "FBOOK"
+          ],
+          "is_following": false,
+          "watchlist_count": 325582
+        },
+        {
+          "id": 7872,
+          "symbol": "TWTR",
+          "title": "Twitter",
+          "aliases": [
+            "TWIT"
+          ],
+          "is_following": false,
+          "watchlist_count": 209120
+        },
+        {
+          "id": 11742,
+          "symbol": "PINS",
+          "title": "Pinterest",
+          "aliases": [
+            "PINTEREST"
+          ],
+          "is_following": false,
+          "watchlist_count": 25010
+        },
+        {
+          "id": 11746,
+          "symbol": "SNAP",
+          "title": "Snap Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 159216
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_253568152.gif",
+          "large": "https://charts.stocktwits.com/production/large_253568152.gif",
+          "original": "https://charts.stocktwits.com/production/original_253568152.gif",
+          "url": "https://charts.stocktwits.com/production/original_253568152.gif"
+        },
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 253568133,
+      "body": "$TWTR  38-40 probably step up?",
+      "created_at": "2020-10-30T15:47:36Z",
+      "user": {
+        "id": 757012,
+        "username": "arnolddunn",
+        "name": "arnold dunn",
+        "avatar_url": "https://avatars.stocktwits.com/production/757012/thumb-1527533732.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/757012/thumb-1527533732.png",
+        "join_date": "2016-05-20",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 33,
+        "following": 63,
+        "ideas": 9018,
+        "watchlist_stocks_count": 0,
+        "like_count": 147,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 7872,
+          "symbol": "TWTR",
+          "title": "Twitter",
+          "aliases": [
+            "TWIT"
+          ],
+          "is_following": false,
+          "watchlist_count": 209120
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          446178
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253568072,
+      "body": "$TWTR beyond arrogance to censor apolitical government officials",
+      "created_at": "2020-10-30T15:47:23Z",
+      "user": {
+        "id": 248367,
+        "username": "Fmitty",
+        "name": "Frank Smith",
+        "avatar_url": "https://avatars.stocktwits.com/production/248367/thumb-1545063379.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/248367/thumb-1545063379.png",
+        "join_date": "2013-08-01",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 165,
+        "following": 14,
+        "ideas": 10732,
+        "watchlist_stocks_count": 99,
+        "like_count": 1970,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 7872,
+          "symbol": "TWTR",
+          "title": "Twitter",
+          "aliases": [
+            "TWIT"
+          ],
+          "is_following": false,
+          "watchlist_count": 209120
+        }
+      ],
+      "likes": {
+        "total": 5,
+        "user_ids": [
+          1569279,
+          446178,
+          3387468,
+          1257223,
+          3360390
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bearish"
+        }
+      }
+    },
+    {
+      "id": 253567947,
+      "body": "$TWTR $FB twitter and fb investors watching their portfolio drop 20% \ud83e\ude78\ud83e\ude78\ud83e\ude78\ud83e\ude78\ud83e\ude78\ud83e\ude78",
+      "created_at": "2020-10-30T15:47:04Z",
+      "user": {
+        "id": 1076704,
+        "username": "BDBinv",
+        "name": "Frant",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2017-05-30",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 44,
+        "following": 82,
+        "ideas": 7209,
+        "watchlist_stocks_count": 60,
+        "like_count": 2952,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 7871,
+          "symbol": "FB",
+          "title": "Facebook",
+          "aliases": [
+            "FBOOK"
+          ],
+          "is_following": false,
+          "watchlist_count": 325582
+        },
+        {
+          "id": 7872,
+          "symbol": "TWTR",
+          "title": "Twitter",
+          "aliases": [
+            "TWIT"
+          ],
+          "is_following": false,
+          "watchlist_count": 209120
+        }
+      ],
+      "likes": {
+        "total": 2,
+        "user_ids": [
+          3387468,
+          3360390
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_253567947.png",
+          "large": "https://charts.stocktwits.com/production/large_253567947.png",
+          "original": "https://charts.stocktwits.com/production/original_253567947.png",
+          "url": "https://charts.stocktwits.com/production/original_253567947.png"
+        },
+        "sentiment": {
+          "basic": "Bearish"
+        }
+      }
+    },
+    {
+      "id": 253567917,
+      "body": "$SQ $TWTR Woke CEO, can&#39;t imagine why these are going down",
+      "created_at": "2020-10-30T15:46:59Z",
+      "user": {
+        "id": 634887,
+        "username": "Admiral_Ackbar",
+        "name": "Gial Ackbar",
+        "avatar_url": "https://avatars.stocktwits.com/production/634887/thumb-1449676017.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/634887/thumb-1449676017.png",
+        "join_date": "2015-11-17",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 222,
+        "following": 182,
+        "ideas": 5893,
+        "watchlist_stocks_count": 151,
+        "like_count": 2718,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 7872,
+          "symbol": "TWTR",
+          "title": "Twitter",
+          "aliases": [
+            "TWIT"
+          ],
+          "is_following": false,
+          "watchlist_count": 209120
+        },
+        {
+          "id": 7991,
+          "symbol": "SQ",
+          "title": "Square",
+          "aliases": [
+            "SQUARE"
+          ],
+          "is_following": false,
+          "watchlist_count": 106996
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 253567917,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "likes": {
+        "total": 10,
+        "user_ids": [
+          3226818,
+          1569279,
+          1593453,
+          1076704,
+          907279,
+          3931776,
+          3212525,
+          3207907,
+          1257223,
+          3360390
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_253567917.jpg",
+          "large": "https://charts.stocktwits.com/production/large_253567917.jpg",
+          "original": "https://charts.stocktwits.com/production/original_253567917.jpg",
+          "url": "https://charts.stocktwits.com/production/original_253567917.jpg"
+        },
+        "sentiment": {
+          "basic": "Bearish"
+        }
+      }
+    },
+    {
+      "id": 253567891,
+      "body": "$TWTR short this pos drive it down until Jack bleeds out",
+      "created_at": "2020-10-30T15:46:54Z",
+      "user": {
+        "id": 527653,
+        "username": "EarnMoneySleeping",
+        "name": "Robert Bump",
+        "avatar_url": "https://avatars.stocktwits.com/production/527653/thumb-1433857812.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/527653/thumb-1433857812.png",
+        "join_date": "2015-06-03",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 19,
+        "following": 51,
+        "ideas": 376,
+        "watchlist_stocks_count": 12,
+        "like_count": 101,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 7872,
+          "symbol": "TWTR",
+          "title": "Twitter",
+          "aliases": [
+            "TWIT"
+          ],
+          "is_following": false,
+          "watchlist_count": 209120
+        }
+      ],
+      "likes": {
+        "total": 6,
+        "user_ids": [
+          1569279,
+          1076704,
+          1593453,
+          3387468,
+          1257223,
+          3360390
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bearish"
+        }
+      }
+    },
+    {
+      "id": 253567841,
+      "body": "$TWTR ",
+      "created_at": "2020-10-30T15:46:46Z",
+      "user": {
+        "id": 1684526,
+        "username": "FreakMeister",
+        "name": "Jonathan",
+        "avatar_url": "https://avatars.stocktwits.com/production/1684526/thumb-1580128556.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1684526/thumb-1580128556.png",
+        "join_date": "2018-10-28",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 24,
+        "following": 16,
+        "ideas": 2915,
+        "watchlist_stocks_count": 8,
+        "like_count": 5970,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 7872,
+          "symbol": "TWTR",
+          "title": "Twitter",
+          "aliases": [
+            "TWIT"
+          ],
+          "is_following": false,
+          "watchlist_count": 209120
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 253567841,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "likes": {
+        "total": 2,
+        "user_ids": [
+          1076704,
+          1593453
+        ]
+      },
+      "reshares": {
+        "reshared_count": 1,
+        "user_ids": [
+          228343
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_253567841.PNG",
+          "large": "https://charts.stocktwits.com/production/large_253567841.PNG",
+          "original": "https://charts.stocktwits.com/production/original_253567841.PNG",
+          "url": "https://charts.stocktwits.com/production/original_253567841.PNG"
+        },
+        "sentiment": {
+          "basic": "Bearish"
+        }
+      }
+    },
+    {
+      "id": 253567817,
+      "body": "$TWTR Is this one of the cult stock? like bulls get angry and can drive it back with in next week",
+      "created_at": "2020-10-30T15:46:41Z",
+      "user": {
+        "id": 3327084,
+        "username": "josIvr",
+        "name": "Josh",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2020-04-19",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 8,
+        "following": 73,
+        "ideas": 1247,
+        "watchlist_stocks_count": 186,
+        "like_count": 418,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 7872,
+          "symbol": "TWTR",
+          "title": "Twitter",
+          "aliases": [
+            "TWIT"
+          ],
+          "is_following": false,
+          "watchlist_count": 209120
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253567799,
+      "body": "$TWTR As we posted sometime back there is a major gap at $35 there was really no doubt this name would come back to fill it and if Biden gets in it may be a good long entry - we&#39;ll see at that point",
+      "created_at": "2020-10-30T15:46:37Z",
+      "user": {
+        "id": 3394889,
+        "username": "London55555",
+        "name": "John Smith",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2020-05-03",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 18,
+        "following": 26,
+        "ideas": 729,
+        "watchlist_stocks_count": 1,
+        "like_count": 388,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 7872,
+          "symbol": "TWTR",
+          "title": "Twitter",
+          "aliases": [
+            "TWIT"
+          ],
+          "is_following": false,
+          "watchlist_count": 209120
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253567779,
+      "body": "$ACHV stock market taking a beating today.\n\nAt least we aren&#39;t $TWTR !!!",
+      "created_at": "2020-10-30T15:46:34Z",
+      "user": {
+        "id": 1941374,
+        "username": "Lowneasy",
+        "name": "K S",
+        "avatar_url": "https://avatars.stocktwits.com/production/1941374/thumb-1558637847.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1941374/thumb-1558637847.png",
+        "join_date": "2019-03-16",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 22,
+        "following": 40,
+        "ideas": 1151,
+        "watchlist_stocks_count": 173,
+        "like_count": 152,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 2966,
+          "symbol": "ACHV",
+          "title": "Achieve Life Sciences, Inc.",
+          "aliases": [
+            "OGXI"
+          ],
+          "is_following": false,
+          "watchlist_count": 17740
+        },
+        {
+          "id": 7872,
+          "symbol": "TWTR",
+          "title": "Twitter",
+          "aliases": [
+            "TWIT"
+          ],
+          "is_following": false,
+          "watchlist_count": 209120
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 253567528,
+      "body": "$TWTR jack is a liberal scum. He looks like he came straight out of the Portland riots.",
+      "created_at": "2020-10-30T15:45:53Z",
+      "user": {
+        "id": 4249206,
+        "username": "Greggiet",
+        "name": "Jimmy Johns",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2020-10-29",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 0,
+        "following": 0,
+        "ideas": 25,
+        "watchlist_stocks_count": 11,
+        "like_count": 4,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 7872,
+          "symbol": "TWTR",
+          "title": "Twitter",
+          "aliases": [
+            "TWIT"
+          ],
+          "is_following": false,
+          "watchlist_count": 209120
+        }
+      ],
+      "likes": {
+        "total": 9,
+        "user_ids": [
+          1013871,
+          3527776,
+          3319818,
+          1085387,
+          1569279,
+          1593453,
+          3387468,
+          636647,
+          1479185
+        ]
+      },
+      "reshares": {
+        "reshared_count": 1,
+        "user_ids": [
+          1200163
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bearish"
+        }
+      }
+    },
+    {
+      "id": 253567212,
+      "body": "$TWTR ouch",
+      "created_at": "2020-10-30T15:44:56Z",
+      "user": {
+        "id": 1860979,
+        "username": "TheReaLHuLk",
+        "name": "Lou",
+        "avatar_url": "https://avatars.stocktwits.com/production/1860979/thumb-1549768744.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1860979/thumb-1549768744.png",
+        "join_date": "2019-02-10",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 175,
+        "following": 79,
+        "ideas": 19706,
+        "watchlist_stocks_count": 6,
+        "like_count": 14744,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2095,
+        "title": "StockTwits For Android ",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 7872,
+          "symbol": "TWTR",
+          "title": "Twitter",
+          "aliases": [
+            "TWIT"
+          ],
+          "is_following": false,
+          "watchlist_count": 209120
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          1569279
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253567191,
+      "body": "$TWTR I\u2019m sure the other Najarian will be on the halftime show to pump ....frauds",
+      "created_at": "2020-10-30T15:44:53Z",
+      "user": {
+        "id": 446178,
+        "username": "YouOnlyLiveTwice",
+        "name": "JCC",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2015-01-06",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 160,
+        "following": 3,
+        "ideas": 18174,
+        "watchlist_stocks_count": 135,
+        "like_count": 4648,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 7872,
+          "symbol": "TWTR",
+          "title": "Twitter",
+          "aliases": [
+            "TWIT"
+          ],
+          "is_following": false,
+          "watchlist_count": 209120
+        }
+      ],
+      "likes": {
+        "total": 2,
+        "user_ids": [
+          1684526,
+          1569279
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bearish"
+        }
+      }
+    },
+    {
+      "id": 253567189,
+      "body": "$FB $AAPL $AMZN $TWTR $INTC Black Friday - Stocks Edition\ud83d\ude02",
+      "created_at": "2020-10-30T15:44:53Z",
+      "user": {
+        "id": 3005632,
+        "username": "emilson",
+        "name": "Emiliano Colon",
+        "avatar_url": "https://avatars.stocktwits.com/production/3005632/thumb-1578916186.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3005632/thumb-1578916186.png",
+        "join_date": "2020-01-04",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 1,
+        "following": 0,
+        "ideas": 78,
+        "watchlist_stocks_count": 13,
+        "like_count": 36,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 686,
+          "symbol": "AAPL",
+          "title": "Apple Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 524270
+        },
+        {
+          "id": 864,
+          "symbol": "AMZN",
+          "title": "Amazon.com Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 346037
+        },
+        {
+          "id": 2310,
+          "symbol": "INTC",
+          "title": "Intel Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 87560
+        },
+        {
+          "id": 7871,
+          "symbol": "FB",
+          "title": "Facebook",
+          "aliases": [
+            "FBOOK"
+          ],
+          "is_following": false,
+          "watchlist_count": 325582
+        },
+        {
+          "id": 7872,
+          "symbol": "TWTR",
+          "title": "Twitter",
+          "aliases": [
+            "TWIT"
+          ],
+          "is_following": false,
+          "watchlist_count": 209120
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 253567189,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "likes": {
+        "total": 3,
+        "user_ids": [
+          3778088,
+          2059496,
+          3565102
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 253567185,
+      "body": "$TWTR Love this..Jack getting Jacked ...F u and your douche beard",
+      "created_at": "2020-10-30T15:44:52Z",
+      "user": {
+        "id": 388421,
+        "username": "karlhungus",
+        "name": "karlhungus",
+        "avatar_url": "https://avatars.stocktwits.com/production/388421/thumb-1408658089.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/388421/thumb-1408658089.png",
+        "join_date": "2014-08-15",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 6,
+        "following": 5,
+        "ideas": 560,
+        "watchlist_stocks_count": 12,
+        "like_count": 438,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 7872,
+          "symbol": "TWTR",
+          "title": "Twitter",
+          "aliases": [
+            "TWIT"
+          ],
+          "is_following": false,
+          "watchlist_count": 209120
+        }
+      ],
+      "likes": {
+        "total": 2,
+        "user_ids": [
+          1569279,
+          3387468
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253567086,
+      "body": "$TWTR is not profitable company. After elections twitter wont be needed and will be dumped like a used condom. Going sub 35 next week. Shorting is the right way here.",
+      "created_at": "2020-10-30T15:44:34Z",
+      "user": {
+        "id": 3017188,
+        "username": "Johnny8",
+        "name": "John Doe",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2020-01-09",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 1,
+        "following": 6,
+        "ideas": 436,
+        "watchlist_stocks_count": 29,
+        "like_count": 32,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 7872,
+          "symbol": "TWTR",
+          "title": "Twitter",
+          "aliases": [
+            "TWIT"
+          ],
+          "is_following": false,
+          "watchlist_count": 209120
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 253567086,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          1569279
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bearish"
+        }
+      }
+    },
+    {
+      "id": 253567061,
+      "body": "$TWTR \ud83e\udd14 So judging by the sentiment on here, the consensus is Twitter is shite! Anyone think this thing is available at a massive discount price, right now? \ud83d\ude2f",
+      "created_at": "2020-10-30T15:44:30Z",
+      "user": {
+        "id": 3323346,
+        "username": "cmhine",
+        "name": "Carl Hine",
+        "avatar_url": "https://avatars.stocktwits.com/production/3323346/thumb-1598394544.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3323346/thumb-1598394544.png",
+        "join_date": "2020-04-17",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 10,
+        "following": 10,
+        "ideas": 865,
+        "watchlist_stocks_count": 62,
+        "like_count": 424,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 7872,
+          "symbol": "TWTR",
+          "title": "Twitter",
+          "aliases": [
+            "TWIT"
+          ],
+          "is_following": false,
+          "watchlist_count": 209120
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253566931,
+      "body": "$TWTR get rid of your positions and run far away",
+      "created_at": "2020-10-30T15:44:06Z",
+      "user": {
+        "id": 1339543,
+        "username": "thehardcore",
+        "name": "AJ",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2017-12-29",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 0,
+        "following": 13,
+        "ideas": 170,
+        "watchlist_stocks_count": 83,
+        "like_count": 3,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 7872,
+          "symbol": "TWTR",
+          "title": "Twitter",
+          "aliases": [
+            "TWIT"
+          ],
+          "is_following": false,
+          "watchlist_count": 209120
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 253566931,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "likes": {
+        "total": 2,
+        "user_ids": [
+          3860901,
+          1569279
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bearish"
+        }
+      }
+    },
+    {
+      "id": 253566864,
+      "body": "$TWTR Jack Dorsey having a taste of Cancel Culture he created lol i love it",
+      "created_at": "2020-10-30T15:43:56Z",
+      "user": {
+        "id": 1094125,
+        "username": "WhatSheSaid",
+        "name": "WhatSheSaid",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2017-06-16",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 3,
+        "following": 2,
+        "ideas": 514,
+        "watchlist_stocks_count": 6,
+        "like_count": 74,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2095,
+        "title": "StockTwits For Android ",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 7872,
+          "symbol": "TWTR",
+          "title": "Twitter",
+          "aliases": [
+            "TWIT"
+          ],
+          "is_following": false,
+          "watchlist_count": 209120
+        }
+      ],
+      "likes": {
+        "total": 8,
+        "user_ids": [
+          1554356,
+          1561230,
+          1553213,
+          3543047,
+          3860901,
+          2187561,
+          3478881,
+          1569279
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253566853,
+      "body": "$TWTR I could give a shit about this homosexual homeless man. But a dead cat bounce is a dead cat bounce. Picked up some calls for next week.",
+      "created_at": "2020-10-30T15:43:54Z",
+      "user": {
+        "id": 1126507,
+        "username": "DSavvy",
+        "name": "DSavvy",
+        "avatar_url": "https://avatars.stocktwits.com/production/1126507/thumb-1500545357.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1126507/thumb-1500545357.png",
+        "join_date": "2017-07-16",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 6,
+        "following": 68,
+        "ideas": 986,
+        "watchlist_stocks_count": 28,
+        "like_count": 464,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 7872,
+          "symbol": "TWTR",
+          "title": "Twitter",
+          "aliases": [
+            "TWIT"
+          ],
+          "is_following": false,
+          "watchlist_count": 209120
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    }
+  ]
+}

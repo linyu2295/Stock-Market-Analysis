@@ -1,0 +1,1875 @@
+{
+  "response": {
+    "status": 200
+  },
+  "symbol": {
+    "id": 2396,
+    "symbol": "JKHY",
+    "title": "Jack Henry & Associates Inc.",
+    "aliases": [],
+    "is_following": false,
+    "watchlist_count": 474
+  },
+  "cursor": {
+    "more": true,
+    "since": 253955201,
+    "max": 248574431
+  },
+  "messages": [
+    {
+      "id": 253955201,
+      "body": "2020-11-02 18:54:04+00:00 https://yumistockstrade.com\n$IPGP, J, $JKHY, $LANC, $LDOS, $LNT    Moving",
+      "created_at": "2020-11-02T18:54:04Z",
+      "user": {
+        "id": 1511377,
+        "username": "YuMiStocks_Trade",
+        "name": "YuMIStocksTrade.com",
+        "avatar_url": "https://avatars.stocktwits.com/production/1511377/thumb-1596895665.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1511377/thumb-1596895665.png",
+        "join_date": "2018-06-04",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 304,
+        "following": 1,
+        "ideas": 4644,
+        "watchlist_stocks_count": 34,
+        "like_count": 600,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5846,
+        "title": "ConfluxBot",
+        "url": "https://app.confluxbot.com"
+      },
+      "symbols": [
+        {
+          "id": 2330,
+          "symbol": "IPGP",
+          "title": "IPG Photonics Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1650
+        },
+        {
+          "id": 2396,
+          "symbol": "JKHY",
+          "title": "Jack Henry & Associates Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 474
+        },
+        {
+          "id": 2462,
+          "symbol": "LANC",
+          "title": "Lancaster Colony Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 126
+        },
+        {
+          "id": 6191,
+          "symbol": "LNT",
+          "title": "Alliant Energy Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 213
+        },
+        {
+          "id": 11721,
+          "symbol": "LDOS",
+          "title": "Leidos Holdings, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1231
+        }
+      ],
+      "links": [
+        {
+          "title": "YuMi$tocksTrade",
+          "url": "https://yumistockstrade.com",
+          "shortened_url": "https://yumistockstrade.com",
+          "shortened_expanded_url": "yumistockstrade.com/user/lo...",
+          "description": "YuMi$tocksTrade -- Redefining Trading",
+          "image": "https://www.yumistockstrade.com/images/favicon-192.png",
+          "created_at": "2020-11-02T18:54:05Z",
+          "video_url": null,
+          "source": {
+            "name": "YuMi$tocksTrade",
+            "website": "https://yumistockstrade.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253945138,
+      "body": "2020-11-02 18:13:15+00:00 https://yumistockstrade.com\n$IFF, $INDB, $IOSP, $IPGP, J, $JKHY    Moving",
+      "created_at": "2020-11-02T18:13:15Z",
+      "user": {
+        "id": 1511377,
+        "username": "YuMiStocks_Trade",
+        "name": "YuMIStocksTrade.com",
+        "avatar_url": "https://avatars.stocktwits.com/production/1511377/thumb-1596895665.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1511377/thumb-1596895665.png",
+        "join_date": "2018-06-04",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 302,
+        "following": 1,
+        "ideas": 4533,
+        "watchlist_stocks_count": 34,
+        "like_count": 600,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5846,
+        "title": "ConfluxBot",
+        "url": "https://app.confluxbot.com"
+      },
+      "symbols": [
+        {
+          "id": 2290,
+          "symbol": "INDB",
+          "title": "Independent Bank Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 51
+        },
+        {
+          "id": 2322,
+          "symbol": "IOSP",
+          "title": "Innospec Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 90
+        },
+        {
+          "id": 2330,
+          "symbol": "IPGP",
+          "title": "IPG Photonics Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1650
+        },
+        {
+          "id": 2396,
+          "symbol": "JKHY",
+          "title": "Jack Henry & Associates Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 475
+        },
+        {
+          "id": 5813,
+          "symbol": "IFF",
+          "title": "International Flavors & Fragrances Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 546
+        }
+      ],
+      "links": [
+        {
+          "title": "YuMi$tocksTrade",
+          "url": "https://yumistockstrade.com",
+          "shortened_url": "https://yumistockstrade.com",
+          "shortened_expanded_url": "yumistockstrade.com/user/lo...",
+          "description": "YuMi$tocksTrade -- Redefining Trading",
+          "image": "https://www.yumistockstrade.com/images/favicon-192.png",
+          "created_at": "2020-11-02T18:13:15Z",
+          "video_url": null,
+          "source": {
+            "name": "YuMi$tocksTrade",
+            "website": "https://yumistockstrade.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253187773,
+      "body": "JackHenryAssociates $JKHY BidaskScore is Downgraded to StronglySold https://bidaskclub.com/news/company/2020-10-28/JKHY",
+      "created_at": "2020-10-29T07:36:03Z",
+      "user": {
+        "id": 1177001,
+        "username": "BidaskBot",
+        "name": "BidaskBot",
+        "avatar_url": "https://avatars.stocktwits.com/production/1177001/thumb-1504377126.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1177001/thumb-1504377126.png",
+        "join_date": "2017-09-02",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 1053,
+        "following": 21,
+        "ideas": 67870,
+        "watchlist_stocks_count": 20,
+        "like_count": 1009,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 3725,
+        "title": "BidaskBot",
+        "url": "https://bidaskclub.com"
+      },
+      "symbols": [
+        {
+          "id": 2396,
+          "symbol": "JKHY",
+          "title": "Jack Henry & Associates Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 474
+        }
+      ],
+      "links": [
+        {
+          "title": "BidaskClub.com - See where people invest",
+          "url": "https://bidaskclub.com/news/company/2020-10-28/JKHY",
+          "shortened_url": "https://bidaskclub.com/news/company/2020-10-28/JKHY",
+          "shortened_expanded_url": "bidaskclub.com/news/company...",
+          "description": "Use the proprietary BidaskScore to see where people invest. Use the market heatmap and market screener to explore the US equity stock market",
+          "image": null,
+          "created_at": "2020-10-29T07:36:04Z",
+          "video_url": null,
+          "source": {
+            "name": "Bidaskclub",
+            "website": "https://bidaskclub.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_253187773.png",
+          "large": "https://charts.stocktwits.com/production/large_253187773.png",
+          "original": "https://charts.stocktwits.com/production/original_253187773.png",
+          "url": "https://charts.stocktwits.com/production/original_253187773.png"
+        },
+        "sentiment": null
+      }
+    },
+    {
+      "id": 252875021,
+      "body": "Last Strong #USMarkets #large #technology Stocks Technical Analysis today: $JKHY $STX $KEYS $MU \nhttps://www.finscreener.com/technicals/last-strong-technical-analysis-summary/us-markets",
+      "created_at": "2020-10-27T23:21:38Z",
+      "user": {
+        "id": 1550174,
+        "username": "Finscreener",
+        "name": "Finscreener",
+        "avatar_url": "https://avatars.stocktwits.com/production/1550174/thumb-1531918007.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1550174/thumb-1531918007.png",
+        "join_date": "2018-07-18",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 555,
+        "following": 28,
+        "ideas": 6769,
+        "watchlist_stocks_count": 0,
+        "like_count": 13,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 2396,
+          "symbol": "JKHY",
+          "title": "Jack Henry & Associates Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 474
+        },
+        {
+          "id": 3692,
+          "symbol": "STX",
+          "title": "Seagate Technology PLC",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 6550
+        },
+        {
+          "id": 6403,
+          "symbol": "MU",
+          "title": "Micron Technology Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 109060
+        },
+        {
+          "id": 12330,
+          "symbol": "KEYS",
+          "title": "Keysight Technologies, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 2230
+        }
+      ],
+      "links": [
+        {
+          "title": "US Markets Last Strong Technical Analysis Summary",
+          "url": "https://www.finscreener.com/technicals/last-strong-technical-analysis-summary/us-markets",
+          "shortened_url": "https://www.finscreener.com/technicals/last-strong-technical-analysis-summary/us-markets",
+          "shortened_expanded_url": "finscreener.com/technicals/...",
+          "description": "Last strong technical analysis summary offers strong sell and strong buy changes for securities in frame from 15 min up to 1 week.",
+          "image": "https://www.finscreener.com/system_images/logo300x300button.png",
+          "created_at": "2020-10-27T23:21:40Z",
+          "video_url": null,
+          "source": {
+            "name": "Finscreener",
+            "website": "https://www.finscreener.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_252875021.png",
+          "large": "https://charts.stocktwits.com/production/large_252875021.png",
+          "original": "https://charts.stocktwits.com/production/original_252875021.png",
+          "url": "https://charts.stocktwits.com/production/original_252875021.png"
+        },
+        "sentiment": null
+      }
+    },
+    {
+      "id": 252689446,
+      "body": "$JKHY Hello everyone",
+      "created_at": "2020-10-27T12:10:33Z",
+      "user": {
+        "id": 4151833,
+        "username": "pundmal12",
+        "name": "Pun Dmal",
+        "avatar_url": "https://avatars.stocktwits.com/production/4151833/thumb-1601994013.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/4151833/thumb-1601994013.png",
+        "join_date": "2020-10-06",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 4,
+        "following": 24,
+        "ideas": 408,
+        "watchlist_stocks_count": 2,
+        "like_count": 30,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 2396,
+          "symbol": "JKHY",
+          "title": "Jack Henry & Associates Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 474
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 251892473,
+      "body": "$JKHY NEW ARTICLE : Jack Henry &amp; Associates: A Low-Debt Tech Stock https://www.stck.pro/news/JKHY/8657144",
+      "created_at": "2020-10-22T15:23:05Z",
+      "user": {
+        "id": 1555408,
+        "username": "STCKPRO",
+        "name": "STCK.PRO",
+        "avatar_url": "https://avatars.stocktwits.com/production/1555408/thumb-1576077822.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1555408/thumb-1576077822.png",
+        "join_date": "2018-07-24",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 4388,
+        "following": 2,
+        "ideas": 266909,
+        "watchlist_stocks_count": 18,
+        "like_count": 52,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5011,
+        "title": "STCK.PRO",
+        "url": "https://dashboard.stck.pro"
+      },
+      "symbols": [
+        {
+          "id": 2396,
+          "symbol": "JKHY",
+          "title": "Jack Henry & Associates Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 475
+        }
+      ],
+      "links": [
+        {
+          "title": "Jack Henry & Associates (JKHY)",
+          "url": "https://www.stck.pro/news/JKHY/8657144",
+          "shortened_url": "https://www.stck.pro/news/JKHY/8657144",
+          "shortened_expanded_url": "stck.pro/news/JKHY",
+          "description": "Never miss an important article again, stay on top of your investments and become a better investor today! Get your moat on and sync your watchlist with Stocktwits and get all the latest news for your symbols. Sync with Stocktwits",
+          "image": "https://www.stck.pro/img/imac.png",
+          "created_at": "2020-10-22T15:23:08Z",
+          "video_url": null,
+          "source": {
+            "name": "Stck",
+            "website": "https://www.stck.pro"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_251892473.jpg",
+          "large": "https://charts.stocktwits.com/production/large_251892473.jpg",
+          "original": "https://charts.stocktwits.com/production/original_251892473.jpg",
+          "url": "https://charts.stocktwits.com/production/original_251892473.jpg"
+        },
+        "sentiment": null
+      }
+    },
+    {
+      "id": 251864607,
+      "body": "$JKHY Been in a position here for a bit on that initial dip in to the 150s because that monthly (left) is just beautiful. But the daily (right) isn&#39;t instilling much confidence right now.",
+      "created_at": "2020-10-22T14:17:36Z",
+      "user": {
+        "id": 603538,
+        "username": "RadixMalorumEstCupiditas",
+        "name": "A Fool And His Money...",
+        "avatar_url": "https://avatars.stocktwits.com/production/603538/thumb-1450067758.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/603538/thumb-1450067758.png",
+        "join_date": "2015-09-22",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 212,
+        "following": 110,
+        "ideas": 16098,
+        "watchlist_stocks_count": 3,
+        "like_count": 3061,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 2396,
+          "symbol": "JKHY",
+          "title": "Jack Henry & Associates Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 474
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_251864607.png",
+          "large": "https://charts.stocktwits.com/production/large_251864607.png",
+          "original": "https://charts.stocktwits.com/production/original_251864607.png",
+          "url": "https://charts.stocktwits.com/production/original_251864607.png"
+        },
+        "sentiment": null
+      }
+    },
+    {
+      "id": 251822113,
+      "body": "$JKHY Jack Henry &amp; Associates To Provide Webcast Of First Quarter Fiscal Year 2021 Earnings Call\nhttps://www.stocktitan.net/news/JKHY/jack-henry-associates-to-provide-webcast-of-first-quarter-fiscal-kzn6m6zszzp0.html\n\n#earnings",
+      "created_at": "2020-10-22T12:00:49Z",
+      "user": {
+        "id": 3372441,
+        "username": "Stock_Titan",
+        "name": "StockTitan",
+        "avatar_url": "https://avatars.stocktwits.com/production/3372441/thumb-1588173612.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3372441/thumb-1588173612.png",
+        "join_date": "2020-04-28",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 452,
+        "following": 0,
+        "ideas": 28068,
+        "watchlist_stocks_count": 0,
+        "like_count": 0,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5677,
+        "title": "StockTitan",
+        "url": "https://stocktitan.net"
+      },
+      "symbols": [
+        {
+          "id": 2396,
+          "symbol": "JKHY",
+          "title": "Jack Henry & Associates Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 474
+        }
+      ],
+      "links": [
+        {
+          "title": "Jack Henry & Associates To Provide Webcast Of First Quarter | StockTitan.net",
+          "url": "https://www.stocktitan.net/news/JKHY/jack-henry-associates-to-provide-webcast-of-first-quarter-fiscal-kzn6m6zszzp0.html",
+          "shortened_url": "https://www.stocktitan.net/news/JKHY/jack-henry-associates-to-provide-webcast-of-first-quarter-fiscal-kzn6m6zszzp0.html",
+          "shortened_expanded_url": "stocktitan.net/news/JKHY/ja...",
+          "description": "MONETT, Mo., Oct. 22, 2020 -- Jack Henry & Associates, Inc.(R) (NASDAQ: JKHY), a leading provider of technology solutions and payment processing services primarily for the financial services industry, announced today that it will host a live Webcast of its first quarter fiscal year 2021 earnings conference call on November 5, 2020.",
+          "image": "https://static.stocktitan.net/company-logo/jkhy.png",
+          "created_at": "2020-10-22T12:00:50Z",
+          "video_url": null,
+          "source": {
+            "name": "Stocktitan",
+            "website": "https://www.stocktitan.net"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 251560080,
+      "body": "$JKHY: Three Financial Institutions Using The Banno Digital Platform Receive WebAwards for Top Digital Experience https://www.chartmill.com/news/JKHY/prnews-2020-10-21-three-financial-institutions-using-the-banno-digital-platform-receive-webawards-for-top-digital-experience?utm_source=stocktwits&amp;utm_medium=pressRelease&amp;utm_content=JKHY&amp;utm_campaign=social_tracking",
+      "created_at": "2020-10-21T12:59:01Z",
+      "user": {
+        "id": 47688,
+        "username": "ChartMill",
+        "name": "ChartMill",
+        "avatar_url": "https://avatars.stocktwits.com/production/47688/thumb-1363343728.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/47688/thumb-1363343728.png",
+        "join_date": "2011-01-26",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 22027,
+        "following": 891,
+        "ideas": 1095581,
+        "watchlist_stocks_count": 20,
+        "like_count": 32,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1135,
+        "title": "ChartMill",
+        "url": "http://www.chartmill.com"
+      },
+      "symbols": [
+        {
+          "id": 2396,
+          "symbol": "JKHY",
+          "title": "Jack Henry & Associates Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 474
+        }
+      ],
+      "links": [
+        {
+          "title": null,
+          "url": "https://www.chartmill.com/news/JKHY/prnews-2020-10-21-three-financial-institutions-using-the-banno-digital-platform-receive-webawards-for-top-digital-experience?utm_source=stocktwits&utm_medium=pressRelease&utm_content=JKHY&utm_campaign=social_tracking",
+          "shortened_url": "https://www.chartmill.com/news/JKHY/prnews-2020-10-21-three-financial-institutions-using-the-banno-digital-platform-receive-webawards-for-top-digital-experience?utm_source=stocktwits&utm_medium=pressRelease&utm_content=JKHY&utm_campaign=social_tracking",
+          "shortened_expanded_url": "chartmill.com/news/JKHY/prn...",
+          "description": null,
+          "image": null,
+          "created_at": "2020-10-21T12:59:02Z",
+          "video_url": null,
+          "source": {
+            "name": "Chartmill",
+            "website": "https://www.chartmill.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 251548241,
+      "body": "$JKHY Three Financial Institutions Using The Banno Digital Platform Receive WebAwards for Top Digital Experience https://www.otcdynamics.com/jkhy-three-financial-institutions-using-the-banno-digital-platform-receive-webawards-for-top-digital-experience",
+      "created_at": "2020-10-21T12:08:05Z",
+      "user": {
+        "id": 253206,
+        "username": "otcdynamics",
+        "name": "otcdynamics",
+        "avatar_url": "https://avatars.stocktwits.com/production/253206/thumb-1432182723.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/253206/thumb-1432182723.png",
+        "join_date": "2013-08-16",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 398,
+        "following": 0,
+        "ideas": 55640,
+        "watchlist_stocks_count": 0,
+        "like_count": 55,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5512,
+        "title": "project_n",
+        "url": "https://www.otcdynamics.com"
+      },
+      "symbols": [
+        {
+          "id": 2396,
+          "symbol": "JKHY",
+          "title": "Jack Henry & Associates Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 474
+        }
+      ],
+      "links": [
+        {
+          "title": "$JKHY Three Financial Institutions Using The Banno Digital Platform Receive WebAwards for Top Digital Experience",
+          "url": "https://www.otcdynamics.com/jkhy-three-financial-institutions-using-the-banno-digital-platform-receive-webawards-for-top-digital-experience",
+          "shortened_url": "https://www.otcdynamics.com/jkhy-three-financial-institutions-using-the-banno-digital-platform-receive-webawards-for-top-digital-experience",
+          "shortened_expanded_url": "otcdynamics.com/jkhy-three-...",
+          "description": "MONETT, Mo., Oct. 21, 2020 /PRNewswire/ -- Jack Henry & Associates, Inc.\u00ae (NASDAQ: JKHY) is a leading provider of technology solutions and payment processing services primarily for the financial services industry. Jack Henry Digital today announced that three financial institutions leveraging its Banno Digital Platform\u2122 received 2020 WebAwards.",
+          "image": null,
+          "created_at": "2020-10-21T12:08:06Z",
+          "video_url": null,
+          "source": {
+            "name": "Otcdynamics",
+            "website": "https://www.otcdynamics.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 251546758,
+      "body": "$JKHY Three Financial Institutions Using The Banno Digital Platform Receive WebAwards for Top Digital Experience\nhttps://www.stocktitan.net/news/JKHY/three-financial-institutions-using-the-banno-digital-platform-m7cysu2fo6xh.html",
+      "created_at": "2020-10-21T12:01:12Z",
+      "user": {
+        "id": 3372441,
+        "username": "Stock_Titan",
+        "name": "StockTitan",
+        "avatar_url": "https://avatars.stocktwits.com/production/3372441/thumb-1588173612.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3372441/thumb-1588173612.png",
+        "join_date": "2020-04-28",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 452,
+        "following": 0,
+        "ideas": 28068,
+        "watchlist_stocks_count": 0,
+        "like_count": 0,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5677,
+        "title": "StockTitan",
+        "url": "https://stocktitan.net"
+      },
+      "symbols": [
+        {
+          "id": 2396,
+          "symbol": "JKHY",
+          "title": "Jack Henry & Associates Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 474
+        }
+      ],
+      "links": [
+        {
+          "title": "Three Financial Institutions Using The Banno Digital Platform | StockTitan.net",
+          "url": "https://www.stocktitan.net/news/JKHY/three-financial-institutions-using-the-banno-digital-platform-m7cysu2fo6xh.html",
+          "shortened_url": "https://www.stocktitan.net/news/JKHY/three-financial-institutions-using-the-banno-digital-platform-m7cysu2fo6xh.html",
+          "shortened_expanded_url": "stocktitan.net/news/JKHY/th...",
+          "description": "MONETT, Mo., Oct. 21, 2020 -- Jack Henry & Associates, Inc.(R) (NASDAQ: JKHY) is a leading provider of technology solutions and payment processing services primarily for the financial services industry. Jack Henry Digital today announced that three financial institutions leveraging its Banno Digital Platform (TM) received 2020 WebAwards.",
+          "image": "https://static.stocktitan.net/company-logo/jkhy.png",
+          "created_at": "2020-10-21T12:01:13Z",
+          "video_url": null,
+          "source": {
+            "name": "Stocktitan",
+            "website": "https://www.stocktitan.net"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 251285084,
+      "body": "Jack Henry Joins ABA in Helping Bankers Promote Financial Inclusion http://www.conferencecalltranscripts.org/summary/?id=73164&amp;pr=true $JKHY",
+      "created_at": "2020-10-20T12:22:06Z",
+      "user": {
+        "id": 210967,
+        "username": "cctranscripts",
+        "name": "Conference Call Transcripts",
+        "avatar_url": "https://avatars.stocktwits.com/production/210967/thumb-1363372333.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/210967/thumb-1363372333.png",
+        "join_date": "2013-01-30",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 6343,
+        "following": 10,
+        "ideas": 2364577,
+        "watchlist_stocks_count": 0,
+        "like_count": 758,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1130,
+        "title": "cctranscripts",
+        "url": "http://conferencecalltranscripts.org"
+      },
+      "symbols": [
+        {
+          "id": 2396,
+          "symbol": "JKHY",
+          "title": "Jack Henry & Associates Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 474
+        }
+      ],
+      "links": [
+        {
+          "title": "Conference Call Transcripts",
+          "url": "http://www.conferencecalltranscripts.org/summary/?id=73164&pr=true",
+          "shortened_url": "http://www.conferencecalltranscripts.org/summary/?id=73164&pr=true",
+          "shortened_expanded_url": "conferencecalltranscripts.o...",
+          "description": "Get notified next time JKHY.US makes a similar move! MONETT, Mo., Oct. 20, 2020 /PRNewswire/ -- Jack Henry & Associates, Inc.\u00ae (NASDAQ: JKHY) is a leading provider of technology solutions and payment processing services primarily for the financial services industry. Its Jack Henry Banking\u00ae division announced today that, as part of an...]]> Read More...",
+          "image": null,
+          "created_at": "2020-10-20T12:22:07Z",
+          "video_url": null,
+          "source": {
+            "name": "Conferencecalltranscripts",
+            "website": "http://www.conferencecalltranscripts.org"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 251281187,
+      "body": "$JKHY Jack Henry Joins ABA in Helping Bankers Promote Financial Inclusion\nhttps://www.stocktitan.net/news/JKHY/jack-henry-joins-aba-in-helping-bankers-promote-financial-y3bh95d4lx43.html",
+      "created_at": "2020-10-20T12:01:05Z",
+      "user": {
+        "id": 3372441,
+        "username": "Stock_Titan",
+        "name": "StockTitan",
+        "avatar_url": "https://avatars.stocktwits.com/production/3372441/thumb-1588173612.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3372441/thumb-1588173612.png",
+        "join_date": "2020-04-28",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 452,
+        "following": 0,
+        "ideas": 28068,
+        "watchlist_stocks_count": 0,
+        "like_count": 0,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5677,
+        "title": "StockTitan",
+        "url": "https://stocktitan.net"
+      },
+      "symbols": [
+        {
+          "id": 2396,
+          "symbol": "JKHY",
+          "title": "Jack Henry & Associates Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 474
+        }
+      ],
+      "links": [
+        {
+          "title": "Jack Henry Joins ABA in Helping Bankers Promote Financial | StockTitan.net",
+          "url": "https://www.stocktitan.net/news/JKHY/jack-henry-joins-aba-in-helping-bankers-promote-financial-y3bh95d4lx43.html",
+          "shortened_url": "https://www.stocktitan.net/news/JKHY/jack-henry-joins-aba-in-helping-bankers-promote-financial-y3bh95d4lx43.html",
+          "shortened_expanded_url": "stocktitan.net/news/JKHY/ja...",
+          "description": "MONETT, Mo., Oct. 20, 2020 -- Jack Henry & Associates, Inc.(R) (NASDAQ: JKHY) is a leading provider of technology solutions and payment processing services primarily for the financial services industry. Its Jack Henry Banking (R) division announced today that, as part of an American Bankers Association (ABA) initiative, it has committed to equipping banks nationwide with Bank On-certified accounts.",
+          "image": "https://static.stocktitan.net/image/logo_v2_100x100.png",
+          "created_at": "2020-10-20T12:01:24Z",
+          "video_url": null,
+          "source": {
+            "name": "Stocktitan",
+            "website": "https://www.stocktitan.net"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 250242936,
+      "body": "United Texas Bank Selects Jack Henry to Continue Strong Growth with Efficiency http://www.conferencecalltranscripts.org/summary/?id=69743&amp;pr=true $JKHY",
+      "created_at": "2020-10-14T16:32:25Z",
+      "user": {
+        "id": 210967,
+        "username": "cctranscripts",
+        "name": "Conference Call Transcripts",
+        "avatar_url": "https://avatars.stocktwits.com/production/210967/thumb-1363372333.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/210967/thumb-1363372333.png",
+        "join_date": "2013-01-30",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 6342,
+        "following": 10,
+        "ideas": 2363035,
+        "watchlist_stocks_count": 0,
+        "like_count": 758,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1130,
+        "title": "cctranscripts",
+        "url": "http://conferencecalltranscripts.org"
+      },
+      "symbols": [
+        {
+          "id": 2396,
+          "symbol": "JKHY",
+          "title": "Jack Henry & Associates Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 475
+        }
+      ],
+      "links": [
+        {
+          "title": "Conference Call Transcripts",
+          "url": "http://www.conferencecalltranscripts.org/summary/?id=69743&pr=true",
+          "shortened_url": "http://www.conferencecalltranscripts.org/summary/?id=69743&pr=true",
+          "shortened_expanded_url": "conferencecalltranscripts.o...",
+          "description": "Get notified next time JKHY.US makes a similar move! MONETT, Mo., Oct. 14, 2020 /PRNewswire/ -- Jack Henry & Associates, Inc.\u00ae (NASDAQ:JKHY) is a leading provider of technology solutions and payment processing services primarily for the financial services industry. Its Jack Henry Banking\u00ae division announced today that it partnered with...]]> Read More...",
+          "image": null,
+          "created_at": "2020-10-14T16:32:25Z",
+          "video_url": null,
+          "source": {
+            "name": "Conferencecalltranscripts",
+            "website": "http://www.conferencecalltranscripts.org"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 250235964,
+      "body": "$JKHY: United Texas Bank Selects Jack Henry to Continue Strong Growth with Efficiency https://www.chartmill.com/stock/quote/JKHY/news?utm_source=stocktwits&amp;utm_medium=pressRelease&amp;utm_content=JKHY&amp;utm_campaign=social_tracking",
+      "created_at": "2020-10-14T16:11:00Z",
+      "user": {
+        "id": 47688,
+        "username": "ChartMill",
+        "name": "ChartMill",
+        "avatar_url": "https://avatars.stocktwits.com/production/47688/thumb-1363343728.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/47688/thumb-1363343728.png",
+        "join_date": "2011-01-26",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 22020,
+        "following": 891,
+        "ideas": 1094530,
+        "watchlist_stocks_count": 20,
+        "like_count": 32,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1135,
+        "title": "ChartMill",
+        "url": "http://www.chartmill.com"
+      },
+      "symbols": [
+        {
+          "id": 2396,
+          "symbol": "JKHY",
+          "title": "Jack Henry & Associates Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 475
+        }
+      ],
+      "links": [
+        {
+          "title": null,
+          "url": "https://www.chartmill.com/stock/quote/JKHY/news?utm_source=stocktwits&utm_medium=pressRelease&utm_content=JKHY&utm_campaign=social_tracking",
+          "shortened_url": "https://www.chartmill.com/stock/quote/JKHY/news?utm_source=stocktwits&utm_medium=pressRelease&utm_content=JKHY&utm_campaign=social_tracking",
+          "shortened_expanded_url": "chartmill.com/stock/quote/J...",
+          "description": null,
+          "image": null,
+          "created_at": "2020-10-14T16:11:00Z",
+          "video_url": null,
+          "source": {
+            "name": "Chartmill",
+            "website": "https://www.chartmill.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 250232115,
+      "body": "$JKHY NEW ARTICLE : United Texas Bank Selects Jack Henry to Continue Strong Growth with Efficiency https://www.stck.pro/news/JKHY/8467766",
+      "created_at": "2020-10-14T15:59:16Z",
+      "user": {
+        "id": 1555408,
+        "username": "STCKPRO",
+        "name": "STCK.PRO",
+        "avatar_url": "https://avatars.stocktwits.com/production/1555408/thumb-1576077822.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1555408/thumb-1576077822.png",
+        "join_date": "2018-07-24",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 4388,
+        "following": 2,
+        "ideas": 266991,
+        "watchlist_stocks_count": 18,
+        "like_count": 52,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5011,
+        "title": "STCK.PRO",
+        "url": "https://dashboard.stck.pro"
+      },
+      "symbols": [
+        {
+          "id": 2396,
+          "symbol": "JKHY",
+          "title": "Jack Henry & Associates Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 475
+        }
+      ],
+      "links": [
+        {
+          "title": "Jack Henry & Associates (JKHY)",
+          "url": "https://www.stck.pro/news/JKHY/8467766",
+          "shortened_url": "https://www.stck.pro/news/JKHY/8467766",
+          "shortened_expanded_url": "stck.pro/news/JKHY",
+          "description": "Never miss an important article again, stay on top of your investments and become a better investor today! Get your moat on and sync your watchlist with Stocktwits and get all the latest news for your symbols. Sync with Stocktwits",
+          "image": "https://www.stck.pro/img/imac.png",
+          "created_at": "2020-10-14T15:59:19Z",
+          "video_url": null,
+          "source": {
+            "name": "Stck",
+            "website": "https://www.stck.pro"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_250232115.jpg",
+          "large": "https://charts.stocktwits.com/production/large_250232115.jpg",
+          "original": "https://charts.stocktwits.com/production/original_250232115.jpg",
+          "url": "https://charts.stocktwits.com/production/original_250232115.jpg"
+        },
+        "sentiment": null
+      }
+    },
+    {
+      "id": 250227337,
+      "body": "$JKHY [15s. delayed]: Issued Press Release on October 14, 11:39:00: United Texas Bank Selects Jack Henry to Continue Strong Growth with Ef https://s.flashalert.me/a32YT",
+      "created_at": "2020-10-14T15:44:29Z",
+      "user": {
+        "id": 595702,
+        "username": "fla",
+        "name": "FlashAlert_me",
+        "avatar_url": "https://avatars.stocktwits.com/production/595702/thumb-1550769466.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/595702/thumb-1550769466.png",
+        "join_date": "2015-09-09",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 2656,
+        "following": 60,
+        "ideas": 716849,
+        "watchlist_stocks_count": 0,
+        "like_count": 4,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 4622,
+        "title": "FlashAlert",
+        "url": "https://flashalert.me/"
+      },
+      "symbols": [
+        {
+          "id": 2396,
+          "symbol": "JKHY",
+          "title": "Jack Henry & Associates Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 475
+        }
+      ],
+      "links": [
+        {
+          "title": "Flash Alert",
+          "url": "https://s.flashalert.me/a32YT",
+          "shortened_url": "https://s.flashalert.me/a32YT",
+          "shortened_expanded_url": "prnewswire.com:443/news-rel...",
+          "description": "Real-time alerts about equities, ETFs, cryptocurrencies and more sent to any device",
+          "image": null,
+          "created_at": "2020-10-14T15:44:29Z",
+          "video_url": null,
+          "source": {
+            "name": "Flashalert",
+            "website": "https://flashalert.me"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 250226983,
+      "body": "$JKHY United Texas Bank Selects Jack Henry to Continue Strong Growth with Efficiency https://www.otcdynamics.com/jkhy-united-texas-bank-selects-jack-henry-to-continue-strong-growth-with-efficiency",
+      "created_at": "2020-10-14T15:43:29Z",
+      "user": {
+        "id": 253206,
+        "username": "otcdynamics",
+        "name": "otcdynamics",
+        "avatar_url": "https://avatars.stocktwits.com/production/253206/thumb-1432182723.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/253206/thumb-1432182723.png",
+        "join_date": "2013-08-16",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 399,
+        "following": 0,
+        "ideas": 55168,
+        "watchlist_stocks_count": 0,
+        "like_count": 55,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5512,
+        "title": "project_n",
+        "url": "https://www.otcdynamics.com"
+      },
+      "symbols": [
+        {
+          "id": 2396,
+          "symbol": "JKHY",
+          "title": "Jack Henry & Associates Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 475
+        }
+      ],
+      "links": [
+        {
+          "title": "$JKHY United Texas Bank Selects Jack Henry to Continue Strong Growth with Efficiency",
+          "url": "https://www.otcdynamics.com/jkhy-united-texas-bank-selects-jack-henry-to-continue-strong-growth-with-efficiency",
+          "shortened_url": "https://www.otcdynamics.com/jkhy-united-texas-bank-selects-jack-henry-to-continue-strong-growth-with-efficiency",
+          "shortened_expanded_url": "otcdynamics.com/jkhy-united...",
+          "description": "MONETT, Mo., Oct. 14, 2020 /PRNewswire/ -- Jack Henry & Associates, Inc.\u00ae (NASDAQ:JKHY) is a leading provider of technology solutions and payment processing services primarily for the financial services industry. Its Jack Henry Banking\u00ae division announced today that it partnered with Dallas-based United Texas Bank (UTB) to provide the bank with its SilverLake System\u00ae core along with several additional Jack Henry digital, payments and complementary services.",
+          "image": null,
+          "created_at": "2020-10-14T15:43:30Z",
+          "video_url": null,
+          "source": {
+            "name": "Otcdynamics",
+            "website": "https://www.otcdynamics.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 250225656,
+      "body": "$JKHY United Texas Bank Selects Jack Henry to Continue Strong Growth with Efficiency\nhttps://www.stocktitan.net/news/JKHY/united-texas-bank-selects-jack-henry-to-continue-strong-growth-with-84g698jhbhqp.html",
+      "created_at": "2020-10-14T15:39:31Z",
+      "user": {
+        "id": 3372441,
+        "username": "Stock_Titan",
+        "name": "StockTitan",
+        "avatar_url": "https://avatars.stocktwits.com/production/3372441/thumb-1588173612.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3372441/thumb-1588173612.png",
+        "join_date": "2020-04-28",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 453,
+        "following": 0,
+        "ideas": 27628,
+        "watchlist_stocks_count": 0,
+        "like_count": 0,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5677,
+        "title": "StockTitan",
+        "url": "https://stocktitan.net"
+      },
+      "symbols": [
+        {
+          "id": 2396,
+          "symbol": "JKHY",
+          "title": "Jack Henry & Associates Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 475
+        }
+      ],
+      "links": [
+        {
+          "title": "United Texas Bank Selects Jack Henry to Continue Strong Growth | StockTitan.net",
+          "url": "https://www.stocktitan.net/news/JKHY/united-texas-bank-selects-jack-henry-to-continue-strong-growth-with-84g698jhbhqp.html",
+          "shortened_url": "https://www.stocktitan.net/news/JKHY/united-texas-bank-selects-jack-henry-to-continue-strong-growth-with-84g698jhbhqp.html",
+          "shortened_expanded_url": "stocktitan.net/news/JKHY/un...",
+          "description": "MONETT, Mo., Oct. 14, 2020 -- Jack Henry & Associates, Inc.(R) (NASDAQ:JKHY) is a leading provider of technology solutions and payment processing services primarily for the financial services industry. Its Jack Henry Banking(R) division announced today that it partnered with Dallas-based United Texas Bank (UTB) to provide the bank with its SilverLake System(R) core along with several additional Jack Henry digital, payments and complementary services.",
+          "image": "https://static.stocktitan.net/company-logo/jkhy.png",
+          "created_at": "2020-10-14T15:39:32Z",
+          "video_url": null,
+          "source": {
+            "name": "Stocktitan",
+            "website": "https://www.stocktitan.net"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 248909515,
+      "body": "$JKHY Got eyes on this one for an inverse head and shoulders fulfillment",
+      "created_at": "2020-10-08T01:07:23Z",
+      "user": {
+        "id": 1570586,
+        "username": "Invisshot",
+        "name": "M S",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2018-08-08",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 1,
+        "following": 6,
+        "ideas": 20,
+        "watchlist_stocks_count": 1,
+        "like_count": 285,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 2396,
+          "symbol": "JKHY",
+          "title": "Jack Henry & Associates Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 474
+        }
+      ],
+      "likes": {
+        "total": 2,
+        "user_ids": [
+          4028941,
+          2908704
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 248674306,
+      "body": "JackHenryAssociates $JKHY BidaskScore is Lowered to Sold https://bidaskclub.com/news/company/2020-10-06/JKHY",
+      "created_at": "2020-10-07T10:18:03Z",
+      "user": {
+        "id": 1177001,
+        "username": "BidaskBot",
+        "name": "BidaskBot",
+        "avatar_url": "https://avatars.stocktwits.com/production/1177001/thumb-1504377126.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1177001/thumb-1504377126.png",
+        "join_date": "2017-09-02",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 1053,
+        "following": 21,
+        "ideas": 67890,
+        "watchlist_stocks_count": 20,
+        "like_count": 1009,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 3725,
+        "title": "BidaskBot",
+        "url": "https://bidaskclub.com"
+      },
+      "symbols": [
+        {
+          "id": 2396,
+          "symbol": "JKHY",
+          "title": "Jack Henry & Associates Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 474
+        }
+      ],
+      "links": [
+        {
+          "title": "BidaskClub.com - See where people invest",
+          "url": "https://bidaskclub.com/news/company/2020-10-06/JKHY",
+          "shortened_url": "https://bidaskclub.com/news/company/2020-10-06/JKHY",
+          "shortened_expanded_url": "bidaskclub.com/news/company...",
+          "description": "Use the proprietary BidaskScore to see where people invest. Use the market heatmap and market screener to explore the US equity stock market",
+          "image": null,
+          "created_at": "2020-10-07T10:18:03Z",
+          "video_url": null,
+          "source": {
+            "name": "Bidaskclub",
+            "website": "https://bidaskclub.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_248674306.png",
+          "large": "https://charts.stocktwits.com/production/large_248674306.png",
+          "original": "https://charts.stocktwits.com/production/original_248674306.png",
+          "url": "https://charts.stocktwits.com/production/original_248674306.png"
+        },
+        "sentiment": null
+      }
+    },
+    {
+      "id": 248596832,
+      "body": "$JKHY [15s. delayed] filed SEC form 4: Senior Vice President Zengel Stacey E.: \nDelivered securities 137 of Common Stock at price $161.56  https://s.flashalert.me/OY42wZ",
+      "created_at": "2020-10-06T21:47:19Z",
+      "user": {
+        "id": 595702,
+        "username": "fla",
+        "name": "FlashAlert_me",
+        "avatar_url": "https://avatars.stocktwits.com/production/595702/thumb-1550769466.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/595702/thumb-1550769466.png",
+        "join_date": "2015-09-09",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 2656,
+        "following": 60,
+        "ideas": 717244,
+        "watchlist_stocks_count": 0,
+        "like_count": 4,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 4622,
+        "title": "FlashAlert",
+        "url": "https://flashalert.me/"
+      },
+      "symbols": [
+        {
+          "id": 2396,
+          "symbol": "JKHY",
+          "title": "Jack Henry & Associates Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 474
+        }
+      ],
+      "links": [
+        {
+          "title": "Flash Alert",
+          "url": "https://s.flashalert.me/OY42wZ",
+          "shortened_url": "https://s.flashalert.me/OY42wZ",
+          "shortened_expanded_url": "sec.gov/Archives/edgar/data...",
+          "description": "Real-time alerts about equities, ETFs, cryptocurrencies and more sent to any device",
+          "image": null,
+          "created_at": "2020-10-06T21:47:19Z",
+          "video_url": null,
+          "source": {
+            "name": "Flashalert",
+            "website": "https://flashalert.me"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 248593159,
+      "body": "$JKHY [15s. delayed] filed SEC form 4: Chief Financial Officer WILLIAMS KEVIN D: \nDelivered securities 493 of Common Stock at price $161.5 https://s.flashalert.me/Hj1QWu",
+      "created_at": "2020-10-06T21:33:28Z",
+      "user": {
+        "id": 595702,
+        "username": "fla",
+        "name": "FlashAlert_me",
+        "avatar_url": "https://avatars.stocktwits.com/production/595702/thumb-1550769466.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/595702/thumb-1550769466.png",
+        "join_date": "2015-09-09",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 2656,
+        "following": 60,
+        "ideas": 717323,
+        "watchlist_stocks_count": 0,
+        "like_count": 4,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 4622,
+        "title": "FlashAlert",
+        "url": "https://flashalert.me/"
+      },
+      "symbols": [
+        {
+          "id": 2396,
+          "symbol": "JKHY",
+          "title": "Jack Henry & Associates Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 474
+        }
+      ],
+      "links": [
+        {
+          "title": "Flash Alert",
+          "url": "https://s.flashalert.me/Hj1QWu",
+          "shortened_url": "https://s.flashalert.me/Hj1QWu",
+          "shortened_expanded_url": "sec.gov/Archives/edgar/data...",
+          "description": "Real-time alerts about equities, ETFs, cryptocurrencies and more sent to any device",
+          "image": null,
+          "created_at": "2020-10-06T21:33:29Z",
+          "video_url": null,
+          "source": {
+            "name": "Flashalert",
+            "website": "https://flashalert.me"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 248589987,
+      "body": "$JKHY [15s. delayed] filed SEC form 4: Senior Vice President Tomson Steven W.: \nDelivered securities 58 of Common Stock at price $161.56 a https://s.flashalert.me/y5Ov2Y",
+      "created_at": "2020-10-06T21:22:17Z",
+      "user": {
+        "id": 595702,
+        "username": "fla",
+        "name": "FlashAlert_me",
+        "avatar_url": "https://avatars.stocktwits.com/production/595702/thumb-1550769466.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/595702/thumb-1550769466.png",
+        "join_date": "2015-09-09",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 2656,
+        "following": 60,
+        "ideas": 717323,
+        "watchlist_stocks_count": 0,
+        "like_count": 4,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 4622,
+        "title": "FlashAlert",
+        "url": "https://flashalert.me/"
+      },
+      "symbols": [
+        {
+          "id": 2396,
+          "symbol": "JKHY",
+          "title": "Jack Henry & Associates Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 474
+        }
+      ],
+      "links": [
+        {
+          "title": "Flash Alert",
+          "url": "https://s.flashalert.me/y5Ov2Y",
+          "shortened_url": "https://s.flashalert.me/y5Ov2Y",
+          "shortened_expanded_url": "sec.gov/Archives/edgar/data...",
+          "description": "Real-time alerts about equities, ETFs, cryptocurrencies and more sent to any device",
+          "image": null,
+          "created_at": "2020-10-06T21:22:17Z",
+          "video_url": null,
+          "source": {
+            "name": "Flashalert",
+            "website": "https://flashalert.me"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 248587262,
+      "body": "$JKHY [15s. delayed] filed SEC form 4: General Counsel &amp; Secretary Morgan Craig Keith: \nDelivered securities 134 of Common Stock at price  https://s.flashalert.me/TyGek",
+      "created_at": "2020-10-06T21:12:22Z",
+      "user": {
+        "id": 595702,
+        "username": "fla",
+        "name": "FlashAlert_me",
+        "avatar_url": "https://avatars.stocktwits.com/production/595702/thumb-1550769466.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/595702/thumb-1550769466.png",
+        "join_date": "2015-09-09",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 2656,
+        "following": 60,
+        "ideas": 718796,
+        "watchlist_stocks_count": 0,
+        "like_count": 4,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 4622,
+        "title": "FlashAlert",
+        "url": "https://flashalert.me/"
+      },
+      "symbols": [
+        {
+          "id": 2396,
+          "symbol": "JKHY",
+          "title": "Jack Henry & Associates Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 474
+        }
+      ],
+      "links": [
+        {
+          "title": "Flash Alert",
+          "url": "https://s.flashalert.me/TyGek",
+          "shortened_url": "https://s.flashalert.me/TyGek",
+          "shortened_expanded_url": "sec.gov/Archives/edgar/data...",
+          "description": "Real-time alerts about equities, ETFs, cryptocurrencies and more sent to any device",
+          "image": null,
+          "created_at": "2020-10-06T21:12:23Z",
+          "video_url": null,
+          "source": {
+            "name": "Flashalert",
+            "website": "https://flashalert.me"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 248583588,
+      "body": "$JKHY [15s. delayed] filed SEC form 4: President &amp; CEO Foss David B: \nDelivered securities 1,774 of Common Stock at price $161.56 and Conv https://s.flashalert.me/SzzZA",
+      "created_at": "2020-10-06T21:00:10Z",
+      "user": {
+        "id": 595702,
+        "username": "fla",
+        "name": "FlashAlert_me",
+        "avatar_url": "https://avatars.stocktwits.com/production/595702/thumb-1550769466.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/595702/thumb-1550769466.png",
+        "join_date": "2015-09-09",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 2656,
+        "following": 60,
+        "ideas": 717323,
+        "watchlist_stocks_count": 0,
+        "like_count": 4,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 4622,
+        "title": "FlashAlert",
+        "url": "https://flashalert.me/"
+      },
+      "symbols": [
+        {
+          "id": 2396,
+          "symbol": "JKHY",
+          "title": "Jack Henry & Associates Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 474
+        }
+      ],
+      "links": [
+        {
+          "title": "Flash Alert",
+          "url": "https://s.flashalert.me/SzzZA",
+          "shortened_url": "https://s.flashalert.me/SzzZA",
+          "shortened_expanded_url": "sec.gov/Archives/edgar/data...",
+          "description": "Real-time alerts about equities, ETFs, cryptocurrencies and more sent to any device",
+          "image": null,
+          "created_at": "2020-10-06T21:00:11Z",
+          "video_url": null,
+          "source": {
+            "name": "Flashalert",
+            "website": "https://flashalert.me"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 248580064,
+      "body": "Jack Henry &amp; Associates&#39;s Senior Vice President &amp; CTO just picked up 186 shares  http://www.conferencecalltranscripts.org/4/summary2/?id=8424362 $JKHY",
+      "created_at": "2020-10-06T20:48:20Z",
+      "user": {
+        "id": 210967,
+        "username": "cctranscripts",
+        "name": "Conference Call Transcripts",
+        "avatar_url": "https://avatars.stocktwits.com/production/210967/thumb-1363372333.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/210967/thumb-1363372333.png",
+        "join_date": "2013-01-30",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 6339,
+        "following": 10,
+        "ideas": 2363335,
+        "watchlist_stocks_count": 0,
+        "like_count": 758,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1130,
+        "title": "cctranscripts",
+        "url": "http://conferencecalltranscripts.org"
+      },
+      "symbols": [
+        {
+          "id": 2396,
+          "symbol": "JKHY",
+          "title": "Jack Henry & Associates Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 474
+        }
+      ],
+      "links": [
+        {
+          "title": "Conference Call Transcripts",
+          "url": "http://www.conferencecalltranscripts.org/4/summary2/?id=8424362",
+          "shortened_url": "http://www.conferencecalltranscripts.org/4/summary2/?id=8424362",
+          "shortened_expanded_url": "conferencecalltranscripts.o...",
+          "description": "Get notified next time JKHY.US makes a similar move! Teddy I. Bilke, Jack Henry & Associates's Senior Vice President & CTO, recently acquired 186 shares of the company. The buys took place at prices ranging from $0.00 to $161.56 per share, on October 04, 2020. Bilke now owns 26,089 shares of the company.",
+          "image": null,
+          "created_at": "2020-10-06T20:48:20Z",
+          "video_url": null,
+          "source": {
+            "name": "Conferencecalltranscripts",
+            "website": "http://www.conferencecalltranscripts.org"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 248579657,
+      "body": "$JKHY [15s. delayed] filed SEC form 4: Senior Vice President &amp; CTO Bilke Teddy I.: \nDelivered securities 121 of Common Stock at price $161 https://s.flashalert.me/8YPMm",
+      "created_at": "2020-10-06T20:47:04Z",
+      "user": {
+        "id": 595702,
+        "username": "fla",
+        "name": "FlashAlert_me",
+        "avatar_url": "https://avatars.stocktwits.com/production/595702/thumb-1550769466.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/595702/thumb-1550769466.png",
+        "join_date": "2015-09-09",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 2656,
+        "following": 60,
+        "ideas": 717323,
+        "watchlist_stocks_count": 0,
+        "like_count": 4,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 4622,
+        "title": "FlashAlert",
+        "url": "https://flashalert.me/"
+      },
+      "symbols": [
+        {
+          "id": 2396,
+          "symbol": "JKHY",
+          "title": "Jack Henry & Associates Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 474
+        }
+      ],
+      "links": [
+        {
+          "title": "Flash Alert",
+          "url": "https://s.flashalert.me/8YPMm",
+          "shortened_url": "https://s.flashalert.me/8YPMm",
+          "shortened_expanded_url": "sec.gov/Archives/edgar/data...",
+          "description": "Real-time alerts about equities, ETFs, cryptocurrencies and more sent to any device",
+          "image": null,
+          "created_at": "2020-10-06T20:47:04Z",
+          "video_url": null,
+          "source": {
+            "name": "Flashalert",
+            "website": "https://flashalert.me"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 248577979,
+      "body": "$JKHY: New SEC filing on Senior Vice President, RUSSELL L. BERNTHAL: https://www.sec.gov/Archives/edgar/data/779152/000077915220000088/xslF345X03/primary_doc.xml",
+      "created_at": "2020-10-06T20:42:03Z",
+      "user": {
+        "id": 1606168,
+        "username": "FilingsVille",
+        "name": "Filings Ville",
+        "avatar_url": "https://avatars.stocktwits.com/production/1606168/thumb-1589354235.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1606168/thumb-1589354235.png",
+        "join_date": "2018-09-11",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 207,
+        "following": 0,
+        "ideas": 21468,
+        "watchlist_stocks_count": 0,
+        "like_count": 0,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 4346,
+        "title": "Filings Ville",
+        "url": "https://example.com"
+      },
+      "symbols": [
+        {
+          "id": 2396,
+          "symbol": "JKHY",
+          "title": "Jack Henry & Associates Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 474
+        }
+      ],
+      "links": [
+        {
+          "title": "SEC FORM 4",
+          "url": "https://www.sec.gov/Archives/edgar/data/779152/000077915220000088/xslF345X03/primary_doc.xml",
+          "shortened_url": "https://www.sec.gov/Archives/edgar/data/779152/000077915220000088/xslF345X03/primary_doc.xml",
+          "shortened_expanded_url": "sec.gov/Archives/edgar/data...",
+          "description": "Signature of Reporting Person Date Reminder: Report on a separate line for each class of securities beneficially owned directly or indirectly. * If the form is filed by more than one reporting person, see Instruction 4 (b)(v). ** Intentional misstatements or omissions of facts constitute Federal Criminal Violations See 18 U.S.C.",
+          "image": null,
+          "created_at": "2020-10-06T20:42:03Z",
+          "video_url": null,
+          "source": {
+            "name": "Sec",
+            "website": "https://www.sec.gov"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 248574431,
+      "body": "Jack Henry &amp; Associates&#39;s Senior Vice President just picked up 185 shares  http://www.conferencecalltranscripts.org/4/summary/?id=8424210 $JKHY",
+      "created_at": "2020-10-06T20:31:33Z",
+      "user": {
+        "id": 210967,
+        "username": "cctranscripts",
+        "name": "Conference Call Transcripts",
+        "avatar_url": "https://avatars.stocktwits.com/production/210967/thumb-1363372333.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/210967/thumb-1363372333.png",
+        "join_date": "2013-01-30",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 6343,
+        "following": 10,
+        "ideas": 2364663,
+        "watchlist_stocks_count": 0,
+        "like_count": 758,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1130,
+        "title": "cctranscripts",
+        "url": "http://conferencecalltranscripts.org"
+      },
+      "symbols": [
+        {
+          "id": 2396,
+          "symbol": "JKHY",
+          "title": "Jack Henry & Associates Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 474
+        }
+      ],
+      "links": [
+        {
+          "title": "Conference Call Transcripts",
+          "url": "http://www.conferencecalltranscripts.org/4/summary/?id=8424210",
+          "shortened_url": "http://www.conferencecalltranscripts.org/4/summary/?id=8424210",
+          "shortened_expanded_url": "conferencecalltranscripts.o...",
+          "description": "Get notified next time JKHY.US makes a similar move! Russell L. Bernthal, Jack Henry & Associates's Senior Vice President, recently acquired 185 shares of the company. The buys took place at prices ranging from $0.00 to $161.56 per share, on October 04, 2020. Bernthal now owns 7,439 shares of the company.",
+          "image": null,
+          "created_at": "2020-10-06T20:31:33Z",
+          "video_url": null,
+          "source": {
+            "name": "Conferencecalltranscripts",
+            "website": "http://www.conferencecalltranscripts.org"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    }
+  ]
+}

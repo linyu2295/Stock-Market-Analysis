@@ -1,0 +1,1597 @@
+{
+  "response": {
+    "status": 200
+  },
+  "symbol": {
+    "id": 686,
+    "symbol": "AAPL",
+    "title": "Apple Inc.",
+    "aliases": [],
+    "is_following": false,
+    "watchlist_count": 524212
+  },
+  "cursor": {
+    "more": true,
+    "since": 253543817,
+    "max": 253541209
+  },
+  "messages": [
+    {
+      "id": 253543817,
+      "body": "$AAPL what a Black Friday",
+      "created_at": "2020-10-30T14:47:30Z",
+      "user": {
+        "id": 2802984,
+        "username": "Jeriyi",
+        "name": "Jerri",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2019-09-11",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 0,
+        "following": 1,
+        "ideas": 212,
+        "watchlist_stocks_count": 3,
+        "like_count": 125,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 686,
+          "symbol": "AAPL",
+          "title": "Apple Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 524212
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253543794,
+      "body": "BULLISH SENTIMENT in $AAPL Feb-19 calls at $130 strike price. 10K contracts, $3.2M premium.  https://www.swaggystocks.com/dashboard/stocklabs/option-flow/AAPL",
+      "created_at": "2020-10-30T14:47:27Z",
+      "user": {
+        "id": 2138883,
+        "username": "SwaggyStocks",
+        "name": "Swaggy Stocks",
+        "avatar_url": "https://avatars.stocktwits.com/production/2138883/thumb-1587860115.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2138883/thumb-1587860115.png",
+        "join_date": "2019-06-13",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 851,
+        "following": 1,
+        "ideas": 5754,
+        "watchlist_stocks_count": 8,
+        "like_count": 55,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5403,
+        "title": "SwaggyStocks",
+        "url": "https://www.swaggystocks.com"
+      },
+      "symbols": [
+        {
+          "id": 686,
+          "symbol": "AAPL",
+          "title": "Apple Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 524212
+        }
+      ],
+      "links": [
+        {
+          "title": "Swaggy Stocks",
+          "url": "https://www.swaggystocks.com/dashboard/stocklabs/option-flow/AAPL",
+          "shortened_url": "https://www.swaggystocks.com/dashboard/stocklabs/option-flow/AAPL",
+          "shortened_expanded_url": "swaggystocks.com/dashboard/...",
+          "description": null,
+          "image": null,
+          "created_at": "2020-10-30T14:47:30Z",
+          "video_url": null,
+          "source": {
+            "name": "Swaggystocks",
+            "website": "https://www.swaggystocks.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253543772,
+      "body": "$AAPL lets see $105 babe , looking to load. $100. Would be a gift.",
+      "created_at": "2020-10-30T14:47:25Z",
+      "user": {
+        "id": 3987684,
+        "username": "JayVegas",
+        "name": "James Pollock",
+        "avatar_url": "https://avatars.stocktwits.com/production/3987684/thumb-1600230425.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3987684/thumb-1600230425.png",
+        "join_date": "2020-08-22",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 3,
+        "following": 19,
+        "ideas": 84,
+        "watchlist_stocks_count": 74,
+        "like_count": 165,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 686,
+          "symbol": "AAPL",
+          "title": "Apple Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 524212
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253543718,
+      "body": "$AMZN $AAPL $MSFT $PYPL $SQ Holding all shares through this insanity. When this uncertainty ends, they will resurge.  Bullish longer term.",
+      "created_at": "2020-10-30T14:47:19Z",
+      "user": {
+        "id": 3645745,
+        "username": "floridagirltrades",
+        "name": "Florida Girl",
+        "avatar_url": "https://avatars.stocktwits.com/production/3645745/thumb-1596470747.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3645745/thumb-1596470747.png",
+        "join_date": "2020-06-17",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 45,
+        "following": 70,
+        "ideas": 457,
+        "watchlist_stocks_count": 10,
+        "like_count": 1311,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 686,
+          "symbol": "AAPL",
+          "title": "Apple Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 524212
+        },
+        {
+          "id": 864,
+          "symbol": "AMZN",
+          "title": "Amazon.com Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 346009
+        },
+        {
+          "id": 2735,
+          "symbol": "MSFT",
+          "title": "Microsoft Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 266586
+        },
+        {
+          "id": 7991,
+          "symbol": "SQ",
+          "title": "Square",
+          "aliases": [
+            "SQUARE"
+          ],
+          "is_following": false,
+          "watchlist_count": 106965
+        },
+        {
+          "id": 12608,
+          "symbol": "PYPL",
+          "title": "PayPal",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 63198
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          3712248
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 253543648,
+      "body": "$AAPL that was The historical dip! Do not wait 105 !",
+      "created_at": "2020-10-30T14:47:11Z",
+      "user": {
+        "id": 3958168,
+        "username": "Yenerlast",
+        "name": "Yenerlast",
+        "avatar_url": "https://avatars.stocktwits.com/production/3958168/thumb-1600590123.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3958168/thumb-1600590123.png",
+        "join_date": "2020-08-15",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 1,
+        "following": 19,
+        "ideas": 90,
+        "watchlist_stocks_count": 7,
+        "like_count": 189,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 686,
+          "symbol": "AAPL",
+          "title": "Apple Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 524212
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 253543627,
+      "body": "$AAPL NEW ARTICLE : Apple&#39;s iPhone 12 delay knocks more than $100 billion off market cap https://www.stck.pro/news/AAPL/8841897",
+      "created_at": "2020-10-30T14:47:08Z",
+      "user": {
+        "id": 1555408,
+        "username": "STCKPRO",
+        "name": "STCK.PRO",
+        "avatar_url": "https://avatars.stocktwits.com/production/1555408/thumb-1576077822.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1555408/thumb-1576077822.png",
+        "join_date": "2018-07-24",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 4373,
+        "following": 2,
+        "ideas": 265380,
+        "watchlist_stocks_count": 18,
+        "like_count": 52,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5011,
+        "title": "STCK.PRO",
+        "url": "https://dashboard.stck.pro"
+      },
+      "symbols": [
+        {
+          "id": 686,
+          "symbol": "AAPL",
+          "title": "Apple Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 524212
+        }
+      ],
+      "links": [
+        {
+          "title": "Apple (AAPL)",
+          "url": "https://www.stck.pro/news/AAPL/8841897",
+          "shortened_url": "https://www.stck.pro/news/AAPL/8841897",
+          "shortened_expanded_url": "stck.pro/news/AAPL",
+          "description": "Description : Apple, Inc. engages in the design, manufacture, and sale of smartphones, personal computers, tablets, wearables and accessories, and other variety of related services. It operates through the following geographical segments: Americas, Europe, Greater China, Japan, and Rest of Asia Pacific. The Americas segment includes North and South America.",
+          "image": "https://www.stck.pro/img/imac.png",
+          "created_at": "2020-10-30T14:47:09Z",
+          "video_url": null,
+          "source": {
+            "name": "Stck",
+            "website": "https://www.stck.pro"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_253543627.jpg",
+          "large": "https://charts.stocktwits.com/production/large_253543627.jpg",
+          "original": "https://charts.stocktwits.com/production/original_253543627.jpg",
+          "url": "https://charts.stocktwits.com/production/original_253543627.jpg"
+        },
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253543593,
+      "body": "$IPOB all this because $AAPL earnings? Bullshit. This was all preplanned and cooked up by Einhorn Chanos Paulson and friends. They are going to get face ripped 1 last time. I hope $FB $AAPL and $AMZN all debt finance the buyback of $15B in shares, essentially creating $45B out of thin air to fight them.",
+      "created_at": "2020-10-30T14:47:04Z",
+      "user": {
+        "id": 2894323,
+        "username": "olddumper",
+        "name": "Luke",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2019-11-01",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 45,
+        "following": 10,
+        "ideas": 4154,
+        "watchlist_stocks_count": 12,
+        "like_count": 2759,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 686,
+          "symbol": "AAPL",
+          "title": "Apple Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 524212
+        },
+        {
+          "id": 864,
+          "symbol": "AMZN",
+          "title": "Amazon.com Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 346009
+        },
+        {
+          "id": 7871,
+          "symbol": "FB",
+          "title": "Facebook",
+          "aliases": [
+            "FBOOK"
+          ],
+          "is_following": false,
+          "watchlist_count": 325559
+        },
+        {
+          "id": 15602,
+          "symbol": "IPOB",
+          "title": "Social Capital Hedosophia Holdings II",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 7747
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 253543584,
+      "body": "$TSLA SO FUNNY ISNT IT \n\n$SPY $AAPL",
+      "created_at": "2020-10-30T14:47:02Z",
+      "user": {
+        "id": 1438181,
+        "username": "the_algo",
+        "name": "The Algorithm",
+        "avatar_url": "https://avatars.stocktwits.com/production/1438181/thumb-1589749592.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1438181/thumb-1589749592.png",
+        "join_date": "2018-03-09",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 5434,
+        "following": 26,
+        "ideas": 10464,
+        "watchlist_stocks_count": 38,
+        "like_count": 9031,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 686,
+          "symbol": "AAPL",
+          "title": "Apple Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 524212
+        },
+        {
+          "id": 7271,
+          "symbol": "SPY",
+          "title": "SPDR S&P 500",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 265967
+        },
+        {
+          "id": 8660,
+          "symbol": "TSLA",
+          "title": "Tesla, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 469086
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_253543584.png",
+          "large": "https://charts.stocktwits.com/production/large_253543584.png",
+          "original": "https://charts.stocktwits.com/production/original_253543584.png",
+          "url": "https://charts.stocktwits.com/production/original_253543584.png"
+        },
+        "sentiment": {
+          "basic": "Bearish"
+        }
+      }
+    },
+    {
+      "id": 253543512,
+      "body": "$AAPL honestly not saying it\u2019s gonna happen but it could possibly close near 115 end of day... just saying",
+      "created_at": "2020-10-30T14:46:52Z",
+      "user": {
+        "id": 806916,
+        "username": "jwolf1031",
+        "name": "JC",
+        "avatar_url": "https://avatars.stocktwits.com/production/806916/thumb-1510081700.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/806916/thumb-1510081700.png",
+        "join_date": "2016-07-29",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 21,
+        "following": 85,
+        "ideas": 673,
+        "watchlist_stocks_count": 31,
+        "like_count": 39,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 686,
+          "symbol": "AAPL",
+          "title": "Apple Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 524212
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 253543359,
+      "body": "$AAPL me buying calls two days ago",
+      "created_at": "2020-10-30T14:46:31Z",
+      "user": {
+        "id": 3015667,
+        "username": "evan777",
+        "name": "Evan",
+        "avatar_url": "https://avatars.stocktwits.com/production/3015667/thumb-1597892471.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3015667/thumb-1597892471.png",
+        "join_date": "2020-01-09",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 8,
+        "following": 32,
+        "ideas": 536,
+        "watchlist_stocks_count": 273,
+        "like_count": 255,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2095,
+        "title": "StockTwits For Android ",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 686,
+          "symbol": "AAPL",
+          "title": "Apple Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 524212
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "giphy": {
+          "id": "x0npYExCGOZeo"
+        },
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253543291,
+      "body": "$AAPL brace for impact",
+      "created_at": "2020-10-30T14:46:20Z",
+      "user": {
+        "id": 4059685,
+        "username": "steadygents",
+        "name": "Lloyd Winter",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2020-09-09",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 0,
+        "following": 0,
+        "ideas": 119,
+        "watchlist_stocks_count": 2,
+        "like_count": 40,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 686,
+          "symbol": "AAPL",
+          "title": "Apple Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 524212
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253543260,
+      "body": "$AAPL just sell",
+      "created_at": "2020-10-30T14:46:16Z",
+      "user": {
+        "id": 3967761,
+        "username": "Veztek",
+        "name": "Jesse",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2020-08-18",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 1,
+        "following": 1,
+        "ideas": 165,
+        "watchlist_stocks_count": 31,
+        "like_count": 59,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 686,
+          "symbol": "AAPL",
+          "title": "Apple Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 524212
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          1718474
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bearish"
+        }
+      }
+    },
+    {
+      "id": 253543190,
+      "body": "$AAPL back to 60s where it belongs few months ago",
+      "created_at": "2020-10-30T14:46:06Z",
+      "user": {
+        "id": 1283543,
+        "username": "NiuNiuForever",
+        "name": "Eric",
+        "avatar_url": "https://avatars.stocktwits.com/production/1283543/thumb-1512746719.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1283543/thumb-1512746719.png",
+        "join_date": "2017-11-26",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 1,
+        "following": 15,
+        "ideas": 151,
+        "watchlist_stocks_count": 157,
+        "like_count": 215,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 686,
+          "symbol": "AAPL",
+          "title": "Apple Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 524212
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bearish"
+        }
+      }
+    },
+    {
+      "id": 253543124,
+      "body": "$AAPL very much an overreaction here. Extremely oversold.",
+      "created_at": "2020-10-30T14:45:59Z",
+      "user": {
+        "id": 545015,
+        "username": "NewYorkerHK",
+        "name": "New York Guy",
+        "avatar_url": "https://avatars.stocktwits.com/production/545015/thumb-1523833883.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/545015/thumb-1523833883.png",
+        "join_date": "2015-07-06",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 50,
+        "following": 20,
+        "ideas": 4298,
+        "watchlist_stocks_count": 18,
+        "like_count": 4068,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 686,
+          "symbol": "AAPL",
+          "title": "Apple Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 524212
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 253543070,
+      "body": "$AAPL so far 20DMA =107.91\n21 EMA=105.95\nnext leve is 103.10\nnot saying we see these levels,jmo",
+      "created_at": "2020-10-30T14:45:53Z",
+      "user": {
+        "id": 3713217,
+        "username": "1857chevy",
+        "name": "billy shevitz",
+        "avatar_url": "https://avatars.stocktwits.com/production/3713217/thumb-1602458358.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3713217/thumb-1602458358.png",
+        "join_date": "2020-06-30",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 13,
+        "following": 4,
+        "ideas": 4146,
+        "watchlist_stocks_count": 1,
+        "like_count": 3004,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 686,
+          "symbol": "AAPL",
+          "title": "Apple Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 524212
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253542921,
+      "body": "#Apple Shares Tumble Despite Record Quarter $AAPL https://talkmarkets.com/content/stocks--equities/apple-shares-tumble-despite-record-quarter?post=283566",
+      "created_at": "2020-10-30T14:45:31Z",
+      "user": {
+        "id": 296805,
+        "username": "TalkMarkets",
+        "name": "TalkMarkets",
+        "avatar_url": "https://avatars.stocktwits.com/production/296805/thumb-1388900805.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/296805/thumb-1388900805.png",
+        "join_date": "2014-01-05",
+        "official": true,
+        "identity": "Official",
+        "classification": [
+          "official"
+        ],
+        "followers": 28943,
+        "following": 328,
+        "ideas": 262095,
+        "watchlist_stocks_count": 0,
+        "like_count": 412,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1644,
+        "title": "TalkMarkets",
+        "url": "http://talkmarkets.com"
+      },
+      "symbols": [
+        {
+          "id": 686,
+          "symbol": "AAPL",
+          "title": "Apple Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 524212
+        }
+      ],
+      "links": [
+        {
+          "title": "Apple Shares Tumble Despite Record Quarter",
+          "url": "https://talkmarkets.com/content/stocks--equities/apple-shares-tumble-despite-record-quarter?post=283566",
+          "shortened_url": "https://talkmarkets.com/content/stocks--equities/apple-shares-tumble-despite-record-quarter?post=283566",
+          "shortened_expanded_url": "talkmarkets.com/content/sto...",
+          "description": "Shares of Apple ( AAPL) declined after hours as the company revealed earnings for its fourth quarter of the fiscal year ended September 30th. Despite a record quarter in terms of revenue ($64.7 billion), investors' disappointment comes from iPhone sales missed and a declining Chinese market share that came at multiyear lows.",
+          "image": "https://imgsrv.igms.io/smartcrop?width=750&height=400&url=https://vantagepointtrading.com/wp-content/uploads/2020/10/12_Featured_Image-6.jpg",
+          "created_at": "2020-10-30T14:45:36Z",
+          "video_url": null,
+          "source": {
+            "name": "TalkMarkets",
+            "website": "https://talkmarkets.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253542912,
+      "body": "BULLS! do you see what i see? It&#39;s SUCCESS! $AAPL",
+      "created_at": "2020-10-30T14:45:31Z",
+      "user": {
+        "id": 4156197,
+        "username": "flgmndieaczqezk377",
+        "name": "flgmndie aczqezk",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2020-10-07",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 0,
+        "following": 0,
+        "ideas": 7,
+        "watchlist_stocks_count": 0,
+        "like_count": 0,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 686,
+          "symbol": "AAPL",
+          "title": "Apple Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 524212
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 253542885,
+      "body": "$AAPL Trump DOWN in every poll and thats coming from fox News...let the depression begin",
+      "created_at": "2020-10-30T14:45:27Z",
+      "user": {
+        "id": 318793,
+        "username": "cshe14",
+        "name": "cshe14",
+        "avatar_url": "https://avatars.stocktwits.com/production/318793/thumb-1516426779.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/318793/thumb-1516426779.png",
+        "join_date": "2014-02-22",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 157,
+        "following": 155,
+        "ideas": 6059,
+        "watchlist_stocks_count": 68,
+        "like_count": 1397,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2095,
+        "title": "StockTwits For Android ",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 686,
+          "symbol": "AAPL",
+          "title": "Apple Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 524212
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 253542885,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "likes": {
+        "total": 3,
+        "user_ids": [
+          1101577,
+          946910,
+          3418579
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bearish"
+        }
+      }
+    },
+    {
+      "id": 253542598,
+      "body": "$AAPL waiting for $105 to buy!",
+      "created_at": "2020-10-30T14:44:50Z",
+      "user": {
+        "id": 4143065,
+        "username": "boschest",
+        "name": "Bosco",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2020-10-04",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 1,
+        "following": 0,
+        "ideas": 87,
+        "watchlist_stocks_count": 35,
+        "like_count": 70,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2095,
+        "title": "StockTwits For Android ",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 686,
+          "symbol": "AAPL",
+          "title": "Apple Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 524212
+        }
+      ],
+      "likes": {
+        "total": 2,
+        "user_ids": [
+          3987684,
+          1101577
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 253542392,
+      "body": "$AAPL short PT 105",
+      "created_at": "2020-10-30T14:44:24Z",
+      "user": {
+        "id": 3090869,
+        "username": "EllisDillinger",
+        "name": "Ellis Dillinger",
+        "avatar_url": "https://avatars.stocktwits.com/production/3090869/thumb-1594602562.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3090869/thumb-1594602562.png",
+        "join_date": "2020-02-12",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 18,
+        "following": 45,
+        "ideas": 570,
+        "watchlist_stocks_count": 7,
+        "like_count": 73,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 686,
+          "symbol": "AAPL",
+          "title": "Apple Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 524212
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          3708676
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253542282,
+      "body": "$AAPL $TSLA ...I did it, had to do it. Bought more at these prices...",
+      "created_at": "2020-10-30T14:44:06Z",
+      "user": {
+        "id": 3555943,
+        "username": "MoneyNeverSleepzzz",
+        "name": "#DocDayTrades",
+        "avatar_url": "https://avatars.stocktwits.com/production/3555943/thumb-1591319680.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3555943/thumb-1591319680.png",
+        "join_date": "2020-06-05",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 5,
+        "following": 68,
+        "ideas": 415,
+        "watchlist_stocks_count": 109,
+        "like_count": 200,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 686,
+          "symbol": "AAPL",
+          "title": "Apple Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 524212
+        },
+        {
+          "id": 8660,
+          "symbol": "TSLA",
+          "title": "Tesla, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 469086
+        }
+      ],
+      "likes": {
+        "total": 3,
+        "user_ids": [
+          246833,
+          3987684,
+          3975940
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 253542230,
+      "body": "$AAPL Chart of current Bear Mkt and where it needs to go..",
+      "created_at": "2020-10-30T14:43:59Z",
+      "user": {
+        "id": 1718474,
+        "username": "Jake1974",
+        "name": "Jake",
+        "avatar_url": "https://avatars.stocktwits.com/production/1718474/thumb-1542486595.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1718474/thumb-1542486595.png",
+        "join_date": "2018-11-17",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 4,
+        "following": 3,
+        "ideas": 184,
+        "watchlist_stocks_count": 17,
+        "like_count": 119,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 686,
+          "symbol": "AAPL",
+          "title": "Apple Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 524212
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          1283543
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_253542230.png",
+          "large": "https://charts.stocktwits.com/production/large_253542230.png",
+          "original": "https://charts.stocktwits.com/production/original_253542230.png",
+          "url": "https://charts.stocktwits.com/production/original_253542230.png"
+        },
+        "sentiment": {
+          "basic": "Bearish"
+        }
+      }
+    },
+    {
+      "id": 253541994,
+      "body": "$AAPL let\u2019s seat tight go......\ud83d\ude80\ud83d\ude80\ud83d\ude80",
+      "created_at": "2020-10-30T14:43:29Z",
+      "user": {
+        "id": 3479371,
+        "username": "Laurence0711",
+        "name": "Laurence",
+        "avatar_url": "https://avatars.stocktwits.com/production/3479371/thumb-1590604662.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3479371/thumb-1590604662.png",
+        "join_date": "2020-05-19",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 3,
+        "following": 0,
+        "ideas": 99,
+        "watchlist_stocks_count": 9,
+        "like_count": 362,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 686,
+          "symbol": "AAPL",
+          "title": "Apple Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 524212
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 253541931,
+      "body": "$AAPL 115 eod",
+      "created_at": "2020-10-30T14:43:19Z",
+      "user": {
+        "id": 3578671,
+        "username": "Stock_Holliday",
+        "name": "Doc",
+        "avatar_url": "https://avatars.stocktwits.com/production/3578671/thumb-1593014503.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3578671/thumb-1593014503.png",
+        "join_date": "2020-06-08",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 33,
+        "following": 28,
+        "ideas": 1557,
+        "watchlist_stocks_count": 33,
+        "like_count": 3999,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2095,
+        "title": "StockTwits For Android ",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 686,
+          "symbol": "AAPL",
+          "title": "Apple Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 524212
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 253541931,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "likes": {
+        "total": 3,
+        "user_ids": [
+          307831,
+          659015,
+          3084945
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 253541820,
+      "body": "$AAPL Biden is going to wreck it folks.",
+      "created_at": "2020-10-30T14:43:07Z",
+      "user": {
+        "id": 307831,
+        "username": "JohnTrades00",
+        "name": "John",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2014-02-01",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 225,
+        "following": 33,
+        "ideas": 15252,
+        "watchlist_stocks_count": 170,
+        "like_count": 17358,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 686,
+          "symbol": "AAPL",
+          "title": "Apple Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 524212
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 253541820,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253541568,
+      "body": "$AAPL CNBC only blames Apple for the sell off, so laughable !",
+      "created_at": "2020-10-30T14:42:35Z",
+      "user": {
+        "id": 191141,
+        "username": "Sweetaapl",
+        "name": "Jilda Kestekian",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2012-10-25",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 28,
+        "following": 30,
+        "ideas": 5034,
+        "watchlist_stocks_count": 38,
+        "like_count": 3904,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 686,
+          "symbol": "AAPL",
+          "title": "Apple Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 524212
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253541343,
+      "body": "$AAPL penny hoarders",
+      "created_at": "2020-10-30T14:42:07Z",
+      "user": {
+        "id": 315311,
+        "username": "Deristocks",
+        "name": "DERI Stocks",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2014-02-15",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 18,
+        "following": 20,
+        "ideas": 2757,
+        "watchlist_stocks_count": 115,
+        "like_count": 1074,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 686,
+          "symbol": "AAPL",
+          "title": "Apple Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 524212
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_253541343.png",
+          "large": "https://charts.stocktwits.com/production/large_253541343.png",
+          "original": "https://charts.stocktwits.com/production/original_253541343.png",
+          "url": "https://charts.stocktwits.com/production/original_253541343.png"
+        },
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253541247,
+      "body": "$AAPL Fock Apple time for a reality check then reverse that split",
+      "created_at": "2020-10-30T14:41:54Z",
+      "user": {
+        "id": 1808730,
+        "username": "raininglambos",
+        "name": "Easy Money",
+        "avatar_url": "https://avatars.stocktwits.com/production/1808730/thumb-1576208801.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1808730/thumb-1576208801.png",
+        "join_date": "2019-01-14",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 26,
+        "following": 9,
+        "ideas": 3780,
+        "watchlist_stocks_count": 41,
+        "like_count": 2770,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 686,
+          "symbol": "AAPL",
+          "title": "Apple Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 524212
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253541235,
+      "body": "$AAPL PE of 34 will eventually have a PE of 8 like INTC. Bear mkts correct these mistakes..",
+      "created_at": "2020-10-30T14:41:53Z",
+      "user": {
+        "id": 1718474,
+        "username": "Jake1974",
+        "name": "Jake",
+        "avatar_url": "https://avatars.stocktwits.com/production/1718474/thumb-1542486595.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1718474/thumb-1542486595.png",
+        "join_date": "2018-11-17",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 4,
+        "following": 3,
+        "ideas": 184,
+        "watchlist_stocks_count": 17,
+        "like_count": 119,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 686,
+          "symbol": "AAPL",
+          "title": "Apple Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 524212
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bearish"
+        }
+      }
+    },
+    {
+      "id": 253541209,
+      "body": "$AAPL $NCLH \n\nAction movement is identical in these 2 absolutely different Stocks. MM doing it. Interesting to see after the election.",
+      "created_at": "2020-10-30T14:41:50Z",
+      "user": {
+        "id": 224999,
+        "username": "namelesstrade",
+        "name": "Nameless",
+        "avatar_url": "https://avatars.stocktwits.com/production/224999/thumb-1369370235.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/224999/thumb-1369370235.png",
+        "join_date": "2013-04-06",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 36,
+        "following": 46,
+        "ideas": 1199,
+        "watchlist_stocks_count": 104,
+        "like_count": 1704,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 686,
+          "symbol": "AAPL",
+          "title": "Apple Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 524212
+        },
+        {
+          "id": 9654,
+          "symbol": "NCLH",
+          "title": "Norwegian Cruise Lines",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 29830
+        }
+      ],
+      "likes": {
+        "total": 2,
+        "user_ids": [
+          3474055,
+          896448
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_253541209.png",
+          "large": "https://charts.stocktwits.com/production/large_253541209.png",
+          "original": "https://charts.stocktwits.com/production/original_253541209.png",
+          "url": "https://charts.stocktwits.com/production/original_253541209.png"
+        },
+        "sentiment": null
+      }
+    }
+  ]
+}

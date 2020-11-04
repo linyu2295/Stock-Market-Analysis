@@ -1,0 +1,1800 @@
+{
+  "response": {
+    "status": 200
+  },
+  "symbol": {
+    "id": 5281,
+    "symbol": "F",
+    "title": "Ford Motor Co.",
+    "aliases": [],
+    "is_following": false,
+    "watchlist_count": 97839
+  },
+  "cursor": {
+    "more": true,
+    "since": 253256091,
+    "max": 253246463
+  },
+  "messages": [
+    {
+      "id": 253256091,
+      "body": "$F C\u2019monnnnnnnnnnnn upgrades.......",
+      "created_at": "2020-10-29T14:40:05Z",
+      "user": {
+        "id": 365842,
+        "username": "Rottieluvr",
+        "name": "Blah blah",
+        "avatar_url": "https://avatars.stocktwits.com/production/365842/thumb-1513355669.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/365842/thumb-1513355669.png",
+        "join_date": "2014-06-18",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 340,
+        "following": 23,
+        "ideas": 22608,
+        "watchlist_stocks_count": 60,
+        "like_count": 13983,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 5281,
+          "symbol": "F",
+          "title": "Ford Motor Co.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 97839
+        }
+      ],
+      "likes": {
+        "total": 3,
+        "user_ids": [
+          3903804,
+          4133800,
+          1689047
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253256002,
+      "body": "$F \n49 million shares traded in the first hour! Thanks Cramer. \ud83d\udc4d",
+      "created_at": "2020-10-29T14:39:51Z",
+      "user": {
+        "id": 2920955,
+        "username": "GainingGround",
+        "name": "Hunter",
+        "avatar_url": "https://avatars.stocktwits.com/production/2920955/thumb-1578000669.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2920955/thumb-1578000669.png",
+        "join_date": "2019-11-16",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 106,
+        "following": 31,
+        "ideas": 4871,
+        "watchlist_stocks_count": 34,
+        "like_count": 2106,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 5281,
+          "symbol": "F",
+          "title": "Ford Motor Co.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 97839
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 253256002,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "likes": {
+        "total": 3,
+        "user_ids": [
+          4133800,
+          365842,
+          1689047
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 253255455,
+      "body": "$F def a long position here after earnings report .",
+      "created_at": "2020-10-29T14:38:28Z",
+      "user": {
+        "id": 3818483,
+        "username": "gibsjekk",
+        "name": "Justin Hogge",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2020-07-20",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 1,
+        "following": 6,
+        "ideas": 226,
+        "watchlist_stocks_count": 50,
+        "like_count": 49,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 5281,
+          "symbol": "F",
+          "title": "Ford Motor Co.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 97839
+        }
+      ],
+      "likes": {
+        "total": 4,
+        "user_ids": [
+          2728904,
+          4133800,
+          2154328,
+          2920955
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 253255337,
+      "body": "$F Daytrading out of F here 8.17 area, small profit, happy to position this long-term after pre-election volatility subsides.",
+      "created_at": "2020-10-29T14:38:11Z",
+      "user": {
+        "id": 1222626,
+        "username": "RolandXV",
+        "name": "RolandXV",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2017-10-11",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 29,
+        "following": 60,
+        "ideas": 1425,
+        "watchlist_stocks_count": 28,
+        "like_count": 1355,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 5281,
+          "symbol": "F",
+          "title": "Ford Motor Co.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 97839
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 253255337,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 253254784,
+      "body": "$F should acquire $WKHS then watch this thing \ud83d\ude80",
+      "created_at": "2020-10-29T14:36:47Z",
+      "user": {
+        "id": 4117397,
+        "username": "Market_Matt",
+        "name": "Matt Heady",
+        "avatar_url": "https://avatars.stocktwits.com/production/4117397/thumb-1602094544.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/4117397/thumb-1602094544.png",
+        "join_date": "2020-09-29",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 5,
+        "following": 1,
+        "ideas": 257,
+        "watchlist_stocks_count": 21,
+        "like_count": 95,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 5281,
+          "symbol": "F",
+          "title": "Ford Motor Co.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 97839
+        },
+        {
+          "id": 12960,
+          "symbol": "WKHS",
+          "title": "Workhorse Group ",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 70650
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          3990602
+        ]
+      },
+      "reshares": {
+        "reshared_count": 1,
+        "user_ids": [
+          1423046
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253254688,
+      "body": "$AAPL almost three percent gain end of the day I\u2019m thinking 3.8 gain today made a killing off $AAPL $LUV $CCL $F $GE",
+      "created_at": "2020-10-29T14:36:32Z",
+      "user": {
+        "id": 2952253,
+        "username": "Texastradr",
+        "name": "Kolbe Doyle",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2019-12-06",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 1,
+        "following": 10,
+        "ideas": 221,
+        "watchlist_stocks_count": 40,
+        "like_count": 270,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 686,
+          "symbol": "AAPL",
+          "title": "Apple Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 523292
+        },
+        {
+          "id": 4681,
+          "symbol": "CCL",
+          "title": "Carnival Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 50278
+        },
+        {
+          "id": 5281,
+          "symbol": "F",
+          "title": "Ford Motor Co.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 97839
+        },
+        {
+          "id": 5481,
+          "symbol": "GE",
+          "title": "General Electric Co.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 114841
+        },
+        {
+          "id": 6214,
+          "symbol": "LUV",
+          "title": "Southwest Airlines Co.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 32280
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 253254325,
+      "body": "$F wow, companies that don&#39;t make a profit and idiots send stock through the roof. $F is killing it with actual more to come and everyone is like &quot;eh&quot;. \n\nBizarre to me should we all go back to buying $TSLA  stock or something just cuz old man Berkshire got an inside deal on?\n\nSorry, confused",
+      "created_at": "2020-10-29T14:35:43Z",
+      "user": {
+        "id": 3903804,
+        "username": "Imreadynow",
+        "name": "Imready",
+        "avatar_url": "https://avatars.stocktwits.com/production/3903804/thumb-1603403929.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3903804/thumb-1603403929.png",
+        "join_date": "2020-08-04",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 1,
+        "following": 0,
+        "ideas": 35,
+        "watchlist_stocks_count": 0,
+        "like_count": 1327,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 5281,
+          "symbol": "F",
+          "title": "Ford Motor Co.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 97839
+        },
+        {
+          "id": 8660,
+          "symbol": "TSLA",
+          "title": "Tesla, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 468678
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 253254325,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          2920955
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "giphy": {
+          "id": "39yUYeQqKiAKckxZ5z"
+        },
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253253992,
+      "body": "$F It&#39;s gotta move a bit faster than this. I mean c&#39;mon bull.",
+      "created_at": "2020-10-29T14:34:54Z",
+      "user": {
+        "id": 4244361,
+        "username": "hasagsa",
+        "name": "hasag",
+        "avatar_url": "https://avatars.stocktwits.com/production/4244361/thumb-1603885531.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/4244361/thumb-1603885531.png",
+        "join_date": "2020-10-28",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 0,
+        "following": 1,
+        "ideas": 3,
+        "watchlist_stocks_count": 15,
+        "like_count": 1,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 5281,
+          "symbol": "F",
+          "title": "Ford Motor Co.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 97839
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 253253992,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          3903804
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 253253493,
+      "body": "$F  1k shares @8.10 legooo",
+      "created_at": "2020-10-29T14:33:46Z",
+      "user": {
+        "id": 2062788,
+        "username": "GoldenRocket",
+        "name": "Realties",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2019-05-07",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 46,
+        "following": 55,
+        "ideas": 3796,
+        "watchlist_stocks_count": 252,
+        "like_count": 9698,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 5281,
+          "symbol": "F",
+          "title": "Ford Motor Co.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 97839
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 253253493,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          2920955
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 253253246,
+      "body": "$WWR  $GE $F all moving now lets go!",
+      "created_at": "2020-10-29T14:33:10Z",
+      "user": {
+        "id": 4211439,
+        "username": "Grose25",
+        "name": "Jon B.",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2020-10-20",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 2,
+        "following": 1,
+        "ideas": 209,
+        "watchlist_stocks_count": 4,
+        "like_count": 110,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 3964,
+          "symbol": "WWR",
+          "title": "Westwater Resources Inc",
+          "aliases": [
+            "URRE"
+          ],
+          "is_following": false,
+          "watchlist_count": 22499
+        },
+        {
+          "id": 5281,
+          "symbol": "F",
+          "title": "Ford Motor Co.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 97839
+        },
+        {
+          "id": 5481,
+          "symbol": "GE",
+          "title": "General Electric Co.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 114842
+        }
+      ],
+      "likes": {
+        "total": 2,
+        "user_ids": [
+          3990249,
+          4002597
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 253253077,
+      "body": "$F  I still think we hit 8.50 today",
+      "created_at": "2020-10-29T14:32:47Z",
+      "user": {
+        "id": 1609964,
+        "username": "Coolcool7",
+        "name": "happymanishappy",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2018-09-13",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 11,
+        "following": 11,
+        "ideas": 1576,
+        "watchlist_stocks_count": 0,
+        "like_count": 231,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2095,
+        "title": "StockTwits For Android ",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 5281,
+          "symbol": "F",
+          "title": "Ford Motor Co.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 97839
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 253253077,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          2154328
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 253252635,
+      "body": "$F been a long 2 years.",
+      "created_at": "2020-10-29T14:31:35Z",
+      "user": {
+        "id": 906845,
+        "username": "dsigreg",
+        "name": "Greg Fulton",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2016-12-20",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 19,
+        "following": 0,
+        "ideas": 3831,
+        "watchlist_stocks_count": 31,
+        "like_count": 795,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2095,
+        "title": "StockTwits For Android ",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 5281,
+          "symbol": "F",
+          "title": "Ford Motor Co.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 97839
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          1458165
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253251758,
+      "body": "$F  Be patient bulls and longs.  We are going somewhere in the double digits soon.  Just trimming the fat right now.",
+      "created_at": "2020-10-29T14:29:13Z",
+      "user": {
+        "id": 3507712,
+        "username": "d6rooney",
+        "name": "David Rooney",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2020-05-26",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 0,
+        "following": 0,
+        "ideas": 18,
+        "watchlist_stocks_count": 2,
+        "like_count": 37,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 5281,
+          "symbol": "F",
+          "title": "Ford Motor Co.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 97839
+        }
+      ],
+      "likes": {
+        "total": 2,
+        "user_ids": [
+          4119568,
+          2799471
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 253251597,
+      "body": "$F I can&#39;t get over. this is such a blessing",
+      "created_at": "2020-10-29T14:28:48Z",
+      "user": {
+        "id": 4248285,
+        "username": "hershiel123",
+        "name": "hers hiel",
+        "avatar_url": "https://avatars.stocktwits.com/production/4248285/thumb-1603974694.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/4248285/thumb-1603974694.png",
+        "join_date": "2020-10-29",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 0,
+        "following": 0,
+        "ideas": 3,
+        "watchlist_stocks_count": 7,
+        "like_count": 0,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 5281,
+          "symbol": "F",
+          "title": "Ford Motor Co.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 97839
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 253251226,
+      "body": "$F. See me on the trending boards today bulls",
+      "created_at": "2020-10-29T14:27:54Z",
+      "user": {
+        "id": 4127171,
+        "username": "Maci77",
+        "name": "Maci Makenna",
+        "avatar_url": "https://avatars.stocktwits.com/production/4127171/thumb-1601555513.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/4127171/thumb-1601555513.png",
+        "join_date": "2020-10-01",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 0,
+        "following": 3,
+        "ideas": 3,
+        "watchlist_stocks_count": 7,
+        "like_count": 5,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 5281,
+          "symbol": "F",
+          "title": "Ford Motor Co.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 97839
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          3825506
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 253249832,
+      "body": "$WWR just bought another $10,000 of WWR. I feel at home here. Never marry a stock but I\u2019ve done so much personal research on this one and she ready for $TSLA or $F contract. There\u2019s plenty of evidence for the  \ud83d\udd1c\ud83d\ude80.",
+      "created_at": "2020-10-29T14:24:24Z",
+      "user": {
+        "id": 4118579,
+        "username": "Everett903",
+        "name": "Everett Jennings",
+        "avatar_url": "https://avatars.stocktwits.com/production/4118579/thumb-1601388596.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/4118579/thumb-1601388596.png",
+        "join_date": "2020-09-29",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 3,
+        "following": 4,
+        "ideas": 71,
+        "watchlist_stocks_count": 10,
+        "like_count": 50,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 3964,
+          "symbol": "WWR",
+          "title": "Westwater Resources Inc",
+          "aliases": [
+            "URRE"
+          ],
+          "is_following": false,
+          "watchlist_count": 22499
+        },
+        {
+          "id": 5281,
+          "symbol": "F",
+          "title": "Ford Motor Co.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 97839
+        },
+        {
+          "id": 8660,
+          "symbol": "TSLA",
+          "title": "Tesla, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 468678
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 253249832,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 4
+      },
+      "likes": {
+        "total": 6,
+        "user_ids": [
+          4140238,
+          3022565,
+          4211439,
+          4098829,
+          4194742,
+          4094965
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 253249608,
+      "body": "$F let it rip!!!",
+      "created_at": "2020-10-29T14:23:49Z",
+      "user": {
+        "id": 3246580,
+        "username": "jaychampion",
+        "name": "Jay Champion",
+        "avatar_url": "https://avatars.stocktwits.com/production/3246580/thumb-1588010508.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3246580/thumb-1588010508.png",
+        "join_date": "2020-03-30",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 23,
+        "following": 137,
+        "ideas": 1204,
+        "watchlist_stocks_count": 41,
+        "like_count": 1752,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 5281,
+          "symbol": "F",
+          "title": "Ford Motor Co.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 97839
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 253249274,
+      "body": "$F what is happening!!!!!",
+      "created_at": "2020-10-29T14:22:56Z",
+      "user": {
+        "id": 4211439,
+        "username": "Grose25",
+        "name": "Jon B.",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2020-10-20",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 2,
+        "following": 1,
+        "ideas": 187,
+        "watchlist_stocks_count": 4,
+        "like_count": 107,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 5281,
+          "symbol": "F",
+          "title": "Ford Motor Co.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 97839
+        }
+      ],
+      "likes": {
+        "total": 2,
+        "user_ids": [
+          4127171,
+          1689047
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 253249081,
+      "body": "$F puts are printing right now.",
+      "created_at": "2020-10-29T14:22:31Z",
+      "user": {
+        "id": 3301714,
+        "username": "moneyman09",
+        "name": "Josh",
+        "avatar_url": "https://avatars.stocktwits.com/production/3301714/thumb-1592958996.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3301714/thumb-1592958996.png",
+        "join_date": "2020-04-13",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 11,
+        "following": 4,
+        "ideas": 141,
+        "watchlist_stocks_count": 1,
+        "like_count": 53,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 5281,
+          "symbol": "F",
+          "title": "Ford Motor Co.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 97839
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 253249081,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bearish"
+        }
+      }
+    },
+    {
+      "id": 253249009,
+      "body": "$F does this every time...in half hour it will be back up to $8.20 . Just need to get past election and we are golden",
+      "created_at": "2020-10-29T14:22:18Z",
+      "user": {
+        "id": 2799471,
+        "username": "Escobar36",
+        "name": "Alexander escobar",
+        "avatar_url": "https://avatars.stocktwits.com/production/2799471/thumb-1599137091.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2799471/thumb-1599137091.png",
+        "join_date": "2019-09-09",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 28,
+        "following": 2,
+        "ideas": 808,
+        "watchlist_stocks_count": 0,
+        "like_count": 286,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 5281,
+          "symbol": "F",
+          "title": "Ford Motor Co.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 97839
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 253249009,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "likes": {
+        "total": 4,
+        "user_ids": [
+          1689047,
+          1222626,
+          1981992,
+          4211439
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253248999,
+      "body": "$RIDE https://youtu.be/abDVdgAmiDo $F has nothing on us",
+      "created_at": "2020-10-29T14:22:16Z",
+      "user": {
+        "id": 1605013,
+        "username": "MrHalloween",
+        "name": "Michael Myers",
+        "avatar_url": "https://avatars.stocktwits.com/production/1605013/thumb-1597631194.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1605013/thumb-1597631194.png",
+        "join_date": "2018-09-10",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 104,
+        "following": 47,
+        "ideas": 2244,
+        "watchlist_stocks_count": 64,
+        "like_count": 7578,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 5281,
+          "symbol": "F",
+          "title": "Ford Motor Co.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 97839
+        },
+        {
+          "id": 15778,
+          "symbol": "RIDE",
+          "title": "Lordstown Motors Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 19200
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 253248999,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 2
+      },
+      "links": [
+        {
+          "title": "Tug of War: Lordstown Endurance Highlights Its Superior Traction Against the Ford F-150",
+          "url": "https://youtu.be/abDVdgAmiDo",
+          "shortened_url": "https://youtu.be/abDVdgAmiDo",
+          "shortened_expanded_url": "youtube.com/watch?v=abDVdgA...",
+          "description": "With both trucks positioned in 4-wheel drive and traction control turned off, the match highlights the Endurance's superior traction - a result of its revolu...",
+          "image": "https://i.ytimg.com/vi/abDVdgAmiDo/hqdefault.jpg",
+          "created_at": "2020-10-29T14:22:16Z",
+          "video_url": "//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FabDVdgAmiDo%3Ffeature%3Doembed=YouTube=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DabDVdgAmiDo=https%3A%2F%2Fi.ytimg.com%2Fvi%2FabDVdgAmiDo%2Fhqdefault.jpg=38dd9af069fe4432a0efe5550d2ea231=text%2Fhtml=youtube",
+          "source": {
+            "name": "YouTube",
+            "website": "https://www.youtube.com/"
+          }
+        }
+      ],
+      "likes": {
+        "total": 3,
+        "user_ids": [
+          3196610,
+          4189656,
+          3965089
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 253248218,
+      "body": "$F Oversold mess yesterday, what an historic buying opportunity.",
+      "created_at": "2020-10-29T14:20:19Z",
+      "user": {
+        "id": 4248712,
+        "username": "Alecazam43",
+        "name": "Alecazam43",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2020-10-29",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 0,
+        "following": 0,
+        "ideas": 1,
+        "watchlist_stocks_count": 0,
+        "like_count": 0,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 5281,
+          "symbol": "F",
+          "title": "Ford Motor Co.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 97839
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253248104,
+      "body": "$F Announcing a buy-back during earnings would have sent this to $9+ easily.\nMissed opportunity given the strong sales.",
+      "created_at": "2020-10-29T14:20:05Z",
+      "user": {
+        "id": 4117397,
+        "username": "Market_Matt",
+        "name": "Matt Heady",
+        "avatar_url": "https://avatars.stocktwits.com/production/4117397/thumb-1602094544.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/4117397/thumb-1602094544.png",
+        "join_date": "2020-09-29",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 5,
+        "following": 1,
+        "ideas": 257,
+        "watchlist_stocks_count": 21,
+        "like_count": 95,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 5281,
+          "symbol": "F",
+          "title": "Ford Motor Co.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 97839
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 253248104,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253247793,
+      "body": "$F Gotcha",
+      "created_at": "2020-10-29T14:19:19Z",
+      "user": {
+        "id": 1278618,
+        "username": "WidowPuppy",
+        "name": "WidowPuppy",
+        "avatar_url": "https://avatars.stocktwits.com/production/1278618/thumb-1602765193.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1278618/thumb-1602765193.png",
+        "join_date": "2017-11-22",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 290,
+        "following": 11,
+        "ideas": 31493,
+        "watchlist_stocks_count": 3,
+        "like_count": 22824,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 5281,
+          "symbol": "F",
+          "title": "Ford Motor Co.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 97839
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253247407,
+      "body": "$F $FB $NIO $PINS holding up the $SPY and we are on a 31 DAY WIN STREAK... come see how: https://www.youtube.com/watch?v=gjgAfIjuxVY #investor #trader #futures #trading #stockmarket",
+      "created_at": "2020-10-29T14:18:14Z",
+      "user": {
+        "id": 1167252,
+        "username": "DayTraderParadiseLLC",
+        "name": "DayTraderParadise LLC",
+        "avatar_url": "https://avatars.stocktwits.com/production/1167252/thumb-1601393429.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1167252/thumb-1601393429.png",
+        "join_date": "2017-08-24",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 307,
+        "following": 14,
+        "ideas": 510,
+        "watchlist_stocks_count": 29,
+        "like_count": 54,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 5281,
+          "symbol": "F",
+          "title": "Ford Motor Co.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 97839
+        },
+        {
+          "id": 6499,
+          "symbol": "NIO",
+          "title": "NIO Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 128772
+        },
+        {
+          "id": 7271,
+          "symbol": "SPY",
+          "title": "SPDR S&P 500",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 265450
+        },
+        {
+          "id": 7871,
+          "symbol": "FB",
+          "title": "Facebook",
+          "aliases": [
+            "FBOOK"
+          ],
+          "is_following": false,
+          "watchlist_count": 324991
+        },
+        {
+          "id": 11742,
+          "symbol": "PINS",
+          "title": "Pinterest",
+          "aliases": [
+            "PINTEREST"
+          ],
+          "is_following": false,
+          "watchlist_count": 24557
+        }
+      ],
+      "links": [
+        {
+          "title": "Actual Live Day Trading - 31 day streak!",
+          "url": "https://www.youtube.com/watch?v=gjgAfIjuxVY",
+          "shortened_url": "https://www.youtube.com/watch?v=gjgAfIjuxVY",
+          "shortened_expanded_url": "youtube.com/watch?v=gjgAfIj...",
+          "description": "Are we in a bear market or bull market? Will stocks rally? Watch these day trading strategies in the midst of all this political turmoil and stimulus debates...",
+          "image": "https://i.ytimg.com/vi/gjgAfIjuxVY/hqdefault.jpg",
+          "created_at": "2020-10-29T14:18:15Z",
+          "video_url": "//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FgjgAfIjuxVY%3Ffeature%3Doembed=YouTube=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DgjgAfIjuxVY=https%3A%2F%2Fi.ytimg.com%2Fvi%2FgjgAfIjuxVY%2Fhqdefault.jpg=799f78c4081511e084894040444cdc60=text%2Fhtml=youtube",
+          "source": {
+            "name": "YouTube",
+            "website": "https://www.youtube.com/"
+          }
+        }
+      ],
+      "likes": {
+        "total": 2,
+        "user_ids": [
+          832085,
+          835440
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 253247198,
+      "body": "$F well that&#39;s disappointing... 8.3 the other day...",
+      "created_at": "2020-10-29T14:17:42Z",
+      "user": {
+        "id": 1179508,
+        "username": "makinwaves79",
+        "name": "Jason",
+        "avatar_url": "https://avatars.stocktwits.com/production/1179508/thumb-1600351273.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1179508/thumb-1600351273.png",
+        "join_date": "2017-09-06",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 13,
+        "following": 87,
+        "ideas": 1310,
+        "watchlist_stocks_count": 20,
+        "like_count": 4699,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2095,
+        "title": "StockTwits For Android ",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 5281,
+          "symbol": "F",
+          "title": "Ford Motor Co.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 97839
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          1689047
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 253246878,
+      "body": "$F  Markets will dump again and this will be under 8 in no time.  Long road for Ford",
+      "created_at": "2020-10-29T14:16:57Z",
+      "user": {
+        "id": 605506,
+        "username": "DaVinciKnows",
+        "name": "DaVinciKnows",
+        "avatar_url": "https://avatars.stocktwits.com/production/605506/thumb-1495798821.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/605506/thumb-1495798821.png",
+        "join_date": "2015-09-24",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 172,
+        "following": 142,
+        "ideas": 6060,
+        "watchlist_stocks_count": 6,
+        "like_count": 1749,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 5281,
+          "symbol": "F",
+          "title": "Ford Motor Co.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 97839
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253246678,
+      "body": "$F bro all that news and that&#39;s it? I could literally tweeze my balls faster than this stock moves. This shit is like cheating on a test and still only getting a 50 ffs",
+      "created_at": "2020-10-29T14:16:23Z",
+      "user": {
+        "id": 2265874,
+        "username": "Cruxis",
+        "name": "Cruxis",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2019-08-19",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 0,
+        "following": 4,
+        "ideas": 92,
+        "watchlist_stocks_count": 13,
+        "like_count": 8,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 5281,
+          "symbol": "F",
+          "title": "Ford Motor Co.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 97839
+        }
+      ],
+      "likes": {
+        "total": 3,
+        "user_ids": [
+          2923272,
+          4211439,
+          3353152
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253246481,
+      "body": "Added $F  $NKLA  $QQQJ  $SCHD",
+      "created_at": "2020-10-29T14:15:55Z",
+      "user": {
+        "id": 384210,
+        "username": "TalkingAboutStock",
+        "name": "Joshua Knight",
+        "avatar_url": "https://avatars.stocktwits.com/production/384210/thumb-1596647842.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/384210/thumb-1596647842.png",
+        "join_date": "2014-08-05",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 105,
+        "following": 719,
+        "ideas": 803,
+        "watchlist_stocks_count": 36,
+        "like_count": 891,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 5281,
+          "symbol": "F",
+          "title": "Ford Motor Co.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 97839
+        },
+        {
+          "id": 12553,
+          "symbol": "SCHD",
+          "title": "Schwab US Dividend Equity ETF",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1932
+        },
+        {
+          "id": 15566,
+          "symbol": "NKLA",
+          "title": "Nikola Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 72561
+        },
+        {
+          "id": 15998,
+          "symbol": "QQQJ",
+          "title": "Invesco Exchange-Traded Fund Trust II - Invesco NASDAQ Next Gen 100 ETF",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 437
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          3028557
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 253246463,
+      "body": "$F $TSLA $FSLR $NVDA $SNAP The best trading community, 491% profits in an hour. I made over 99k in the last 10 months. Really great place for stocks, options, day &amp; swing trading, Get 20 days free trial for enjoy full features: llurl.co/ts2SFav",
+      "created_at": "2020-10-29T14:15:54Z",
+      "user": {
+        "id": 4197497,
+        "username": "George621",
+        "name": "George621",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2020-10-17",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 0,
+        "following": 1,
+        "ideas": 2,
+        "watchlist_stocks_count": 0,
+        "like_count": 0,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 1949,
+          "symbol": "FSLR",
+          "title": "First Solar, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 22584
+        },
+        {
+          "id": 2925,
+          "symbol": "NVDA",
+          "title": "NVIDIA Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 231194
+        },
+        {
+          "id": 5281,
+          "symbol": "F",
+          "title": "Ford Motor Co.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 97839
+        },
+        {
+          "id": 8660,
+          "symbol": "TSLA",
+          "title": "Tesla, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 468678
+        },
+        {
+          "id": 11746,
+          "symbol": "SNAP",
+          "title": "Snap Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 159080
+        }
+      ],
+      "links": [
+        {
+          "title": "Redirect...",
+          "url": "llurl.co/ts2SFav",
+          "shortened_url": "llurl.co/ts2SFav",
+          "shortened_expanded_url": "llurl.co/ts2SFav",
+          "description": null,
+          "image": null,
+          "created_at": "2020-10-29T14:15:55Z",
+          "video_url": null,
+          "source": {
+            "name": "Llurl",
+            "website": "http://llurl.co"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    }
+  ]
+}

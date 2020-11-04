@@ -1,0 +1,1838 @@
+{
+  "response": {
+    "status": 200
+  },
+  "symbol": {
+    "id": 12608,
+    "symbol": "PYPL",
+    "title": "PayPal",
+    "aliases": [],
+    "is_following": false,
+    "watchlist_count": 63210
+  },
+  "cursor": {
+    "more": true,
+    "since": 253589312,
+    "max": 253549119
+  },
+  "messages": [
+    {
+      "id": 253589312,
+      "body": "$PYPL 200 next week.",
+      "created_at": "2020-10-30T16:56:02Z",
+      "user": {
+        "id": 3294967,
+        "username": "Judy11",
+        "name": "Judith",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2020-04-11",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 38,
+        "following": 8,
+        "ideas": 6137,
+        "watchlist_stocks_count": 88,
+        "like_count": 964,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 12608,
+          "symbol": "PYPL",
+          "title": "PayPal",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 63210
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253588099,
+      "body": "$AMZN $MSFT $AAPL $TSLA $PYPL \nThese will break down by Biden \ud83d\udc4a\n\nAmazon PE:  121 even with Good ER.\nIs this a joke?\nApple &amp; MSFT: 34. ATH\nTesla:  812. Even it goes below $200, PE is still around 450. What a joke.\nPaypal: 88. GL.",
+      "created_at": "2020-10-30T16:51:33Z",
+      "user": {
+        "id": 1165200,
+        "username": "Sherry___",
+        "name": "Sherry, Not Shitty",
+        "avatar_url": "https://avatars.stocktwits.com/production/1165200/thumb-1600391786.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1165200/thumb-1600391786.png",
+        "join_date": "2017-08-22",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 2844,
+        "following": 9,
+        "ideas": 28479,
+        "watchlist_stocks_count": 229,
+        "like_count": 55195,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2095,
+        "title": "StockTwits For Android ",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 686,
+          "symbol": "AAPL",
+          "title": "Apple Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 524314
+        },
+        {
+          "id": 864,
+          "symbol": "AMZN",
+          "title": "Amazon.com Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 346073
+        },
+        {
+          "id": 2735,
+          "symbol": "MSFT",
+          "title": "Microsoft Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 266614
+        },
+        {
+          "id": 8660,
+          "symbol": "TSLA",
+          "title": "Tesla, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 469193
+        },
+        {
+          "id": 12608,
+          "symbol": "PYPL",
+          "title": "PayPal",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 63210
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 253588099,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 4
+      },
+      "likes": {
+        "total": 2,
+        "user_ids": [
+          3042577,
+          3899289
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_253588099.jpg",
+          "large": "https://charts.stocktwits.com/production/large_253588099.jpg",
+          "original": "https://charts.stocktwits.com/production/original_253588099.jpg",
+          "url": "https://charts.stocktwits.com/production/original_253588099.jpg"
+        },
+        "sentiment": {
+          "basic": "Bearish"
+        }
+      }
+    },
+    {
+      "id": 253585634,
+      "body": "BEARISH SENTIMENT in $PYPL Nov-06 puts at $177.5 strike price. 1K contracts, $850K premium.  https://www.swaggystocks.com/dashboard/stocklabs/option-flow/PYPL",
+      "created_at": "2020-10-30T16:42:36Z",
+      "user": {
+        "id": 2138883,
+        "username": "SwaggyStocks",
+        "name": "Swaggy Stocks",
+        "avatar_url": "https://avatars.stocktwits.com/production/2138883/thumb-1587860115.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2138883/thumb-1587860115.png",
+        "join_date": "2019-06-13",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 851,
+        "following": 1,
+        "ideas": 5777,
+        "watchlist_stocks_count": 8,
+        "like_count": 55,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5403,
+        "title": "SwaggyStocks",
+        "url": "https://www.swaggystocks.com"
+      },
+      "symbols": [
+        {
+          "id": 12608,
+          "symbol": "PYPL",
+          "title": "PayPal",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 63202
+        }
+      ],
+      "links": [
+        {
+          "title": "Swaggy Stocks",
+          "url": "https://www.swaggystocks.com/dashboard/stocklabs/option-flow/PYPL",
+          "shortened_url": "https://www.swaggystocks.com/dashboard/stocklabs/option-flow/PYPL",
+          "shortened_expanded_url": "swaggystocks.com/dashboard/...",
+          "description": null,
+          "image": null,
+          "created_at": "2020-10-30T16:42:36Z",
+          "video_url": null,
+          "source": {
+            "name": "Swaggystocks",
+            "website": "https://www.swaggystocks.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253583462,
+      "body": "$AAPL $NVDA $NFLX $MSFT $PYPL \nPoS \ud83d\udca9\ud83d\udca9",
+      "created_at": "2020-10-30T16:34:53Z",
+      "user": {
+        "id": 1165200,
+        "username": "Sherry___",
+        "name": "Sherry, Not Shitty",
+        "avatar_url": "https://avatars.stocktwits.com/production/1165200/thumb-1600391786.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1165200/thumb-1600391786.png",
+        "join_date": "2017-08-22",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 2844,
+        "following": 9,
+        "ideas": 28479,
+        "watchlist_stocks_count": 229,
+        "like_count": 55191,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2095,
+        "title": "StockTwits For Android ",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 686,
+          "symbol": "AAPL",
+          "title": "Apple Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 524314
+        },
+        {
+          "id": 2735,
+          "symbol": "MSFT",
+          "title": "Microsoft Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 266614
+        },
+        {
+          "id": 2839,
+          "symbol": "NFLX",
+          "title": "Netflix, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 298861
+        },
+        {
+          "id": 2925,
+          "symbol": "NVDA",
+          "title": "NVIDIA Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 231468
+        },
+        {
+          "id": 12608,
+          "symbol": "PYPL",
+          "title": "PayPal",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 63202
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 253583462,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_253583462.gif",
+          "large": "https://charts.stocktwits.com/production/large_253583462.gif",
+          "original": "https://charts.stocktwits.com/production/original_253583462.gif",
+          "url": "https://charts.stocktwits.com/production/original_253583462.gif"
+        },
+        "sentiment": {
+          "basic": "Bearish"
+        }
+      }
+    },
+    {
+      "id": 253580955,
+      "body": "Im adding to holding on this DIP today...$pypl (venmo is HUGE $$$) All the college kids are using it.  My son and daughter love Venmo!  $pltr (big data for government and business) $ipoc (Clover health care-win -win)  No one dare to CUT medicare!  Biden or Trump!  $ipob",
+      "created_at": "2020-10-30T16:26:47Z",
+      "user": {
+        "id": 127852,
+        "username": "trader365",
+        "name": "Johnny",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2012-01-05",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 67,
+        "following": 157,
+        "ideas": 4521,
+        "watchlist_stocks_count": 300,
+        "like_count": 1618,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 8993,
+          "symbol": "PLTR",
+          "title": "Palantir",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 18049
+        },
+        {
+          "id": 12608,
+          "symbol": "PYPL",
+          "title": "PayPal",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 63202
+        },
+        {
+          "id": 15602,
+          "symbol": "IPOB",
+          "title": "Social Capital Hedosophia Holdings II",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 7741
+        },
+        {
+          "id": 15603,
+          "symbol": "IPOC",
+          "title": "Social Capital Hedosophia Holdings Corp III",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 4188
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 253580955,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          3967409
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253579941,
+      "body": "$PYPL at this point it doesn\u2019t matter what earnings say. Companies blowing out earnings are crashing.",
+      "created_at": "2020-10-30T16:23:30Z",
+      "user": {
+        "id": 425618,
+        "username": "MoxieTrade",
+        "name": "Cate",
+        "avatar_url": "https://avatars.stocktwits.com/production/425618/thumb-1592309852.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/425618/thumb-1592309852.png",
+        "join_date": "2014-11-18",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 122,
+        "following": 23,
+        "ideas": 2340,
+        "watchlist_stocks_count": 43,
+        "like_count": 1880,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 12608,
+          "symbol": "PYPL",
+          "title": "PayPal",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 63202
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          3377107
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253574995,
+      "body": "$PYPL great buy if you\u2019re now starting your position",
+      "created_at": "2020-10-30T16:07:47Z",
+      "user": {
+        "id": 3751744,
+        "username": "ambitiousceo",
+        "name": "Ed",
+        "avatar_url": "https://avatars.stocktwits.com/production/3751744/thumb-1594309944.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3751744/thumb-1594309944.png",
+        "join_date": "2020-07-07",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 2,
+        "following": 7,
+        "ideas": 407,
+        "watchlist_stocks_count": 18,
+        "like_count": 78,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 12608,
+          "symbol": "PYPL",
+          "title": "PayPal",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 63202
+        }
+      ],
+      "likes": {
+        "total": 3,
+        "user_ids": [
+          1578001,
+          3962773,
+          4197538
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253573819,
+      "body": "$NFLX $TSLA $PYPL \nThese 3 Large Caps Are Strong Performers \n https://www.gurufocus.com/news/1271709/these-3-large-caps-are-strong-performers-",
+      "created_at": "2020-10-30T16:04:12Z",
+      "user": {
+        "id": 1165200,
+        "username": "Sherry___",
+        "name": "Sherry, Not Shitty",
+        "avatar_url": "https://avatars.stocktwits.com/production/1165200/thumb-1600391786.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1165200/thumb-1600391786.png",
+        "join_date": "2017-08-22",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 2842,
+        "following": 9,
+        "ideas": 28479,
+        "watchlist_stocks_count": 229,
+        "like_count": 55188,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2095,
+        "title": "StockTwits For Android ",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 2839,
+          "symbol": "NFLX",
+          "title": "Netflix, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 298833
+        },
+        {
+          "id": 8660,
+          "symbol": "TSLA",
+          "title": "Tesla, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 469135
+        },
+        {
+          "id": 12608,
+          "symbol": "PYPL",
+          "title": "PayPal",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 63202
+        }
+      ],
+      "links": [
+        {
+          "title": "These 3 Large Caps Are Strong Performers",
+          "url": "https://www.gurufocus.com/news/1271709/these-3-large-caps-are-strong-performers-",
+          "shortened_url": "https://www.gurufocus.com/news/1271709/these-3-large-caps-are-strong-performers-",
+          "shortened_expanded_url": "gurufocus.com/news/1271709/...",
+          "description": "Shareholders of Tesla Inc ( NASDAQ:TSLA), PayPal Holdings Inc ( NASDAQ:PYPL) and Netflix Inc ( NASDAQ:NFLX) have seen their stock prices growing more than the S&P 500 index in recent years. The index grew by approximately 8% over the past year, 27% over the past three years and 57% over the past five years through Oct.",
+          "image": "https://gurufocus.s3.amazonaws.com/photos/gurus/guru_logo_square.jpg",
+          "created_at": "2020-10-30T16:04:14Z",
+          "video_url": null,
+          "source": {
+            "name": "Gurufocus",
+            "website": "https://www.gurufocus.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 253573170,
+      "body": "$AAPL $TSLA $PYPL $NVDA $NFLX \nRally Time \ud83d\ude80\ud83d\ude80\ud83d\ude80",
+      "created_at": "2020-10-30T16:02:17Z",
+      "user": {
+        "id": 1165200,
+        "username": "Sherry___",
+        "name": "Sherry, Not Shitty",
+        "avatar_url": "https://avatars.stocktwits.com/production/1165200/thumb-1600391786.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1165200/thumb-1600391786.png",
+        "join_date": "2017-08-22",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 2842,
+        "following": 9,
+        "ideas": 28479,
+        "watchlist_stocks_count": 229,
+        "like_count": 55189,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2095,
+        "title": "StockTwits For Android ",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 686,
+          "symbol": "AAPL",
+          "title": "Apple Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 524314
+        },
+        {
+          "id": 2839,
+          "symbol": "NFLX",
+          "title": "Netflix, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 298833
+        },
+        {
+          "id": 2925,
+          "symbol": "NVDA",
+          "title": "NVIDIA Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 231465
+        },
+        {
+          "id": 8660,
+          "symbol": "TSLA",
+          "title": "Tesla, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 469135
+        },
+        {
+          "id": 12608,
+          "symbol": "PYPL",
+          "title": "PayPal",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 63202
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 253573170,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "likes": {
+        "total": 3,
+        "user_ids": [
+          1624218,
+          3932553,
+          3976940
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_253573170.gif",
+          "large": "https://charts.stocktwits.com/production/large_253573170.gif",
+          "original": "https://charts.stocktwits.com/production/original_253573170.gif",
+          "url": "https://charts.stocktwits.com/production/original_253573170.gif"
+        },
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 253573071,
+      "body": "$PYPL what do we think guys, are we going up or down for earnings?? Let me hear some good advice no trolls plz",
+      "created_at": "2020-10-30T16:02:04Z",
+      "user": {
+        "id": 3803617,
+        "username": "PBenjamin",
+        "name": "Peyton Benjamin",
+        "avatar_url": "https://avatars.stocktwits.com/production/3803617/thumb-1598655074.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3803617/thumb-1598655074.png",
+        "join_date": "2020-07-17",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 0,
+        "following": 1,
+        "ideas": 21,
+        "watchlist_stocks_count": 5,
+        "like_count": 34,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 12608,
+          "symbol": "PYPL",
+          "title": "PayPal",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 63210
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 253573071,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 253572336,
+      "body": "$PYPL is this gonna shoot up for earnings??? Or just take a shit?",
+      "created_at": "2020-10-30T16:00:03Z",
+      "user": {
+        "id": 3803617,
+        "username": "PBenjamin",
+        "name": "Peyton Benjamin",
+        "avatar_url": "https://avatars.stocktwits.com/production/3803617/thumb-1598655074.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3803617/thumb-1598655074.png",
+        "join_date": "2020-07-17",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 0,
+        "following": 1,
+        "ideas": 21,
+        "watchlist_stocks_count": 5,
+        "like_count": 34,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 12608,
+          "symbol": "PYPL",
+          "title": "PayPal",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 63202
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 253571643,
+      "body": "This article  https://gurufocus.com/news/1271709 estimates these stocks ($TSLA  $PYPL $NFLX)&#39; shareholder&#39; satisfaction. Curious to know what is about? Check this article out!!!",
+      "created_at": "2020-10-30T15:57:46Z",
+      "user": {
+        "id": 303335,
+        "username": "Alberto1976",
+        "name": "Alberto Abaterusso",
+        "avatar_url": "https://avatars.stocktwits.com/production/303335/thumb-1541195415.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/303335/thumb-1541195415.png",
+        "join_date": "2014-01-21",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 93,
+        "following": 69,
+        "ideas": 2945,
+        "watchlist_stocks_count": 1,
+        "like_count": 111,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 2839,
+          "symbol": "NFLX",
+          "title": "Netflix, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 298833
+        },
+        {
+          "id": 8660,
+          "symbol": "TSLA",
+          "title": "Tesla, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 469135
+        },
+        {
+          "id": 12608,
+          "symbol": "PYPL",
+          "title": "PayPal",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 63202
+        }
+      ],
+      "links": [
+        {
+          "title": "These 3 Large Caps Are Strong Performers",
+          "url": "https://gurufocus.com/news/1271709",
+          "shortened_url": "https://gurufocus.com/news/1271709",
+          "shortened_expanded_url": "gurufocus.com/news/1271709",
+          "description": "Shareholders of Tesla Inc ( NASDAQ:TSLA), PayPal Holdings Inc ( NASDAQ:PYPL) and Netflix Inc ( NASDAQ:NFLX) have seen their stock prices growing more than the S&P 500 index in recent years. The index grew by approximately 8% over the past year, 27% over the past three years and 57% over the past five years through Oct.",
+          "image": "https://gurufocus.s3.amazonaws.com/photos/gurus/guru_logo_square.jpg",
+          "created_at": "2020-10-30T15:57:48Z",
+          "video_url": null,
+          "source": {
+            "name": "Gurufocus",
+            "website": "https://www.gurufocus.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "giphy": {
+          "id": "6PAbFX7jVXWTK"
+        },
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253568558,
+      "body": "$PYPL earning leaked? what do you think?",
+      "created_at": "2020-10-30T15:48:50Z",
+      "user": {
+        "id": 549295,
+        "username": "mandal",
+        "name": "mandal",
+        "avatar_url": "https://avatars.stocktwits.com/production/549295/thumb-1493210963.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/549295/thumb-1493210963.png",
+        "join_date": "2015-07-13",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 19,
+        "following": 50,
+        "ideas": 889,
+        "watchlist_stocks_count": 64,
+        "like_count": 213,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 12608,
+          "symbol": "PYPL",
+          "title": "PayPal",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 63202
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 253568558,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "mentioned_users": [],
+      "entities": {
+        "giphy": {
+          "id": "l0MYryZTmQgvHI5TG"
+        },
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253568555,
+      "body": "$PYPL add",
+      "created_at": "2020-10-30T15:48:50Z",
+      "user": {
+        "id": 952118,
+        "username": "RammsteinT",
+        "name": "Ram 365",
+        "avatar_url": "https://avatars.stocktwits.com/production/952118/thumb-1554582934.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/952118/thumb-1554582934.png",
+        "join_date": "2017-02-10",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 51,
+        "following": 70,
+        "ideas": 4825,
+        "watchlist_stocks_count": 51,
+        "like_count": 14124,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2095,
+        "title": "StockTwits For Android ",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 12608,
+          "symbol": "PYPL",
+          "title": "PayPal",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 63202
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 253565210,
+      "body": "$PYPL fffffffff my life today",
+      "created_at": "2020-10-30T15:39:10Z",
+      "user": {
+        "id": 4079903,
+        "username": "Kbull1",
+        "name": "Kbull1",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2020-09-16",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 9,
+        "following": 3,
+        "ideas": 266,
+        "watchlist_stocks_count": 35,
+        "like_count": 184,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 12608,
+          "symbol": "PYPL",
+          "title": "PayPal",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 63202
+        }
+      ],
+      "likes": {
+        "total": 2,
+        "user_ids": [
+          3696074,
+          425618
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 253564555,
+      "body": "$PYPL Long way down to the 200D. Prior ATH support",
+      "created_at": "2020-10-30T15:37:16Z",
+      "user": {
+        "id": 338677,
+        "username": "EveryTimeICash",
+        "name": "Wolfe",
+        "avatar_url": "https://avatars.stocktwits.com/production/338677/thumb-1509933710.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/338677/thumb-1509933710.png",
+        "join_date": "2014-04-03",
+        "official": false,
+        "identity": "User",
+        "classification": [
+          "suggested"
+        ],
+        "followers": 18624,
+        "following": 59,
+        "ideas": 33824,
+        "watchlist_stocks_count": 30,
+        "like_count": 5144,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1033,
+        "title": "TradingView Beta OLD",
+        "url": "http://XXXbeta.tradingview.com"
+      },
+      "symbols": [
+        {
+          "id": 12608,
+          "symbol": "PYPL",
+          "title": "PayPal",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 63202
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 253564555,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          3696074
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_253564555.png",
+          "large": "https://charts.stocktwits.com/production/large_253564555.png",
+          "original": "https://charts.stocktwits.com/production/original_253564555.png",
+          "url": "https://charts.stocktwits.com/production/original_253564555.png"
+        },
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253563923,
+      "body": "$PYPL 178 inbound",
+      "created_at": "2020-10-30T15:35:27Z",
+      "user": {
+        "id": 936569,
+        "username": "Composer790",
+        "name": "darren falvy",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2017-01-26",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 15,
+        "following": 32,
+        "ideas": 3064,
+        "watchlist_stocks_count": 0,
+        "like_count": 727,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 12608,
+          "symbol": "PYPL",
+          "title": "PayPal",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 63202
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          3696074
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253563032,
+      "body": "$PYPL just got some calls...thanks for the dip... hope it crushed er Monday",
+      "created_at": "2020-10-30T15:32:56Z",
+      "user": {
+        "id": 3592761,
+        "username": "cheezygroovin",
+        "name": "Matthew Walters",
+        "avatar_url": "https://avatars.stocktwits.com/production/3592761/thumb-1601060037.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3592761/thumb-1601060037.png",
+        "join_date": "2020-06-09",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 6,
+        "following": 16,
+        "ideas": 1689,
+        "watchlist_stocks_count": 7,
+        "like_count": 539,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2095,
+        "title": "StockTwits For Android ",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 12608,
+          "symbol": "PYPL",
+          "title": "PayPal",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 63202
+        }
+      ],
+      "likes": {
+        "total": 3,
+        "user_ids": [
+          917302,
+          3696074,
+          1578001
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 253561934,
+      "body": "$PYPL hard to believe this was at around $215 a week ago \ud83d\ude22",
+      "created_at": "2020-10-30T15:29:58Z",
+      "user": {
+        "id": 292011,
+        "username": "ModelsandBottles",
+        "name": "J Money",
+        "avatar_url": "https://avatars.stocktwits.com/production/292011/thumb-1387512512.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/292011/thumb-1387512512.png",
+        "join_date": "2013-12-20",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 39,
+        "following": 49,
+        "ideas": 1471,
+        "watchlist_stocks_count": 12,
+        "like_count": 1569,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 12608,
+          "symbol": "PYPL",
+          "title": "PayPal",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 63202
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          3696074
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253560495,
+      "body": "\ud83d\udcc8\ud83d\ude80 Symbol: $PYPL\nStrike Price: 200.0\nExpiration Date: 11/20/2020\nBuy/Sell: Buy \ud83d\udcc8\ud83d\ude80\nCall/Put: Call\nAI Confidence: 74.67%\nPremium Spent Today: 246.54K\nBid: 5.3\nAsk: 5.55\nVolume:  400 \nOpen Interest: 19315",
+      "created_at": "2020-10-30T15:26:09Z",
+      "user": {
+        "id": 3258564,
+        "username": "Tradytics",
+        "name": "Tradytics",
+        "avatar_url": "https://avatars.stocktwits.com/production/3258564/thumb-1594742401.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3258564/thumb-1594742401.png",
+        "join_date": "2020-04-02",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 1942,
+        "following": 69,
+        "ideas": 1221,
+        "watchlist_stocks_count": 18,
+        "like_count": 311,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5615,
+        "title": "Tradytics",
+        "url": "https://stocktwits.com/tradytics"
+      },
+      "symbols": [
+        {
+          "id": 12608,
+          "symbol": "PYPL",
+          "title": "PayPal",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 63202
+        }
+      ],
+      "likes": {
+        "total": 4,
+        "user_ids": [
+          273188,
+          917302,
+          3696074,
+          4189221
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 253559426,
+      "body": "$MGI loaded up $PYPL Jan calls... no brainer! Easy money!",
+      "created_at": "2020-10-30T15:23:21Z",
+      "user": {
+        "id": 1122653,
+        "username": "supdude111111",
+        "name": "Superman111111",
+        "avatar_url": "https://avatars.stocktwits.com/production/1122653/thumb-1597972614.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1122653/thumb-1597972614.png",
+        "join_date": "2017-07-12",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 44,
+        "following": 0,
+        "ideas": 1218,
+        "watchlist_stocks_count": 118,
+        "like_count": 1246,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 6290,
+          "symbol": "MGI",
+          "title": "Moneygram International Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 6367
+        },
+        {
+          "id": 12608,
+          "symbol": "PYPL",
+          "title": "PayPal",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 63198
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "giphy": {
+          "id": "QZUOG2ZOjNHOPY8wEY"
+        },
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 253557844,
+      "body": "$PYPL NEW ARTICLE : PayPal Holdings&#39;s Earnings: A Preview https://www.stck.pro/news/PYPL/8842503",
+      "created_at": "2020-10-30T15:19:14Z",
+      "user": {
+        "id": 1555408,
+        "username": "STCKPRO",
+        "name": "STCK.PRO",
+        "avatar_url": "https://avatars.stocktwits.com/production/1555408/thumb-1576077822.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1555408/thumb-1576077822.png",
+        "join_date": "2018-07-24",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 4373,
+        "following": 2,
+        "ideas": 265457,
+        "watchlist_stocks_count": 18,
+        "like_count": 52,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5011,
+        "title": "STCK.PRO",
+        "url": "https://dashboard.stck.pro"
+      },
+      "symbols": [
+        {
+          "id": 12608,
+          "symbol": "PYPL",
+          "title": "PayPal",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 63198
+        }
+      ],
+      "links": [
+        {
+          "title": "PayPal Holdings (PYPL)",
+          "url": "https://www.stck.pro/news/PYPL/8842503",
+          "shortened_url": "https://www.stck.pro/news/PYPL/8842503",
+          "shortened_expanded_url": "stck.pro/news/PYPL",
+          "description": "Never miss an important article again, stay on top of your investments and become a better investor today! Get your moat on and sync your watchlist with Stocktwits and get all the latest news for your symbols. Sync with Stocktwits",
+          "image": "https://www.stck.pro/img/imac.png",
+          "created_at": "2020-10-30T15:19:17Z",
+          "video_url": null,
+          "source": {
+            "name": "Stck",
+            "website": "https://www.stck.pro"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_253557844.jpg",
+          "large": "https://charts.stocktwits.com/production/large_253557844.jpg",
+          "original": "https://charts.stocktwits.com/production/original_253557844.jpg",
+          "url": "https://charts.stocktwits.com/production/original_253557844.jpg"
+        },
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253557587,
+      "body": "$PYPL just look at this on Monday Bulls, just do something else today!",
+      "created_at": "2020-10-30T15:18:35Z",
+      "user": {
+        "id": 3477537,
+        "username": "Opt_Trd",
+        "name": "Beginner Technical",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2020-05-19",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 1,
+        "following": 27,
+        "ideas": 152,
+        "watchlist_stocks_count": 11,
+        "like_count": 152,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 12608,
+          "symbol": "PYPL",
+          "title": "PayPal",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 63202
+        }
+      ],
+      "likes": {
+        "total": 2,
+        "user_ids": [
+          1181799,
+          3696074
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 253554084,
+      "body": "$PYPL is losing over $30k/yr in revenue from one of the businesses I am a partner in due to ebay moving away from them. That is ONE small business. They will get cut in half or at least down to low 100&#39;s when the market realizes this is times a million businesses.",
+      "created_at": "2020-10-30T15:09:54Z",
+      "user": {
+        "id": 2882602,
+        "username": "prep4war",
+        "name": "Pete Max",
+        "avatar_url": "https://avatars.stocktwits.com/production/2882602/thumb-1587466780.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2882602/thumb-1587466780.png",
+        "join_date": "2019-10-24",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 5,
+        "following": 3,
+        "ideas": 412,
+        "watchlist_stocks_count": 18,
+        "like_count": 219,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 12608,
+          "symbol": "PYPL",
+          "title": "PayPal",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 63202
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          3696074
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253553581,
+      "body": "$MGI MGI - pe ratio -7(thats right, negative 7)\n$sq. pe ratio 310 \n$PYPL. Pe ratio 92 \n$wu pe ratio 14\n\nThese companies are trading and almost a hundred times their value and here is MGI trading at -7 times their value . .",
+      "created_at": "2020-10-30T15:08:37Z",
+      "user": {
+        "id": 3353127,
+        "username": "bubbafox",
+        "name": "bubbafox",
+        "avatar_url": "https://avatars.stocktwits.com/production/3353127/thumb-1593721573.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3353127/thumb-1593721573.png",
+        "join_date": "2020-04-24",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 334,
+        "following": 68,
+        "ideas": 7604,
+        "watchlist_stocks_count": 9,
+        "like_count": 11955,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2095,
+        "title": "StockTwits For Android ",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 6290,
+          "symbol": "MGI",
+          "title": "Moneygram International Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 6336
+        },
+        {
+          "id": 7779,
+          "symbol": "WU",
+          "title": "Western Union Co.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1268
+        },
+        {
+          "id": 7991,
+          "symbol": "SQ",
+          "title": "Square",
+          "aliases": [
+            "SQUARE"
+          ],
+          "is_following": false,
+          "watchlist_count": 106965
+        },
+        {
+          "id": 12608,
+          "symbol": "PYPL",
+          "title": "PayPal",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 63198
+        }
+      ],
+      "likes": {
+        "total": 2,
+        "user_ids": [
+          1122653,
+          4214037
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "giphy": {
+          "id": "QuDDg9LrxNOfK"
+        },
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 253552855,
+      "body": "$PYPL Hold here, earnings beat, and we have a reverse H&amp;S setup for post election",
+      "created_at": "2020-10-30T15:06:51Z",
+      "user": {
+        "id": 1395360,
+        "username": "CNayak88",
+        "name": "Chetan Nayak",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2018-02-01",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 20,
+        "following": 14,
+        "ideas": 2432,
+        "watchlist_stocks_count": 130,
+        "like_count": 8163,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 12608,
+          "symbol": "PYPL",
+          "title": "PayPal",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 63202
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          3696074
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 253552365,
+      "body": "The consensus estimate for $STNE was for $148 million in revenue.  $STNE came in at $174 million in revenue.  Wow.\n\n$STNE is quickly becoming the $PYPL of Latin America...",
+      "created_at": "2020-10-30T15:05:41Z",
+      "user": {
+        "id": 3268978,
+        "username": "WilliamNextLvl",
+        "name": "William L",
+        "avatar_url": "https://avatars.stocktwits.com/production/3268978/thumb-1586063429.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3268978/thumb-1586063429.png",
+        "join_date": "2020-04-05",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 29,
+        "following": 0,
+        "ideas": 433,
+        "watchlist_stocks_count": 12,
+        "like_count": 359,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 12608,
+          "symbol": "PYPL",
+          "title": "PayPal",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 63202
+        },
+        {
+          "id": 14986,
+          "symbol": "STNE",
+          "title": "StoneCo Ltd",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 6637
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 253552365,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "likes": {
+        "total": 3,
+        "user_ids": [
+          3326355,
+          1496474,
+          923636
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 253550536,
+      "body": "PYPL Aggressive Elevated Risk: PayPal Hldgs Inc $PYPL triggered at $185.60 on 30-Oct-20 EST http://dlvr.it/RkflX5",
+      "created_at": "2020-10-30T15:01:33Z",
+      "user": {
+        "id": 2806947,
+        "username": "SmartRTrailingStops",
+        "name": "SmartStops.net",
+        "avatar_url": "https://avatars.stocktwits.com/production/2806947/thumb-1568329661.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2806947/thumb-1568329661.png",
+        "join_date": "2019-09-12",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 38,
+        "following": 0,
+        "ideas": 1218,
+        "watchlist_stocks_count": 2,
+        "like_count": 0,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1351,
+        "title": "dlvr.it",
+        "url": "https://dlvrit.com/"
+      },
+      "symbols": [
+        {
+          "id": 12608,
+          "symbol": "PYPL",
+          "title": "PayPal",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 63202
+        }
+      ],
+      "links": [
+        {
+          "title": "(PYPL) PayPal Hldgs Inc | Smartstops",
+          "url": "http://dlvr.it/RkflX5",
+          "shortened_url": "http://dlvr.it/RkflX5",
+          "shortened_expanded_url": "invest.smartstops.net/stock...",
+          "description": "The Difference Between Aggressive and Conservative Risk Alerts Aggressive SmartStops are designed to provide maximum downside protection and typically lie closer to the current price of the stock or ETF. Conservative SmartStops allow for more price movement resulting in fewer triggers and a lower probability of whipsaw.",
+          "image": "https://invest.smartstops.net/wp-content/uploads/2018/12/smartstops-logo-social.png",
+          "created_at": "2020-10-30T15:01:35Z",
+          "video_url": null,
+          "source": {
+            "name": "Smartstops",
+            "website": "https://invest.smartstops.net"
+          }
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          3696074
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253549517,
+      "body": "$PYPL brutal. Hopefully my wife doesn\u2019t leave me lol",
+      "created_at": "2020-10-30T14:59:26Z",
+      "user": {
+        "id": 948782,
+        "username": "vicpredicts",
+        "name": "Landonis Balthazar Calrissian",
+        "avatar_url": "https://avatars.stocktwits.com/production/948782/thumb-1486677448.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/948782/thumb-1486677448.png",
+        "join_date": "2017-02-07",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 28,
+        "following": 85,
+        "ideas": 785,
+        "watchlist_stocks_count": 297,
+        "like_count": 355,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 12608,
+          "symbol": "PYPL",
+          "title": "PayPal",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 63202
+        }
+      ],
+      "likes": {
+        "total": 3,
+        "user_ids": [
+          1607720,
+          1122653,
+          3696074
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253549119,
+      "body": "$PYPL wheres next support $175?",
+      "created_at": "2020-10-30T14:58:33Z",
+      "user": {
+        "id": 3962773,
+        "username": "Johns246",
+        "name": "John smith",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2020-08-16",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 0,
+        "following": 0,
+        "ideas": 23,
+        "watchlist_stocks_count": 1,
+        "like_count": 49,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 12608,
+          "symbol": "PYPL",
+          "title": "PayPal",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 63202
+        }
+      ],
+      "likes": {
+        "total": 2,
+        "user_ids": [
+          1809867,
+          3696074
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    }
+  ]
+}

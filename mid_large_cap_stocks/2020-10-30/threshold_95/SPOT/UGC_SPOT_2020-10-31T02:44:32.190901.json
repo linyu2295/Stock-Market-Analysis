@@ -1,0 +1,1786 @@
+{
+  "response": {
+    "status": 200
+  },
+  "symbol": {
+    "id": 9076,
+    "symbol": "SPOT",
+    "title": "Spotify Technology S.A.",
+    "aliases": [
+      "SPTF",
+      "SPOTIFY"
+    ],
+    "is_following": false,
+    "watchlist_count": 26671
+  },
+  "cursor": {
+    "more": true,
+    "since": 253618767,
+    "max": 253436183
+  },
+  "messages": [
+    {
+      "id": 253618767,
+      "body": "$SPOT this is bs company",
+      "created_at": "2020-10-30T18:37:34Z",
+      "user": {
+        "id": 3145958,
+        "username": "Nugget16",
+        "name": "Kayn",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2020-03-03",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 9,
+        "following": 9,
+        "ideas": 2184,
+        "watchlist_stocks_count": 3,
+        "like_count": 56,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 9076,
+          "symbol": "SPOT",
+          "title": "Spotify Technology S.A.",
+          "aliases": [
+            "SPTF",
+            "SPOTIFY"
+          ],
+          "is_following": false,
+          "watchlist_count": 26671
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 253618767,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bearish"
+        }
+      }
+    },
+    {
+      "id": 253618317,
+      "body": "$SPOT If you&#39;re buying Spotify, you&#39;re buying for 2+ years run way, at the least. The closer they approach 1 billion users the more it will increase. Their ARPU (Average revenue per user) will also see some growth which will push the stock. #Longtermthinking",
+      "created_at": "2020-10-30T18:35:56Z",
+      "user": {
+        "id": 4253490,
+        "username": "Alex7sim",
+        "name": "Alex S",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2020-10-30",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 0,
+        "following": 0,
+        "ideas": 1,
+        "watchlist_stocks_count": 14,
+        "like_count": 0,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 9076,
+          "symbol": "SPOT",
+          "title": "Spotify Technology S.A.",
+          "aliases": [
+            "SPTF",
+            "SPOTIFY"
+          ],
+          "is_following": false,
+          "watchlist_count": 26671
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 253618183,
+      "body": "$SPOT buy time load my boat",
+      "created_at": "2020-10-30T18:35:22Z",
+      "user": {
+        "id": 3145958,
+        "username": "Nugget16",
+        "name": "Kayn",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2020-03-03",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 9,
+        "following": 9,
+        "ideas": 2184,
+        "watchlist_stocks_count": 3,
+        "like_count": 56,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 9076,
+          "symbol": "SPOT",
+          "title": "Spotify Technology S.A.",
+          "aliases": [
+            "SPTF",
+            "SPOTIFY"
+          ],
+          "is_following": false,
+          "watchlist_count": 26671
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 253616025,
+      "body": "$SPOT let me tell me a joke. imagine being long SPOT. thats it, thats the joke.",
+      "created_at": "2020-10-30T18:27:57Z",
+      "user": {
+        "id": 333046,
+        "username": "tradinWitseriousVolume",
+        "name": "tWsV",
+        "avatar_url": "https://avatars.stocktwits.com/production/333046/thumb-1590843627.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/333046/thumb-1590843627.png",
+        "join_date": "2014-03-21",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 22,
+        "following": 3,
+        "ideas": 2344,
+        "watchlist_stocks_count": 42,
+        "like_count": 194,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 9076,
+          "symbol": "SPOT",
+          "title": "Spotify Technology S.A.",
+          "aliases": [
+            "SPTF",
+            "SPOTIFY"
+          ],
+          "is_following": false,
+          "watchlist_count": 26671
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bearish"
+        }
+      }
+    },
+    {
+      "id": 253608370,
+      "body": "$SPOT wow. Tanking. Love this stock but it got me today. Glad i bailed. Dumb move on my part",
+      "created_at": "2020-10-30T18:02:55Z",
+      "user": {
+        "id": 1804971,
+        "username": "Cvrdcall1",
+        "name": "Cvrdcall1",
+        "avatar_url": "https://avatars.stocktwits.com/production/1804971/thumb-1561866959.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1804971/thumb-1561866959.png",
+        "join_date": "2019-01-11",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 123,
+        "following": 20,
+        "ideas": 8583,
+        "watchlist_stocks_count": 160,
+        "like_count": 23258,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2095,
+        "title": "StockTwits For Android ",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 9076,
+          "symbol": "SPOT",
+          "title": "Spotify Technology S.A.",
+          "aliases": [
+            "SPTF",
+            "SPOTIFY"
+          ],
+          "is_following": false,
+          "watchlist_count": 26671
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253602110,
+      "body": "$SPOT ouch got wrecked. Out. Pos",
+      "created_at": "2020-10-30T17:42:51Z",
+      "user": {
+        "id": 1804971,
+        "username": "Cvrdcall1",
+        "name": "Cvrdcall1",
+        "avatar_url": "https://avatars.stocktwits.com/production/1804971/thumb-1561866959.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1804971/thumb-1561866959.png",
+        "join_date": "2019-01-11",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 123,
+        "following": 20,
+        "ideas": 8583,
+        "watchlist_stocks_count": 160,
+        "like_count": 23234,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2095,
+        "title": "StockTwits For Android ",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 9076,
+          "symbol": "SPOT",
+          "title": "Spotify Technology S.A.",
+          "aliases": [
+            "SPTF",
+            "SPOTIFY"
+          ],
+          "is_following": false,
+          "watchlist_count": 26672
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253596699,
+      "body": "$SPOT sold put 247.50 todays close. Lets go!",
+      "created_at": "2020-10-30T17:23:03Z",
+      "user": {
+        "id": 1804971,
+        "username": "Cvrdcall1",
+        "name": "Cvrdcall1",
+        "avatar_url": "https://avatars.stocktwits.com/production/1804971/thumb-1561866959.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1804971/thumb-1561866959.png",
+        "join_date": "2019-01-11",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 123,
+        "following": 20,
+        "ideas": 8580,
+        "watchlist_stocks_count": 160,
+        "like_count": 23234,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2095,
+        "title": "StockTwits For Android ",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 9076,
+          "symbol": "SPOT",
+          "title": "Spotify Technology S.A.",
+          "aliases": [
+            "SPTF",
+            "SPOTIFY"
+          ],
+          "is_following": false,
+          "watchlist_count": 26672
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 253585506,
+      "body": "This is one of those days where you just don&#39;t log into your broker. Just relax and let the day pass. If you know the candle light is fire, then the meal was cooked a long time ago. \nLets wait for November 3rd boys! Everything is going to be $ETSY $GOOGL $BABA $SPOT",
+      "created_at": "2020-10-30T16:42:08Z",
+      "user": {
+        "id": 4186729,
+        "username": "Mrcelsuce",
+        "name": "Talal Abillama",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2020-10-14",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 3,
+        "following": 3,
+        "ideas": 17,
+        "watchlist_stocks_count": 7,
+        "like_count": 11,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 7996,
+          "symbol": "ETSY",
+          "title": "Etsy",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 21746
+        },
+        {
+          "id": 9076,
+          "symbol": "SPOT",
+          "title": "Spotify Technology S.A.",
+          "aliases": [
+            "SPTF",
+            "SPOTIFY"
+          ],
+          "is_following": false,
+          "watchlist_count": 26671
+        },
+        {
+          "id": 11938,
+          "symbol": "GOOGL",
+          "title": "Alphabet Inc. Class A",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 93571
+        },
+        {
+          "id": 12100,
+          "symbol": "BABA",
+          "title": "Alibaba",
+          "aliases": [
+            "ALIBABA"
+          ],
+          "is_following": false,
+          "watchlist_count": 228426
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 253585506,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "likes": {
+        "total": 12,
+        "user_ids": [
+          4250354,
+          2105313,
+          2263906,
+          745638,
+          4040701,
+          2903409,
+          3075835,
+          3333410,
+          1804971,
+          1689486,
+          952118,
+          4174741
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 253583411,
+      "body": "$SPOT Added at 243 ish",
+      "created_at": "2020-10-30T16:34:42Z",
+      "user": {
+        "id": 2152574,
+        "username": "Dash77",
+        "name": "Dash",
+        "avatar_url": "https://avatars.stocktwits.com/production/2152574/thumb-1561827468.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2152574/thumb-1561827468.png",
+        "join_date": "2019-06-20",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 39,
+        "following": 59,
+        "ideas": 2126,
+        "watchlist_stocks_count": 66,
+        "like_count": 2484,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 9076,
+          "symbol": "SPOT",
+          "title": "Spotify Technology S.A.",
+          "aliases": [
+            "SPTF",
+            "SPOTIFY"
+          ],
+          "is_following": false,
+          "watchlist_count": 26672
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 253574136,
+      "body": "Added to $FB and $SPOT",
+      "created_at": "2020-10-30T16:05:14Z",
+      "user": {
+        "id": 164658,
+        "username": "Shaperfunds",
+        "name": "Shaperfunds",
+        "avatar_url": "https://avatars.stocktwits.com/production/164658/thumb-1513749024.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/164658/thumb-1513749024.png",
+        "join_date": "2012-06-22",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 499,
+        "following": 82,
+        "ideas": 7817,
+        "watchlist_stocks_count": 152,
+        "like_count": 1603,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 7871,
+          "symbol": "FB",
+          "title": "Facebook",
+          "aliases": [
+            "FBOOK"
+          ],
+          "is_following": false,
+          "watchlist_count": 325623
+        },
+        {
+          "id": 9076,
+          "symbol": "SPOT",
+          "title": "Spotify Technology S.A.",
+          "aliases": [
+            "SPTF",
+            "SPOTIFY"
+          ],
+          "is_following": false,
+          "watchlist_count": 26672
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          794219
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 253572459,
+      "body": "Can $u show us a close above \ud83d\udcaf so YO can $spot da \ud83e\udde0 above 250?   \n\n\ud83d\udc12\ud83c\udf4c\ud83e\udde0",
+      "created_at": "2020-10-30T16:00:21Z",
+      "user": {
+        "id": 91181,
+        "username": "Doozio",
+        "name": "J",
+        "avatar_url": "https://avatars.stocktwits.com/production/91181/thumb-1543511825.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/91181/thumb-1543511825.png",
+        "join_date": "2011-07-07",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 36984,
+        "following": 420,
+        "ideas": 54631,
+        "watchlist_stocks_count": 276,
+        "like_count": 12899,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 9076,
+          "symbol": "SPOT",
+          "title": "Spotify Technology S.A.",
+          "aliases": [
+            "SPTF",
+            "SPOTIFY"
+          ],
+          "is_following": false,
+          "watchlist_count": 26672
+        },
+        {
+          "id": 14711,
+          "symbol": "U",
+          "title": "Unity Software",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 4940
+        }
+      ],
+      "likes": {
+        "total": 4,
+        "user_ids": [
+          748375,
+          3456233,
+          2798483,
+          1512574
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 253570719,
+      "body": "$SPOT BU...BU...BUUU...BUT BARSTOOL SPORTS GUY SAID STOCKS ONLY GO UP \ud83d\ude2d BAHHAHHHAHAHA TIME TO PAY UP , welfare cuckZ!!!!",
+      "created_at": "2020-10-30T15:54:59Z",
+      "user": {
+        "id": 2859710,
+        "username": "templarZ",
+        "name": "STemplar",
+        "avatar_url": "https://avatars.stocktwits.com/production/2859710/thumb-1601276462.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2859710/thumb-1601276462.png",
+        "join_date": "2019-10-13",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 24,
+        "following": 91,
+        "ideas": 1110,
+        "watchlist_stocks_count": 300,
+        "like_count": 395,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 9076,
+          "symbol": "SPOT",
+          "title": "Spotify Technology S.A.",
+          "aliases": [
+            "SPTF",
+            "SPOTIFY"
+          ],
+          "is_following": false,
+          "watchlist_count": 26672
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 253570719,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "mentioned_users": [],
+      "entities": {
+        "giphy": {
+          "id": "U5YvfAIMEL9sc"
+        },
+        "sentiment": {
+          "basic": "Bearish"
+        }
+      }
+    },
+    {
+      "id": 253561653,
+      "body": "$SPOT round trip in 4 days top to bottom of box BRUTAL, but not as bad as last time which was 3 days top to bottom...",
+      "created_at": "2020-10-30T15:29:10Z",
+      "user": {
+        "id": 271112,
+        "username": "Lion_Heart",
+        "name": "Lion_Heart",
+        "avatar_url": "https://avatars.stocktwits.com/production/271112/thumb-1582163134.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/271112/thumb-1582163134.png",
+        "join_date": "2013-10-17",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 192,
+        "following": 74,
+        "ideas": 4251,
+        "watchlist_stocks_count": 58,
+        "like_count": 592,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 9076,
+          "symbol": "SPOT",
+          "title": "Spotify Technology S.A.",
+          "aliases": [
+            "SPTF",
+            "SPOTIFY"
+          ],
+          "is_following": false,
+          "watchlist_count": 26674
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_253561653.png",
+          "large": "https://charts.stocktwits.com/production/large_253561653.png",
+          "original": "https://charts.stocktwits.com/production/original_253561653.png",
+          "url": "https://charts.stocktwits.com/production/original_253561653.png"
+        },
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253554770,
+      "body": "$SPOT If you believe in triple tops. $SPOT",
+      "created_at": "2020-10-30T15:11:25Z",
+      "user": {
+        "id": 338677,
+        "username": "EveryTimeICash",
+        "name": "Wolfe",
+        "avatar_url": "https://avatars.stocktwits.com/production/338677/thumb-1509933710.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/338677/thumb-1509933710.png",
+        "join_date": "2014-04-03",
+        "official": false,
+        "identity": "User",
+        "classification": [
+          "suggested"
+        ],
+        "followers": 18623,
+        "following": 59,
+        "ideas": 33807,
+        "watchlist_stocks_count": 30,
+        "like_count": 5144,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1033,
+        "title": "TradingView Beta OLD",
+        "url": "http://XXXbeta.tradingview.com"
+      },
+      "symbols": [
+        {
+          "id": 9076,
+          "symbol": "SPOT",
+          "title": "Spotify Technology S.A.",
+          "aliases": [
+            "SPTF",
+            "SPOTIFY"
+          ],
+          "is_following": false,
+          "watchlist_count": 26674
+        }
+      ],
+      "likes": {
+        "total": 2,
+        "user_ids": [
+          1512574,
+          379360
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_253554770.png",
+          "large": "https://charts.stocktwits.com/production/large_253554770.png",
+          "original": "https://charts.stocktwits.com/production/original_253554770.png",
+          "url": "https://charts.stocktwits.com/production/original_253554770.png"
+        },
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253541830,
+      "body": "$SPOT The Price of a Spotify Subscription Might Be Going Up Soon http://dlvr.it/Rkfhf7",
+      "created_at": "2020-10-30T14:43:08Z",
+      "user": {
+        "id": 3395308,
+        "username": "f3rmo",
+        "name": "ferchu",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2020-05-03",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 50,
+        "following": 0,
+        "ideas": 8063,
+        "watchlist_stocks_count": 35,
+        "like_count": 3,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1351,
+        "title": "dlvr.it",
+        "url": "https://dlvrit.com/"
+      },
+      "symbols": [
+        {
+          "id": 9076,
+          "symbol": "SPOT",
+          "title": "Spotify Technology S.A.",
+          "aliases": [
+            "SPTF",
+            "SPOTIFY"
+          ],
+          "is_following": false,
+          "watchlist_count": 26676
+        }
+      ],
+      "links": [
+        {
+          "title": "The Price of a Spotify Subscription Might Be Going Up Soon",
+          "url": "http://dlvr.it/Rkfhf7",
+          "shortened_url": "http://dlvr.it/Rkfhf7",
+          "shortened_expanded_url": "finsharing.com/posts/the-pr...",
+          "description": "Disclaimer: FinSharing does not guarantee that any of the information available on our website, APIs or provided by any other means is complete, accurate, current, reliable or appropriate for your needs. Some of our information is provided by third party services and we cannot guarantee that is complete, accurate, current, reliable or appropriate for your needs.",
+          "image": "https://g.foolcdn.com/editorial/images/597464/spotify-reception-1.jpg",
+          "created_at": "2020-10-30T14:43:10Z",
+          "video_url": null,
+          "source": {
+            "name": "FinSharing.com",
+            "website": "https://finsharing.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253541089,
+      "body": "$SPOT $6.65 to $16.50 I could go all day on the gains being made in my group.",
+      "created_at": "2020-10-30T14:41:34Z",
+      "user": {
+        "id": 3092632,
+        "username": "BeerMonies",
+        "name": "BeerMoniesTradingLLC",
+        "avatar_url": "https://avatars.stocktwits.com/production/3092632/thumb-1602430248.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3092632/thumb-1602430248.png",
+        "join_date": "2020-02-13",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 908,
+        "following": 20,
+        "ideas": 1729,
+        "watchlist_stocks_count": 1,
+        "like_count": 122,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 9076,
+          "symbol": "SPOT",
+          "title": "Spotify Technology S.A.",
+          "aliases": [
+            "SPTF",
+            "SPOTIFY"
+          ],
+          "is_following": false,
+          "watchlist_count": 26676
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_253541089.png",
+          "large": "https://charts.stocktwits.com/production/large_253541089.png",
+          "original": "https://charts.stocktwits.com/production/original_253541089.png",
+          "url": "https://charts.stocktwits.com/production/original_253541089.png"
+        },
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253531005,
+      "body": "$SPOT $FB $CRWD $BABA\ni hate to get all technical and stuff but this sell off is dumb",
+      "created_at": "2020-10-30T14:18:44Z",
+      "user": {
+        "id": 564017,
+        "username": "i_just_farted_",
+        "name": "Junior",
+        "avatar_url": "https://avatars.stocktwits.com/production/564017/thumb-1529530312.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/564017/thumb-1529530312.png",
+        "join_date": "2015-08-05",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 13,
+        "following": 10,
+        "ideas": 530,
+        "watchlist_stocks_count": 10,
+        "like_count": 3969,
+        "plus_tier": "life",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 7871,
+          "symbol": "FB",
+          "title": "Facebook",
+          "aliases": [
+            "FBOOK"
+          ],
+          "is_following": false,
+          "watchlist_count": 325623
+        },
+        {
+          "id": 9076,
+          "symbol": "SPOT",
+          "title": "Spotify Technology S.A.",
+          "aliases": [
+            "SPTF",
+            "SPOTIFY"
+          ],
+          "is_following": false,
+          "watchlist_count": 26672
+        },
+        {
+          "id": 12100,
+          "symbol": "BABA",
+          "title": "Alibaba",
+          "aliases": [
+            "ALIBABA"
+          ],
+          "is_following": false,
+          "watchlist_count": 228409
+        },
+        {
+          "id": 15271,
+          "symbol": "CRWD",
+          "title": "CrowdStrike Holdings",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 19439
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 253531005,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 2
+      },
+      "likes": {
+        "total": 11,
+        "user_ids": [
+          966097,
+          3135755,
+          2984668,
+          316512,
+          4068301,
+          482928,
+          239958,
+          738886,
+          658819,
+          3915469,
+          1512574
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 253525523,
+      "body": "$SPOT NEW ARTICLE : The Price of a Spotify Subscription Might Be Going Up Soon https://www.stck.pro/news/SPOT/8841106",
+      "created_at": "2020-10-30T14:05:17Z",
+      "user": {
+        "id": 1555408,
+        "username": "STCKPRO",
+        "name": "STCK.PRO",
+        "avatar_url": "https://avatars.stocktwits.com/production/1555408/thumb-1576077822.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1555408/thumb-1576077822.png",
+        "join_date": "2018-07-24",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 4373,
+        "following": 2,
+        "ideas": 265252,
+        "watchlist_stocks_count": 18,
+        "like_count": 52,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5011,
+        "title": "STCK.PRO",
+        "url": "https://dashboard.stck.pro"
+      },
+      "symbols": [
+        {
+          "id": 9076,
+          "symbol": "SPOT",
+          "title": "Spotify Technology S.A.",
+          "aliases": [
+            "SPTF",
+            "SPOTIFY"
+          ],
+          "is_following": false,
+          "watchlist_count": 26676
+        }
+      ],
+      "links": [
+        {
+          "title": "Spotify Technology S.A. (SPOT)",
+          "url": "https://www.stck.pro/news/SPOT/8841106",
+          "shortened_url": "https://www.stck.pro/news/SPOT/8841106",
+          "shortened_expanded_url": "stck.pro/news/SPOT",
+          "description": "Never miss an important article again, stay on top of your investments and become a better investor today! Get your moat on and sync your watchlist with Stocktwits and get all the latest news for your symbols. Sync with Stocktwits",
+          "image": "https://www.stck.pro/img/imac.png",
+          "created_at": "2020-10-30T14:05:21Z",
+          "video_url": null,
+          "source": {
+            "name": "Stck",
+            "website": "https://www.stck.pro"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_253525523.jpg",
+          "large": "https://charts.stocktwits.com/production/large_253525523.jpg",
+          "original": "https://charts.stocktwits.com/production/original_253525523.jpg",
+          "url": "https://charts.stocktwits.com/production/original_253525523.jpg"
+        },
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253516761,
+      "body": "$SPOT Added",
+      "created_at": "2020-10-30T13:45:15Z",
+      "user": {
+        "id": 1413943,
+        "username": "NoBSBullAlerts",
+        "name": "KB",
+        "avatar_url": "https://avatars.stocktwits.com/production/1413943/thumb-1591930766.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1413943/thumb-1591930766.png",
+        "join_date": "2018-02-16",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 298,
+        "following": 41,
+        "ideas": 4456,
+        "watchlist_stocks_count": 48,
+        "like_count": 1415,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 9076,
+          "symbol": "SPOT",
+          "title": "Spotify Technology S.A.",
+          "aliases": [
+            "SPTF",
+            "SPOTIFY"
+          ],
+          "is_following": false,
+          "watchlist_count": 26677
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 253498088,
+      "body": "5-star analyst Ross Sandler from Barclays maintained a Buy on $SPOT.  https://www.tipranks.com/analysts/ross-sandler",
+      "created_at": "2020-10-30T12:34:00Z",
+      "user": {
+        "id": 217593,
+        "username": "TipRanks",
+        "name": "TipRanks",
+        "avatar_url": "https://avatars.stocktwits.com/production/217593/thumb-1586151495.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/217593/thumb-1586151495.png",
+        "join_date": "2013-02-28",
+        "official": true,
+        "identity": "Official",
+        "classification": [
+          "official"
+        ],
+        "followers": 75904,
+        "following": 126,
+        "ideas": 53773,
+        "watchlist_stocks_count": 5,
+        "like_count": 430,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 3247,
+        "title": "TipRanks Live Feed",
+        "url": "https://www.tipranks.com"
+      },
+      "symbols": [
+        {
+          "id": 9076,
+          "symbol": "SPOT",
+          "title": "Spotify Technology S.A.",
+          "aliases": [
+            "SPTF",
+            "SPOTIFY"
+          ],
+          "is_following": false,
+          "watchlist_count": 26677
+        }
+      ],
+      "links": [
+        {
+          "title": null,
+          "url": "https://www.tipranks.com/analysts/ross-sandler",
+          "shortened_url": "https://www.tipranks.com/analysts/ross-sandler",
+          "shortened_expanded_url": "tipranks.com/analysts/ross-...",
+          "description": null,
+          "image": null,
+          "created_at": "2020-10-30T12:34:01Z",
+          "video_url": null,
+          "source": {
+            "name": "Tipranks",
+            "website": "https://www.tipranks.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253486860,
+      "body": "$SPOT Down 3 days in a row. 287.45 | 276.14 | 266.87 | 255 |  https://www.sleekoptions.com/sleekscan.aspx?sub1=dscan",
+      "created_at": "2020-10-30T11:30:35Z",
+      "user": {
+        "id": 1553598,
+        "username": "sleekoptions_twits",
+        "name": "sleekOptions Signals",
+        "avatar_url": "https://avatars.stocktwits.com/production/1553598/thumb-1600048561.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1553598/thumb-1600048561.png",
+        "join_date": "2018-07-22",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 1759,
+        "following": 29,
+        "ideas": 24478,
+        "watchlist_stocks_count": 3,
+        "like_count": 263,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 4255,
+        "title": "Sleekoptions Daytrade",
+        "url": "http://www.sleekoptions.com"
+      },
+      "symbols": [
+        {
+          "id": 9076,
+          "symbol": "SPOT",
+          "title": "Spotify Technology S.A.",
+          "aliases": [
+            "SPTF",
+            "SPOTIFY"
+          ],
+          "is_following": false,
+          "watchlist_count": 26677
+        }
+      ],
+      "links": [
+        {
+          "title": "SleekOptions.com - Algo based option trading Alerts",
+          "url": "https://www.sleekoptions.com/sleekscan.aspx?sub1=dscan",
+          "shortened_url": "https://www.sleekoptions.com/sleekscan.aspx?sub1=dscan",
+          "shortened_expanded_url": "sleekoptions.com/sleekscan....",
+          "description": "SleekOptions.com - Algo based option trading alerts gives you near real time alerts of good setups for option trading. Option trading alerts are triggered by the system using proprietary algo , historical data analysis, technical analysis and price action analysis. The alerts are posted in both the website and also in chat platform for push and email notifications.",
+          "image": null,
+          "created_at": "2020-10-30T11:30:35Z",
+          "video_url": null,
+          "source": {
+            "name": "Sleekoptions",
+            "website": "https://www.sleekoptions.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253467431,
+      "body": "$SPOT was analyzed by 19 analysts. The buy consensus is at 72%. So analysts seem to be mildly confident about $SPOT. https://www.chartmill.com/stock/quote/SPOT/analyst-ratings?utm_source=stocktwits&amp;utm_medium=ANALYST&amp;utm_content=SPOT&amp;utm_campaign=social_tracking",
+      "created_at": "2020-10-30T06:13:00Z",
+      "user": {
+        "id": 47688,
+        "username": "ChartMill",
+        "name": "ChartMill",
+        "avatar_url": "https://avatars.stocktwits.com/production/47688/thumb-1363343728.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/47688/thumb-1363343728.png",
+        "join_date": "2011-01-26",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 21987,
+        "following": 891,
+        "ideas": 1091024,
+        "watchlist_stocks_count": 20,
+        "like_count": 32,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1135,
+        "title": "ChartMill",
+        "url": "http://www.chartmill.com"
+      },
+      "symbols": [
+        {
+          "id": 9076,
+          "symbol": "SPOT",
+          "title": "Spotify Technology S.A.",
+          "aliases": [
+            "SPTF",
+            "SPOTIFY"
+          ],
+          "is_following": false,
+          "watchlist_count": 26674
+        }
+      ],
+      "links": [
+        {
+          "title": null,
+          "url": "https://www.chartmill.com/stock/quote/SPOT/analyst-ratings?utm_source=stocktwits&utm_medium=ANALYST&utm_content=SPOT&utm_campaign=social_tracking",
+          "shortened_url": "https://www.chartmill.com/stock/quote/SPOT/analyst-ratings?utm_source=stocktwits&utm_medium=ANALYST&utm_content=SPOT&utm_campaign=social_tracking",
+          "shortened_expanded_url": "chartmill.com/stock/quote/S...",
+          "description": null,
+          "image": null,
+          "created_at": "2020-10-30T06:13:00Z",
+          "video_url": null,
+          "source": {
+            "name": "Chartmill",
+            "website": "https://www.chartmill.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253460132,
+      "body": "Ari album released on time on Spotify but not on Apple Music.  Long $SPOT and short $AAPL",
+      "created_at": "2020-10-30T04:15:52Z",
+      "user": {
+        "id": 1624839,
+        "username": "berkshirefanclub",
+        "name": "berkshirefanclub",
+        "avatar_url": "https://avatars.stocktwits.com/production/1624839/thumb-1584297814.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1624839/thumb-1584297814.png",
+        "join_date": "2018-09-24",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 164,
+        "following": 28,
+        "ideas": 4251,
+        "watchlist_stocks_count": 41,
+        "like_count": 1401,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 686,
+          "symbol": "AAPL",
+          "title": "Apple Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 523935
+        },
+        {
+          "id": 9076,
+          "symbol": "SPOT",
+          "title": "Spotify Technology S.A.",
+          "aliases": [
+            "SPTF",
+            "SPOTIFY"
+          ],
+          "is_following": false,
+          "watchlist_count": 26674
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253441372,
+      "body": "$SPOT hold onto this stock and you will have a multi bagger in10 years",
+      "created_at": "2020-10-30T01:19:31Z",
+      "user": {
+        "id": 204495,
+        "username": "momo999",
+        "name": "tgc",
+        "avatar_url": "https://avatars.stocktwits.com/production/204495/thumb-1358618834.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/204495/thumb-1358618834.png",
+        "join_date": "2013-01-03",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 18,
+        "following": 26,
+        "ideas": 1312,
+        "watchlist_stocks_count": 87,
+        "like_count": 447,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2095,
+        "title": "StockTwits For Android ",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 9076,
+          "symbol": "SPOT",
+          "title": "Spotify Technology S.A.",
+          "aliases": [
+            "SPTF",
+            "SPOTIFY"
+          ],
+          "is_following": false,
+          "watchlist_count": 26675
+        }
+      ],
+      "likes": {
+        "total": 2,
+        "user_ids": [
+          3957305,
+          533290
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 253439916,
+      "body": "imagine being such a mirrorless Jabroni \ud83d\udc11 YO care about the \ud83c\udf7f of Alex Jones! The \ud83d\udc11 can\u2019t $spot it in a mirror!!  They all getting it eventually!!  bums! \ud83d\udc16\ud83d\udc11",
+      "created_at": "2020-10-30T01:09:11Z",
+      "user": {
+        "id": 91181,
+        "username": "Doozio",
+        "name": "J",
+        "avatar_url": "https://avatars.stocktwits.com/production/91181/thumb-1543511825.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/91181/thumb-1543511825.png",
+        "join_date": "2011-07-07",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 36986,
+        "following": 420,
+        "ideas": 54619,
+        "watchlist_stocks_count": 276,
+        "like_count": 12889,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 9076,
+          "symbol": "SPOT",
+          "title": "Spotify Technology S.A.",
+          "aliases": [
+            "SPTF",
+            "SPOTIFY"
+          ],
+          "is_following": false,
+          "watchlist_count": 26677
+        }
+      ],
+      "likes": {
+        "total": 3,
+        "user_ids": [
+          1557204,
+          2846536,
+          8468
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "giphy": {
+          "id": "1wnZSnmrnwJmnJkd1c"
+        },
+        "sentiment": {
+          "basic": "Bearish"
+        }
+      }
+    },
+    {
+      "id": 253439262,
+      "body": "$SPOT sponsored recommendations is another overlooked area. If T Swift is using it I would think it\u2019s got potential.",
+      "created_at": "2020-10-30T01:04:28Z",
+      "user": {
+        "id": 643268,
+        "username": "____cat____",
+        "name": "tr0llz",
+        "avatar_url": "https://avatars.stocktwits.com/production/643268/thumb-1589314874.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/643268/thumb-1589314874.png",
+        "join_date": "2015-11-30",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 223,
+        "following": 120,
+        "ideas": 11915,
+        "watchlist_stocks_count": 294,
+        "like_count": 10094,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 9076,
+          "symbol": "SPOT",
+          "title": "Spotify Technology S.A.",
+          "aliases": [
+            "SPTF",
+            "SPOTIFY"
+          ],
+          "is_following": false,
+          "watchlist_count": 26675
+        }
+      ],
+      "likes": {
+        "total": 2,
+        "user_ids": [
+          561821,
+          533290
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_253439262.png",
+          "large": "https://charts.stocktwits.com/production/large_253439262.png",
+          "original": "https://charts.stocktwits.com/production/original_253439262.png",
+          "url": "https://charts.stocktwits.com/production/original_253439262.png"
+        },
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253438276,
+      "body": "$SPOT up to 1.9M pods now but just 22% of total MAUs listens. That number should continue to grow. Not surprising to see JRE instantly take the #1 spot upon arrival.",
+      "created_at": "2020-10-30T00:58:22Z",
+      "user": {
+        "id": 643268,
+        "username": "____cat____",
+        "name": "tr0llz",
+        "avatar_url": "https://avatars.stocktwits.com/production/643268/thumb-1589314874.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/643268/thumb-1589314874.png",
+        "join_date": "2015-11-30",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 223,
+        "following": 120,
+        "ideas": 11906,
+        "watchlist_stocks_count": 294,
+        "like_count": 10094,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 9076,
+          "symbol": "SPOT",
+          "title": "Spotify Technology S.A.",
+          "aliases": [
+            "SPTF",
+            "SPOTIFY"
+          ],
+          "is_following": false,
+          "watchlist_count": 26672
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_253438276.png",
+          "large": "https://charts.stocktwits.com/production/large_253438276.png",
+          "original": "https://charts.stocktwits.com/production/original_253438276.png",
+          "url": "https://charts.stocktwits.com/production/original_253438276.png"
+        },
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253437271,
+      "body": "StockTwits Trending Alert: Trading recent interest in SPOTIFY TECHNOLOGY SA $SPOT https://wp.me/p5bLGB-bhbJ",
+      "created_at": "2020-10-30T00:51:00Z",
+      "user": {
+        "id": 403382,
+        "username": "quantcha",
+        "name": "Quantcha",
+        "avatar_url": "https://avatars.stocktwits.com/production/403382/thumb-1411503795.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/403382/thumb-1411503795.png",
+        "join_date": "2014-09-23",
+        "official": true,
+        "identity": "Official",
+        "classification": [
+          "official"
+        ],
+        "followers": 42687,
+        "following": 34,
+        "ideas": 69978,
+        "watchlist_stocks_count": 0,
+        "like_count": 13,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1788,
+        "title": "Quantcha Ideas",
+        "url": "http://ideas.quantcha.com"
+      },
+      "symbols": [
+        {
+          "id": 9076,
+          "symbol": "SPOT",
+          "title": "Spotify Technology S.A.",
+          "aliases": [
+            "SPTF",
+            "SPOTIFY"
+          ],
+          "is_following": false,
+          "watchlist_count": 26672
+        }
+      ],
+      "links": [
+        {
+          "title": "StockTwits Trending Alert: Trading recent interest in SPOTIFY TECHNOLOGY SA $SPOT",
+          "url": "https://wp.me/p5bLGB-bhbJ",
+          "shortened_url": "https://wp.me/p5bLGB-bhbJ",
+          "shortened_expanded_url": "ideas.quantcha.com/2020/10/...",
+          "description": "Quantcha now offering unlimited commission-free options trading. Quantchabot has detected a promising Bear Call Spread trade opportunity for SPOTIFY TECHNOLOGY SA ( SPOT) for the 13-Nov-2020 expiration period. You can analyze the opportunity in depth over at the Quantcha Options Search Engine. SPOT was recently trading at $266.87 and has an implied volatility of 55.26% for this period.",
+          "image": "https://i1.wp.com/ideas.quantcha.com/wp-content/uploads/2020/10/automated-399.png?fit=1200%2C630&ssl=1",
+          "created_at": "2020-10-30T00:51:04Z",
+          "video_url": null,
+          "source": {
+            "name": "Quantcha Trade Ideas",
+            "website": "https://ideas.quantcha.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_253437271.",
+          "large": "https://charts.stocktwits.com/production/large_253437271.",
+          "original": "https://charts.stocktwits.com/production/original_253437271.",
+          "url": "https://charts.stocktwits.com/production/original_253437271."
+        },
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253436937,
+      "body": "$SPOT interesting to see Russia is the most successful new market launch. \n\nMost important number however is the 89 bps decrease in churn. Impressive.",
+      "created_at": "2020-10-30T00:48:27Z",
+      "user": {
+        "id": 643268,
+        "username": "____cat____",
+        "name": "tr0llz",
+        "avatar_url": "https://avatars.stocktwits.com/production/643268/thumb-1589314874.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/643268/thumb-1589314874.png",
+        "join_date": "2015-11-30",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 223,
+        "following": 120,
+        "ideas": 11915,
+        "watchlist_stocks_count": 294,
+        "like_count": 10094,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 9076,
+          "symbol": "SPOT",
+          "title": "Spotify Technology S.A.",
+          "aliases": [
+            "SPTF",
+            "SPOTIFY"
+          ],
+          "is_following": false,
+          "watchlist_count": 26675
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          533290
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_253436937.png",
+          "large": "https://charts.stocktwits.com/production/large_253436937.png",
+          "original": "https://charts.stocktwits.com/production/original_253436937.png",
+          "url": "https://charts.stocktwits.com/production/original_253436937.png"
+        },
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253436183,
+      "body": "$SPOT I don\u2019t think this is getting enough credit. In-car &amp; at home listening above pre-covid peaks.",
+      "created_at": "2020-10-30T00:43:38Z",
+      "user": {
+        "id": 643268,
+        "username": "____cat____",
+        "name": "tr0llz",
+        "avatar_url": "https://avatars.stocktwits.com/production/643268/thumb-1589314874.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/643268/thumb-1589314874.png",
+        "join_date": "2015-11-30",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 223,
+        "following": 120,
+        "ideas": 11915,
+        "watchlist_stocks_count": 294,
+        "like_count": 10094,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 9076,
+          "symbol": "SPOT",
+          "title": "Spotify Technology S.A.",
+          "aliases": [
+            "SPTF",
+            "SPOTIFY"
+          ],
+          "is_following": false,
+          "watchlist_count": 26675
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          533290
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_253436183.png",
+          "large": "https://charts.stocktwits.com/production/large_253436183.png",
+          "original": "https://charts.stocktwits.com/production/original_253436183.png",
+          "url": "https://charts.stocktwits.com/production/original_253436183.png"
+        },
+        "sentiment": null
+      }
+    }
+  ]
+}

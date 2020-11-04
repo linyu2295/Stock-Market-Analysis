@@ -1,0 +1,1542 @@
+{
+  "response": {
+    "status": 200
+  },
+  "symbol": {
+    "id": 11742,
+    "symbol": "PINS",
+    "title": "Pinterest",
+    "aliases": [
+      "PINTEREST"
+    ],
+    "is_following": false,
+    "watchlist_count": 24430
+  },
+  "cursor": {
+    "more": true,
+    "since": 253232564,
+    "max": 253230970
+  },
+  "messages": [
+    {
+      "id": 253232564,
+      "body": "$PINS",
+      "created_at": "2020-10-29T13:41:06Z",
+      "user": {
+        "id": 4078937,
+        "username": "Elongoat",
+        "name": "c",
+        "avatar_url": "https://avatars.stocktwits.com/production/4078937/thumb-1603236934.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/4078937/thumb-1603236934.png",
+        "join_date": "2020-09-16",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 0,
+        "following": 3,
+        "ideas": 92,
+        "watchlist_stocks_count": 62,
+        "like_count": 44,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 11742,
+          "symbol": "PINS",
+          "title": "Pinterest",
+          "aliases": [
+            "PINTEREST"
+          ],
+          "is_following": false,
+          "watchlist_count": 24430
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "giphy": {
+          "id": "LdOyjZ7io5Msw"
+        },
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 253232361,
+      "body": "$PINS Amazing, I learned better than to expect this to fall. $70 first target",
+      "created_at": "2020-10-29T13:40:32Z",
+      "user": {
+        "id": 1605285,
+        "username": "Dayvid",
+        "name": "David Nguyen",
+        "avatar_url": "https://avatars.stocktwits.com/production/1605285/thumb-1539744744.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1605285/thumb-1539744744.png",
+        "join_date": "2018-09-10",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 492,
+        "following": 6,
+        "ideas": 16580,
+        "watchlist_stocks_count": 5,
+        "like_count": 7618,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 11742,
+          "symbol": "PINS",
+          "title": "Pinterest",
+          "aliases": [
+            "PINTEREST"
+          ],
+          "is_following": false,
+          "watchlist_count": 24430
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253232353,
+      "body": "$PINS 75 by the eod",
+      "created_at": "2020-10-29T13:40:31Z",
+      "user": {
+        "id": 3459293,
+        "username": "WILLHER",
+        "name": "Will Her",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2020-05-15",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 8,
+        "following": 9,
+        "ideas": 609,
+        "watchlist_stocks_count": 26,
+        "like_count": 1884,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 11742,
+          "symbol": "PINS",
+          "title": "Pinterest",
+          "aliases": [
+            "PINTEREST"
+          ],
+          "is_following": false,
+          "watchlist_count": 24430
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 253232190,
+      "body": "$PINS $71 call verticals sold to the moron in blue",
+      "created_at": "2020-10-29T13:40:07Z",
+      "user": {
+        "id": 585314,
+        "username": "ScottiePipn",
+        "name": "Scottie Pip-n",
+        "avatar_url": "https://avatars.stocktwits.com/production/585314/thumb-1441229354.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/585314/thumb-1441229354.png",
+        "join_date": "2015-08-27",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 572,
+        "following": 23,
+        "ideas": 12551,
+        "watchlist_stocks_count": 54,
+        "like_count": 10164,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 11742,
+          "symbol": "PINS",
+          "title": "Pinterest",
+          "aliases": [
+            "PINTEREST"
+          ],
+          "is_following": false,
+          "watchlist_count": 24430
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          3987113
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bearish"
+        }
+      }
+    },
+    {
+      "id": 253232187,
+      "body": "$PINS just grabbed one put. Let the games begin",
+      "created_at": "2020-10-29T13:40:06Z",
+      "user": {
+        "id": 3987113,
+        "username": "Optimize_Options",
+        "name": "Optimize_Options",
+        "avatar_url": "https://avatars.stocktwits.com/production/3987113/thumb-1602301799.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3987113/thumb-1602301799.png",
+        "join_date": "2020-08-21",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 11,
+        "following": 5,
+        "ideas": 253,
+        "watchlist_stocks_count": 89,
+        "like_count": 116,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2095,
+        "title": "StockTwits For Android ",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 11742,
+          "symbol": "PINS",
+          "title": "Pinterest",
+          "aliases": [
+            "PINTEREST"
+          ],
+          "is_following": false,
+          "watchlist_count": 24430
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bearish"
+        }
+      }
+    },
+    {
+      "id": 253232159,
+      "body": "$PINS NHOD 67.57 \n \nRemember to plan your entry/exit, verify momentum first, do not enter blindly, secure profits and cut losses quickly. \n \n#Fintwit #StockMarket #Trading \n#StocksToWatch",
+      "created_at": "2020-10-29T13:40:00Z",
+      "user": {
+        "id": 3740951,
+        "username": "KillerStockCall",
+        "name": "Mr. M",
+        "avatar_url": "https://avatars.stocktwits.com/production/3740951/thumb-1600626436.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3740951/thumb-1600626436.png",
+        "join_date": "2020-07-05",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 684,
+        "following": 0,
+        "ideas": 1592,
+        "watchlist_stocks_count": 0,
+        "like_count": 27,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 11742,
+          "symbol": "PINS",
+          "title": "Pinterest",
+          "aliases": [
+            "PINTEREST"
+          ],
+          "is_following": false,
+          "watchlist_count": 24430
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253232014,
+      "body": "$PINS \ud83d\ude33\ud83e\udd11\ud83d\ude33\ud83e\udd11",
+      "created_at": "2020-10-29T13:39:36Z",
+      "user": {
+        "id": 3969013,
+        "username": "Sickler27",
+        "name": "Jack Sickler",
+        "avatar_url": "https://avatars.stocktwits.com/production/3969013/thumb-1597753942.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3969013/thumb-1597753942.png",
+        "join_date": "2020-08-18",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 7,
+        "following": 45,
+        "ideas": 102,
+        "watchlist_stocks_count": 26,
+        "like_count": 736,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 11742,
+          "symbol": "PINS",
+          "title": "Pinterest",
+          "aliases": [
+            "PINTEREST"
+          ],
+          "is_following": false,
+          "watchlist_count": 24430
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 253232011,
+      "body": "$PINS as long as its good it&#39;s OK.find your tranquility in here! this would help you out to develop your thoughts! Take a look disclaimer on profile.http://psce.pw/ECommerceIsNewNormal",
+      "created_at": "2020-10-29T13:39:35Z",
+      "user": {
+        "id": 4239946,
+        "username": "xyralanos445gf",
+        "name": "xyra",
+        "avatar_url": "https://avatars.stocktwits.com/production/4239946/thumb-1603801601.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/4239946/thumb-1603801601.png",
+        "join_date": "2020-10-27",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 0,
+        "following": 0,
+        "ideas": 30,
+        "watchlist_stocks_count": 0,
+        "like_count": 0,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 11742,
+          "symbol": "PINS",
+          "title": "Pinterest",
+          "aliases": [
+            "PINTEREST"
+          ],
+          "is_following": false,
+          "watchlist_count": 24430
+        }
+      ],
+      "links": [
+        {
+          "title": "Slipping Under The Radar Companies With BreakOut Potential. Market Update See Here",
+          "url": "http://psce.pw/ECommerceIsNewNormal",
+          "shortened_url": "http://psce.pw/ECommerceIsNewNormal",
+          "shortened_expanded_url": "researchdrivennews.com/trac...",
+          "description": "With the global e-commerce boom showing no signs of slowing, it's creating BIG opportunity for severely undervalued Logiq Inc. ( STOCK:LGIQ). In fact, trading with a market cap of approx. $93 million, LGIQ is growing FAST in the $6.5 trillion global e-commerce market(1), and the $4.3 trillion mobile commerce market.(2) The very same markets that drove: Shopify from approx.",
+          "image": "https://researchdrivennews.com/wp-content/uploads/sites/14/2020/08/cropped-bull-vs-bear-market-graph-means-profit-or-loss-investment-trading-forex-shares-or-bond-markets-3d-illustration-T11P05-1.jpg",
+          "created_at": "2020-10-29T13:39:35Z",
+          "video_url": null,
+          "source": {
+            "name": "Research Driven News",
+            "website": "https://researchdrivennews.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 253231972,
+      "body": "$PINS why do dumb people try to short this stock ? this is the hold of the decade, seeking alpha made an article about it...",
+      "created_at": "2020-10-29T13:39:28Z",
+      "user": {
+        "id": 3718411,
+        "username": "dessailly11",
+        "name": "Marcel Dessailly",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2020-06-30",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 0,
+        "following": 1,
+        "ideas": 177,
+        "watchlist_stocks_count": 9,
+        "like_count": 22,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 11742,
+          "symbol": "PINS",
+          "title": "Pinterest",
+          "aliases": [
+            "PINTEREST"
+          ],
+          "is_following": false,
+          "watchlist_count": 24430
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 253231963,
+      "body": "$PINS Interesting chart, games and power..let&#39;s go!!",
+      "created_at": "2020-10-29T13:39:26Z",
+      "user": {
+        "id": 4244358,
+        "username": "sagbahas",
+        "name": "sagbahas",
+        "avatar_url": "https://avatars.stocktwits.com/production/4244358/thumb-1603885456.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/4244358/thumb-1603885456.png",
+        "join_date": "2020-10-28",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 0,
+        "following": 2,
+        "ideas": 6,
+        "watchlist_stocks_count": 16,
+        "like_count": 2,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 11742,
+          "symbol": "PINS",
+          "title": "Pinterest",
+          "aliases": [
+            "PINTEREST"
+          ],
+          "is_following": false,
+          "watchlist_count": 24430
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 253231931,
+      "body": "$PINS holy shit",
+      "created_at": "2020-10-29T13:39:23Z",
+      "user": {
+        "id": 186537,
+        "username": "ClintEatsWood",
+        "name": "Deeez",
+        "avatar_url": "https://avatars.stocktwits.com/production/186537/thumb-1523450401.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/186537/thumb-1523450401.png",
+        "join_date": "2012-10-03",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 117,
+        "following": 176,
+        "ideas": 5898,
+        "watchlist_stocks_count": 124,
+        "like_count": 2060,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2095,
+        "title": "StockTwits For Android ",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 11742,
+          "symbol": "PINS",
+          "title": "Pinterest",
+          "aliases": [
+            "PINTEREST"
+          ],
+          "is_following": false,
+          "watchlist_count": 24430
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253231755,
+      "body": "$PINS cheers to potential  movements.",
+      "created_at": "2020-10-29T13:38:55Z",
+      "user": {
+        "id": 4248499,
+        "username": "CarmelaSRt",
+        "name": "Carmela",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2020-10-29",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 0,
+        "following": 1,
+        "ideas": 2,
+        "watchlist_stocks_count": 3,
+        "like_count": 3,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 11742,
+          "symbol": "PINS",
+          "title": "Pinterest",
+          "aliases": [
+            "PINTEREST"
+          ],
+          "is_following": false,
+          "watchlist_count": 24430
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 253231699,
+      "body": "Called $PINS on 10/25 at 53.69 currently 67.29 up +25.33%",
+      "created_at": "2020-10-29T13:38:48Z",
+      "user": {
+        "id": 1699514,
+        "username": "Rocky11111111",
+        "name": "JP",
+        "avatar_url": "https://avatars.stocktwits.com/production/1699514/thumb-1603892175.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1699514/thumb-1603892175.png",
+        "join_date": "2018-11-06",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 6610,
+        "following": 73,
+        "ideas": 24363,
+        "watchlist_stocks_count": 7,
+        "like_count": 20367,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 11742,
+          "symbol": "PINS",
+          "title": "Pinterest",
+          "aliases": [
+            "PINTEREST"
+          ],
+          "is_following": false,
+          "watchlist_count": 24430
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          3448704
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_253231699.JPG",
+          "large": "https://charts.stocktwits.com/production/large_253231699.JPG",
+          "original": "https://charts.stocktwits.com/production/original_253231699.JPG",
+          "url": "https://charts.stocktwits.com/production/original_253231699.JPG"
+        },
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 253231569,
+      "body": "$PINS spiffypop! My small 300 shares are happy. 34b market cap",
+      "created_at": "2020-10-29T13:38:28Z",
+      "user": {
+        "id": 984855,
+        "username": "HobbEs_RN",
+        "name": "Ayv",
+        "avatar_url": "https://avatars.stocktwits.com/production/984855/thumb-1528522872.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/984855/thumb-1528522872.png",
+        "join_date": "2017-03-07",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 7,
+        "following": 65,
+        "ideas": 338,
+        "watchlist_stocks_count": 41,
+        "like_count": 510,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 11742,
+          "symbol": "PINS",
+          "title": "Pinterest",
+          "aliases": [
+            "PINTEREST"
+          ],
+          "is_following": false,
+          "watchlist_count": 24430
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          3065538
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 253231557,
+      "body": "$PINS pretty overbought pelt ping not to buy puts with that big gap as well.",
+      "created_at": "2020-10-29T13:38:26Z",
+      "user": {
+        "id": 1497672,
+        "username": "arisegern",
+        "name": "Robby",
+        "avatar_url": "https://avatars.stocktwits.com/production/1497672/thumb-1537400021.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1497672/thumb-1537400021.png",
+        "join_date": "2018-05-17",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 57,
+        "following": 74,
+        "ideas": 6625,
+        "watchlist_stocks_count": 9,
+        "like_count": 11729,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 11742,
+          "symbol": "PINS",
+          "title": "Pinterest",
+          "aliases": [
+            "PINTEREST"
+          ],
+          "is_following": false,
+          "watchlist_count": 24430
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253231553,
+      "body": "$PINS SHORT SQUEEZEEEEEEE!",
+      "created_at": "2020-10-29T13:38:25Z",
+      "user": {
+        "id": 3815947,
+        "username": "KlutchKlem",
+        "name": "Michael Klem",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2020-07-19",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 0,
+        "following": 2,
+        "ideas": 76,
+        "watchlist_stocks_count": 16,
+        "like_count": 207,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 11742,
+          "symbol": "PINS",
+          "title": "Pinterest",
+          "aliases": [
+            "PINTEREST"
+          ],
+          "is_following": false,
+          "watchlist_count": 24430
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253231533,
+      "body": "$PINS wow it was 25 just months ago",
+      "created_at": "2020-10-29T13:38:21Z",
+      "user": {
+        "id": 206179,
+        "username": "TahitiMan",
+        "name": "TahitiMan",
+        "avatar_url": "https://avatars.stocktwits.com/production/206179/thumb-1507009474.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/206179/thumb-1507009474.png",
+        "join_date": "2013-01-10",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 107,
+        "following": 2,
+        "ideas": 6898,
+        "watchlist_stocks_count": 87,
+        "like_count": 78,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2095,
+        "title": "StockTwits For Android ",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 11742,
+          "symbol": "PINS",
+          "title": "Pinterest",
+          "aliases": [
+            "PINTEREST"
+          ],
+          "is_following": false,
+          "watchlist_count": 24430
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253231518,
+      "body": "$SNAP all the snap money to $PINS",
+      "created_at": "2020-10-29T13:38:19Z",
+      "user": {
+        "id": 3801058,
+        "username": "jayk2",
+        "name": "jayk",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2020-07-16",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 0,
+        "following": 2,
+        "ideas": 23,
+        "watchlist_stocks_count": 39,
+        "like_count": 13,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2095,
+        "title": "StockTwits For Android ",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 11742,
+          "symbol": "PINS",
+          "title": "Pinterest",
+          "aliases": [
+            "PINTEREST"
+          ],
+          "is_following": false,
+          "watchlist_count": 24430
+        },
+        {
+          "id": 11746,
+          "symbol": "SNAP",
+          "title": "Snap Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 159068
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          647889
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253231508,
+      "body": "$PINS Jesus.",
+      "created_at": "2020-10-29T13:38:17Z",
+      "user": {
+        "id": 1251047,
+        "username": "IJustWantSomeMoney",
+        "name": "Facts",
+        "avatar_url": "https://avatars.stocktwits.com/production/1251047/thumb-1509653610.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1251047/thumb-1509653610.png",
+        "join_date": "2017-11-02",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 5,
+        "following": 8,
+        "ideas": 137,
+        "watchlist_stocks_count": 26,
+        "like_count": 213,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 11742,
+          "symbol": "PINS",
+          "title": "Pinterest",
+          "aliases": [
+            "PINTEREST"
+          ],
+          "is_following": false,
+          "watchlist_count": 24430
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 253231405,
+      "body": "$PINS Shorts are trapped...",
+      "created_at": "2020-10-29T13:37:58Z",
+      "user": {
+        "id": 562786,
+        "username": "daytradeforthewin",
+        "name": "Winning",
+        "avatar_url": "https://avatars.stocktwits.com/production/562786/thumb-1449175991.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/562786/thumb-1449175991.png",
+        "join_date": "2015-08-03",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 54,
+        "following": 196,
+        "ideas": 1689,
+        "watchlist_stocks_count": 211,
+        "like_count": 3680,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 11742,
+          "symbol": "PINS",
+          "title": "Pinterest",
+          "aliases": [
+            "PINTEREST"
+          ],
+          "is_following": false,
+          "watchlist_count": 24430
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          4248499
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 253231395,
+      "body": "$PINS I am very aroused right now.",
+      "created_at": "2020-10-29T13:37:57Z",
+      "user": {
+        "id": 802084,
+        "username": "cata1yst",
+        "name": "cata1yst",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2016-07-24",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 3,
+        "following": 22,
+        "ideas": 185,
+        "watchlist_stocks_count": 24,
+        "like_count": 522,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 11742,
+          "symbol": "PINS",
+          "title": "Pinterest",
+          "aliases": [
+            "PINTEREST"
+          ],
+          "is_following": false,
+          "watchlist_count": 24430
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          3980878
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 253231372,
+      "body": "$PINS     $75..?     Anyone....?",
+      "created_at": "2020-10-29T13:37:53Z",
+      "user": {
+        "id": 1348051,
+        "username": "mudstud",
+        "name": "J B",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2018-01-03",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 12,
+        "following": 2,
+        "ideas": 1958,
+        "watchlist_stocks_count": 54,
+        "like_count": 4167,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 11742,
+          "symbol": "PINS",
+          "title": "Pinterest",
+          "aliases": [
+            "PINTEREST"
+          ],
+          "is_following": false,
+          "watchlist_count": 24430
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          2132797
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 253231361,
+      "body": "$PINS  Days traders area about to bastardize this. Warning secure profits before they do",
+      "created_at": "2020-10-29T13:37:51Z",
+      "user": {
+        "id": 1769059,
+        "username": "champofthesouth",
+        "name": "Champ",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2018-12-20",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 16,
+        "following": 28,
+        "ideas": 658,
+        "watchlist_stocks_count": 27,
+        "like_count": 51,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 11742,
+          "symbol": "PINS",
+          "title": "Pinterest",
+          "aliases": [
+            "PINTEREST"
+          ],
+          "is_following": false,
+          "watchlist_count": 24430
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253231260,
+      "body": "$PINS uhhh. How are they losing money? What do they need to run, like 10 servers and two geeks. These guys don\u2019t know how to run a business.",
+      "created_at": "2020-10-29T13:37:35Z",
+      "user": {
+        "id": 3222152,
+        "username": "Silverwolf32",
+        "name": "Silver Wolf",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2020-03-24",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 2,
+        "following": 2,
+        "ideas": 351,
+        "watchlist_stocks_count": 35,
+        "like_count": 273,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 11742,
+          "symbol": "PINS",
+          "title": "Pinterest",
+          "aliases": [
+            "PINTEREST"
+          ],
+          "is_following": false,
+          "watchlist_count": 24430
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bearish"
+        }
+      }
+    },
+    {
+      "id": 253231145,
+      "body": "$PINS tsk tsk tsk imagine missing the ride to 70+",
+      "created_at": "2020-10-29T13:37:13Z",
+      "user": {
+        "id": 1836512,
+        "username": "Akingbelowkingss",
+        "name": "akingbelowkings",
+        "avatar_url": "https://avatars.stocktwits.com/production/1836512/thumb-1593691475.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1836512/thumb-1593691475.png",
+        "join_date": "2019-01-30",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 34,
+        "following": 1,
+        "ideas": 2524,
+        "watchlist_stocks_count": 132,
+        "like_count": 67,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 11742,
+          "symbol": "PINS",
+          "title": "Pinterest",
+          "aliases": [
+            "PINTEREST"
+          ],
+          "is_following": false,
+          "watchlist_count": 24430
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253231084,
+      "body": "$PINS be careful shorting, look at the SNAP move last week",
+      "created_at": "2020-10-29T13:37:05Z",
+      "user": {
+        "id": 2951694,
+        "username": "Guntz",
+        "name": "Vikman",
+        "avatar_url": "https://avatars.stocktwits.com/production/2951694/thumb-1576798651.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2951694/thumb-1576798651.png",
+        "join_date": "2019-12-05",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 22,
+        "following": 5,
+        "ideas": 3798,
+        "watchlist_stocks_count": 29,
+        "like_count": 1118,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 11742,
+          "symbol": "PINS",
+          "title": "Pinterest",
+          "aliases": [
+            "PINTEREST"
+          ],
+          "is_following": false,
+          "watchlist_count": 24430
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          3443831
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253231067,
+      "body": "$NIO  $PINS making me giddy this morning\ud83d\ude43",
+      "created_at": "2020-10-29T13:37:02Z",
+      "user": {
+        "id": 1144687,
+        "username": "swingswan",
+        "name": "swingswan",
+        "avatar_url": "https://avatars.stocktwits.com/production/1144687/thumb-1584127127.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1144687/thumb-1584127127.png",
+        "join_date": "2017-08-02",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 204,
+        "following": 91,
+        "ideas": 728,
+        "watchlist_stocks_count": 145,
+        "like_count": 1004,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 6499,
+          "symbol": "NIO",
+          "title": "NIO Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 128772
+        },
+        {
+          "id": 11742,
+          "symbol": "PINS",
+          "title": "Pinterest",
+          "aliases": [
+            "PINTEREST"
+          ],
+          "is_following": false,
+          "watchlist_count": 24430
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253231025,
+      "body": "Jim Cramer Shares Thoughts On Big Tech Amid Huge Earnings Day $AMZN $FB $GOOG $PINS https://benzinga.com/z/18119994#.X5rFapNQQZw.twitter",
+      "created_at": "2020-10-29T13:36:56Z",
+      "user": {
+        "id": 7108,
+        "username": "Benzinga",
+        "name": "Benzinga",
+        "avatar_url": "https://avatars.stocktwits.com/production/7108/thumb-1568827739.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/7108/thumb-1568827739.png",
+        "join_date": "2009-12-04",
+        "official": true,
+        "identity": "Official",
+        "classification": [
+          "suggested",
+          "official"
+        ],
+        "followers": 284143,
+        "following": 531,
+        "ideas": 118233,
+        "watchlist_stocks_count": 7,
+        "like_count": 112,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 864,
+          "symbol": "AMZN",
+          "title": "Amazon.com Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 345290
+        },
+        {
+          "id": 2044,
+          "symbol": "GOOG",
+          "title": "Alphabet Inc. Class C",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 176660
+        },
+        {
+          "id": 7871,
+          "symbol": "FB",
+          "title": "Facebook",
+          "aliases": [
+            "FBOOK"
+          ],
+          "is_following": false,
+          "watchlist_count": 324964
+        },
+        {
+          "id": 11742,
+          "symbol": "PINS",
+          "title": "Pinterest",
+          "aliases": [
+            "PINTEREST"
+          ],
+          "is_following": false,
+          "watchlist_count": 24430
+        }
+      ],
+      "links": [
+        {
+          "title": "Jim Cramer Shares Thoughts On Big Tech Amid Huge Earnings Day",
+          "url": "https://benzinga.com/z/18119994#.X5rFapNQQZw.twitter",
+          "shortened_url": "https://benzinga.com/z/18119994#.X5rFapNQQZw.twitter",
+          "shortened_expanded_url": "benzinga.com/general/politi...",
+          "description": "On Thursday morning, Jim Cramer shared his thoughts on big tech and the potential impact of some of their upcoming earnings. Cramer on Facebook: While appearing on \"Squawk on the Street,\" Cramer discussed Facebook Inc (NASDAQ: FB) and Pinterest Inc (NYSE: PINS).",
+          "image": "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/images/story/2012/google-on-your-smartphone-1796337_1920_18.jpg",
+          "created_at": "2020-10-29T13:36:57Z",
+          "video_url": null,
+          "source": {
+            "name": "Benzinga",
+            "website": "https://www.benzinga.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253230988,
+      "body": "$PINS wohoooo\ud83d\udc1d",
+      "created_at": "2020-10-29T13:36:48Z",
+      "user": {
+        "id": 734387,
+        "username": "Jaybees",
+        "name": "Following you",
+        "avatar_url": "https://avatars.stocktwits.com/production/734387/thumb-1528518534.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/734387/thumb-1528518534.png",
+        "join_date": "2016-04-19",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 857,
+        "following": 17,
+        "ideas": 7195,
+        "watchlist_stocks_count": 17,
+        "like_count": 575,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 11742,
+          "symbol": "PINS",
+          "title": "Pinterest",
+          "aliases": [
+            "PINTEREST"
+          ],
+          "is_following": false,
+          "watchlist_count": 24430
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 253230970,
+      "body": "Nice opening drive play in $PINS. #Intraday",
+      "created_at": "2020-10-29T13:36:45Z",
+      "user": {
+        "id": 148175,
+        "username": "MarketPicker",
+        "name": "Jake Huska",
+        "avatar_url": "https://avatars.stocktwits.com/production/148175/thumb-1430958785.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/148175/thumb-1430958785.png",
+        "join_date": "2012-04-05",
+        "official": false,
+        "identity": "User",
+        "classification": [
+          "suggested"
+        ],
+        "followers": 19570,
+        "following": 196,
+        "ideas": 14808,
+        "watchlist_stocks_count": 25,
+        "like_count": 4745,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 11742,
+          "symbol": "PINS",
+          "title": "Pinterest",
+          "aliases": [
+            "PINTEREST"
+          ],
+          "is_following": false,
+          "watchlist_count": 24430
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    }
+  ]
+}

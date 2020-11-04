@@ -1,0 +1,1775 @@
+{
+  "response": {
+    "status": 200
+  },
+  "symbol": {
+    "id": 738,
+    "symbol": "ADBE",
+    "title": "Adobe Systems Inc.",
+    "aliases": [],
+    "is_following": false,
+    "watchlist_count": 21613
+  },
+  "cursor": {
+    "more": true,
+    "since": 253224315,
+    "max": 252932474
+  },
+  "messages": [
+    {
+      "id": 253224315,
+      "body": "$ADBE NEW ARTICLE : 3 Recession-Ready Stocks to Buy Right Now https://www.stck.pro/news/ADBE/8819243",
+      "created_at": "2020-10-29T13:14:08Z",
+      "user": {
+        "id": 1555408,
+        "username": "STCKPRO",
+        "name": "STCK.PRO",
+        "avatar_url": "https://avatars.stocktwits.com/production/1555408/thumb-1576077822.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1555408/thumb-1576077822.png",
+        "join_date": "2018-07-24",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 4366,
+        "following": 2,
+        "ideas": 263376,
+        "watchlist_stocks_count": 18,
+        "like_count": 52,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5011,
+        "title": "STCK.PRO",
+        "url": "https://dashboard.stck.pro"
+      },
+      "symbols": [
+        {
+          "id": 738,
+          "symbol": "ADBE",
+          "title": "Adobe Systems Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 21613
+        }
+      ],
+      "links": [
+        {
+          "title": "Adobe Systems (ADBE)",
+          "url": "https://www.stck.pro/news/ADBE/8819243",
+          "shortened_url": "https://www.stck.pro/news/ADBE/8819243",
+          "shortened_expanded_url": "stck.pro/news/ADBE",
+          "description": "Never miss an important article again, stay on top of your investments and become a better investor today! Get your moat on and sync your watchlist with Stocktwits and get all the latest news for your symbols. Sync with Stocktwits",
+          "image": "https://www.stck.pro/img/imac.png",
+          "created_at": "2020-10-29T13:14:10Z",
+          "video_url": null,
+          "source": {
+            "name": "Stck",
+            "website": "https://www.stck.pro"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_253224315.jpg",
+          "large": "https://charts.stocktwits.com/production/large_253224315.jpg",
+          "original": "https://charts.stocktwits.com/production/original_253224315.jpg",
+          "url": "https://charts.stocktwits.com/production/original_253224315.jpg"
+        },
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253210469,
+      "body": "$OTRK https://www.lifedojo.com/business/\n\nLooks like they acquired a company that is in the apps-sphere and is focused on wellness at the corporate level.\n\nLooks like they are expanding and increasing their reach past just the healthcare center. Should result in a much larger revenue funnel if it works out! Plus, look at some of their customers: $AIRBNB $BRK.A $ADBE $GT \n\nVery exciting times for OnTrak!",
+      "created_at": "2020-10-29T12:10:54Z",
+      "user": {
+        "id": 746706,
+        "username": "CaptClark",
+        "name": "Capt. Clark",
+        "avatar_url": "https://avatars.stocktwits.com/production/746706/thumb-1594228338.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/746706/thumb-1594228338.png",
+        "join_date": "2016-05-06",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 15,
+        "following": 8,
+        "ideas": 382,
+        "watchlist_stocks_count": 17,
+        "like_count": 343,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 738,
+          "symbol": "ADBE",
+          "title": "Adobe Systems Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 21613
+        },
+        {
+          "id": 4586,
+          "symbol": "BRK.A",
+          "title": "Berkshire Hathaway Inc.",
+          "aliases": [
+            "BRKA"
+          ],
+          "is_following": false,
+          "watchlist_count": 6537
+        },
+        {
+          "id": 5603,
+          "symbol": "GT",
+          "title": "Goodyear Tire & Rubber Co.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 3563
+        },
+        {
+          "id": 9315,
+          "symbol": "AIRBNB",
+          "title": "Airbnb",
+          "aliases": [
+            "AIRBN"
+          ],
+          "is_following": false,
+          "watchlist_count": 4687
+        },
+        {
+          "id": 13525,
+          "symbol": "OTRK",
+          "title": "Catasys, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 3921
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 253210469,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "links": [
+        {
+          "title": "Create Healthy Habits | LifeDojo",
+          "url": "https://www.lifedojo.com/business/",
+          "shortened_url": "https://www.lifedojo.com/business/",
+          "shortened_expanded_url": "lifedojo.com/business/",
+          "description": "Employer health benefits are severely under-utilized. Whether it is 3% EAP utilization, or the latest Diabetes Prevention Program app that nobody is enrolling in, or the fitness center that remains empty, driving employees to engage in health behavior change is extremely difficult.",
+          "image": "https://www.lifedojo.com/wp-content/uploads/2019/09/index-top-image.jpg",
+          "created_at": "2020-10-29T12:10:57Z",
+          "video_url": null,
+          "source": {
+            "name": "Lifedojo",
+            "website": "https://www.lifedojo.com"
+          }
+        }
+      ],
+      "likes": {
+        "total": 5,
+        "user_ids": [
+          506999,
+          3730812,
+          2271691,
+          3841955,
+          2012189
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 253203125,
+      "body": "$ADBE   premarket movers ....\nhttps://youtu.be/3hzGC7aH0uA",
+      "created_at": "2020-10-29T11:24:43Z",
+      "user": {
+        "id": 266242,
+        "username": "SmallShare",
+        "name": "SmallShare Trading",
+        "avatar_url": "https://avatars.stocktwits.com/production/266242/thumb-1516705650.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/266242/thumb-1516705650.png",
+        "join_date": "2013-10-01",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 822,
+        "following": 0,
+        "ideas": 45816,
+        "watchlist_stocks_count": 132,
+        "like_count": 712,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2095,
+        "title": "StockTwits For Android ",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 738,
+          "symbol": "ADBE",
+          "title": "Adobe Systems Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 21612
+        }
+      ],
+      "links": [
+        {
+          "title": "Live Streaming stock market gauges and our list of Market Movers!",
+          "url": "https://youtu.be/3hzGC7aH0uA",
+          "shortened_url": "https://youtu.be/3hzGC7aH0uA",
+          "shortened_expanded_url": "youtube.com/watch?v=3hzGC7a...",
+          "description": "Our list of market movers and live streaming market charts. music Phatt Package https://www.youtube.com/channel/UCnsnwlEH9NrnHrcIpCSOWbw listen on soundcloud...",
+          "image": "https://i.ytimg.com/vi/3hzGC7aH0uA/hqdefault.jpg",
+          "created_at": "2020-10-29T11:24:44Z",
+          "video_url": "//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F3hzGC7aH0uA%3Ffeature%3Doembed=YouTube=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D3hzGC7aH0uA=https%3A%2F%2Fi.ytimg.com%2Fvi%2F3hzGC7aH0uA%2Fhqdefault.jpg=799f78c4081511e084894040444cdc60=text%2Fhtml=youtube",
+          "source": {
+            "name": "YouTube",
+            "website": "https://www.youtube.com/"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253195067,
+      "body": "$ADBE 470 by EOD \ud83d\ude80\ud83d\ude80\ud83d\ude80",
+      "created_at": "2020-10-29T10:13:01Z",
+      "user": {
+        "id": 3494385,
+        "username": "HeMakeMoneyMove",
+        "name": "he make money move",
+        "avatar_url": "https://avatars.stocktwits.com/production/3494385/thumb-1590177247.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3494385/thumb-1590177247.png",
+        "join_date": "2020-05-22",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 17,
+        "following": 38,
+        "ideas": 310,
+        "watchlist_stocks_count": 59,
+        "like_count": 129,
+        "plus_tier": "year",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 738,
+          "symbol": "ADBE",
+          "title": "Adobe Systems Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 21611
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          431266
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 253183590,
+      "body": "Comprehensive non-correlated Adobe Inc $ADBE Trading Report https://tinyurl.com/y4u5ztb7",
+      "created_at": "2020-10-29T05:30:05Z",
+      "user": {
+        "id": 456768,
+        "username": "stocktradersdaily",
+        "name": "Stock Traders Daily",
+        "avatar_url": "https://avatars.stocktwits.com/production/456768/thumb-1422538105.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/456768/thumb-1422538105.png",
+        "join_date": "2015-01-29",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 511,
+        "following": 0,
+        "ideas": 55626,
+        "watchlist_stocks_count": 0,
+        "like_count": 0,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 4326,
+        "title": "Stock Traders Daily",
+        "url": "https://www.stocktradersdaily.com"
+      },
+      "symbols": [
+        {
+          "id": 738,
+          "symbol": "ADBE",
+          "title": "Adobe Systems Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 21609
+        }
+      ],
+      "links": [
+        {
+          "title": "Comprehensive non-correlated Adobe Inc $ADBE Trading Report",
+          "url": "https://tinyurl.com/y4u5ztb7",
+          "shortened_url": "https://tinyurl.com/y4u5ztb7",
+          "shortened_expanded_url": "news.stocktradersdaily.com/...",
+          "description": "Celebrating 20 years, Stock Traders Daily provides the tools that help you develop investment strategies, and this is a good example. When we couple this with out market based analysis, the probabilities of going with the flow increases, and that is material over time.",
+          "image": "https://news.stocktradersdaily.com/images/STD-banner-336x280-v1r2.jpg",
+          "created_at": "2020-10-29T05:30:08Z",
+          "video_url": null,
+          "source": {
+            "name": "Stocktradersdaily",
+            "website": "https://news.stocktradersdaily.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_253183590.png",
+          "large": "https://charts.stocktwits.com/production/large_253183590.png",
+          "original": "https://charts.stocktwits.com/production/original_253183590.png",
+          "url": "https://charts.stocktwits.com/production/original_253183590.png"
+        },
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253156932,
+      "body": "$ADBE Call me crazy but I See opportunity, decent R/R",
+      "created_at": "2020-10-29T00:47:28Z",
+      "user": {
+        "id": 3782518,
+        "username": "DynamicTrades",
+        "name": "Dynamo",
+        "avatar_url": "https://avatars.stocktwits.com/production/3782518/thumb-1603930016.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3782518/thumb-1603930016.png",
+        "join_date": "2020-07-13",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 0,
+        "following": 1,
+        "ideas": 5,
+        "watchlist_stocks_count": 2,
+        "like_count": 0,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 738,
+          "symbol": "ADBE",
+          "title": "Adobe Systems Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 21611
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          2066678
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_253156932.png",
+          "large": "https://charts.stocktwits.com/production/large_253156932.png",
+          "original": "https://charts.stocktwits.com/production/original_253156932.png",
+          "url": "https://charts.stocktwits.com/production/original_253156932.png"
+        },
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253131842,
+      "body": "$ADBE John Francis Murphy sold 4,000 shares [Very Low Conviction] www.insider-analysis.com/search_transactions.php?ticker=TABLE_ADBE",
+      "created_at": "2020-10-28T22:12:44Z",
+      "user": {
+        "id": 2965453,
+        "username": "Insider_Analysis",
+        "name": "Insider Analysis",
+        "avatar_url": "https://avatars.stocktwits.com/production/2965453/thumb-1583012785.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2965453/thumb-1583012785.png",
+        "join_date": "2019-12-13",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 658,
+        "following": 0,
+        "ideas": 29887,
+        "watchlist_stocks_count": 14,
+        "like_count": 22,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5476,
+        "title": "Insider Analysis",
+        "url": "http://www.insider-analysis.com/"
+      },
+      "symbols": [
+        {
+          "id": 738,
+          "symbol": "ADBE",
+          "title": "Adobe Systems Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 21610
+        }
+      ],
+      "links": [
+        {
+          "title": "Insider Analysis",
+          "url": "www.insider-analysis.com/search_transactions.php?ticker=TABLE_ADBE",
+          "shortened_url": "www.insider-analysis.com/search_transactions.php?ticker=TABLE_ADBE",
+          "shortened_expanded_url": "insider-analysis.com/search...",
+          "description": "InsiderAnalysis - Trade ideas from insider activities INSIDER ANALYSIS, INC .",
+          "image": null,
+          "created_at": "2020-10-28T22:12:46Z",
+          "video_url": null,
+          "source": {
+            "name": "Insider-analysis",
+            "website": "https://insider-analysis.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253130260,
+      "body": "Steady social media sentiment for $ADBE over the past week. 7 day avg score of 25.\n\nhttps://socialsentiment.io/stocks/symbol/ADBE/",
+      "created_at": "2020-10-28T22:05:05Z",
+      "user": {
+        "id": 4086149,
+        "username": "SentimEntropy",
+        "name": "Matthew Schwartz",
+        "avatar_url": "https://avatars.stocktwits.com/production/4086149/thumb-1601488647.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/4086149/thumb-1601488647.png",
+        "join_date": "2020-09-18",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 25,
+        "following": 0,
+        "ideas": 465,
+        "watchlist_stocks_count": 3,
+        "like_count": 22,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5894,
+        "title": "SocialSentiment.io",
+        "url": "https://socialsentiment.io/"
+      },
+      "symbols": [
+        {
+          "id": 738,
+          "symbol": "ADBE",
+          "title": "Adobe Systems Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 21611
+        }
+      ],
+      "links": [
+        {
+          "title": "SocialSentiment.io - Adobe Inc.",
+          "url": "https://socialsentiment.io/stocks/symbol/ADBE/",
+          "shortened_url": "https://socialsentiment.io/stocks/symbol/ADBE/",
+          "shortened_expanded_url": "socialsentiment.io/stocks/s...",
+          "description": "Yesterday, Tuesday, October 27, we saw neutral social sentiment for Adobe Inc. (ADBE). We gave it a score of 3. There was little activity, such as likes and shares, on social media. Over the prior 7 days we calculated an average sentiment score of 25 (positive).",
+          "image": "https://socialsentiment.io/static/images/screenshot.jpg",
+          "created_at": "2020-10-28T22:05:06Z",
+          "video_url": null,
+          "source": {
+            "name": "Socialsentiment",
+            "website": "https://socialsentiment.io"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253125805,
+      "body": "Your daily News digest for Adobe $ADBE https://wsfriend.com/daily/news/ADBE/2020-10-28/",
+      "created_at": "2020-10-28T21:44:22Z",
+      "user": {
+        "id": 732840,
+        "username": "WallStreetFriend",
+        "name": "Wall Street Friend",
+        "avatar_url": "https://avatars.stocktwits.com/production/732840/thumb-1577167895.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/732840/thumb-1577167895.png",
+        "join_date": "2016-04-17",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 549,
+        "following": 39,
+        "ideas": 70704,
+        "watchlist_stocks_count": 31,
+        "like_count": 94,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5142,
+        "title": "Programmatic Alerts ",
+        "url": "https://wsfriend.com"
+      },
+      "symbols": [
+        {
+          "id": 738,
+          "symbol": "ADBE",
+          "title": "Adobe Systems Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 21609
+        }
+      ],
+      "links": [
+        {
+          "title": "ADBE Trending News and Daily News Digest for on Oct 28, 2020",
+          "url": "https://wsfriend.com/daily/news/ADBE/2020-10-28/",
+          "shortened_url": "https://wsfriend.com/daily/news/ADBE/2020-10-28/",
+          "shortened_expanded_url": "wsfriend.com/daily/news/ADB...",
+          "description": "ADBE Dail News Digest and Top trending news for",
+          "image": "https://s.yimg.com/ny/api/res/1.2/hsn4zPJVFzIIcj_B0QCK1g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwMDA7aD0xMzMz/https://s.yimg.com/os/creatr-uploaded-images/2020-10/ef5e9290-1951-11eb-bf99-5813ee825b23",
+          "created_at": "2020-10-28T21:44:24Z",
+          "video_url": null,
+          "source": {
+            "name": "Wsfriend",
+            "website": "https://wsfriend.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253069608,
+      "body": "$ADBE was looking for an entry point and got it today tyvm",
+      "created_at": "2020-10-28T18:44:12Z",
+      "user": {
+        "id": 1591262,
+        "username": "Fib0nacci",
+        "name": "Jhonni Fibonacci",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2018-08-28",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 4,
+        "following": 3,
+        "ideas": 817,
+        "watchlist_stocks_count": 11,
+        "like_count": 74,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 738,
+          "symbol": "ADBE",
+          "title": "Adobe Systems Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 21611
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 253069608,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 2
+      },
+      "likes": {
+        "total": 2,
+        "user_ids": [
+          1804971,
+          2066678
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253069554,
+      "body": "$ADBE back in here for a small position. Sold at 495ish",
+      "created_at": "2020-10-28T18:44:01Z",
+      "user": {
+        "id": 1804971,
+        "username": "Cvrdcall1",
+        "name": "Cvrdcall1",
+        "avatar_url": "https://avatars.stocktwits.com/production/1804971/thumb-1561866959.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1804971/thumb-1561866959.png",
+        "join_date": "2019-01-11",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 122,
+        "following": 20,
+        "ideas": 8485,
+        "watchlist_stocks_count": 160,
+        "like_count": 22962,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2095,
+        "title": "StockTwits For Android ",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 738,
+          "symbol": "ADBE",
+          "title": "Adobe Systems Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 21607
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 253066960,
+      "body": "$ADBE $ADBE breaking down . Ticker: $ADBE Daily Chart\n- This is another one with a bearish outlook, breaking out of its",
+      "created_at": "2020-10-28T18:34:57Z",
+      "user": {
+        "id": 3935482,
+        "username": "printingprofit",
+        "name": "Printing Profit",
+        "avatar_url": "https://avatars.stocktwits.com/production/3935482/thumb-1597473898.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3935482/thumb-1597473898.png",
+        "join_date": "2020-08-11",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 19,
+        "following": 0,
+        "ideas": 28,
+        "watchlist_stocks_count": 57,
+        "like_count": 0,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1033,
+        "title": "TradingView Beta OLD",
+        "url": "http://XXXbeta.tradingview.com"
+      },
+      "symbols": [
+        {
+          "id": 738,
+          "symbol": "ADBE",
+          "title": "Adobe Systems Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 21610
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 253066960,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          3565796
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_253066960.png",
+          "large": "https://charts.stocktwits.com/production/large_253066960.png",
+          "original": "https://charts.stocktwits.com/production/original_253066960.png",
+          "url": "https://charts.stocktwits.com/production/original_253066960.png"
+        },
+        "sentiment": {
+          "basic": "Bearish"
+        }
+      }
+    },
+    {
+      "id": 253066481,
+      "body": "$ADBE NEW ARTICLE : Adobe Predicts Online Shopping Surge This Holiday Season https://www.stck.pro/news/ADBE/8805074",
+      "created_at": "2020-10-28T18:33:06Z",
+      "user": {
+        "id": 1555408,
+        "username": "STCKPRO",
+        "name": "STCK.PRO",
+        "avatar_url": "https://avatars.stocktwits.com/production/1555408/thumb-1576077822.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1555408/thumb-1576077822.png",
+        "join_date": "2018-07-24",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 4356,
+        "following": 2,
+        "ideas": 262599,
+        "watchlist_stocks_count": 18,
+        "like_count": 52,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5011,
+        "title": "STCK.PRO",
+        "url": "https://dashboard.stck.pro"
+      },
+      "symbols": [
+        {
+          "id": 738,
+          "symbol": "ADBE",
+          "title": "Adobe Systems Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 21610
+        }
+      ],
+      "links": [
+        {
+          "title": "Adobe Systems (ADBE)",
+          "url": "https://www.stck.pro/news/ADBE/8805074",
+          "shortened_url": "https://www.stck.pro/news/ADBE/8805074",
+          "shortened_expanded_url": "stck.pro/news/ADBE",
+          "description": "Never miss an important article again, stay on top of your investments and become a better investor today! Get your moat on and sync your watchlist with Stocktwits and get all the latest news for your symbols. Sync with Stocktwits",
+          "image": "https://www.stck.pro/img/imac.png",
+          "created_at": "2020-10-28T18:33:08Z",
+          "video_url": null,
+          "source": {
+            "name": "Stck",
+            "website": "https://www.stck.pro"
+          }
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          1539862
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_253066481.jpg",
+          "large": "https://charts.stocktwits.com/production/large_253066481.jpg",
+          "original": "https://charts.stocktwits.com/production/original_253066481.jpg",
+          "url": "https://charts.stocktwits.com/production/original_253066481.jpg"
+        },
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253061947,
+      "body": "$ADBE next leg down is $445",
+      "created_at": "2020-10-28T18:16:00Z",
+      "user": {
+        "id": 2971619,
+        "username": "Artzy8",
+        "name": "Z",
+        "avatar_url": "https://avatars.stocktwits.com/production/2971619/thumb-1597738867.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2971619/thumb-1597738867.png",
+        "join_date": "2019-12-16",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 2,
+        "following": 21,
+        "ideas": 500,
+        "watchlist_stocks_count": 10,
+        "like_count": 885,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 738,
+          "symbol": "ADBE",
+          "title": "Adobe Systems Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 21607
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253052691,
+      "body": "$ADBE went in big with 500 shares at 460.20. Been watching it all day. Have to admit, the dip to 456 almost spooked me. Held strong. Nice to see the rebound. \n\nI see this as a temporary hiccup. Post election we will rebound imo.",
+      "created_at": "2020-10-28T17:41:59Z",
+      "user": {
+        "id": 3494385,
+        "username": "HeMakeMoneyMove",
+        "name": "he make money move",
+        "avatar_url": "https://avatars.stocktwits.com/production/3494385/thumb-1590177247.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3494385/thumb-1590177247.png",
+        "join_date": "2020-05-22",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 17,
+        "following": 38,
+        "ideas": 309,
+        "watchlist_stocks_count": 59,
+        "like_count": 129,
+        "plus_tier": "year",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 738,
+          "symbol": "ADBE",
+          "title": "Adobe Systems Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 21606
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 253052691,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          1804971
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_253052691.png",
+          "large": "https://charts.stocktwits.com/production/large_253052691.png",
+          "original": "https://charts.stocktwits.com/production/original_253052691.png",
+          "url": "https://charts.stocktwits.com/production/original_253052691.png"
+        },
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 253049592,
+      "body": "$ADBE wow dollar cost down for me..",
+      "created_at": "2020-10-28T17:31:40Z",
+      "user": {
+        "id": 936569,
+        "username": "Composer790",
+        "name": "darren falvy",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2017-01-26",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 15,
+        "following": 32,
+        "ideas": 3050,
+        "watchlist_stocks_count": 0,
+        "like_count": 725,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 738,
+          "symbol": "ADBE",
+          "title": "Adobe Systems Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 21606
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 253049592,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          1555427
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253037801,
+      "body": "$ADBE NEW ARTICLE : Adobe: Continued Strong Revenue Growth Will Power Adobe For The Next Decade https://www.stck.pro/news/ADBE/8803303",
+      "created_at": "2020-10-28T16:49:20Z",
+      "user": {
+        "id": 1555408,
+        "username": "STCKPRO",
+        "name": "STCK.PRO",
+        "avatar_url": "https://avatars.stocktwits.com/production/1555408/thumb-1576077822.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1555408/thumb-1576077822.png",
+        "join_date": "2018-07-24",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 4352,
+        "following": 2,
+        "ideas": 261836,
+        "watchlist_stocks_count": 18,
+        "like_count": 52,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5011,
+        "title": "STCK.PRO",
+        "url": "https://dashboard.stck.pro"
+      },
+      "symbols": [
+        {
+          "id": 738,
+          "symbol": "ADBE",
+          "title": "Adobe Systems Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 21605
+        }
+      ],
+      "links": [
+        {
+          "title": "Adobe Systems (ADBE)",
+          "url": "https://www.stck.pro/news/ADBE/8803303",
+          "shortened_url": "https://www.stck.pro/news/ADBE/8803303",
+          "shortened_expanded_url": "stck.pro/news/ADBE",
+          "description": "Never miss an important article again, stay on top of your investments and become a better investor today! Get your moat on and sync your watchlist with Stocktwits and get all the latest news for your symbols. Sync with Stocktwits",
+          "image": "https://www.stck.pro/img/imac.png",
+          "created_at": "2020-10-28T16:49:23Z",
+          "video_url": null,
+          "source": {
+            "name": "Stck",
+            "website": "https://www.stck.pro"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253031116,
+      "body": "Valueline Screen: Timeliness/Sales Growth\n\nValue Line Timeliness Rank measures probable relative price performance of the ~1,700 stocks during the next 6 to 12 months \n\n$SHOP $ETSY $VEEV $DXCM $ADBE",
+      "created_at": "2020-10-28T16:25:50Z",
+      "user": {
+        "id": 11403,
+        "username": "Ro_Patel",
+        "name": "Ro Patel",
+        "avatar_url": "https://avatars.stocktwits.com/production/11403/thumb-1491151253.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/11403/thumb-1491151253.png",
+        "join_date": "2010-03-26",
+        "official": true,
+        "identity": "Official",
+        "classification": [
+          "suggested",
+          "official"
+        ],
+        "followers": 38755,
+        "following": 100,
+        "ideas": 31581,
+        "watchlist_stocks_count": 32,
+        "like_count": 511,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 738,
+          "symbol": "ADBE",
+          "title": "Adobe Systems Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 21607
+        },
+        {
+          "id": 1660,
+          "symbol": "DXCM",
+          "title": "DexCom, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 6092
+        },
+        {
+          "id": 7996,
+          "symbol": "ETSY",
+          "title": "Etsy",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 21528
+        },
+        {
+          "id": 11597,
+          "symbol": "VEEV",
+          "title": "Veeva Systems",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 7733
+        },
+        {
+          "id": 12560,
+          "symbol": "SHOP",
+          "title": "Shopify",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 72123
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 253031116,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 3
+      },
+      "likes": {
+        "total": 4,
+        "user_ids": [
+          226455,
+          1157049,
+          2033023,
+          1555427
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_253031116.png",
+          "large": "https://charts.stocktwits.com/production/large_253031116.png",
+          "original": "https://charts.stocktwits.com/production/original_253031116.png",
+          "url": "https://charts.stocktwits.com/production/original_253031116.png"
+        },
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253015910,
+      "body": "$ADBE ooops...",
+      "created_at": "2020-10-28T15:38:34Z",
+      "user": {
+        "id": 271112,
+        "username": "Lion_Heart",
+        "name": "Lion_Heart",
+        "avatar_url": "https://avatars.stocktwits.com/production/271112/thumb-1582163134.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/271112/thumb-1582163134.png",
+        "join_date": "2013-10-17",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 187,
+        "following": 74,
+        "ideas": 4239,
+        "watchlist_stocks_count": 58,
+        "like_count": 592,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 738,
+          "symbol": "ADBE",
+          "title": "Adobe Systems Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 21610
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 253015910,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_253015910.png",
+          "large": "https://charts.stocktwits.com/production/large_253015910.png",
+          "original": "https://charts.stocktwits.com/production/original_253015910.png",
+          "url": "https://charts.stocktwits.com/production/original_253015910.png"
+        },
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253011690,
+      "body": "$ADBE buying additional jan call spreads",
+      "created_at": "2020-10-28T15:25:42Z",
+      "user": {
+        "id": 3958411,
+        "username": "optionwizz",
+        "name": "optionwizz",
+        "avatar_url": "https://avatars.stocktwits.com/production/3958411/thumb-1603357799.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3958411/thumb-1603357799.png",
+        "join_date": "2020-08-15",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 8,
+        "following": 0,
+        "ideas": 53,
+        "watchlist_stocks_count": 0,
+        "like_count": 0,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 738,
+          "symbol": "ADBE",
+          "title": "Adobe Systems Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 21601
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253010346,
+      "body": "$ADBE long term this looks good at 460",
+      "created_at": "2020-10-28T15:21:55Z",
+      "user": {
+        "id": 3886162,
+        "username": "Johnryback",
+        "name": "John Ryback",
+        "avatar_url": "https://avatars.stocktwits.com/production/3886162/thumb-1596234882.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3886162/thumb-1596234882.png",
+        "join_date": "2020-07-31",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 0,
+        "following": 3,
+        "ideas": 80,
+        "watchlist_stocks_count": 68,
+        "like_count": 19,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 738,
+          "symbol": "ADBE",
+          "title": "Adobe Systems Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 21601
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253009325,
+      "body": "$ADBE Ugly.",
+      "created_at": "2020-10-28T15:19:04Z",
+      "user": {
+        "id": 1466589,
+        "username": "JeremyLundmark",
+        "name": "Jeremy Lundmark",
+        "avatar_url": "https://avatars.stocktwits.com/production/1466589/thumb-1595050612.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1466589/thumb-1595050612.png",
+        "join_date": "2018-04-08",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 9,
+        "following": 20,
+        "ideas": 656,
+        "watchlist_stocks_count": 11,
+        "like_count": 291,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2095,
+        "title": "StockTwits For Android ",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 738,
+          "symbol": "ADBE",
+          "title": "Adobe Systems Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 21601
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253008798,
+      "body": "$ADBE Will this get to 450 range",
+      "created_at": "2020-10-28T15:17:28Z",
+      "user": {
+        "id": 61095,
+        "username": "jega_m",
+        "name": "Jega",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2011-03-14",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 66,
+        "following": 6,
+        "ideas": 5333,
+        "watchlist_stocks_count": 142,
+        "like_count": 6892,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2095,
+        "title": "StockTwits For Android ",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 738,
+          "symbol": "ADBE",
+          "title": "Adobe Systems Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 21607
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bearish"
+        }
+      }
+    },
+    {
+      "id": 252991994,
+      "body": "$ADBE there is resistance at $460, loaded more at $461, long here for sure, great entry",
+      "created_at": "2020-10-28T14:34:43Z",
+      "user": {
+        "id": 3967187,
+        "username": "JD1999Trade",
+        "name": "Jeffrey Schlosser",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2020-08-18",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 2,
+        "following": 5,
+        "ideas": 23,
+        "watchlist_stocks_count": 33,
+        "like_count": 299,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 738,
+          "symbol": "ADBE",
+          "title": "Adobe Systems Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 21601
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 252976016,
+      "body": "$ADBE wow, didn&#39;t think we would see this number again honestly. Bought 2 more shares at 465.65",
+      "created_at": "2020-10-28T13:59:14Z",
+      "user": {
+        "id": 2066678,
+        "username": "tooncastle",
+        "name": "David Moore",
+        "avatar_url": "https://avatars.stocktwits.com/production/2066678/thumb-1558312597.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2066678/thumb-1558312597.png",
+        "join_date": "2019-05-08",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 11,
+        "following": 46,
+        "ideas": 811,
+        "watchlist_stocks_count": 125,
+        "like_count": 1867,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2095,
+        "title": "StockTwits For Android ",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 738,
+          "symbol": "ADBE",
+          "title": "Adobe Systems Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 21601
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          3967187
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 252974448,
+      "body": "The industry average Profit Margin is -5.36%. $ADBE outperforms 95% of its industry peers. https://www.chartmill.com/stock/analyzer/stock/ADBE?view=fundamental-analysis&amp;key=1aafae5a-bff7-43c2-8268-8350f25a18b1&amp;utm_source=stocktwits&amp;utm_medium=FA&amp;utm_content=ADBE&amp;utm_campaign=social_tracking",
+      "created_at": "2020-10-28T13:56:00Z",
+      "user": {
+        "id": 47688,
+        "username": "ChartMill",
+        "name": "ChartMill",
+        "avatar_url": "https://avatars.stocktwits.com/production/47688/thumb-1363343728.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/47688/thumb-1363343728.png",
+        "join_date": "2011-01-26",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 21961,
+        "following": 891,
+        "ideas": 1088631,
+        "watchlist_stocks_count": 20,
+        "like_count": 32,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1135,
+        "title": "ChartMill",
+        "url": "http://www.chartmill.com"
+      },
+      "symbols": [
+        {
+          "id": 738,
+          "symbol": "ADBE",
+          "title": "Adobe Systems Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 21601
+        }
+      ],
+      "links": [
+        {
+          "title": null,
+          "url": "https://www.chartmill.com/stock/analyzer/stock/ADBE?view=fundamental-analysis&key=1aafae5a-bff7-43c2-8268-8350f25a18b1&utm_source=stocktwits&utm_medium=FA&utm_content=ADBE&utm_campaign=social_tracking",
+          "shortened_url": "https://www.chartmill.com/stock/analyzer/stock/ADBE?view=fundamental-analysis&key=1aafae5a-bff7-43c2-8268-8350f25a18b1&utm_source=stocktwits&utm_medium=FA&utm_content=ADBE&utm_campaign=social_tracking",
+          "shortened_expanded_url": "chartmill.com/stock/analyze...",
+          "description": null,
+          "image": null,
+          "created_at": "2020-10-28T13:56:00Z",
+          "video_url": null,
+          "source": {
+            "name": "Chartmill",
+            "website": "https://www.chartmill.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 252970827,
+      "body": "$ADBE NEW ARTICLE : Surge in online holiday shopping will pack 2 years of growth into one season, Adobe says https://www.stck.pro/news/ADBE/8798606",
+      "created_at": "2020-10-28T13:48:12Z",
+      "user": {
+        "id": 1555408,
+        "username": "STCKPRO",
+        "name": "STCK.PRO",
+        "avatar_url": "https://avatars.stocktwits.com/production/1555408/thumb-1576077822.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1555408/thumb-1576077822.png",
+        "join_date": "2018-07-24",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 4350,
+        "following": 2,
+        "ideas": 261484,
+        "watchlist_stocks_count": 18,
+        "like_count": 52,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5011,
+        "title": "STCK.PRO",
+        "url": "https://dashboard.stck.pro"
+      },
+      "symbols": [
+        {
+          "id": 738,
+          "symbol": "ADBE",
+          "title": "Adobe Systems Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 21601
+        }
+      ],
+      "links": [
+        {
+          "title": "Adobe Systems (ADBE)",
+          "url": "https://www.stck.pro/news/ADBE/8798606",
+          "shortened_url": "https://www.stck.pro/news/ADBE/8798606",
+          "shortened_expanded_url": "stck.pro/news/ADBE",
+          "description": "Never miss an important article again, stay on top of your investments and become a better investor today! Get your moat on and sync your watchlist with Stocktwits and get all the latest news for your symbols. Sync with Stocktwits",
+          "image": "https://www.stck.pro/img/imac.png",
+          "created_at": "2020-10-28T13:48:15Z",
+          "video_url": null,
+          "source": {
+            "name": "Stck",
+            "website": "https://www.stck.pro"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_252970827.jpg",
+          "large": "https://charts.stocktwits.com/production/large_252970827.jpg",
+          "original": "https://charts.stocktwits.com/production/original_252970827.jpg",
+          "url": "https://charts.stocktwits.com/production/original_252970827.jpg"
+        },
+        "sentiment": null
+      }
+    },
+    {
+      "id": 252954927,
+      "body": "$ADBE NEW ARTICLE : Adobe Predicts Record Holiday Season For Online Sales, Expects 33% Growth https://www.stck.pro/news/ADBE/8798570",
+      "created_at": "2020-10-28T13:06:27Z",
+      "user": {
+        "id": 1555408,
+        "username": "STCKPRO",
+        "name": "STCK.PRO",
+        "avatar_url": "https://avatars.stocktwits.com/production/1555408/thumb-1576077822.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1555408/thumb-1576077822.png",
+        "join_date": "2018-07-24",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 4365,
+        "following": 2,
+        "ideas": 263376,
+        "watchlist_stocks_count": 18,
+        "like_count": 52,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5011,
+        "title": "STCK.PRO",
+        "url": "https://dashboard.stck.pro"
+      },
+      "symbols": [
+        {
+          "id": 738,
+          "symbol": "ADBE",
+          "title": "Adobe Systems Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 21613
+        }
+      ],
+      "links": [
+        {
+          "title": null,
+          "url": "https://www.stck.pro/news/ADBE/8798570",
+          "shortened_url": "https://www.stck.pro/news/ADBE/8798570",
+          "shortened_expanded_url": "stck.pro/news/ADBE",
+          "description": null,
+          "image": null,
+          "created_at": "2020-10-28T13:07:01Z",
+          "video_url": null,
+          "source": {
+            "name": "Stck",
+            "website": "http://www.stck.pro"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_252954927.jpg",
+          "large": "https://charts.stocktwits.com/production/large_252954927.jpg",
+          "original": "https://charts.stocktwits.com/production/original_252954927.jpg",
+          "url": "https://charts.stocktwits.com/production/original_252954927.jpg"
+        },
+        "sentiment": null
+      }
+    },
+    {
+      "id": 252954281,
+      "body": "$ADBE Adobe (ADBE) forecasts USD 189 billion US online sales this holiday season",
+      "created_at": "2020-10-28T13:04:30Z",
+      "user": {
+        "id": 1665157,
+        "username": "sbiswas",
+        "name": "Soumyajyoti Biswas",
+        "avatar_url": "https://avatars.stocktwits.com/production/1665157/thumb-1598680399.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1665157/thumb-1598680399.png",
+        "join_date": "2018-10-17",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 195,
+        "following": 58,
+        "ideas": 2611,
+        "watchlist_stocks_count": 22,
+        "like_count": 70,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 738,
+          "symbol": "ADBE",
+          "title": "Adobe Systems Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 21613
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 252932474,
+      "body": "$ADBE   premarket movers ..\nhttps://youtu.be/DIMIK5p3gCo",
+      "created_at": "2020-10-28T11:18:28Z",
+      "user": {
+        "id": 266242,
+        "username": "SmallShare",
+        "name": "SmallShare Trading",
+        "avatar_url": "https://avatars.stocktwits.com/production/266242/thumb-1516705650.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/266242/thumb-1516705650.png",
+        "join_date": "2013-10-01",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 822,
+        "following": 0,
+        "ideas": 45816,
+        "watchlist_stocks_count": 132,
+        "like_count": 712,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2095,
+        "title": "StockTwits For Android ",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 738,
+          "symbol": "ADBE",
+          "title": "Adobe Systems Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 21612
+        }
+      ],
+      "links": [
+        {
+          "title": "Live Streaming stock market gauges and our list of Market Movers!",
+          "url": "https://youtu.be/DIMIK5p3gCo",
+          "shortened_url": "https://youtu.be/DIMIK5p3gCo",
+          "shortened_expanded_url": "youtube.com/watch?v=DIMIK5p...",
+          "description": "Our list of market movers and live streaming market charts. music Phatt Package https://www.youtube.com/channel/UCnsnwlEH9NrnHrcIpCSOWbw listen on soundcloud...",
+          "image": "https://i.ytimg.com/vi/DIMIK5p3gCo/hqdefault.jpg",
+          "created_at": "2020-10-28T11:18:29Z",
+          "video_url": "//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FDIMIK5p3gCo%3Ffeature%3Doembed=YouTube=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DDIMIK5p3gCo=https%3A%2F%2Fi.ytimg.com%2Fvi%2FDIMIK5p3gCo%2Fhqdefault.jpg=799f78c4081511e084894040444cdc60=text%2Fhtml=youtube",
+          "source": {
+            "name": "YouTube",
+            "website": "https://www.youtube.com/"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    }
+  ]
+}

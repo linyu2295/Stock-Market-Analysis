@@ -1,0 +1,1981 @@
+{
+  "response": {
+    "status": 200
+  },
+  "symbol": {
+    "id": 6685,
+    "symbol": "PBR",
+    "title": "Petroleo Brasileiro",
+    "aliases": [],
+    "is_following": false,
+    "watchlist_count": 8753
+  },
+  "cursor": {
+    "more": true,
+    "since": 254121796,
+    "max": 253224387
+  },
+  "messages": [
+    {
+      "id": 254121796,
+      "body": "Shares of several energy companies are trading higher as oil prices gain on the US 2020 presidential election day. Investors weigh the the macro implications and the energy policy outcomes of a Trump or Biden victory, which could have...\n\nRelated Tickers: $CNQ $ET $MPLX $PBR $TOT",
+      "created_at": "2020-11-03T15:27:32Z",
+      "user": {
+        "id": 3539670,
+        "username": "QuantData",
+        "name": "Quant Data",
+        "avatar_url": "https://avatars.stocktwits.com/production/3539670/thumb-1602473985.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3539670/thumb-1602473985.png",
+        "join_date": "2020-06-03",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 726,
+        "following": 0,
+        "ideas": 10507,
+        "watchlist_stocks_count": 0,
+        "like_count": 20,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5828,
+        "title": "QuantData",
+        "url": "https://quantdata.us"
+      },
+      "symbols": [
+        {
+          "id": 4788,
+          "symbol": "CNQ",
+          "title": "Canadian Natural Resources Limited",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1925
+        },
+        {
+          "id": 6685,
+          "symbol": "PBR",
+          "title": "Petroleo Brasileiro",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 8753
+        },
+        {
+          "id": 7453,
+          "symbol": "TOT",
+          "title": "Total SA",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1896
+        },
+        {
+          "id": 11214,
+          "symbol": "ET",
+          "title": "Energy Transfer Equity LP Unit",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 8240
+        },
+        {
+          "id": 11412,
+          "symbol": "MPLX",
+          "title": "MPLX LP",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1393
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254025248,
+      "body": "Largest PUT OI decreases $AAPL $PBR $CRCQQ $SBUX $AMD",
+      "created_at": "2020-11-03T00:13:22Z",
+      "user": {
+        "id": 917666,
+        "username": "TeresaTrades",
+        "name": "Teresa",
+        "avatar_url": "https://avatars.stocktwits.com/production/917666/thumb-1484258528.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/917666/thumb-1484258528.png",
+        "join_date": "2017-01-06",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 7997,
+        "following": 318,
+        "ideas": 15237,
+        "watchlist_stocks_count": 125,
+        "like_count": 8130,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 686,
+          "symbol": "AAPL",
+          "title": "Apple Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 525636
+        },
+        {
+          "id": 3465,
+          "symbol": "SBUX",
+          "title": "Starbucks Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 80978
+        },
+        {
+          "id": 4331,
+          "symbol": "AMD",
+          "title": "Advanced Micro Devices, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 280926
+        },
+        {
+          "id": 6685,
+          "symbol": "PBR",
+          "title": "Petroleo Brasileiro",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 8755
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          1985042
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_254025248.jpg",
+          "large": "https://charts.stocktwits.com/production/large_254025248.jpg",
+          "original": "https://charts.stocktwits.com/production/original_254025248.jpg",
+          "url": "https://charts.stocktwits.com/production/original_254025248.jpg"
+        },
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254024701,
+      "body": "Largest CALL OI decreases $AAPL $CLVS $F $PBR $BAC",
+      "created_at": "2020-11-03T00:09:42Z",
+      "user": {
+        "id": 917666,
+        "username": "TeresaTrades",
+        "name": "Teresa",
+        "avatar_url": "https://avatars.stocktwits.com/production/917666/thumb-1484258528.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/917666/thumb-1484258528.png",
+        "join_date": "2017-01-06",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 7999,
+        "following": 318,
+        "ideas": 15242,
+        "watchlist_stocks_count": 125,
+        "like_count": 8130,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 686,
+          "symbol": "AAPL",
+          "title": "Apple Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 525680
+        },
+        {
+          "id": 4438,
+          "symbol": "BAC",
+          "title": "Bank of America Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 106408
+        },
+        {
+          "id": 5281,
+          "symbol": "F",
+          "title": "Ford Motor Co.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 98073
+        },
+        {
+          "id": 6685,
+          "symbol": "PBR",
+          "title": "Petroleo Brasileiro",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 8754
+        },
+        {
+          "id": 9721,
+          "symbol": "CLVS",
+          "title": "Clovis Oncology, Inc. ",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 20774
+        }
+      ],
+      "likes": {
+        "total": 2,
+        "user_ids": [
+          1603785,
+          1985042
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_254024701.jpg",
+          "large": "https://charts.stocktwits.com/production/large_254024701.jpg",
+          "original": "https://charts.stocktwits.com/production/original_254024701.jpg",
+          "url": "https://charts.stocktwits.com/production/original_254024701.jpg"
+        },
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253980374,
+      "body": "$TGA  $CVX $PBR $CDEV $WLL  Oil-weighted producers from the energy sector. TransGlobe Energy (TGA) has a pristine balance sheet, very low key metrics and is clipping coupons, excellent factual Seeking Alpha article:https://seekingalpha.com/article/4383854-transglobe-energy-clipping-coupons",
+      "created_at": "2020-11-02T20:37:52Z",
+      "user": {
+        "id": 3006761,
+        "username": "thinkandpick",
+        "name": "Matt Rinfield",
+        "avatar_url": "https://avatars.stocktwits.com/production/3006761/thumb-1579348339.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3006761/thumb-1579348339.png",
+        "join_date": "2020-01-05",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 134,
+        "following": 1,
+        "ideas": 2525,
+        "watchlist_stocks_count": 0,
+        "like_count": 1795,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 3781,
+          "symbol": "TGA",
+          "title": "TransGlobe Energy Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 980
+        },
+        {
+          "id": 4874,
+          "symbol": "CVX",
+          "title": "Chevron Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 18441
+        },
+        {
+          "id": 6685,
+          "symbol": "PBR",
+          "title": "Petroleo Brasileiro",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 8755
+        },
+        {
+          "id": 7736,
+          "symbol": "WLL",
+          "title": "Whiting Petroleum Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 18480
+        },
+        {
+          "id": 13218,
+          "symbol": "CDEV",
+          "title": "Centennial Resources Development",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 11955
+        }
+      ],
+      "links": [
+        {
+          "title": "TransGlobe Energy: Clipping Coupons (NASDAQ:TGA)",
+          "url": "https://seekingalpha.com/article/4383854-transglobe-energy-clipping-coupons",
+          "shortened_url": "https://seekingalpha.com/article/4383854-transglobe-energy-clipping-coupons",
+          "shortened_expanded_url": "seekingalpha.com/article/43...",
+          "description": "Low debt companies like TransGlobe Energy ( TGA) (also listed on the Toronto Exchange as TGL and other exchanges) simply sit back and cash checks (or clip coupons) during the current period of coronavirus demand destruction. This company actually has negative net debt and therefore is under no pressure whatsoever during the current low commodity price period.",
+          "image": "https://static.seekingalpha.com/uploads/2020/9/25/1102834-16010071502330387_origin.png",
+          "created_at": "2020-11-02T20:37:53Z",
+          "video_url": null,
+          "source": {
+            "name": "Seeking Alpha",
+            "website": "https://seekingalpha.com"
+          }
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          3960617
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 253908226,
+      "body": "$PBR my c# aggregation bots led me to this stock. So I\u2019ve got some call options set for Jan.",
+      "created_at": "2020-11-02T15:50:33Z",
+      "user": {
+        "id": 3960617,
+        "username": "bot4trading",
+        "name": "Bot4trading",
+        "avatar_url": "https://avatars.stocktwits.com/production/3960617/thumb-1597556965.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3960617/thumb-1597556965.png",
+        "join_date": "2020-08-16",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 0,
+        "following": 0,
+        "ideas": 4,
+        "watchlist_stocks_count": 4,
+        "like_count": 2,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 6685,
+          "symbol": "PBR",
+          "title": "Petroleo Brasileiro",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 8755
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253876517,
+      "body": "PetroleoBrasileiroPetrobras $PBR BidaskScore is #Reiterated to StronglySold https://bidaskclub.com/news/company/2020-10-28/PBR",
+      "created_at": "2020-11-02T13:58:03Z",
+      "user": {
+        "id": 1177001,
+        "username": "BidaskBot",
+        "name": "BidaskBot",
+        "avatar_url": "https://avatars.stocktwits.com/production/1177001/thumb-1504377126.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1177001/thumb-1504377126.png",
+        "join_date": "2017-09-02",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 1053,
+        "following": 21,
+        "ideas": 67936,
+        "watchlist_stocks_count": 20,
+        "like_count": 1009,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 3725,
+        "title": "BidaskBot",
+        "url": "https://bidaskclub.com"
+      },
+      "symbols": [
+        {
+          "id": 6685,
+          "symbol": "PBR",
+          "title": "Petroleo Brasileiro",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 8753
+        }
+      ],
+      "links": [
+        {
+          "title": "BidaskClub.com - See where people invest",
+          "url": "https://bidaskclub.com/news/company/2020-10-28/PBR",
+          "shortened_url": "https://bidaskclub.com/news/company/2020-10-28/PBR",
+          "shortened_expanded_url": "bidaskclub.com/news/company...",
+          "description": "Use the proprietary BidaskScore to see where people invest. Use the market heatmap and market screener to explore the US equity stock market",
+          "image": null,
+          "created_at": "2020-11-02T13:58:04Z",
+          "video_url": null,
+          "source": {
+            "name": "Bidaskclub",
+            "website": "https://bidaskclub.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_253876517.png",
+          "large": "https://charts.stocktwits.com/production/large_253876517.png",
+          "original": "https://charts.stocktwits.com/production/original_253876517.png",
+          "url": "https://charts.stocktwits.com/production/original_253876517.png"
+        },
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253860064,
+      "body": "$PBR \ud83c\udf40\ud83c\udf40Stay Strong \ud83c\udf40\ud83c\udf40Target $18.00 \u2600\ufe0f\u2600\ufe0f\u2600\ufe0f\u2600\ufe0f\u2600\ufe0f",
+      "created_at": "2020-11-02T12:19:17Z",
+      "user": {
+        "id": 2240573,
+        "username": "GM_Main",
+        "name": "Manne",
+        "avatar_url": "https://avatars.stocktwits.com/production/2240573/thumb-1576117694.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2240573/thumb-1576117694.png",
+        "join_date": "2019-08-04",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 15,
+        "following": 0,
+        "ideas": 1015,
+        "watchlist_stocks_count": 59,
+        "like_count": 2131,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 6685,
+          "symbol": "PBR",
+          "title": "Petroleo Brasileiro",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 8755
+        }
+      ],
+      "likes": {
+        "total": 3,
+        "user_ids": [
+          1412670,
+          3014584,
+          3960617
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 253787948,
+      "body": "$PBR focus put a sell price on all your stocks so the amount of stocks available for short sellers will be reduced!",
+      "created_at": "2020-11-01T16:04:16Z",
+      "user": {
+        "id": 1412670,
+        "username": "moreira",
+        "name": "Rodrigo",
+        "avatar_url": "https://avatars.stocktwits.com/production/1412670/thumb-1551315497.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1412670/thumb-1551315497.png",
+        "join_date": "2018-02-15",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 9,
+        "following": 55,
+        "ideas": 543,
+        "watchlist_stocks_count": 5,
+        "like_count": 981,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 6685,
+          "symbol": "PBR",
+          "title": "Petroleo Brasileiro",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 8755
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          1049223
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 253740518,
+      "body": "$PBR $MSFT $DIS $TIF Top open interest list from Friday morning",
+      "created_at": "2020-10-31T19:56:42Z",
+      "user": {
+        "id": 2978728,
+        "username": "MrcDarkPoolTrading",
+        "name": "MaxRiskCaptial",
+        "avatar_url": "https://avatars.stocktwits.com/production/2978728/thumb-1593841458.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2978728/thumb-1593841458.png",
+        "join_date": "2019-12-20",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 4523,
+        "following": 7,
+        "ideas": 7436,
+        "watchlist_stocks_count": 92,
+        "like_count": 644,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 2735,
+          "symbol": "MSFT",
+          "title": "Microsoft Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 267454
+        },
+        {
+          "id": 4983,
+          "symbol": "DIS",
+          "title": "Walt Disney Co.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 177461
+        },
+        {
+          "id": 6685,
+          "symbol": "PBR",
+          "title": "Petroleo Brasileiro",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 8755
+        },
+        {
+          "id": 7408,
+          "symbol": "TIF",
+          "title": "Tiffany & Co.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 3876
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          3960617
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_253740518.jpg",
+          "large": "https://charts.stocktwits.com/production/large_253740518.jpg",
+          "original": "https://charts.stocktwits.com/production/original_253740518.jpg",
+          "url": "https://charts.stocktwits.com/production/original_253740518.jpg"
+        },
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253700928,
+      "body": "Don\u2019t miss out on this! $PBR RSI Indicator left the oversold zone. View odds of uptrend. https://srnk.us/go/2264309",
+      "created_at": "2020-10-31T03:50:46Z",
+      "user": {
+        "id": 967528,
+        "username": "tickeron",
+        "name": "Tickeron",
+        "avatar_url": "https://avatars.stocktwits.com/production/967528/thumb-1492026736.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/967528/thumb-1492026736.png",
+        "join_date": "2017-02-23",
+        "official": true,
+        "identity": "Official",
+        "classification": [
+          "official"
+        ],
+        "followers": 3846,
+        "following": 108,
+        "ideas": 430495,
+        "watchlist_stocks_count": 0,
+        "like_count": 0,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5810,
+        "title": "Tickeron",
+        "url": "https://tickeron.com"
+      },
+      "symbols": [
+        {
+          "id": 6685,
+          "symbol": "PBR",
+          "title": "Petroleo Brasileiro",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 8755
+        }
+      ],
+      "links": [
+        {
+          "title": "Tickeron - A.I. Trading With Odds of Success",
+          "url": "https://srnk.us/go/2264309",
+          "shortened_url": "https://srnk.us/go/2264309",
+          "shortened_expanded_url": "tickeron.com/news/7712092-p...",
+          "description": "Our A.I.-powered algorithms generate and verify trade ideas. Invest in trends, trade with patterns, and analyze Stocks, ETFs, Mutual Funds, FOREX, Cryptos.",
+          "image": "https://tickeron.com/Img/Seo/main.png",
+          "created_at": "2020-10-31T03:50:47Z",
+          "video_url": null,
+          "source": {
+            "name": "Tickeron Inc.",
+            "website": "https://tickeron.com"
+          }
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          1049223
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_253700928.",
+          "large": "https://charts.stocktwits.com/production/large_253700928.",
+          "original": "https://charts.stocktwits.com/production/original_253700928.",
+          "url": "https://charts.stocktwits.com/production/original_253700928."
+        },
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 253684642,
+      "body": "Largest CALL OI decreases $VOD $AAL $PBR $TIF $STAY",
+      "created_at": "2020-10-31T00:10:10Z",
+      "user": {
+        "id": 917666,
+        "username": "TeresaTrades",
+        "name": "Teresa",
+        "avatar_url": "https://avatars.stocktwits.com/production/917666/thumb-1484258528.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/917666/thumb-1484258528.png",
+        "join_date": "2017-01-06",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 7996,
+        "following": 318,
+        "ideas": 15237,
+        "watchlist_stocks_count": 125,
+        "like_count": 8130,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 6685,
+          "symbol": "PBR",
+          "title": "Petroleo Brasileiro",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 8755
+        },
+        {
+          "id": 7408,
+          "symbol": "TIF",
+          "title": "Tiffany & Co.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 3877
+        },
+        {
+          "id": 7661,
+          "symbol": "VOD",
+          "title": "Vodafone Group plc",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 2629
+        },
+        {
+          "id": 11667,
+          "symbol": "STAY",
+          "title": "Extended Stay America",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 421
+        },
+        {
+          "id": 11711,
+          "symbol": "AAL",
+          "title": "American Airlines Group",
+          "aliases": [
+            "LCC",
+            "AAMRQ"
+          ],
+          "is_following": false,
+          "watchlist_count": 70001
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          3244967
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_253684642.jpg",
+          "large": "https://charts.stocktwits.com/production/large_253684642.jpg",
+          "original": "https://charts.stocktwits.com/production/original_253684642.jpg",
+          "url": "https://charts.stocktwits.com/production/original_253684642.jpg"
+        },
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253683446,
+      "body": "Largest PUT OI decreases $PBR $STAY $BAC $SNE $DVN",
+      "created_at": "2020-10-30T23:58:14Z",
+      "user": {
+        "id": 917666,
+        "username": "TeresaTrades",
+        "name": "Teresa",
+        "avatar_url": "https://avatars.stocktwits.com/production/917666/thumb-1484258528.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/917666/thumb-1484258528.png",
+        "join_date": "2017-01-06",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 7999,
+        "following": 318,
+        "ideas": 15243,
+        "watchlist_stocks_count": 125,
+        "like_count": 8130,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 4438,
+          "symbol": "BAC",
+          "title": "Bank of America Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 106415
+        },
+        {
+          "id": 5080,
+          "symbol": "DVN",
+          "title": "Devon Energy Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 5328
+        },
+        {
+          "id": 6685,
+          "symbol": "PBR",
+          "title": "Petroleo Brasileiro",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 8753
+        },
+        {
+          "id": 7246,
+          "symbol": "SNE",
+          "title": "Sony Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 14826
+        },
+        {
+          "id": 11667,
+          "symbol": "STAY",
+          "title": "Extended Stay America",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 421
+        }
+      ],
+      "likes": {
+        "total": 4,
+        "user_ids": [
+          3244967,
+          701364,
+          1643159,
+          1748809
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_253683446.jpg",
+          "large": "https://charts.stocktwits.com/production/large_253683446.jpg",
+          "original": "https://charts.stocktwits.com/production/original_253683446.jpg",
+          "url": "https://charts.stocktwits.com/production/original_253683446.jpg"
+        },
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253502499,
+      "body": "$PBR [15s. delayed] filed form 6-K on October 30, 08:53:41 https://s.flashalert.me/i4QMAA",
+      "created_at": "2020-10-30T12:54:34Z",
+      "user": {
+        "id": 595702,
+        "username": "fla",
+        "name": "FlashAlert_me",
+        "avatar_url": "https://avatars.stocktwits.com/production/595702/thumb-1550769466.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/595702/thumb-1550769466.png",
+        "join_date": "2015-09-09",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 2655,
+        "following": 60,
+        "ideas": 718957,
+        "watchlist_stocks_count": 0,
+        "like_count": 4,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 4622,
+        "title": "FlashAlert",
+        "url": "https://flashalert.me/"
+      },
+      "symbols": [
+        {
+          "id": 6685,
+          "symbol": "PBR",
+          "title": "Petroleo Brasileiro",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 8753
+        }
+      ],
+      "links": [
+        {
+          "title": "Flash Alert",
+          "url": "https://s.flashalert.me/i4QMAA",
+          "shortened_url": "https://s.flashalert.me/i4QMAA",
+          "shortened_expanded_url": "sec.gov/Archives/edgar/data...",
+          "description": "Real-time alerts about equities, ETFs, cryptocurrencies and more sent to any device",
+          "image": null,
+          "created_at": "2020-10-30T12:54:35Z",
+          "video_url": null,
+          "source": {
+            "name": "Flashalert",
+            "website": "https://flashalert.me"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253502417,
+      "body": "$PBR Form 6-K (report of foreign issuer [rules 13a-16 and 15d-16]) filed with the SEC \n\nhttps://newsfilter.io/a/bcd76b87474208a2be59f5521eddf7bc",
+      "created_at": "2020-10-30T12:54:12Z",
+      "user": {
+        "id": 2762379,
+        "username": "Newsfilter",
+        "name": "@newsfilterio",
+        "avatar_url": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "join_date": "2019-09-01",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 7531,
+        "following": 16,
+        "ideas": 603282,
+        "watchlist_stocks_count": 1,
+        "like_count": 531,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 6685,
+          "symbol": "PBR",
+          "title": "Petroleo Brasileiro",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 8753
+        }
+      ],
+      "links": [
+        {
+          "title": "6-K Form - Report of foreign issuer [Rules 13a-16 and 15d-16] - PETROBRAS - PETROLEO BRASILEIRO SA (0001119639) (Filer)",
+          "url": "https://newsfilter.io/a/bcd76b87474208a2be59f5521eddf7bc",
+          "shortened_url": "https://newsfilter.io/a/bcd76b87474208a2be59f5521eddf7bc",
+          "shortened_expanded_url": "newsfilter.io/a/bcd76b87474...",
+          "description": "SECURITIES AND EXCHANGE COMMISSION Washington, D.C. 20549 FORM 6-K Report of Foreign Private Issuer Pursuant to Rule 13a-16 or 15d-16 of the Securities Exchange Act of 1934 For the month of October, 2020 Commission File Number 1-15106 PETR\u00d3LEO BRASILEIRO S.A.",
+          "image": "https://newsfilter.io/meta-images/?url=https://storage.googleapis.com/iex/api/logos/PBR.png",
+          "created_at": "2020-10-30T12:54:13Z",
+          "video_url": null,
+          "source": {
+            "name": "Newsfilter",
+            "website": "https://newsfilter.io"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253427895,
+      "body": "REPLAY: Thursday Night Stock Charts LIVE! \n\nAnother Great Night Of Charts! \n\nhttps://thecontrariantrader.com/thursday-night-stocks-charts-live-twitter-apple-earnings/\n\n$PBR $ZM $OPTT $IBM $RIDE",
+      "created_at": "2020-10-29T23:53:59Z",
+      "user": {
+        "id": 116850,
+        "username": "contrariantrade",
+        "name": "Robert Desmond",
+        "avatar_url": "https://avatars.stocktwits.com/production/116850/thumb-1346508556.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/116850/thumb-1346508556.png",
+        "join_date": "2011-11-09",
+        "official": true,
+        "identity": "Official",
+        "classification": [
+          "suggested",
+          "official"
+        ],
+        "followers": 1149,
+        "following": 337,
+        "ideas": 1931,
+        "watchlist_stocks_count": 6,
+        "like_count": 60,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 3000,
+          "symbol": "OPTT",
+          "title": "Ocean Power Technologies, Inc",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 25553
+        },
+        {
+          "id": 5786,
+          "symbol": "IBM",
+          "title": "International Business Machines Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 44078
+        },
+        {
+          "id": 6685,
+          "symbol": "PBR",
+          "title": "Petroleo Brasileiro",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 8755
+        },
+        {
+          "id": 15168,
+          "symbol": "ZM",
+          "title": "Zoom Video Communications, Inc",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 43936
+        },
+        {
+          "id": 15778,
+          "symbol": "RIDE",
+          "title": "Lordstown Motors Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 19444
+        }
+      ],
+      "links": [
+        {
+          "title": "Thursday Night Stocks Charts LIVE | Twitter Apple Earnings - The Contrarian Trader",
+          "url": "https://thecontrariantrader.com/thursday-night-stocks-charts-live-twitter-apple-earnings/",
+          "shortened_url": "https://thecontrariantrader.com/thursday-night-stocks-charts-live-twitter-apple-earnings/",
+          "shortened_expanded_url": "thecontrariantrader.com/thu...",
+          "description": "\u2705Get Alerted 15 Minutes Prior To Going Live! (we hate spam too) https://thecontrariantrader.com/15-minute-live-stream-alert/ \u2705Bob's 5 Most Powerful Video Tutorial - Free http://bit.ly/2IpRUPU ================================================= Partner Discounts \ud83d\udcc8TrendSpider Automated Charting Tour https://trendspider.com/?_go=contrarian-1 Use Discount Code CON35 35% Off Today! Our Live Stream Schedule \u2705Sunday Night Futures Live!",
+          "image": "https://thecontrariantrader.com/wp-content/uploads/2020/07/tct-show.png",
+          "created_at": "2020-10-29T23:54:04Z",
+          "video_url": null,
+          "source": {
+            "name": "The Contrarian Trader",
+            "website": "https://thecontrariantrader.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_253427895.png",
+          "large": "https://charts.stocktwits.com/production/large_253427895.png",
+          "original": "https://charts.stocktwits.com/production/original_253427895.png",
+          "url": "https://charts.stocktwits.com/production/original_253427895.png"
+        },
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253427549,
+      "body": "$PBR $BAK Petrobras says major divestments to ramp up \n\nhttps://newsfilter.io/a/d02838d5e499a3fe7f748cbe935d5669",
+      "created_at": "2020-10-29T23:52:09Z",
+      "user": {
+        "id": 2762379,
+        "username": "Newsfilter",
+        "name": "@newsfilterio",
+        "avatar_url": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "join_date": "2019-09-01",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 7525,
+        "following": 16,
+        "ideas": 602463,
+        "watchlist_stocks_count": 1,
+        "like_count": 531,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 4440,
+          "symbol": "BAK",
+          "title": "Braskem S.A.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 349
+        },
+        {
+          "id": 6685,
+          "symbol": "PBR",
+          "title": "Petroleo Brasileiro",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 8755
+        }
+      ],
+      "links": [
+        {
+          "title": "Petrobras says major divestments to ramp up",
+          "url": "https://newsfilter.io/a/d02838d5e499a3fe7f748cbe935d5669",
+          "shortened_url": "https://newsfilter.io/a/d02838d5e499a3fe7f748cbe935d5669",
+          "shortened_expanded_url": "newsfilter.io/a/d02838d5e49...",
+          "description": "Petrobras is in the advanced stages of several major divestments, executives said , indicating the company's ambitious deleveraging program may pick up the pace after pulling back during Brazil's coronavirus outbreak.In 's earnings conference call, execs said the company hopes to finalize negotiations to sell its RLAM refinery by year-end,",
+          "image": "https://newsfilter.io/meta-images/?url=https://storage.googleapis.com/iex/api/logos/PBR.png",
+          "created_at": "2020-10-29T23:52:09Z",
+          "video_url": null,
+          "source": {
+            "name": "Newsfilter",
+            "website": "https://newsfilter.io"
+          }
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          3515593
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253345559,
+      "body": "$PBR P/E of almost 4.5? Anything under 10 is a value! 4.17% divvy! Pay me to wait \ud83d\udcb0\ud83d\udcb8",
+      "created_at": "2020-10-29T19:15:41Z",
+      "user": {
+        "id": 180012,
+        "username": "Gemineye",
+        "name": "Michelle",
+        "avatar_url": "https://avatars.stocktwits.com/production/180012/thumb-1389230738.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/180012/thumb-1389230738.png",
+        "join_date": "2012-08-29",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 300,
+        "following": 103,
+        "ideas": 15986,
+        "watchlist_stocks_count": 232,
+        "like_count": 1400,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 6685,
+          "symbol": "PBR",
+          "title": "Petroleo Brasileiro",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 8753
+        }
+      ],
+      "likes": {
+        "total": 3,
+        "user_ids": [
+          1049223,
+          692055,
+          1412670
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253342849,
+      "body": "$PBR moving to $ 7.50 and next week to 8.50",
+      "created_at": "2020-10-29T19:06:58Z",
+      "user": {
+        "id": 380713,
+        "username": "mch1964",
+        "name": "Martin Chia",
+        "avatar_url": "https://avatars.stocktwits.com/production/380713/thumb-1407264905.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/380713/thumb-1407264905.png",
+        "join_date": "2014-07-28",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 49,
+        "following": 177,
+        "ideas": 1237,
+        "watchlist_stocks_count": 112,
+        "like_count": 600,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 6685,
+          "symbol": "PBR",
+          "title": "Petroleo Brasileiro",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 8755
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          1049223
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253339273,
+      "body": "$GRIL $PBR",
+      "created_at": "2020-10-29T18:55:22Z",
+      "user": {
+        "id": 3381575,
+        "username": "2Soggy",
+        "name": "Joseph",
+        "avatar_url": "https://avatars.stocktwits.com/production/3381575/thumb-1589483331.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3381575/thumb-1589483331.png",
+        "join_date": "2020-04-30",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 9,
+        "following": 23,
+        "ideas": 177,
+        "watchlist_stocks_count": 141,
+        "like_count": 318,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 6685,
+          "symbol": "PBR",
+          "title": "Petroleo Brasileiro",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 8755
+        },
+        {
+          "id": 15548,
+          "symbol": "GRIL",
+          "title": "Muscle Maker Grill",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 4272
+        }
+      ],
+      "likes": {
+        "total": 2,
+        "user_ids": [
+          3171410,
+          1049223
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 253304873,
+      "body": "$PBR Petrobras Brasileiro Option Order Flow Sentiment is 82.2% Bullish. https://tinyurl.com/y59nykzt",
+      "created_at": "2020-10-29T17:06:40Z",
+      "user": {
+        "id": 800154,
+        "username": "marketchameleonwins",
+        "name": "marketchameleon",
+        "avatar_url": "https://avatars.stocktwits.com/production/800154/thumb-1470414114.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/800154/thumb-1470414114.png",
+        "join_date": "2016-07-21",
+        "official": true,
+        "identity": "Official",
+        "classification": [
+          "official"
+        ],
+        "followers": 14448,
+        "following": 350,
+        "ideas": 214164,
+        "watchlist_stocks_count": 1,
+        "like_count": 304,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2931,
+        "title": "MarketChameleon.com",
+        "url": "https://marketchameleon.com"
+      },
+      "symbols": [
+        {
+          "id": 6685,
+          "symbol": "PBR",
+          "title": "Petroleo Brasileiro",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 8755
+        }
+      ],
+      "links": [
+        {
+          "title": "Market Chameleon",
+          "url": "https://tinyurl.com/y59nykzt",
+          "shortened_url": "https://tinyurl.com/y59nykzt",
+          "shortened_expanded_url": "marketchameleon.com/Overvie...",
+          "description": "Possible reasons for receiving this error Corrective action(s) Accessing from a virtual machine and/or managed hosting environment Use a physical, local machine Using a VPN or other security product Disable it Using web automation or a non-standard web browser such as a crawler This is prohibited under MarketChameleon's Terms of Use Opening excessive windows and/or tabs Close all MarketChameleon windows/tabs and launch just one If you feel that you've received this message in error, please email the details that appear below to support@marketchameleon.com URL: https://marketchameleon.com/Overview/PBR/OptionOrderSentiment/ Reference Number: 18.8f4fde17.1603991201.1cba57ad",
+          "image": null,
+          "created_at": "2020-10-29T17:06:41Z",
+          "video_url": null,
+          "source": {
+            "name": "Marketchameleon",
+            "website": "https://marketchameleon.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253295515,
+      "body": "$PBR Form 6-K (report of foreign issuer [rules 13a-16 and 15d-16]) filed with the SEC https://newsfilter.io/a/b525224383d5066a2ee09eb0397216c7",
+      "created_at": "2020-10-29T16:35:42Z",
+      "user": {
+        "id": 2762379,
+        "username": "Newsfilter",
+        "name": "@newsfilterio",
+        "avatar_url": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "join_date": "2019-09-01",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 7527,
+        "following": 16,
+        "ideas": 601337,
+        "watchlist_stocks_count": 1,
+        "like_count": 531,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 6685,
+          "symbol": "PBR",
+          "title": "Petroleo Brasileiro",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 8755
+        }
+      ],
+      "links": [
+        {
+          "title": "6-K Form - Report of foreign issuer [Rules 13a-16 and 15d-16] - PETROBRAS - PETROLEO BRASILEIRO SA (0001119639) (Filer)",
+          "url": "https://newsfilter.io/a/b525224383d5066a2ee09eb0397216c7",
+          "shortened_url": "https://newsfilter.io/a/b525224383d5066a2ee09eb0397216c7",
+          "shortened_expanded_url": "newsfilter.io/a/b525224383d...",
+          "description": "SECURITIES AND EXCHANGE COMMISSION Washington, D.C. 20549 FORM 6-K Report of Foreign Private Issuer Pursuant to Rule 13a-16 or 15d-16 of the Securities Exchange Act of 1934 For the month of October, 2020 Commission File Number 1-15106 PETR\u00d3LEO BRASILEIRO S.A.",
+          "image": "https://newsfilter.io/meta-images/?url=https://storage.googleapis.com/iex/api/logos/PBR.png",
+          "created_at": "2020-10-29T16:35:44Z",
+          "video_url": null,
+          "source": {
+            "name": "Newsfilter",
+            "website": "https://newsfilter.io"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253294152,
+      "body": "$PBR [15s. delayed] filed form 6-K on October 29, 12:30:02 https://s.flashalert.me/jxkcbb",
+      "created_at": "2020-10-29T16:31:13Z",
+      "user": {
+        "id": 595702,
+        "username": "fla",
+        "name": "FlashAlert_me",
+        "avatar_url": "https://avatars.stocktwits.com/production/595702/thumb-1550769466.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/595702/thumb-1550769466.png",
+        "join_date": "2015-09-09",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 2656,
+        "following": 60,
+        "ideas": 717079,
+        "watchlist_stocks_count": 0,
+        "like_count": 4,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 4622,
+        "title": "FlashAlert",
+        "url": "https://flashalert.me/"
+      },
+      "symbols": [
+        {
+          "id": 6685,
+          "symbol": "PBR",
+          "title": "Petroleo Brasileiro",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 8755
+        }
+      ],
+      "links": [
+        {
+          "title": "Flash Alert",
+          "url": "https://s.flashalert.me/jxkcbb",
+          "shortened_url": "https://s.flashalert.me/jxkcbb",
+          "shortened_expanded_url": "sec.gov/Archives/edgar/data...",
+          "description": "Real-time alerts about equities, ETFs, cryptocurrencies and more sent to any device",
+          "image": null,
+          "created_at": "2020-10-29T16:31:14Z",
+          "video_url": null,
+          "source": {
+            "name": "Flashalert",
+            "website": "https://flashalert.me"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253262648,
+      "body": "BULLISH SENTIMENT in $PBR Mar-19 calls at $9 strike price. 5K contracts, $150K premium.  https://www.swaggystocks.com/dashboard/stocklabs/option-flow/PBR",
+      "created_at": "2020-10-29T14:57:22Z",
+      "user": {
+        "id": 2138883,
+        "username": "SwaggyStocks",
+        "name": "Swaggy Stocks",
+        "avatar_url": "https://avatars.stocktwits.com/production/2138883/thumb-1587860115.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2138883/thumb-1587860115.png",
+        "join_date": "2019-06-13",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 854,
+        "following": 1,
+        "ideas": 5814,
+        "watchlist_stocks_count": 8,
+        "like_count": 55,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5403,
+        "title": "SwaggyStocks",
+        "url": "https://www.swaggystocks.com"
+      },
+      "symbols": [
+        {
+          "id": 6685,
+          "symbol": "PBR",
+          "title": "Petroleo Brasileiro",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 8755
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 253262648,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 2
+      },
+      "links": [
+        {
+          "title": "Swaggy Stocks",
+          "url": "https://www.swaggystocks.com/dashboard/stocklabs/option-flow/PBR",
+          "shortened_url": "https://www.swaggystocks.com/dashboard/stocklabs/option-flow/PBR",
+          "shortened_expanded_url": "swaggystocks.com/dashboard/...",
+          "description": null,
+          "image": null,
+          "created_at": "2020-10-29T14:57:22Z",
+          "video_url": null,
+          "source": {
+            "name": "Swaggystocks",
+            "website": "https://www.swaggystocks.com"
+          }
+        }
+      ],
+      "likes": {
+        "total": 4,
+        "user_ids": [
+          948782,
+          380713,
+          3814595,
+          1412670
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253257495,
+      "body": "$PBR is going to close green today. We are in winter, people need fuel either for road trips or warming their homes. Flights are safer than the beginning of the pandemic. Patient is the key. This stock is way too undervalued right now.",
+      "created_at": "2020-10-29T14:43:35Z",
+      "user": {
+        "id": 3814595,
+        "username": "Mtnalex",
+        "name": "A",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2020-07-19",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 1,
+        "following": 0,
+        "ideas": 271,
+        "watchlist_stocks_count": 1,
+        "like_count": 88,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 6685,
+          "symbol": "PBR",
+          "title": "Petroleo Brasileiro",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 8755
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          1412670
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 253254025,
+      "body": "$PBR 6.40 and still going down? Sucks",
+      "created_at": "2020-10-29T14:34:59Z",
+      "user": {
+        "id": 4111044,
+        "username": "PharmaGodStock",
+        "name": "Santiago Tonina",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2020-09-26",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 1,
+        "following": 7,
+        "ideas": 91,
+        "watchlist_stocks_count": 15,
+        "like_count": 98,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2095,
+        "title": "StockTwits For Android ",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 6685,
+          "symbol": "PBR",
+          "title": "Petroleo Brasileiro",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 8753
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253251743,
+      "body": "$PBR [15s. delayed] filed form 6-K on October 29, 10:25:53 https://s.flashalert.me/S6ej9",
+      "created_at": "2020-10-29T14:29:10Z",
+      "user": {
+        "id": 595702,
+        "username": "fla",
+        "name": "FlashAlert_me",
+        "avatar_url": "https://avatars.stocktwits.com/production/595702/thumb-1550769466.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/595702/thumb-1550769466.png",
+        "join_date": "2015-09-09",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 2656,
+        "following": 60,
+        "ideas": 719082,
+        "watchlist_stocks_count": 0,
+        "like_count": 4,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 4622,
+        "title": "FlashAlert",
+        "url": "https://flashalert.me/"
+      },
+      "symbols": [
+        {
+          "id": 6685,
+          "symbol": "PBR",
+          "title": "Petroleo Brasileiro",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 8753
+        }
+      ],
+      "links": [
+        {
+          "title": "Flash Alert",
+          "url": "https://s.flashalert.me/S6ej9",
+          "shortened_url": "https://s.flashalert.me/S6ej9",
+          "shortened_expanded_url": "sec.gov/Archives/edgar/data...",
+          "description": "Real-time alerts about equities, ETFs, cryptocurrencies and more sent to any device",
+          "image": null,
+          "created_at": "2020-10-29T14:29:11Z",
+          "video_url": null,
+          "source": {
+            "name": "Flashalert",
+            "website": "https://flashalert.me"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253251490,
+      "body": "$PBR Form 6-K (report of foreign issuer [rules 13a-16 and 15d-16]) filed with the SEC \n\nhttps://newsfilter.io/a/9486140631810ffb0237e7372d9df86b",
+      "created_at": "2020-10-29T14:28:35Z",
+      "user": {
+        "id": 2762379,
+        "username": "Newsfilter",
+        "name": "@newsfilterio",
+        "avatar_url": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "join_date": "2019-09-01",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 7533,
+        "following": 16,
+        "ideas": 603537,
+        "watchlist_stocks_count": 1,
+        "like_count": 531,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 6685,
+          "symbol": "PBR",
+          "title": "Petroleo Brasileiro",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 8753
+        }
+      ],
+      "links": [
+        {
+          "title": "6-K Form - Report of foreign issuer [Rules 13a-16 and 15d-16] - PETROBRAS - PETROLEO BRASILEIRO SA (0001119639) (Filer)",
+          "url": "https://newsfilter.io/a/9486140631810ffb0237e7372d9df86b",
+          "shortened_url": "https://newsfilter.io/a/9486140631810ffb0237e7372d9df86b",
+          "shortened_expanded_url": "newsfilter.io/a/94861406318...",
+          "description": "SECURITIES AND EXCHANGE COMMISSION Washington, D.C. 20549 FORM 6-K Report of Foreign Private Issuer Pursuant to Rule 13a-16 or 15d-16 of the Securities Exchange Act of 1934 For the month of October, 2020 Commission File Number 1-15106 PETR\u00d3LEO BRASILEIRO S.A.",
+          "image": "https://newsfilter.io/meta-images/?url=https://storage.googleapis.com/iex/api/logos/PBR.png",
+          "created_at": "2020-10-29T14:28:38Z",
+          "video_url": null,
+          "source": {
+            "name": "Newsfilter",
+            "website": "https://newsfilter.io"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253250001,
+      "body": "$PBR a must buy for me, JPMorgan and GSachs",
+      "created_at": "2020-10-29T14:24:52Z",
+      "user": {
+        "id": 380713,
+        "username": "mch1964",
+        "name": "Martin Chia",
+        "avatar_url": "https://avatars.stocktwits.com/production/380713/thumb-1407264905.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/380713/thumb-1407264905.png",
+        "join_date": "2014-07-28",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 49,
+        "following": 177,
+        "ideas": 1237,
+        "watchlist_stocks_count": 112,
+        "like_count": 600,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 6685,
+          "symbol": "PBR",
+          "title": "Petroleo Brasileiro",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 8753
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          1049223
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253244318,
+      "body": "$PBR this will prob close green",
+      "created_at": "2020-10-29T14:10:37Z",
+      "user": {
+        "id": 948782,
+        "username": "vicpredicts",
+        "name": "Landonis Balthazar Calrissian",
+        "avatar_url": "https://avatars.stocktwits.com/production/948782/thumb-1486677448.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/948782/thumb-1486677448.png",
+        "join_date": "2017-02-07",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 29,
+        "following": 85,
+        "ideas": 791,
+        "watchlist_stocks_count": 297,
+        "like_count": 358,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 6685,
+          "symbol": "PBR",
+          "title": "Petroleo Brasileiro",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 8753
+        }
+      ],
+      "likes": {
+        "total": 2,
+        "user_ids": [
+          1412670,
+          3814595
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253224387,
+      "body": "$PBR Form 6-K (report of foreign issuer [rules 13a-16 and 15d-16]) filed with the SEC https://newsfilter.io/a/032823a5a5e6d29aea70a79cd01d20b1",
+      "created_at": "2020-10-29T13:14:22Z",
+      "user": {
+        "id": 2762379,
+        "username": "Newsfilter",
+        "name": "@newsfilterio",
+        "avatar_url": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "join_date": "2019-09-01",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 7531,
+        "following": 16,
+        "ideas": 603282,
+        "watchlist_stocks_count": 1,
+        "like_count": 531,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 6685,
+          "symbol": "PBR",
+          "title": "Petroleo Brasileiro",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 8753
+        }
+      ],
+      "links": [
+        {
+          "title": "6-K Form - Report of foreign issuer [Rules 13a-16 and 15d-16] - PETROBRAS - PETROLEO BRASILEIRO SA (0001119639) (Filer)",
+          "url": "https://newsfilter.io/a/032823a5a5e6d29aea70a79cd01d20b1",
+          "shortened_url": "https://newsfilter.io/a/032823a5a5e6d29aea70a79cd01d20b1",
+          "shortened_expanded_url": "newsfilter.io/a/032823a5a5e...",
+          "description": "SECURITIES AND EXCHANGE COMMISSION Washington, D.C. 20549 FORM 6-K Report of Foreign Private Issuer Pursuant to Rule 13a-16 or 15d-16 of the Securities Exchange Act of 1934 For the month of October, 2020 Commission File Number 1-15106 PETR\u00d3LEO BRASILEIRO S.A.",
+          "image": "https://newsfilter.io/meta-images/?url=https://storage.googleapis.com/iex/api/logos/PBR.png",
+          "created_at": "2020-10-29T13:14:24Z",
+          "video_url": null,
+          "source": {
+            "name": "Newsfilter",
+            "website": "https://newsfilter.io"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    }
+  ]
+}

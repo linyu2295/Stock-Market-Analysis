@@ -1,0 +1,1741 @@
+{
+  "response": {
+    "status": 200
+  },
+  "symbol": {
+    "id": 2355,
+    "symbol": "ISRG",
+    "title": "Intuitive Surgical, Inc.",
+    "aliases": [],
+    "is_following": false,
+    "watchlist_count": 12442
+  },
+  "cursor": {
+    "more": true,
+    "since": 253626833,
+    "max": 252937605
+  },
+  "messages": [
+    {
+      "id": 253626833,
+      "body": "$ISRG soooooo close to a buy!",
+      "created_at": "2020-10-30T19:05:08Z",
+      "user": {
+        "id": 953224,
+        "username": "mach428",
+        "name": "John Stuttle",
+        "avatar_url": "https://avatars.stocktwits.com/production/953224/thumb-1595843558.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/953224/thumb-1595843558.png",
+        "join_date": "2017-02-11",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 19,
+        "following": 57,
+        "ideas": 609,
+        "watchlist_stocks_count": 79,
+        "like_count": 843,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 2355,
+          "symbol": "ISRG",
+          "title": "Intuitive Surgical, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 12442
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253616865,
+      "body": "WATCHING $ADSK ONE OF THOSE WONDERFUL  &#39;NEXT FIVE&#39; LIKE $ISRG $VRTX $PYPL AND $NOW",
+      "created_at": "2020-10-30T18:30:59Z",
+      "user": {
+        "id": 218648,
+        "username": "jewell69",
+        "name": "Robin Quinn",
+        "avatar_url": "https://avatars.stocktwits.com/production/218648/thumb-1367361845.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/218648/thumb-1367361845.png",
+        "join_date": "2013-03-05",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 1763,
+        "following": 85,
+        "ideas": 9766,
+        "watchlist_stocks_count": 55,
+        "like_count": 22,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 753,
+          "symbol": "ADSK",
+          "title": "Autodesk, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 6023
+        },
+        {
+          "id": 2355,
+          "symbol": "ISRG",
+          "title": "Intuitive Surgical, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 12444
+        },
+        {
+          "id": 4048,
+          "symbol": "VRTX",
+          "title": "Vertex Pharmaceuticals Incorporated",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 7121
+        },
+        {
+          "id": 11268,
+          "symbol": "NOW",
+          "title": "ServiceNow",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 9328
+        },
+        {
+          "id": 12608,
+          "symbol": "PYPL",
+          "title": "PayPal",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 63217
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253611057,
+      "body": "2020-10-30 18:11:16+00:00 https://yumistockstrade.com\n$BLKB, $CXP, $GO, $ISRG, $JMIA, $KC    Moving",
+      "created_at": "2020-10-30T18:11:17Z",
+      "user": {
+        "id": 1511377,
+        "username": "YuMiStocks_Trade",
+        "name": "YuMIStocksTrade.com",
+        "avatar_url": "https://avatars.stocktwits.com/production/1511377/thumb-1596895665.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1511377/thumb-1596895665.png",
+        "join_date": "2018-06-04",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 297,
+        "following": 1,
+        "ideas": 4218,
+        "watchlist_stocks_count": 34,
+        "like_count": 599,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5846,
+        "title": "ConfluxBot",
+        "url": "https://app.confluxbot.com"
+      },
+      "symbols": [
+        {
+          "id": 1096,
+          "symbol": "BLKB",
+          "title": "Blackbaud Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 263
+        },
+        {
+          "id": 2355,
+          "symbol": "ISRG",
+          "title": "Intuitive Surgical, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 12444
+        },
+        {
+          "id": 15152,
+          "symbol": "JMIA",
+          "title": "Jumia Technologies AG",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 17265
+        },
+        {
+          "id": 15269,
+          "symbol": "GO",
+          "title": "Grocery Outlet Holding Corp",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1018
+        },
+        {
+          "id": 15608,
+          "symbol": "KC",
+          "title": "Kingsoft Cloud Holdings Ltd - ADR",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 893
+        }
+      ],
+      "links": [
+        {
+          "title": "YuMi$tocksTrade",
+          "url": "https://yumistockstrade.com",
+          "shortened_url": "https://yumistockstrade.com",
+          "shortened_expanded_url": "yumistockstrade.com/user/lo...",
+          "description": "YuMi$tocksTrade -- Redefining Trading",
+          "image": "https://www.yumistockstrade.com/images/favicon-192.png",
+          "created_at": "2020-10-30T18:11:17Z",
+          "video_url": null,
+          "source": {
+            "name": "YuMi$tocksTrade",
+            "website": "https://yumistockstrade.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253604124,
+      "body": "$ISRG jesus. Bk? Lol. Adding here.",
+      "created_at": "2020-10-30T17:49:31Z",
+      "user": {
+        "id": 1804971,
+        "username": "Cvrdcall1",
+        "name": "Cvrdcall1",
+        "avatar_url": "https://avatars.stocktwits.com/production/1804971/thumb-1561866959.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1804971/thumb-1561866959.png",
+        "join_date": "2019-01-11",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 123,
+        "following": 20,
+        "ideas": 8583,
+        "watchlist_stocks_count": 160,
+        "like_count": 23236,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2095,
+        "title": "StockTwits For Android ",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 2355,
+          "symbol": "ISRG",
+          "title": "Intuitive Surgical, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 12444
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253573864,
+      "body": "$SONN added another 1000. I\u2019m riding for the long term with $SONN and $ISRG ... people forget the tortoise won the race",
+      "created_at": "2020-10-30T16:04:22Z",
+      "user": {
+        "id": 4002793,
+        "username": "Anutherlevel",
+        "name": "Kevin Mitchell",
+        "avatar_url": "https://avatars.stocktwits.com/production/4002793/thumb-1600280912.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/4002793/thumb-1600280912.png",
+        "join_date": "2020-08-25",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 0,
+        "following": 7,
+        "ideas": 23,
+        "watchlist_stocks_count": 2,
+        "like_count": 61,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 2355,
+          "symbol": "ISRG",
+          "title": "Intuitive Surgical, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 12443
+        },
+        {
+          "id": 12342,
+          "symbol": "SONN",
+          "title": "Sonnet BioTherapeutics Holdings Inc.",
+          "aliases": [
+            "HOTR"
+          ],
+          "is_following": false,
+          "watchlist_count": 17708
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          1826388
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "giphy": {
+          "id": "HuVCpmfKheI2Q"
+        },
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 253532199,
+      "body": "$WKHS Even $ISRG  lost more as 75$ the last 10 days, thats say enough to me, after elections we go up and up again!!!!!",
+      "created_at": "2020-10-30T14:21:41Z",
+      "user": {
+        "id": 1197267,
+        "username": "Peter56",
+        "name": "Peter",
+        "avatar_url": "https://avatars.stocktwits.com/production/1197267/thumb-1538757491.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1197267/thumb-1538757491.png",
+        "join_date": "2017-09-20",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 12,
+        "following": 69,
+        "ideas": 1068,
+        "watchlist_stocks_count": 29,
+        "like_count": 844,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 2355,
+          "symbol": "ISRG",
+          "title": "Intuitive Surgical, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 12440
+        },
+        {
+          "id": 12960,
+          "symbol": "WKHS",
+          "title": "Workhorse Group ",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 70798
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          4058911
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 253518353,
+      "body": "ISRG Aggressive Elevated Risk: Intuitive Surgical $ISRG triggered at $676.95 on 30-Oct-20\u2026 http://dlvr.it/RkfVZ5",
+      "created_at": "2020-10-30T13:49:02Z",
+      "user": {
+        "id": 2806947,
+        "username": "SmartRTrailingStops",
+        "name": "SmartStops.net",
+        "avatar_url": "https://avatars.stocktwits.com/production/2806947/thumb-1568329661.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2806947/thumb-1568329661.png",
+        "join_date": "2019-09-12",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 36,
+        "following": 0,
+        "ideas": 1207,
+        "watchlist_stocks_count": 2,
+        "like_count": 0,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1351,
+        "title": "dlvr.it",
+        "url": "https://dlvrit.com/"
+      },
+      "symbols": [
+        {
+          "id": 2355,
+          "symbol": "ISRG",
+          "title": "Intuitive Surgical, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 12440
+        }
+      ],
+      "links": [
+        {
+          "title": "(ISRG) Intuitive Surgical | Smartstops",
+          "url": "http://dlvr.it/RkfVZ5",
+          "shortened_url": "http://dlvr.it/RkfVZ5",
+          "shortened_expanded_url": "invest.smartstops.net/stock...",
+          "description": "The Difference Between Aggressive and Conservative Risk Alerts Aggressive SmartStops are designed to provide maximum downside protection and typically lie closer to the current price of the stock or ETF. Conservative SmartStops allow for more price movement resulting in fewer triggers and a lower probability of whipsaw.",
+          "image": "https://invest.smartstops.net/wp-content/uploads/2018/12/smartstops-logo-social.png",
+          "created_at": "2020-10-30T13:49:07Z",
+          "video_url": null,
+          "source": {
+            "name": "Smartstops",
+            "website": "https://invest.smartstops.net"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253471313,
+      "body": "$ISRG 720 will make me happy.",
+      "created_at": "2020-10-30T07:31:23Z",
+      "user": {
+        "id": 3861677,
+        "username": "krish744",
+        "name": "hari kishore",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2020-07-27",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 1,
+        "following": 0,
+        "ideas": 273,
+        "watchlist_stocks_count": 13,
+        "like_count": 62,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2095,
+        "title": "StockTwits For Android ",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 2355,
+          "symbol": "ISRG",
+          "title": "Intuitive Surgical, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 12440
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 253396417,
+      "body": "Your daily News digest for Intuitive Surgical $ISRG https://wsfriend.com/daily/news/ISRG/2020-10-29/",
+      "created_at": "2020-10-29T21:27:32Z",
+      "user": {
+        "id": 732840,
+        "username": "WallStreetFriend",
+        "name": "Wall Street Friend",
+        "avatar_url": "https://avatars.stocktwits.com/production/732840/thumb-1577167895.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/732840/thumb-1577167895.png",
+        "join_date": "2016-04-17",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 551,
+        "following": 39,
+        "ideas": 70949,
+        "watchlist_stocks_count": 31,
+        "like_count": 94,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5142,
+        "title": "Programmatic Alerts ",
+        "url": "https://wsfriend.com"
+      },
+      "symbols": [
+        {
+          "id": 2355,
+          "symbol": "ISRG",
+          "title": "Intuitive Surgical, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 12442
+        }
+      ],
+      "links": [
+        {
+          "title": "ISRG Trending News and Daily News Digest for on Oct 29, 2020",
+          "url": "https://wsfriend.com/daily/news/ISRG/2020-10-29/",
+          "shortened_url": "https://wsfriend.com/daily/news/ISRG/2020-10-29/",
+          "shortened_expanded_url": "wsfriend.com/daily/news/ISR...",
+          "description": "ISRG Dail News Digest and Top trending news for",
+          "image": "https://g.foolcdn.com/editorial/images/597151/pg-stock.jpg",
+          "created_at": "2020-10-29T21:27:34Z",
+          "video_url": null,
+          "source": {
+            "name": "Wsfriend",
+            "website": "https://wsfriend.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253387910,
+      "body": "$ISRG getting closer to a buying opp. $650 load the boat for at least a $100 swing",
+      "created_at": "2020-10-29T21:01:11Z",
+      "user": {
+        "id": 953224,
+        "username": "mach428",
+        "name": "John Stuttle",
+        "avatar_url": "https://avatars.stocktwits.com/production/953224/thumb-1595843558.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/953224/thumb-1595843558.png",
+        "join_date": "2017-02-11",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 19,
+        "following": 57,
+        "ideas": 609,
+        "watchlist_stocks_count": 79,
+        "like_count": 841,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 2355,
+          "symbol": "ISRG",
+          "title": "Intuitive Surgical, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 12440
+        }
+      ],
+      "likes": {
+        "total": 3,
+        "user_ids": [
+          4186315,
+          638755,
+          482886
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 253307826,
+      "body": "$ISRG  \ud83e\uddbe\ud83e\udd16 long. 2021 will be huge",
+      "created_at": "2020-10-29T17:16:38Z",
+      "user": {
+        "id": 974310,
+        "username": "ap05",
+        "name": "Ap",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2017-02-28",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 2,
+        "following": 33,
+        "ideas": 32,
+        "watchlist_stocks_count": 141,
+        "like_count": 53,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 2355,
+          "symbol": "ISRG",
+          "title": "Intuitive Surgical, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 12440
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          638755
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 253301838,
+      "body": "$ISRG \nBought @ 641.65 - Profit Taken@ 693.00 \nStop Profit triggered. Exited in full. \nCurrent Status: Flat \nClose below 685.44 targets 647.14- 643.36 \n\n(Original analysis submitted: Sept. 14, 2020) ",
+      "created_at": "2020-10-29T16:56:33Z",
+      "user": {
+        "id": 142608,
+        "username": "Lampooka",
+        "name": "Paul",
+        "avatar_url": "https://avatars.stocktwits.com/production/142608/thumb-1599893512.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/142608/thumb-1599893512.png",
+        "join_date": "2012-03-11",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 227,
+        "following": 20,
+        "ideas": 1135,
+        "watchlist_stocks_count": 0,
+        "like_count": 74,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 2355,
+          "symbol": "ISRG",
+          "title": "Intuitive Surgical, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 12443
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_253301838.png",
+          "large": "https://charts.stocktwits.com/production/large_253301838.png",
+          "original": "https://charts.stocktwits.com/production/original_253301838.png",
+          "url": "https://charts.stocktwits.com/production/original_253301838.png"
+        },
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253270462,
+      "body": "$ISRG started taking profits past 2 weeks . Resurgence covid may impact  numbers . Better re entry maybe but hard to time  . Still bullish long term .",
+      "created_at": "2020-10-29T15:18:40Z",
+      "user": {
+        "id": 1264569,
+        "username": "natanr",
+        "name": "Natan Rocky",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2017-11-11",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 152,
+        "following": 75,
+        "ideas": 10669,
+        "watchlist_stocks_count": 43,
+        "like_count": 1010,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 2355,
+          "symbol": "ISRG",
+          "title": "Intuitive Surgical, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 12441
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 253262492,
+      "body": "#GSector #SELL WK43 $NEO, $BIIB, $ISRG, $FOLD, $SRPT, XRAY, ALGN, NVRO, ZBH, WAT  #Healthcare IBB LABD LABU XBI BIB UBIO XLV IHF IHI IHE #growthstocks #stocks #finance #investment https://tinyurl.com/y4ruzwfa",
+      "created_at": "2020-10-29T14:56:59Z",
+      "user": {
+        "id": 1514501,
+        "username": "Aigner_Andreas",
+        "name": "Andreas Aigner",
+        "avatar_url": "https://avatars.stocktwits.com/production/1514501/thumb-1528390137.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1514501/thumb-1528390137.png",
+        "join_date": "2018-06-07",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 2549,
+        "following": 49,
+        "ideas": 27175,
+        "watchlist_stocks_count": 87,
+        "like_count": 1038,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 4841,
+        "title": "Main App",
+        "url": "http://www.tradeflags.de"
+      },
+      "symbols": [
+        {
+          "id": 1075,
+          "symbol": "BIIB",
+          "title": "Biogen Idec Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 13471
+        },
+        {
+          "id": 1917,
+          "symbol": "FOLD",
+          "title": "Amicus Therapeutics, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 5441
+        },
+        {
+          "id": 2355,
+          "symbol": "ISRG",
+          "title": "Intuitive Surgical, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 12441
+        },
+        {
+          "id": 11285,
+          "symbol": "SRPT",
+          "title": "Sarepta Therapeutics Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 13609
+        },
+        {
+          "id": 11755,
+          "symbol": "NEO",
+          "title": "Neogenomics Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1591
+        }
+      ],
+      "links": [
+        {
+          "title": null,
+          "url": "https://tinyurl.com/y4ruzwfa",
+          "shortened_url": "https://tinyurl.com/y4ruzwfa",
+          "shortened_expanded_url": "tinyurl.com/y4ruzwfa",
+          "description": null,
+          "image": null,
+          "created_at": "2020-10-29T14:57:30Z",
+          "video_url": null,
+          "source": {
+            "name": "Tinyurl",
+            "website": "http://tinyurl.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_253262492.png",
+          "large": "https://charts.stocktwits.com/production/large_253262492.png",
+          "original": "https://charts.stocktwits.com/production/original_253262492.png",
+          "url": "https://charts.stocktwits.com/production/original_253262492.png"
+        },
+        "sentiment": {
+          "basic": "Bearish"
+        }
+      }
+    },
+    {
+      "id": 253178937,
+      "body": "TD BUY $ISRG at 687.80, Supp 687.80 Resis 755.67 R10  HiLo 78% T1Y 687 buy 2.4 PE 78.4 DIV N/A #Intuitive  #stocks #trading #finance #market https://tinyurl.com/y2x25uv2",
+      "created_at": "2020-10-29T04:06:10Z",
+      "user": {
+        "id": 1514501,
+        "username": "Aigner_Andreas",
+        "name": "Andreas Aigner",
+        "avatar_url": "https://avatars.stocktwits.com/production/1514501/thumb-1528390137.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1514501/thumb-1528390137.png",
+        "join_date": "2018-06-07",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 2541,
+        "following": 49,
+        "ideas": 27122,
+        "watchlist_stocks_count": 87,
+        "like_count": 1037,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 4841,
+        "title": "Main App",
+        "url": "http://www.tradeflags.de"
+      },
+      "symbols": [
+        {
+          "id": 2355,
+          "symbol": "ISRG",
+          "title": "Intuitive Surgical, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 12440
+        }
+      ],
+      "links": [
+        {
+          "title": null,
+          "url": "https://tinyurl.com/y2x25uv2",
+          "shortened_url": "https://tinyurl.com/y2x25uv2",
+          "shortened_expanded_url": "tradeflags.de/2020/10/29/TD...",
+          "description": null,
+          "image": null,
+          "created_at": "2020-10-29T04:06:15Z",
+          "video_url": null,
+          "source": {
+            "name": "Tradeflags",
+            "website": "https://www.tradeflags.de"
+          }
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          3025654
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_253178937.png",
+          "large": "https://charts.stocktwits.com/production/large_253178937.png",
+          "original": "https://charts.stocktwits.com/production/original_253178937.png",
+          "url": "https://charts.stocktwits.com/production/original_253178937.png"
+        },
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 253176496,
+      "body": "$ISRG in at 689. 200 shares",
+      "created_at": "2020-10-29T03:36:38Z",
+      "user": {
+        "id": 1973678,
+        "username": "cowboy5858",
+        "name": "Matthew Boik",
+        "avatar_url": "https://avatars.stocktwits.com/production/1973678/thumb-1573253856.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1973678/thumb-1573253856.png",
+        "join_date": "2019-03-29",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 5,
+        "following": 40,
+        "ideas": 277,
+        "watchlist_stocks_count": 300,
+        "like_count": 180,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 2355,
+          "symbol": "ISRG",
+          "title": "Intuitive Surgical, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 12440
+        }
+      ],
+      "likes": {
+        "total": 4,
+        "user_ids": [
+          638755,
+          974310,
+          697199,
+          482886
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253157571,
+      "body": "$ISRG  Oct 28    \n- Daily stock market timing forecast -    \n\u25c6 Investing view    \n=&gt; Buy - Bullish    \n\u25c6 Search for the daily stock market timing forecast    \nhttp://www.google.com/search?q=pretiming    \n\u25c6 Upper~Lower stock price band for the next 10 days    \nPrice: 679.14  ~ 703.39  \n% Change: -1.26% ~ 2.27% \n\u25c6 Today&#39;s Supply-Demand(S&amp;D) strength    \n=&gt; Supply-Demand strength has changed from a weak selling flow to a suddenly strengthening selling flow.    \n    \n\u25c6 Daily Supply-Demand(S&amp;D) strength Trend    \n=&gt; In the midst of a downward trend of strong downward momentum price flow marked by temporary rises and strong falls.",
+      "created_at": "2020-10-29T00:52:00Z",
+      "user": {
+        "id": 2217866,
+        "username": "Timing_Forecast",
+        "name": "Timing_Forecast",
+        "avatar_url": "https://avatars.stocktwits.com/production/2217866/thumb-1564008712.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2217866/thumb-1564008712.png",
+        "join_date": "2019-07-23",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 4441,
+        "following": 4037,
+        "ideas": 13996,
+        "watchlist_stocks_count": 3,
+        "like_count": 17392,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 2355,
+          "symbol": "ISRG",
+          "title": "Intuitive Surgical, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 12440
+        }
+      ],
+      "links": [
+        {
+          "title": "pretiming - Google Search",
+          "url": "http://www.google.com/search?q=pretiming",
+          "shortened_url": "http://www.google.com/search?q=pretiming",
+          "shortened_expanded_url": "google.com/search?q=pretiming",
+          "description": "MNKD Oct 28 - Daily stock market timing forecast - \u25c6 Investing view => Buy - Bullish \u25c6 Search for the daily stock market timing forecast www.google.com/search?q=p... \u25c6 Upper~Lower st... stocktwits.com/Timing_For...",
+          "image": null,
+          "created_at": "2020-10-29T00:52:01Z",
+          "video_url": null,
+          "source": {
+            "name": "Google",
+            "website": "http://www.google.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_253157571.png",
+          "large": "https://charts.stocktwits.com/production/large_253157571.png",
+          "original": "https://charts.stocktwits.com/production/original_253157571.png",
+          "url": "https://charts.stocktwits.com/production/original_253157571.png"
+        },
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253152312,
+      "body": "$ISRG Intuitive market leader... Great company!",
+      "created_at": "2020-10-29T00:14:52Z",
+      "user": {
+        "id": 4246375,
+        "username": "Direxion",
+        "name": "W",
+        "avatar_url": "https://avatars.stocktwits.com/production/4246375/thumb-1603931398.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/4246375/thumb-1603931398.png",
+        "join_date": "2020-10-28",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 0,
+        "following": 0,
+        "ideas": 42,
+        "watchlist_stocks_count": 7,
+        "like_count": 1,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 2355,
+          "symbol": "ISRG",
+          "title": "Intuitive Surgical, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 12440
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          2217866
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "giphy": {
+          "id": "ViZylgfPSfJFm"
+        },
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 253122024,
+      "body": "Your daily News digest for Intuitive Surgical $ISRG https://wsfriend.com/daily/news/ISRG/2020-10-28/",
+      "created_at": "2020-10-28T21:27:27Z",
+      "user": {
+        "id": 732840,
+        "username": "WallStreetFriend",
+        "name": "Wall Street Friend",
+        "avatar_url": "https://avatars.stocktwits.com/production/732840/thumb-1577167895.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/732840/thumb-1577167895.png",
+        "join_date": "2016-04-17",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 551,
+        "following": 39,
+        "ideas": 70949,
+        "watchlist_stocks_count": 31,
+        "like_count": 94,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5142,
+        "title": "Programmatic Alerts ",
+        "url": "https://wsfriend.com"
+      },
+      "symbols": [
+        {
+          "id": 2355,
+          "symbol": "ISRG",
+          "title": "Intuitive Surgical, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 12442
+        }
+      ],
+      "links": [
+        {
+          "title": "ISRG Trending News and Daily News Digest for on Oct 28, 2020",
+          "url": "https://wsfriend.com/daily/news/ISRG/2020-10-28/",
+          "shortened_url": "https://wsfriend.com/daily/news/ISRG/2020-10-28/",
+          "shortened_expanded_url": "wsfriend.com/daily/news/ISR...",
+          "description": "ISRG Dail News Digest and Top trending news for",
+          "image": "https://g.foolcdn.com/editorial/images/596600/gettyimages-1176248083.jpg",
+          "created_at": "2020-10-28T21:27:28Z",
+          "video_url": null,
+          "source": {
+            "name": "Wsfriend",
+            "website": "https://wsfriend.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253090625,
+      "body": "$isrg $ibm Used todays sell off pricrs to add a bit to both of these...",
+      "created_at": "2020-10-28T19:55:42Z",
+      "user": {
+        "id": 1567863,
+        "username": "Bluweed",
+        "name": "Bluweed",
+        "avatar_url": "https://avatars.stocktwits.com/production/1567863/thumb-1560504424.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1567863/thumb-1560504424.png",
+        "join_date": "2018-08-06",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 425,
+        "following": 137,
+        "ideas": 27659,
+        "watchlist_stocks_count": 49,
+        "like_count": 29380,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 2355,
+          "symbol": "ISRG",
+          "title": "Intuitive Surgical, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 12442
+        },
+        {
+          "id": 5786,
+          "symbol": "IBM",
+          "title": "International Business Machines Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 43996
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          2846536
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253074149,
+      "body": "$ISRG power hour will make it to 705",
+      "created_at": "2020-10-28T19:00:46Z",
+      "user": {
+        "id": 3861677,
+        "username": "krish744",
+        "name": "hari kishore",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2020-07-27",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 1,
+        "following": 0,
+        "ideas": 271,
+        "watchlist_stocks_count": 13,
+        "like_count": 62,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 2355,
+          "symbol": "ISRG",
+          "title": "Intuitive Surgical, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 12439
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 253074149,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 253071937,
+      "body": "$ISRG Will we see 700 today?",
+      "created_at": "2020-10-28T18:52:54Z",
+      "user": {
+        "id": 3861677,
+        "username": "krish744",
+        "name": "hari kishore",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2020-07-27",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 1,
+        "following": 0,
+        "ideas": 283,
+        "watchlist_stocks_count": 14,
+        "like_count": 62,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 2355,
+          "symbol": "ISRG",
+          "title": "Intuitive Surgical, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 12442
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253047979,
+      "body": "ISRG Aggressive Elevated Risk: Intuitive Surgical $ISRG triggered at $689.05 on 28-Oct-20\u2026 http://dlvr.it/RkWq3s",
+      "created_at": "2020-10-28T17:26:02Z",
+      "user": {
+        "id": 2806947,
+        "username": "SmartRTrailingStops",
+        "name": "SmartStops.net",
+        "avatar_url": "https://avatars.stocktwits.com/production/2806947/thumb-1568329661.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2806947/thumb-1568329661.png",
+        "join_date": "2019-09-12",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 38,
+        "following": 0,
+        "ideas": 1218,
+        "watchlist_stocks_count": 2,
+        "like_count": 0,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1351,
+        "title": "dlvr.it",
+        "url": "https://dlvrit.com/"
+      },
+      "symbols": [
+        {
+          "id": 2355,
+          "symbol": "ISRG",
+          "title": "Intuitive Surgical, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 12443
+        }
+      ],
+      "links": [
+        {
+          "title": "(ISRG) Intuitive Surgical | Smartstops",
+          "url": "http://dlvr.it/RkWq3s",
+          "shortened_url": "http://dlvr.it/RkWq3s",
+          "shortened_expanded_url": "invest.smartstops.net/stock...",
+          "description": "The Difference Between Aggressive and Conservative Risk Alerts Aggressive SmartStops are designed to provide maximum downside protection and typically lie closer to the current price of the stock or ETF. Conservative SmartStops allow for more price movement resulting in fewer triggers and a lower probability of whipsaw.",
+          "image": "https://invest.smartstops.net/wp-content/uploads/2018/12/smartstops-logo-social.png",
+          "created_at": "2020-10-28T17:26:05Z",
+          "video_url": null,
+          "source": {
+            "name": "Smartstops",
+            "website": "https://invest.smartstops.net"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253033842,
+      "body": "$ISRG waiting for 650",
+      "created_at": "2020-10-28T16:35:29Z",
+      "user": {
+        "id": 3593491,
+        "username": "STIZY57",
+        "name": "Stizy C.",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2020-06-09",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 8,
+        "following": 19,
+        "ideas": 723,
+        "watchlist_stocks_count": 0,
+        "like_count": 188,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 2355,
+          "symbol": "ISRG",
+          "title": "Intuitive Surgical, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 12442
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 253033842,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 3
+      },
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          953224
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 253003477,
+      "body": "$ISRG added again",
+      "created_at": "2020-10-28T15:03:09Z",
+      "user": {
+        "id": 1804971,
+        "username": "Cvrdcall1",
+        "name": "Cvrdcall1",
+        "avatar_url": "https://avatars.stocktwits.com/production/1804971/thumb-1561866959.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1804971/thumb-1561866959.png",
+        "join_date": "2019-01-11",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 123,
+        "following": 20,
+        "ideas": 8576,
+        "watchlist_stocks_count": 160,
+        "like_count": 23228,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2095,
+        "title": "StockTwits For Android ",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 2355,
+          "symbol": "ISRG",
+          "title": "Intuitive Surgical, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 12441
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 252998478,
+      "body": "$ISRG I love  this stock. Come back to $650 and 1/3 of my portfolio will be back in for the ride up to 775",
+      "created_at": "2020-10-28T14:50:18Z",
+      "user": {
+        "id": 953224,
+        "username": "mach428",
+        "name": "John Stuttle",
+        "avatar_url": "https://avatars.stocktwits.com/production/953224/thumb-1595843558.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/953224/thumb-1595843558.png",
+        "join_date": "2017-02-11",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 19,
+        "following": 57,
+        "ideas": 609,
+        "watchlist_stocks_count": 79,
+        "like_count": 842,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 2355,
+          "symbol": "ISRG",
+          "title": "Intuitive Surgical, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 12441
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          1804971
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 252974036,
+      "body": "$ISRG added a few here.",
+      "created_at": "2020-10-28T13:55:07Z",
+      "user": {
+        "id": 1804971,
+        "username": "Cvrdcall1",
+        "name": "Cvrdcall1",
+        "avatar_url": "https://avatars.stocktwits.com/production/1804971/thumb-1561866959.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1804971/thumb-1561866959.png",
+        "join_date": "2019-01-11",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 123,
+        "following": 20,
+        "ideas": 8576,
+        "watchlist_stocks_count": 160,
+        "like_count": 23217,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2095,
+        "title": "StockTwits For Android ",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 2355,
+          "symbol": "ISRG",
+          "title": "Intuitive Surgical, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 12440
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 252953435,
+      "body": "$ISRG Marshall Mohr sold 6,000 shares [Average Conviction] www.insider-analysis.com/search_transactions.php?ticker=TABLE_ISRG",
+      "created_at": "2020-10-28T13:01:46Z",
+      "user": {
+        "id": 2965453,
+        "username": "Insider_Analysis",
+        "name": "Insider Analysis",
+        "avatar_url": "https://avatars.stocktwits.com/production/2965453/thumb-1583012785.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2965453/thumb-1583012785.png",
+        "join_date": "2019-12-13",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 666,
+        "following": 0,
+        "ideas": 30103,
+        "watchlist_stocks_count": 14,
+        "like_count": 22,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5476,
+        "title": "Insider Analysis",
+        "url": "http://www.insider-analysis.com/"
+      },
+      "symbols": [
+        {
+          "id": 2355,
+          "symbol": "ISRG",
+          "title": "Intuitive Surgical, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 12440
+        }
+      ],
+      "links": [
+        {
+          "title": "Insider Analysis",
+          "url": "www.insider-analysis.com/search_transactions.php?ticker=TABLE_ISRG",
+          "shortened_url": "www.insider-analysis.com/search_transactions.php?ticker=TABLE_ISRG",
+          "shortened_expanded_url": "insider-analysis.com/search...",
+          "description": "InsiderAnalysis - Trade ideas from insider activities INSIDER ANALYSIS, INC .",
+          "image": null,
+          "created_at": "2020-10-28T13:01:48Z",
+          "video_url": null,
+          "source": {
+            "name": "Insider-analysis",
+            "website": "https://insider-analysis.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 252937619,
+      "body": "Intuitive startet Venture-Capital-Fonds in H\u00f6he von 100 Millionen US-Dollar http://www.conferencecalltranscripts.org/summary/?id=79927&amp;pr=true $ISRG",
+      "created_at": "2020-10-28T11:53:15Z",
+      "user": {
+        "id": 210967,
+        "username": "cctranscripts",
+        "name": "Conference Call Transcripts",
+        "avatar_url": "https://avatars.stocktwits.com/production/210967/thumb-1363372333.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/210967/thumb-1363372333.png",
+        "join_date": "2013-01-30",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 6330,
+        "following": 10,
+        "ideas": 2360081,
+        "watchlist_stocks_count": 0,
+        "like_count": 756,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1130,
+        "title": "cctranscripts",
+        "url": "http://conferencecalltranscripts.org"
+      },
+      "symbols": [
+        {
+          "id": 2355,
+          "symbol": "ISRG",
+          "title": "Intuitive Surgical, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 12440
+        }
+      ],
+      "links": [
+        {
+          "title": "Conference Call Transcripts",
+          "url": "http://www.conferencecalltranscripts.org/summary/?id=79927&pr=true",
+          "shortened_url": "http://www.conferencecalltranscripts.org/summary/?id=79927&pr=true",
+          "shortened_expanded_url": "conferencecalltranscripts.o...",
+          "description": "Company Conference Call Transcripts",
+          "image": null,
+          "created_at": "2020-10-28T11:53:15Z",
+          "video_url": null,
+          "source": {
+            "name": "Conferencecalltranscripts",
+            "website": "http://www.conferencecalltranscripts.org"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 252937605,
+      "body": "Intuitive lance un fonds de capital-risque de 100 millions USD http://www.conferencecalltranscripts.org/summary/?id=79926&amp;pr=true $ISRG",
+      "created_at": "2020-10-28T11:53:08Z",
+      "user": {
+        "id": 210967,
+        "username": "cctranscripts",
+        "name": "Conference Call Transcripts",
+        "avatar_url": "https://avatars.stocktwits.com/production/210967/thumb-1363372333.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/210967/thumb-1363372333.png",
+        "join_date": "2013-01-30",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 6330,
+        "following": 10,
+        "ideas": 2360081,
+        "watchlist_stocks_count": 0,
+        "like_count": 756,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1130,
+        "title": "cctranscripts",
+        "url": "http://conferencecalltranscripts.org"
+      },
+      "symbols": [
+        {
+          "id": 2355,
+          "symbol": "ISRG",
+          "title": "Intuitive Surgical, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 12440
+        }
+      ],
+      "links": [
+        {
+          "title": null,
+          "url": "http://www.conferencecalltranscripts.org/summary/?id=79926&pr=true",
+          "shortened_url": "http://www.conferencecalltranscripts.org/summary/?id=79926&pr=true",
+          "shortened_expanded_url": "conferencecalltranscripts.o...",
+          "description": null,
+          "image": null,
+          "created_at": "2020-10-28T11:53:38Z",
+          "video_url": null,
+          "source": {
+            "name": "Conferencecalltranscripts",
+            "website": "http://www.conferencecalltranscripts.org"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    }
+  ]
+}
