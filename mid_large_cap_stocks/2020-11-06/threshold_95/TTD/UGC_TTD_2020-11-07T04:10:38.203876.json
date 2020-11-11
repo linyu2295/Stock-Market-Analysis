@@ -1,0 +1,1787 @@
+{
+  "response": {
+    "status": 200
+  },
+  "symbol": {
+    "id": 13168,
+    "symbol": "TTD",
+    "title": "The Trade Desk Inc",
+    "aliases": [],
+    "is_following": false,
+    "watchlist_count": 20148
+  },
+  "cursor": {
+    "more": true,
+    "since": 254943298,
+    "max": 254921184
+  },
+  "messages": [
+    {
+      "id": 254943298,
+      "body": "$TTD ad business going to dry as we move to early next year. Time to sell.",
+      "created_at": "2020-11-06T20:10:35Z",
+      "user": {
+        "id": 1603759,
+        "username": "Zebra30",
+        "name": "DJ",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2018-09-09",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 20,
+        "following": 11,
+        "ideas": 2237,
+        "watchlist_stocks_count": 0,
+        "like_count": 255,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 13168,
+          "symbol": "TTD",
+          "title": "The Trade Desk Inc",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 20148
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bearish"
+        }
+      }
+    },
+    {
+      "id": 254942923,
+      "body": "$TTD $FB $GOOGL competition is thick dont forget, cant wait for monay when they tear TTD down to 715 hahahahaha",
+      "created_at": "2020-11-06T20:09:11Z",
+      "user": {
+        "id": 3884361,
+        "username": "cashoutsideboutdat",
+        "name": "james",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2020-07-31",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 0,
+        "following": 12,
+        "ideas": 22,
+        "watchlist_stocks_count": 18,
+        "like_count": 11,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 7871,
+          "symbol": "FB",
+          "title": "Facebook",
+          "aliases": [
+            "FBOOK"
+          ],
+          "is_following": false,
+          "watchlist_count": 326845
+        },
+        {
+          "id": 11938,
+          "symbol": "GOOGL",
+          "title": "Alphabet Inc. Class A",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 93969
+        },
+        {
+          "id": 13168,
+          "symbol": "TTD",
+          "title": "The Trade Desk Inc",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 20148
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254942640,
+      "body": "$TTD, $MCHP and $HASI gapping up today. https://www.chartmill.com/stock/stock-screener?v=3&amp;f=s_gup,p_pg10,v1_50b500,exch_us&amp;utm_source=stocktwits&amp;utm_medium=screener&amp;utm_content=Stock_Screener:_Gap_Up&amp;utm_campaign=social_tracking",
+      "created_at": "2020-11-06T20:08:00Z",
+      "user": {
+        "id": 47688,
+        "username": "ChartMill",
+        "name": "ChartMill",
+        "avatar_url": "https://avatars.stocktwits.com/production/47688/thumb-1363343728.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/47688/thumb-1363343728.png",
+        "join_date": "2011-01-26",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 22071,
+        "following": 891,
+        "ideas": 1100094,
+        "watchlist_stocks_count": 20,
+        "like_count": 32,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1135,
+        "title": "ChartMill",
+        "url": "http://www.chartmill.com"
+      },
+      "symbols": [
+        {
+          "id": 2609,
+          "symbol": "MCHP",
+          "title": "Microchip Technology Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 2573
+        },
+        {
+          "id": 11753,
+          "symbol": "HASI",
+          "title": "Hannon Armstrong Sustainable Infrastructure Capital, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1207
+        },
+        {
+          "id": 13168,
+          "symbol": "TTD",
+          "title": "The Trade Desk Inc",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 20148
+        }
+      ],
+      "links": [
+        {
+          "title": null,
+          "url": "https://www.chartmill.com/stock/stock-screener?v=3&f=s_gup,p_pg10,v1_50b500,exch_us&utm_source=stocktwits&utm_medium=screener&utm_content=Stock_Screener:_Gap_Up&utm_campaign=social_tracking",
+          "shortened_url": "https://www.chartmill.com/stock/stock-screener?v=3&f=s_gup,p_pg10,v1_50b500,exch_us&utm_source=stocktwits&utm_medium=screener&utm_content=Stock_Screener:_Gap_Up&utm_campaign=social_tracking",
+          "shortened_expanded_url": "chartmill.com/stock/stock-s...",
+          "description": null,
+          "image": null,
+          "created_at": "2020-11-06T20:08:00Z",
+          "video_url": null,
+          "source": {
+            "name": "Chartmill",
+            "website": "https://www.chartmill.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254941548,
+      "body": "$TTD NEW ARTICLE : Blowout Trade Desk Earnings Illustrate Why Trade Stock Is a Winner https://www.stck.pro/news/TTD/8976763",
+      "created_at": "2020-11-06T20:03:37Z",
+      "user": {
+        "id": 1555408,
+        "username": "STCKPRO",
+        "name": "STCK.PRO",
+        "avatar_url": "https://avatars.stocktwits.com/production/1555408/thumb-1576077822.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1555408/thumb-1576077822.png",
+        "join_date": "2018-07-24",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 4435,
+        "following": 2,
+        "ideas": 273169,
+        "watchlist_stocks_count": 18,
+        "like_count": 52,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5011,
+        "title": "STCK.PRO",
+        "url": "https://dashboard.stck.pro"
+      },
+      "symbols": [
+        {
+          "id": 13168,
+          "symbol": "TTD",
+          "title": "The Trade Desk Inc",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 20148
+        }
+      ],
+      "links": [
+        {
+          "title": "The Trade Desk (TTD)",
+          "url": "https://www.stck.pro/news/TTD/8976763",
+          "shortened_url": "https://www.stck.pro/news/TTD/8976763",
+          "shortened_expanded_url": "stck.pro/news/TTD",
+          "description": "Never miss an important article again, stay on top of your investments and become a better investor today! Get your moat on and sync your watchlist with Stocktwits and get all the latest news for your symbols. Sync with Stocktwits",
+          "image": "https://www.stck.pro/img/imac.png",
+          "created_at": "2020-11-06T20:03:39Z",
+          "video_url": null,
+          "source": {
+            "name": "Stck",
+            "website": "https://www.stck.pro"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_254941548.jpg",
+          "large": "https://charts.stocktwits.com/production/large_254941548.jpg",
+          "original": "https://charts.stocktwits.com/production/original_254941548.jpg",
+          "url": "https://charts.stocktwits.com/production/original_254941548.jpg"
+        },
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254940992,
+      "body": "Blowout Trade Desk Earnings Illustrate Why Trade Stock Is a Winner $TTD https://investorplace.com/2020/11/blowout-trade-desk-earnings-illustrate-why-trade-stock-is-a-winner/",
+      "created_at": "2020-11-06T20:01:23Z",
+      "user": {
+        "id": 55919,
+        "username": "InvestorPlace",
+        "name": "InvestorPlace",
+        "avatar_url": "https://avatars.stocktwits.com/production/55919/thumb-1548340291.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/55919/thumb-1548340291.png",
+        "join_date": "2011-02-28",
+        "official": true,
+        "identity": "Official",
+        "classification": [
+          "suggested",
+          "official"
+        ],
+        "followers": 53770,
+        "following": 149,
+        "ideas": 34925,
+        "watchlist_stocks_count": 37,
+        "like_count": 294,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 13168,
+          "symbol": "TTD",
+          "title": "The Trade Desk Inc",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 20148
+        }
+      ],
+      "links": [
+        {
+          "title": "Blowout Trade Desk Earnings Illustrate Why Trade Stock Is a Winner",
+          "url": "https://investorplace.com/2020/11/blowout-trade-desk-earnings-illustrate-why-trade-stock-is-a-winner/",
+          "shortened_url": "https://investorplace.com/2020/11/blowout-trade-desk-earnings-illustrate-why-trade-stock-is-a-winner/",
+          "shortened_expanded_url": "investorplace.com/2020/11/b...",
+          "description": "The Trade Desk (NASDAQ:) stock took off like a rocket ship in early November after the programmatic advertising leader reported huge revenue and profit beats in its third-quarter earnings report. Specifically, The Trade Desk topped revenue estimates by an impressive 20%, while almost tripling consensus earnings estimates.",
+          "image": "https://investorplace.com/wp-content/uploads/2020/05/ttd-stock-1.jpg",
+          "created_at": "2020-11-06T20:01:24Z",
+          "video_url": null,
+          "source": {
+            "name": "InvestorPlace",
+            "website": "https://investorplace.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 254940656,
+      "body": "$TTD in since 177. Let\u2019s gooo",
+      "created_at": "2020-11-06T20:00:03Z",
+      "user": {
+        "id": 1101647,
+        "username": "idabwax",
+        "name": "B",
+        "avatar_url": "https://avatars.stocktwits.com/production/1101647/thumb-1516593190.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1101647/thumb-1516593190.png",
+        "join_date": "2017-06-22",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 39,
+        "following": 11,
+        "ideas": 4766,
+        "watchlist_stocks_count": 149,
+        "like_count": 3592,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 13168,
+          "symbol": "TTD",
+          "title": "The Trade Desk Inc",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 20148
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254940297,
+      "body": "Great way to end the week. Have a safe weekend all! Thanks to $TTD!",
+      "created_at": "2020-11-06T19:58:46Z",
+      "user": {
+        "id": 805184,
+        "username": "BullTradeFinder",
+        "name": "BullTradeFinder",
+        "avatar_url": "https://avatars.stocktwits.com/production/805184/thumb-1603910725.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/805184/thumb-1603910725.png",
+        "join_date": "2016-07-27",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 7133,
+        "following": 26,
+        "ideas": 9848,
+        "watchlist_stocks_count": 242,
+        "like_count": 3244,
+        "plus_tier": "life",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 13168,
+          "symbol": "TTD",
+          "title": "The Trade Desk Inc",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 20148
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254936783,
+      "body": "$TTD My first short in a while... 100 shares at $825 \ud83d\ude43",
+      "created_at": "2020-11-06T19:45:47Z",
+      "user": {
+        "id": 3127869,
+        "username": "vjysheth",
+        "name": "Vijay Sheth",
+        "avatar_url": "https://avatars.stocktwits.com/production/3127869/thumb-1593420424.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3127869/thumb-1593420424.png",
+        "join_date": "2020-02-27",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 29,
+        "following": 49,
+        "ideas": 607,
+        "watchlist_stocks_count": 15,
+        "like_count": 6359,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 13168,
+          "symbol": "TTD",
+          "title": "The Trade Desk Inc",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 20148
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 254936783,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 3
+      },
+      "likes": {
+        "total": 2,
+        "user_ids": [
+          4126179,
+          984135
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bearish"
+        }
+      }
+    },
+    {
+      "id": 254936089,
+      "body": "$TTD can go to 1200 in this horrible hack-and -slash-all-reason environment.   We will nail the 30% drop and get rich on puts.  Like a razor TA time.  Feel sorry for TTD they had to be the next sacrifice.",
+      "created_at": "2020-11-06T19:43:24Z",
+      "user": {
+        "id": 1693564,
+        "username": "GLordPhil",
+        "name": "GLordPhil",
+        "avatar_url": "https://avatars.stocktwits.com/production/1693564/thumb-1585795957.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1693564/thumb-1585795957.png",
+        "join_date": "2018-11-03",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 167,
+        "following": 42,
+        "ideas": 12249,
+        "watchlist_stocks_count": 71,
+        "like_count": 4945,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 13168,
+          "symbol": "TTD",
+          "title": "The Trade Desk Inc",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 20148
+        }
+      ],
+      "likes": {
+        "total": 3,
+        "user_ids": [
+          3000976,
+          3127869,
+          4126179
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254935807,
+      "body": "$TTD wtf ?",
+      "created_at": "2020-11-06T19:42:21Z",
+      "user": {
+        "id": 782348,
+        "username": "assert999",
+        "name": "Assert",
+        "avatar_url": "https://avatars.stocktwits.com/production/782348/thumb-1485799937.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/782348/thumb-1485799937.png",
+        "join_date": "2016-06-26",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 29,
+        "following": 468,
+        "ideas": 1003,
+        "watchlist_stocks_count": 97,
+        "like_count": 526,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 13168,
+          "symbol": "TTD",
+          "title": "The Trade Desk Inc",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 20148
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          4126179
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254935690,
+      "body": "$TTD -8% anytime",
+      "created_at": "2020-11-06T19:41:50Z",
+      "user": {
+        "id": 336518,
+        "username": "HardCall",
+        "name": "USA",
+        "avatar_url": "https://avatars.stocktwits.com/production/336518/thumb-1438119823.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/336518/thumb-1438119823.png",
+        "join_date": "2014-03-28",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 179,
+        "following": 86,
+        "ideas": 16109,
+        "watchlist_stocks_count": 58,
+        "like_count": 7312,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 13168,
+          "symbol": "TTD",
+          "title": "The Trade Desk Inc",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 20148
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          4126179
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254935172,
+      "body": "$TTD puts. Just awful.",
+      "created_at": "2020-11-06T19:39:52Z",
+      "user": {
+        "id": 1693564,
+        "username": "GLordPhil",
+        "name": "GLordPhil",
+        "avatar_url": "https://avatars.stocktwits.com/production/1693564/thumb-1585795957.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1693564/thumb-1585795957.png",
+        "join_date": "2018-11-03",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 167,
+        "following": 42,
+        "ideas": 12249,
+        "watchlist_stocks_count": 71,
+        "like_count": 4945,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 13168,
+          "symbol": "TTD",
+          "title": "The Trade Desk Inc",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 20148
+        }
+      ],
+      "likes": {
+        "total": 2,
+        "user_ids": [
+          336518,
+          3127869
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bearish"
+        }
+      }
+    },
+    {
+      "id": 254934154,
+      "body": "$TTD is currently making a new 52 week high. https://www.chartmill.com/stock/quote/TTD/technical-analysis?key=08b71a3e-6030-4f50-b489-5363f5f08d3b&amp;utm_source=stocktwits&amp;utm_medium=TA&amp;utm_content=TTD&amp;utm_campaign=social_tracking",
+      "created_at": "2020-11-06T19:36:00Z",
+      "user": {
+        "id": 47688,
+        "username": "ChartMill",
+        "name": "ChartMill",
+        "avatar_url": "https://avatars.stocktwits.com/production/47688/thumb-1363343728.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/47688/thumb-1363343728.png",
+        "join_date": "2011-01-26",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 22069,
+        "following": 891,
+        "ideas": 1100043,
+        "watchlist_stocks_count": 20,
+        "like_count": 32,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1135,
+        "title": "ChartMill",
+        "url": "http://www.chartmill.com"
+      },
+      "symbols": [
+        {
+          "id": 13168,
+          "symbol": "TTD",
+          "title": "The Trade Desk Inc",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 20148
+        }
+      ],
+      "links": [
+        {
+          "title": null,
+          "url": "https://www.chartmill.com/stock/quote/TTD/technical-analysis?key=08b71a3e-6030-4f50-b489-5363f5f08d3b&utm_source=stocktwits&utm_medium=TA&utm_content=TTD&utm_campaign=social_tracking",
+          "shortened_url": "https://www.chartmill.com/stock/quote/TTD/technical-analysis?key=08b71a3e-6030-4f50-b489-5363f5f08d3b&utm_source=stocktwits&utm_medium=TA&utm_content=TTD&utm_campaign=social_tracking",
+          "shortened_expanded_url": "chartmill.com/stock/quote/T...",
+          "description": null,
+          "image": null,
+          "created_at": "2020-11-06T19:36:01Z",
+          "video_url": null,
+          "source": {
+            "name": "Chartmill",
+            "website": "https://www.chartmill.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254934138,
+      "body": "$TTD holy shit",
+      "created_at": "2020-11-06T19:35:55Z",
+      "user": {
+        "id": 1912014,
+        "username": "DarlingintheFranxx",
+        "name": "Trading Champion",
+        "avatar_url": "https://avatars.stocktwits.com/production/1912014/thumb-1590453416.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1912014/thumb-1590453416.png",
+        "join_date": "2019-03-04",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 1051,
+        "following": 29,
+        "ideas": 12846,
+        "watchlist_stocks_count": 102,
+        "like_count": 452,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 13168,
+          "symbol": "TTD",
+          "title": "The Trade Desk Inc",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 20148
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          4126179
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254932934,
+      "body": "Who would have thought in March that 8 months later $TUP would be up 1,875% ?!!  What a trader it has been!  \n\n$TTD $ROKU $MSFT $SPY",
+      "created_at": "2020-11-06T19:31:21Z",
+      "user": {
+        "id": 349618,
+        "username": "InItToWinIt100",
+        "name": "InItToWinIt",
+        "avatar_url": "https://avatars.stocktwits.com/production/349618/thumb-1477664093.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/349618/thumb-1477664093.png",
+        "join_date": "2014-05-02",
+        "official": false,
+        "identity": "User",
+        "classification": [
+          "suggested"
+        ],
+        "followers": 2370,
+        "following": 72,
+        "ideas": 15656,
+        "watchlist_stocks_count": 90,
+        "like_count": 3766,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 2735,
+          "symbol": "MSFT",
+          "title": "Microsoft Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 268722
+        },
+        {
+          "id": 7271,
+          "symbol": "SPY",
+          "title": "SPDR S&P 500",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 268753
+        },
+        {
+          "id": 7488,
+          "symbol": "TUP",
+          "title": "Tupperware Brands Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 3263
+        },
+        {
+          "id": 9039,
+          "symbol": "ROKU",
+          "title": "Roku",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 84832
+        },
+        {
+          "id": 13168,
+          "symbol": "TTD",
+          "title": "The Trade Desk Inc",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 20148
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 254932934,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "likes": {
+        "total": 4,
+        "user_ids": [
+          3354388,
+          3579849,
+          4126179,
+          3270717
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_254932934.png",
+          "large": "https://charts.stocktwits.com/production/large_254932934.png",
+          "original": "https://charts.stocktwits.com/production/original_254932934.png",
+          "url": "https://charts.stocktwits.com/production/original_254932934.png"
+        },
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 254931706,
+      "body": "$TTD Considering they were at their all time high with tsuch growth and  ER expectation , did they beat big enough to warrant a 25% jump on top of the already ATH high valuations ?? \n\nIs the revenue projections that high ??",
+      "created_at": "2020-11-06T19:26:47Z",
+      "user": {
+        "id": 1236360,
+        "username": "skarask",
+        "name": "Skara SK",
+        "avatar_url": "https://avatars.stocktwits.com/production/1236360/thumb-1586360569.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1236360/thumb-1586360569.png",
+        "join_date": "2017-10-21",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 60,
+        "following": 74,
+        "ideas": 8016,
+        "watchlist_stocks_count": 27,
+        "like_count": 445,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2095,
+        "title": "StockTwits For Android ",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 13168,
+          "symbol": "TTD",
+          "title": "The Trade Desk Inc",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 20148
+        }
+      ],
+      "likes": {
+        "total": 2,
+        "user_ids": [
+          4126179,
+          3127869
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254930199,
+      "body": "$TTD Looks like I have to hold all weekend. Not my favorite thing to do but it was part of my plan if price targets and price action doesn&#39;t go my way quickly.",
+      "created_at": "2020-11-06T19:20:52Z",
+      "user": {
+        "id": 984135,
+        "username": "MovingTrader",
+        "name": "MovingTrader",
+        "avatar_url": "https://avatars.stocktwits.com/production/984135/thumb-1569597244.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/984135/thumb-1569597244.png",
+        "join_date": "2017-03-06",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 20,
+        "following": 87,
+        "ideas": 1408,
+        "watchlist_stocks_count": 282,
+        "like_count": 1756,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2095,
+        "title": "StockTwits For Android ",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 13168,
+          "symbol": "TTD",
+          "title": "The Trade Desk Inc",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 20148
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 254930199,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 4
+      },
+      "likes": {
+        "total": 2,
+        "user_ids": [
+          4126179,
+          3127869
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bearish"
+        }
+      }
+    },
+    {
+      "id": 254929720,
+      "body": "$TTD I will never sell this stock ever again I promise",
+      "created_at": "2020-11-06T19:19:11Z",
+      "user": {
+        "id": 3359753,
+        "username": "MoneyMakerMD",
+        "name": "Money Maker",
+        "avatar_url": "https://avatars.stocktwits.com/production/3359753/thumb-1597352548.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3359753/thumb-1597352548.png",
+        "join_date": "2020-04-26",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 8,
+        "following": 13,
+        "ideas": 643,
+        "watchlist_stocks_count": 65,
+        "like_count": 190,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 13168,
+          "symbol": "TTD",
+          "title": "The Trade Desk Inc",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 20148
+        }
+      ],
+      "likes": {
+        "total": 2,
+        "user_ids": [
+          4126179,
+          3048990
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 254929396,
+      "body": "Trade Desk ( $TTD ), Modine Manufacturing ( $MOD ), and HubSpot ( $HUBS ) are some of the top stock gainers today. https://t.co/QnauLVgQnc",
+      "created_at": "2020-11-06T19:17:58Z",
+      "user": {
+        "id": 2836756,
+        "username": "MONICA71014",
+        "name": "Athena",
+        "avatar_url": "https://avatars.stocktwits.com/production/2836756/thumb-1603656301.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2836756/thumb-1603656301.png",
+        "join_date": "2019-10-01",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 206,
+        "following": 49,
+        "ideas": 1420,
+        "watchlist_stocks_count": 29,
+        "like_count": 1148,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 6345,
+          "symbol": "MOD",
+          "title": "Modine Manufacturing Company",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 362
+        },
+        {
+          "id": 12178,
+          "symbol": "HUBS",
+          "title": "HubSpot",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 3073
+        },
+        {
+          "id": 13168,
+          "symbol": "TTD",
+          "title": "The Trade Desk Inc",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 20148
+        }
+      ],
+      "links": [
+        {
+          "title": "Trade Desk, HubSpot: 5 Top Stock Gainers for Friday",
+          "url": "https://t.co/QnauLVgQnc",
+          "shortened_url": "https://t.co/QnauLVgQnc",
+          "shortened_expanded_url": "thestreet.com/investing/tra...",
+          "description": "Stocks were falling Friday, as the U.S. added more jobs than expected in October, coronavirus cases were spiking, and the U.S. presidential election remained undecided. Here are some of the five top stock gainers for Friday: Modine Manufacturing was climbing after the vehicle parts maker beat Wall Street's second-quarter earnings and revenue expectations.",
+          "image": "https://www.thestreet.com/.image/t_share/MTY4NjM5OTcxODMzOTQ3Nzgz/hubspot-is-spot-on-with-delivering-results-to-investors-and-customers.jpg",
+          "created_at": "2020-11-06T19:17:59Z",
+          "video_url": null,
+          "source": {
+            "name": "TheStreet",
+            "website": "https://www.thestreet.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 254929368,
+      "body": "$TTD \ud83e\udd23\ud83e\udd23Sorry.......I had too\ud83d\ude43",
+      "created_at": "2020-11-06T19:17:52Z",
+      "user": {
+        "id": 2987224,
+        "username": "SqueezyMoto",
+        "name": "Jeremy",
+        "avatar_url": "https://avatars.stocktwits.com/production/2987224/thumb-1596742012.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2987224/thumb-1596742012.png",
+        "join_date": "2019-12-26",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 5526,
+        "following": 0,
+        "ideas": 7723,
+        "watchlist_stocks_count": 231,
+        "like_count": 3713,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 13168,
+          "symbol": "TTD",
+          "title": "The Trade Desk Inc",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 20148
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_254929368.png",
+          "large": "https://charts.stocktwits.com/production/large_254929368.png",
+          "original": "https://charts.stocktwits.com/production/original_254929368.png",
+          "url": "https://charts.stocktwits.com/production/original_254929368.png"
+        },
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254928811,
+      "body": "$TTD go down 750\nPlease ?",
+      "created_at": "2020-11-06T19:15:44Z",
+      "user": {
+        "id": 336518,
+        "username": "HardCall",
+        "name": "USA",
+        "avatar_url": "https://avatars.stocktwits.com/production/336518/thumb-1438119823.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/336518/thumb-1438119823.png",
+        "join_date": "2014-03-28",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 179,
+        "following": 86,
+        "ideas": 16109,
+        "watchlist_stocks_count": 58,
+        "like_count": 7311,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 13168,
+          "symbol": "TTD",
+          "title": "The Trade Desk Inc",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 20148
+        }
+      ],
+      "likes": {
+        "total": 4,
+        "user_ids": [
+          984135,
+          1225896,
+          2067784,
+          3708265
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bearish"
+        }
+      }
+    },
+    {
+      "id": 254926858,
+      "body": "$TTD Anyone taking profits? Always the part I struggle with.",
+      "created_at": "2020-11-06T19:08:07Z",
+      "user": {
+        "id": 4253923,
+        "username": "thunderstormk",
+        "name": "thunderstorm",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2020-10-30",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 0,
+        "following": 0,
+        "ideas": 4,
+        "watchlist_stocks_count": 2,
+        "like_count": 2,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 13168,
+          "symbol": "TTD",
+          "title": "The Trade Desk Inc",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 20148
+        }
+      ],
+      "likes": {
+        "total": 2,
+        "user_ids": [
+          3117617,
+          336518
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254925625,
+      "body": "Fri Nov 6th\nGaining stocks this afternoon:\n\n$ACB: +69.7%\n$CPS: +36.6%\n$TLRY: +35.7%\n$MOD: +32.6%\n$TTD: +26.6%\nGLUU: +26.6%\nCRON: +24.8%\nLASR: +24.7%\nOGI: +23.9%\n\nclick here for a visual version:\nhttps://thebubbleboard.com/?tickers=ACB,CPS,TLRY,MOD,TTD,GLUU,CRON,LASR,OGI&amp;name=Nov%206th%20gainers&amp;utm_medium=bot-post",
+      "created_at": "2020-11-06T19:03:04Z",
+      "user": {
+        "id": 3628389,
+        "username": "BubbleBoard",
+        "name": "The Bubble Board",
+        "avatar_url": "https://avatars.stocktwits.com/production/3628389/thumb-1593179485.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3628389/thumb-1593179485.png",
+        "join_date": "2020-06-15",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 2617,
+        "following": 0,
+        "ideas": 2836,
+        "watchlist_stocks_count": 10,
+        "like_count": 46,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5596,
+        "title": "Test App",
+        "url": "https://torchlabs.io"
+      },
+      "symbols": [
+        {
+          "id": 6345,
+          "symbol": "MOD",
+          "title": "Modine Manufacturing Company",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 362
+        },
+        {
+          "id": 12889,
+          "symbol": "CPS",
+          "title": "Cooper Standard Holdings",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 128
+        },
+        {
+          "id": 13168,
+          "symbol": "TTD",
+          "title": "The Trade Desk Inc",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 20128
+        },
+        {
+          "id": 14741,
+          "symbol": "TLRY",
+          "title": "Tilray, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 57095
+        },
+        {
+          "id": 15005,
+          "symbol": "ACB",
+          "title": "Aurora Cannabis Inc",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 85919
+        }
+      ],
+      "links": [
+        {
+          "title": "The Bubble Board",
+          "url": "https://thebubbleboard.com/?tickers=ACB,CPS,TLRY,MOD,TTD,GLUU,CRON,LASR,OGI&name=Nov%206th%20gainers&utm_medium=bot-post",
+          "shortened_url": "https://thebubbleboard.com/?tickers=ACB,CPS,TLRY,MOD,TTD,GLUU,CRON,LASR,OGI&name=Nov%206th%20gainers&utm_medium=bot-post",
+          "shortened_expanded_url": "thebubbleboard.com/?tickers...",
+          "description": "A visual take on watchlists. See what your stocks are doing without hunting through a list of tickers. A better way to follow the stock market.",
+          "image": "https://thebubbleboard.com/images/twitter-card-2.png",
+          "created_at": "2020-11-06T19:03:05Z",
+          "video_url": null,
+          "source": {
+            "name": "Thebubbleboard",
+            "website": "https://thebubbleboard.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_254925625.",
+          "large": "https://charts.stocktwits.com/production/large_254925625.",
+          "original": "https://charts.stocktwits.com/production/original_254925625.",
+          "url": "https://charts.stocktwits.com/production/original_254925625."
+        },
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254925596,
+      "body": "$TTD $SPY  For all the noobies out there who don&#39;t know why this company is doing so well, dig into what I&#39;m about to say...\n\nNearly half million revenue per employee. Half million!! This is a digital company, their brick and mortar costs are practically nonexistent. No expensive supply chain that needs to be transported by truck or by train. Revenue is practically all profit minus employee wages and administrative costs. A company with growing market share in an industry growing exponentially both domestic and abroad. This thing would be a buy even if you knew nothing about future profit margin projection. Ez fckn pz",
+      "created_at": "2020-11-06T19:02:58Z",
+      "user": {
+        "id": 1214263,
+        "username": "GodOfTheGaps",
+        "name": "GodOfTheGaps",
+        "avatar_url": "https://avatars.stocktwits.com/production/1214263/thumb-1537810474.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1214263/thumb-1537810474.png",
+        "join_date": "2017-10-05",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 15,
+        "following": 100,
+        "ideas": 861,
+        "watchlist_stocks_count": 25,
+        "like_count": 738,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2095,
+        "title": "StockTwits For Android ",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 7271,
+          "symbol": "SPY",
+          "title": "SPDR S&P 500",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 268753
+        },
+        {
+          "id": 13168,
+          "symbol": "TTD",
+          "title": "The Trade Desk Inc",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 20148
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 254925596,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "likes": {
+        "total": 3,
+        "user_ids": [
+          849379,
+          1613527,
+          3765616
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254925054,
+      "body": "$TTD 700 next week too much bluff",
+      "created_at": "2020-11-06T19:00:45Z",
+      "user": {
+        "id": 336518,
+        "username": "HardCall",
+        "name": "USA",
+        "avatar_url": "https://avatars.stocktwits.com/production/336518/thumb-1438119823.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/336518/thumb-1438119823.png",
+        "join_date": "2014-03-28",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 179,
+        "following": 86,
+        "ideas": 16109,
+        "watchlist_stocks_count": 58,
+        "like_count": 7310,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 13168,
+          "symbol": "TTD",
+          "title": "The Trade Desk Inc",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 20128
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bearish"
+        }
+      }
+    },
+    {
+      "id": 254924850,
+      "body": "$TTD Key News Alert \nThe Trade Desk soars more than 27% as streaming TV ads rebound \nThis article was first published on Fri Nov 6 2020 1:40pm UTC \nOver 6 news items have been published on this topic",
+      "created_at": "2020-11-06T19:00:02Z",
+      "user": {
+        "id": 2942797,
+        "username": "tradethehalt",
+        "name": "Trade The Halt",
+        "avatar_url": "https://avatars.stocktwits.com/production/2942797/thumb-1596040003.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2942797/thumb-1596040003.png",
+        "join_date": "2019-12-01",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 7533,
+        "following": 0,
+        "ideas": 20662,
+        "watchlist_stocks_count": 0,
+        "like_count": 162,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5874,
+        "title": "Trade The Halt v3",
+        "url": "https://app.tradethehalt.com"
+      },
+      "symbols": [
+        {
+          "id": 13168,
+          "symbol": "TTD",
+          "title": "The Trade Desk Inc",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 20128
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254924674,
+      "body": "$TTD earnings move  27.0% vs an expected \u00b17.8% move  https://tinyurl.com/y2ymyzzr",
+      "created_at": "2020-11-06T18:59:21Z",
+      "user": {
+        "id": 800154,
+        "username": "marketchameleonwins",
+        "name": "marketchameleon",
+        "avatar_url": "https://avatars.stocktwits.com/production/800154/thumb-1470414114.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/800154/thumb-1470414114.png",
+        "join_date": "2016-07-21",
+        "official": true,
+        "identity": "Official",
+        "classification": [
+          "official"
+        ],
+        "followers": 14473,
+        "following": 350,
+        "ideas": 214868,
+        "watchlist_stocks_count": 1,
+        "like_count": 304,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2931,
+        "title": "MarketChameleon.com",
+        "url": "https://marketchameleon.com"
+      },
+      "symbols": [
+        {
+          "id": 13168,
+          "symbol": "TTD",
+          "title": "The Trade Desk Inc",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 20128
+        }
+      ],
+      "links": [
+        {
+          "title": "Market Chameleon",
+          "url": "https://tinyurl.com/y2ymyzzr",
+          "shortened_url": "https://tinyurl.com/y2ymyzzr",
+          "shortened_expanded_url": "marketchameleon.com/Overvie...",
+          "description": "Possible reasons for receiving this error Corrective action(s) Accessing from a virtual machine and/or managed hosting environment Use a physical, local machine Using a VPN or other security product Disable it Using web automation or a non-standard web browser such as a crawler This is prohibited under MarketChameleon's Terms of Use Opening excessive windows and/or tabs Close all MarketChameleon windows/tabs and launch just one If you feel that you've received this message in error, please email the details that appear below to support@marketchameleon.com URL: https://marketchameleon.com/Overview/TTD/Earnings/ Reference Number: 18.c251cb8.1604689162.233e937c",
+          "image": null,
+          "created_at": "2020-11-06T18:59:23Z",
+          "video_url": null,
+          "source": {
+            "name": "Marketchameleon",
+            "website": "https://marketchameleon.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254923287,
+      "body": "$TTD 21-Jan-22 940 Calls Traded 95 times for $1.6 Million in premium. https://tinyurl.com/yysvu38j",
+      "created_at": "2020-11-06T18:54:02Z",
+      "user": {
+        "id": 800154,
+        "username": "marketchameleonwins",
+        "name": "marketchameleon",
+        "avatar_url": "https://avatars.stocktwits.com/production/800154/thumb-1470414114.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/800154/thumb-1470414114.png",
+        "join_date": "2016-07-21",
+        "official": true,
+        "identity": "Official",
+        "classification": [
+          "official"
+        ],
+        "followers": 14472,
+        "following": 350,
+        "ideas": 214868,
+        "watchlist_stocks_count": 1,
+        "like_count": 304,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2931,
+        "title": "MarketChameleon.com",
+        "url": "https://marketchameleon.com"
+      },
+      "symbols": [
+        {
+          "id": 13168,
+          "symbol": "TTD",
+          "title": "The Trade Desk Inc",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 20128
+        }
+      ],
+      "links": [
+        {
+          "title": "Market Chameleon",
+          "url": "https://tinyurl.com/yysvu38j",
+          "shortened_url": "https://tinyurl.com/yysvu38j",
+          "shortened_expanded_url": "marketchameleon.com/Overvie...",
+          "description": "Possible reasons for receiving this error Corrective action(s) Accessing from a virtual machine and/or managed hosting environment Use a physical, local machine Using a VPN or other security product Disable it Using web automation or a non-standard web browser such as a crawler This is prohibited under MarketChameleon's Terms of Use Opening excessive windows and/or tabs Close all MarketChameleon windows/tabs and launch just one If you feel that you've received this message in error, please email the details that appear below to support@marketchameleon.com URL: https://marketchameleon.com/Overview/TTD/OptionChain/?e=8812_20220121 Reference Number: 18.8f4fde17.1604688843.18fa7561",
+          "image": null,
+          "created_at": "2020-11-06T18:54:03Z",
+          "video_url": null,
+          "source": {
+            "name": "Marketchameleon",
+            "website": "https://marketchameleon.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254922889,
+      "body": "\ud83d\udcc8 Scan as of 12:30pm CST \u201cTODAY\u2019S GAPPERS WITH MORE POTENTIAL\u201d 11/06/2020 \n \n\u2611\ufe0f $ACB  \n\u2611\ufe0f $TLRY  \n\u2611\ufe0f $TTD  \n\u2611\ufe0f $CRON  \n\u2611\ufe0f $GPRO  \n \nGood luck everyone \ud83c\udf40",
+      "created_at": "2020-11-06T18:52:36Z",
+      "user": {
+        "id": 1477445,
+        "username": "EMILY_TRADES",
+        "name": "EMILY- WE DRAW LINES",
+        "avatar_url": "https://avatars.stocktwits.com/production/1477445/thumb-1535812173.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1477445/thumb-1535812173.png",
+        "join_date": "2018-04-22",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 970,
+        "following": 12,
+        "ideas": 381,
+        "watchlist_stocks_count": 0,
+        "like_count": 422,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 2051,
+          "symbol": "GPRO",
+          "title": "GoPro",
+          "aliases": [
+            "GOPRO"
+          ],
+          "is_following": false,
+          "watchlist_count": 80768
+        },
+        {
+          "id": 13168,
+          "symbol": "TTD",
+          "title": "The Trade Desk Inc",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 20128
+        },
+        {
+          "id": 14470,
+          "symbol": "CRON",
+          "title": "Cronos Group Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 60538
+        },
+        {
+          "id": 14741,
+          "symbol": "TLRY",
+          "title": "Tilray, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 57095
+        },
+        {
+          "id": 15005,
+          "symbol": "ACB",
+          "title": "Aurora Cannabis Inc",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 85919
+        }
+      ],
+      "reshares": {
+        "reshared_count": 0,
+        "user_ids": [
+          388147
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_254922889.PNG",
+          "large": "https://charts.stocktwits.com/production/large_254922889.PNG",
+          "original": "https://charts.stocktwits.com/production/original_254922889.PNG",
+          "url": "https://charts.stocktwits.com/production/original_254922889.PNG"
+        },
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 254921184,
+      "body": "$U 135-150 Thursday. Earnings just look at $TTD",
+      "created_at": "2020-11-06T18:46:25Z",
+      "user": {
+        "id": 304577,
+        "username": "mnovi",
+        "name": "Michael Novielli",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2014-01-23",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 7,
+        "following": 88,
+        "ideas": 540,
+        "watchlist_stocks_count": 58,
+        "like_count": 378,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 13168,
+          "symbol": "TTD",
+          "title": "The Trade Desk Inc",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 20128
+        },
+        {
+          "id": 14711,
+          "symbol": "U",
+          "title": "Unity Software",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 5125
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    }
+  ]
+}

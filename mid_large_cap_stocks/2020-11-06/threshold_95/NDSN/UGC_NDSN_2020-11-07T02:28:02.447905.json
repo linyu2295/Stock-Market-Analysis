@@ -1,0 +1,1942 @@
+{
+  "response": {
+    "status": 200
+  },
+  "symbol": {
+    "id": 2819,
+    "symbol": "NDSN",
+    "title": "Nordson Corporation",
+    "aliases": [],
+    "is_following": false,
+    "watchlist_count": 419
+  },
+  "cursor": {
+    "more": true,
+    "since": 254251056,
+    "max": 250931320
+  },
+  "messages": [
+    {
+      "id": 254251056,
+      "body": "$NDSN: New SEC filing on Director, JOSEPH P KEITHLEY: https://www.sec.gov/Archives/edgar/data/72331/000120919120056674/xslF345X03/doc4.xml",
+      "created_at": "2020-11-04T00:32:02Z",
+      "user": {
+        "id": 1606168,
+        "username": "FilingsVille",
+        "name": "Filings Ville",
+        "avatar_url": "https://avatars.stocktwits.com/production/1606168/thumb-1589354235.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1606168/thumb-1589354235.png",
+        "join_date": "2018-09-11",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 214,
+        "following": 0,
+        "ideas": 22185,
+        "watchlist_stocks_count": 0,
+        "like_count": 0,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 4346,
+        "title": "Filings Ville",
+        "url": "https://example.com"
+      },
+      "symbols": [
+        {
+          "id": 2819,
+          "symbol": "NDSN",
+          "title": "Nordson Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 419
+        }
+      ],
+      "links": [
+        {
+          "title": "SEC FORM 4",
+          "url": "https://www.sec.gov/Archives/edgar/data/72331/000120919120056674/xslF345X03/doc4.xml",
+          "shortened_url": "https://www.sec.gov/Archives/edgar/data/72331/000120919120056674/xslF345X03/doc4.xml",
+          "shortened_expanded_url": "sec.gov/Archives/edgar/data...",
+          "description": "Signature of Reporting Person Date Reminder: Report on a separate line for each class of securities beneficially owned directly or indirectly. * If the form is filed by more than one reporting person, see Instruction 4 (b)(v). ** Intentional misstatements or omissions of facts constitute Federal Criminal Violations See 18 U.S.C.",
+          "image": null,
+          "created_at": "2020-11-04T00:32:03Z",
+          "video_url": null,
+          "source": {
+            "name": "Sec",
+            "website": "https://www.sec.gov"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254227718,
+      "body": "$NDSN reported 3 new insider trades to the SEC in the last 2 minutes.\n\n$129,930.74 of shares acquired by George Arthur L Jr (Director)   https://newsfilter.io/articles/4-form-6057d2d120b4f76bd34f90b4315c7739\n$54,759.26 of shares sold by Merriman Michael J (Director)   https://newsfilter.io/articles/4-form-1d136f249e997804d4e23e5acd77d897\n$129,930.74 of shares acquired by Keithley Joseph P (Director)   https://newsfilter.io/articles/4-form-c39bcbbfb742136b15320d42844d448b",
+      "created_at": "2020-11-03T22:02:27Z",
+      "user": {
+        "id": 2762379,
+        "username": "Newsfilter",
+        "name": "@newsfilterio",
+        "avatar_url": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "join_date": "2019-09-01",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 7562,
+        "following": 16,
+        "ideas": 612689,
+        "watchlist_stocks_count": 1,
+        "like_count": 531,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 2819,
+          "symbol": "NDSN",
+          "title": "Nordson Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 419
+        }
+      ],
+      "links": [
+        {
+          "title": null,
+          "url": "https://newsfilter.io/articles/4-form-6057d2d120b4f76bd34f90b4315c7739",
+          "shortened_url": "https://newsfilter.io/articles/4-form-6057d2d120b4f76bd34f90b4315c7739",
+          "shortened_expanded_url": "newsfilter.io/articles/4-fo...",
+          "description": null,
+          "image": null,
+          "created_at": "2020-11-03T22:02:27Z",
+          "video_url": null,
+          "source": {
+            "name": "Newsfilter",
+            "website": "https://newsfilter.io"
+          }
+        },
+        {
+          "title": null,
+          "url": "https://newsfilter.io/articles/4-form-1d136f249e997804d4e23e5acd77d897",
+          "shortened_url": "https://newsfilter.io/articles/4-form-1d136f249e997804d4e23e5acd77d897",
+          "shortened_expanded_url": "newsfilter.io/articles/4-fo...",
+          "description": null,
+          "image": null,
+          "created_at": "2020-11-03T22:02:27Z",
+          "video_url": null,
+          "source": {
+            "name": "Newsfilter",
+            "website": "https://newsfilter.io"
+          }
+        },
+        {
+          "title": null,
+          "url": "https://newsfilter.io/articles/4-form-c39bcbbfb742136b15320d42844d448b",
+          "shortened_url": "https://newsfilter.io/articles/4-form-c39bcbbfb742136b15320d42844d448b",
+          "shortened_expanded_url": "newsfilter.io/articles/4-fo...",
+          "description": null,
+          "image": null,
+          "created_at": "2020-11-03T22:02:27Z",
+          "video_url": null,
+          "source": {
+            "name": "Newsfilter",
+            "website": "http://newsfilter.io"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254227103,
+      "body": "$NDSN [15s. delayed] filed SEC form 4: Director MERRIMAN MICHAEL J: \nGifted 1,000 of Common Stock at price $184.69 and Granted 662 of Comm https://s.flashalert.me/v5Zit",
+      "created_at": "2020-11-03T21:59:31Z",
+      "user": {
+        "id": 595702,
+        "username": "fla",
+        "name": "FlashAlert_me",
+        "avatar_url": "https://avatars.stocktwits.com/production/595702/thumb-1550769466.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/595702/thumb-1550769466.png",
+        "join_date": "2015-09-09",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 2665,
+        "following": 60,
+        "ideas": 726964,
+        "watchlist_stocks_count": 0,
+        "like_count": 4,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 4622,
+        "title": "FlashAlert",
+        "url": "https://flashalert.me/"
+      },
+      "symbols": [
+        {
+          "id": 2819,
+          "symbol": "NDSN",
+          "title": "Nordson Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 419
+        }
+      ],
+      "links": [
+        {
+          "title": "Flash Alert",
+          "url": "https://s.flashalert.me/v5Zit",
+          "shortened_url": "https://s.flashalert.me/v5Zit",
+          "shortened_expanded_url": "sec.gov/Archives/edgar/data...",
+          "description": "Real-time alerts about equities, ETFs, cryptocurrencies and more sent to any device",
+          "image": null,
+          "created_at": "2020-11-03T21:59:31Z",
+          "video_url": null,
+          "source": {
+            "name": "Flashalert",
+            "website": "https://flashalert.me"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254226925,
+      "body": "$NDSN [15s. delayed] filed SEC form 4: Director KEITHLEY JOSEPH P: \nGranted 662 of Common Stock at price $196.27 on 2020-11-02, increased  https://s.flashalert.me/4k4XN",
+      "created_at": "2020-11-03T21:58:36Z",
+      "user": {
+        "id": 595702,
+        "username": "fla",
+        "name": "FlashAlert_me",
+        "avatar_url": "https://avatars.stocktwits.com/production/595702/thumb-1550769466.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/595702/thumb-1550769466.png",
+        "join_date": "2015-09-09",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 2665,
+        "following": 60,
+        "ideas": 726964,
+        "watchlist_stocks_count": 0,
+        "like_count": 4,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 4622,
+        "title": "FlashAlert",
+        "url": "https://flashalert.me/"
+      },
+      "symbols": [
+        {
+          "id": 2819,
+          "symbol": "NDSN",
+          "title": "Nordson Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 419
+        }
+      ],
+      "links": [
+        {
+          "title": "Flash Alert",
+          "url": "https://s.flashalert.me/4k4XN",
+          "shortened_url": "https://s.flashalert.me/4k4XN",
+          "shortened_expanded_url": "sec.gov/Archives/edgar/data...",
+          "description": "Real-time alerts about equities, ETFs, cryptocurrencies and more sent to any device",
+          "image": null,
+          "created_at": "2020-11-03T21:58:37Z",
+          "video_url": null,
+          "source": {
+            "name": "Flashalert",
+            "website": "https://flashalert.me"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254226765,
+      "body": "$NDSN [15s. delayed] filed SEC form 4: Director George Arthur L Jr: \nGranted 662 of Common Stock at price $196.27 on 2020-11-02, increased https://s.flashalert.me/Ut58s",
+      "created_at": "2020-11-03T21:57:49Z",
+      "user": {
+        "id": 595702,
+        "username": "fla",
+        "name": "FlashAlert_me",
+        "avatar_url": "https://avatars.stocktwits.com/production/595702/thumb-1550769466.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/595702/thumb-1550769466.png",
+        "join_date": "2015-09-09",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 2665,
+        "following": 60,
+        "ideas": 726964,
+        "watchlist_stocks_count": 0,
+        "like_count": 4,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 4622,
+        "title": "FlashAlert",
+        "url": "https://flashalert.me/"
+      },
+      "symbols": [
+        {
+          "id": 2819,
+          "symbol": "NDSN",
+          "title": "Nordson Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 419
+        }
+      ],
+      "links": [
+        {
+          "title": "Flash Alert",
+          "url": "https://s.flashalert.me/Ut58s",
+          "shortened_url": "https://s.flashalert.me/Ut58s",
+          "shortened_expanded_url": "sec.gov/Archives/edgar/data...",
+          "description": "Real-time alerts about equities, ETFs, cryptocurrencies and more sent to any device",
+          "image": null,
+          "created_at": "2020-11-03T21:57:49Z",
+          "video_url": null,
+          "source": {
+            "name": "Flashalert",
+            "website": "https://flashalert.me"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254226577,
+      "body": "$NDSN [15s. delayed] filed SEC form 4: Director CARSON RANDY W: \nGranted 662 of Common Stock at price $196.27 on 2020-11-02, increased hol https://s.flashalert.me/84rucf",
+      "created_at": "2020-11-03T21:56:54Z",
+      "user": {
+        "id": 595702,
+        "username": "fla",
+        "name": "FlashAlert_me",
+        "avatar_url": "https://avatars.stocktwits.com/production/595702/thumb-1550769466.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/595702/thumb-1550769466.png",
+        "join_date": "2015-09-09",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 2665,
+        "following": 60,
+        "ideas": 726964,
+        "watchlist_stocks_count": 0,
+        "like_count": 4,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 4622,
+        "title": "FlashAlert",
+        "url": "https://flashalert.me/"
+      },
+      "symbols": [
+        {
+          "id": 2819,
+          "symbol": "NDSN",
+          "title": "Nordson Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 419
+        }
+      ],
+      "links": [
+        {
+          "title": "Flash Alert",
+          "url": "https://s.flashalert.me/84rucf",
+          "shortened_url": "https://s.flashalert.me/84rucf",
+          "shortened_expanded_url": "sec.gov/Archives/edgar/data...",
+          "description": "Real-time alerts about equities, ETFs, cryptocurrencies and more sent to any device",
+          "image": null,
+          "created_at": "2020-11-03T21:56:55Z",
+          "video_url": null,
+          "source": {
+            "name": "Flashalert",
+            "website": "https://flashalert.me"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254226502,
+      "body": "$NDSN $129,930.74 of shares acquired by Carson Randy W (Director), reported in a new form 4 filed with the SEC  \n\nhttps://newsfilter.io/a/aae125b82c5ebf12ab4b793935d53f50",
+      "created_at": "2020-11-03T21:56:33Z",
+      "user": {
+        "id": 2762379,
+        "username": "Newsfilter",
+        "name": "@newsfilterio",
+        "avatar_url": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "join_date": "2019-09-01",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 7562,
+        "following": 16,
+        "ideas": 612689,
+        "watchlist_stocks_count": 1,
+        "like_count": 531,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 2819,
+          "symbol": "NDSN",
+          "title": "Nordson Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 419
+        }
+      ],
+      "links": [
+        {
+          "title": "4 Form - Statement of changes in beneficial ownership of securities - NORDSON CORP (0000072331) (Issuer)",
+          "url": "https://newsfilter.io/a/aae125b82c5ebf12ab4b793935d53f50",
+          "shortened_url": "https://newsfilter.io/a/aae125b82c5ebf12ab4b793935d53f50",
+          "shortened_expanded_url": "newsfilter.io/a/aae125b82c5...",
+          "description": "SEC FORM 4 SEC Form 4 Check this box if no longer subject to Section 16. Form 4 or Form 5 obligations may continue. See Instruction 1(b). Table I - Non-Derivative Securities Acquired, Disposed of, or Beneficially Owned 1. Title of Security (Instr. 3) 2. Transaction Date (Month/Day/Year) 2A.",
+          "image": "https://newsfilter.io/meta-images/?url=https://storage.googleapis.com/iex/api/logos/NDSN.png",
+          "created_at": "2020-11-03T21:56:35Z",
+          "video_url": null,
+          "source": {
+            "name": "Newsfilter",
+            "website": "https://newsfilter.io"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254222548,
+      "body": "$NDSN reported 4 new insider trades to the SEC in the last 2 minutes.\n\n$129,930.74 of shares acquired by Richey Victor L Jr (Director)   https://newsfilter.io/articles/4-form-655be8e6cc9d181929e1b6df05e2507a\n$129,930.74 of shares acquired by Jaehnert Frank M (Director)   https://newsfilter.io/articles/4-form-7d7a98328f9e707acdf3115edc912cf7\n$129,930.74 of shares acquired by Jones Ginger M (Director)   https://newsfilter.io/articles/4-form-436bd22454f8438ddaa2a2379448a5a5\n$129,930.74 of shares acquired by Puma Mary G (Director)   https://newsfilter.io/articles/4-form-28cd59718cbf1d220bf62535d5b61dd5",
+      "created_at": "2020-11-03T21:36:52Z",
+      "user": {
+        "id": 2762379,
+        "username": "Newsfilter",
+        "name": "@newsfilterio",
+        "avatar_url": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "join_date": "2019-09-01",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 7563,
+        "following": 16,
+        "ideas": 611776,
+        "watchlist_stocks_count": 1,
+        "like_count": 531,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 2819,
+          "symbol": "NDSN",
+          "title": "Nordson Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 419
+        }
+      ],
+      "links": [
+        {
+          "title": null,
+          "url": "https://newsfilter.io/articles/4-form-655be8e6cc9d181929e1b6df05e2507a",
+          "shortened_url": "https://newsfilter.io/articles/4-form-655be8e6cc9d181929e1b6df05e2507a",
+          "shortened_expanded_url": "newsfilter.io/articles/4-fo...",
+          "description": null,
+          "image": null,
+          "created_at": "2020-11-03T21:36:53Z",
+          "video_url": null,
+          "source": {
+            "name": "Newsfilter",
+            "website": "https://newsfilter.io"
+          }
+        },
+        {
+          "title": null,
+          "url": "https://newsfilter.io/articles/4-form-7d7a98328f9e707acdf3115edc912cf7",
+          "shortened_url": "https://newsfilter.io/articles/4-form-7d7a98328f9e707acdf3115edc912cf7",
+          "shortened_expanded_url": "newsfilter.io/articles/4-fo...",
+          "description": null,
+          "image": null,
+          "created_at": "2020-11-03T21:36:53Z",
+          "video_url": null,
+          "source": {
+            "name": "Newsfilter",
+            "website": "https://newsfilter.io"
+          }
+        },
+        {
+          "title": null,
+          "url": "https://newsfilter.io/articles/4-form-436bd22454f8438ddaa2a2379448a5a5",
+          "shortened_url": "https://newsfilter.io/articles/4-form-436bd22454f8438ddaa2a2379448a5a5",
+          "shortened_expanded_url": "newsfilter.io/articles/4-fo...",
+          "description": null,
+          "image": null,
+          "created_at": "2020-11-03T21:36:53Z",
+          "video_url": null,
+          "source": {
+            "name": "Newsfilter",
+            "website": "https://newsfilter.io"
+          }
+        },
+        {
+          "title": null,
+          "url": "https://newsfilter.io/articles/4-form-28cd59718cbf1d220bf62535d5b61dd5",
+          "shortened_url": "https://newsfilter.io/articles/4-form-28cd59718cbf1d220bf62535d5b61dd5",
+          "shortened_expanded_url": "newsfilter.io/articles/4-fo...",
+          "description": null,
+          "image": null,
+          "created_at": "2020-11-03T21:36:53Z",
+          "video_url": null,
+          "source": {
+            "name": "Newsfilter",
+            "website": "https://newsfilter.io"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254222479,
+      "body": "$NDSN [15s. delayed] filed SEC form 4: Director RICHEY VICTOR L JR: \nGranted 662 of Common Stock at price $196.27 on 2020-11-02, increased https://s.flashalert.me/tUOsw",
+      "created_at": "2020-11-03T21:36:38Z",
+      "user": {
+        "id": 595702,
+        "username": "fla",
+        "name": "FlashAlert_me",
+        "avatar_url": "https://avatars.stocktwits.com/production/595702/thumb-1550769466.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/595702/thumb-1550769466.png",
+        "join_date": "2015-09-09",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 2665,
+        "following": 60,
+        "ideas": 726964,
+        "watchlist_stocks_count": 0,
+        "like_count": 4,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 4622,
+        "title": "FlashAlert",
+        "url": "https://flashalert.me/"
+      },
+      "symbols": [
+        {
+          "id": 2819,
+          "symbol": "NDSN",
+          "title": "Nordson Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 419
+        }
+      ],
+      "links": [
+        {
+          "title": "Flash Alert",
+          "url": "https://s.flashalert.me/tUOsw",
+          "shortened_url": "https://s.flashalert.me/tUOsw",
+          "shortened_expanded_url": "sec.gov/Archives/edgar/data...",
+          "description": "Real-time alerts about equities, ETFs, cryptocurrencies and more sent to any device",
+          "image": null,
+          "created_at": "2020-11-03T21:37:40Z",
+          "video_url": null,
+          "source": {
+            "name": "Flashalert",
+            "website": "https://flashalert.me"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254222121,
+      "body": "$NDSN [15s. delayed] filed SEC form 4: Director PUMA MARY G: \nGranted 662 of Common Stock at price $196.27 on 2020-11-02, increased holdin https://s.flashalert.me/X6vMY1",
+      "created_at": "2020-11-03T21:35:07Z",
+      "user": {
+        "id": 595702,
+        "username": "fla",
+        "name": "FlashAlert_me",
+        "avatar_url": "https://avatars.stocktwits.com/production/595702/thumb-1550769466.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/595702/thumb-1550769466.png",
+        "join_date": "2015-09-09",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 2664,
+        "following": 60,
+        "ideas": 726389,
+        "watchlist_stocks_count": 0,
+        "like_count": 4,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 4622,
+        "title": "FlashAlert",
+        "url": "https://flashalert.me/"
+      },
+      "symbols": [
+        {
+          "id": 2819,
+          "symbol": "NDSN",
+          "title": "Nordson Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 419
+        }
+      ],
+      "links": [
+        {
+          "title": "Flash Alert",
+          "url": "https://s.flashalert.me/X6vMY1",
+          "shortened_url": "https://s.flashalert.me/X6vMY1",
+          "shortened_expanded_url": "sec.gov/Archives/edgar/data...",
+          "description": "Real-time alerts about equities, ETFs, cryptocurrencies and more sent to any device",
+          "image": null,
+          "created_at": "2020-11-03T21:35:08Z",
+          "video_url": null,
+          "source": {
+            "name": "Flashalert",
+            "website": "https://flashalert.me"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254221653,
+      "body": "$NDSN [15s. delayed] filed SEC form 4: Director JONES GINGER M: \nGranted 662 of Common Stock at price $196.27 on 2020-11-02, increased hol https://s.flashalert.me/uRPG0X",
+      "created_at": "2020-11-03T21:33:02Z",
+      "user": {
+        "id": 595702,
+        "username": "fla",
+        "name": "FlashAlert_me",
+        "avatar_url": "https://avatars.stocktwits.com/production/595702/thumb-1550769466.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/595702/thumb-1550769466.png",
+        "join_date": "2015-09-09",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 2664,
+        "following": 60,
+        "ideas": 726389,
+        "watchlist_stocks_count": 0,
+        "like_count": 4,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 4622,
+        "title": "FlashAlert",
+        "url": "https://flashalert.me/"
+      },
+      "symbols": [
+        {
+          "id": 2819,
+          "symbol": "NDSN",
+          "title": "Nordson Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 419
+        }
+      ],
+      "links": [
+        {
+          "title": "Flash Alert",
+          "url": "https://s.flashalert.me/uRPG0X",
+          "shortened_url": "https://s.flashalert.me/uRPG0X",
+          "shortened_expanded_url": "sec.gov/Archives/edgar/data...",
+          "description": "Real-time alerts about equities, ETFs, cryptocurrencies and more sent to any device",
+          "image": null,
+          "created_at": "2020-11-03T21:33:03Z",
+          "video_url": null,
+          "source": {
+            "name": "Flashalert",
+            "website": "https://flashalert.me"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254221610,
+      "body": "Nordson Corporation director just picked up 662 shares  http://www.conferencecalltranscripts.org/4/summary/?id=8512459 $NDSN",
+      "created_at": "2020-11-03T21:32:51Z",
+      "user": {
+        "id": 210967,
+        "username": "cctranscripts",
+        "name": "Conference Call Transcripts",
+        "avatar_url": "https://avatars.stocktwits.com/production/210967/thumb-1363372333.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/210967/thumb-1363372333.png",
+        "join_date": "2013-01-30",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 6361,
+        "following": 10,
+        "ideas": 2369597,
+        "watchlist_stocks_count": 0,
+        "like_count": 758,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1130,
+        "title": "cctranscripts",
+        "url": "http://conferencecalltranscripts.org"
+      },
+      "symbols": [
+        {
+          "id": 2819,
+          "symbol": "NDSN",
+          "title": "Nordson Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 419
+        }
+      ],
+      "links": [
+        {
+          "title": "Conference Call Transcripts",
+          "url": "http://www.conferencecalltranscripts.org/4/summary/?id=8512459",
+          "shortened_url": "http://www.conferencecalltranscripts.org/4/summary/?id=8512459",
+          "shortened_expanded_url": "conferencecalltranscripts.o...",
+          "description": "Get notified next time NDSN.US makes a similar move! Frank M Jaehnert, a director of Nordson Corporation, recently acquired 662 shares of the company. The buys took place at $196.27 per share, on November 02, 2020. Jaehnert now owns 16,331 shares of the company. Jaehnert operates out of Westlake, OH.",
+          "image": null,
+          "created_at": "2020-11-03T21:32:51Z",
+          "video_url": null,
+          "source": {
+            "name": "Conferencecalltranscripts",
+            "website": "http://www.conferencecalltranscripts.org"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254221448,
+      "body": "$NDSN [15s. delayed] filed SEC form 4: Director JAEHNERT FRANK M: \nGranted 662 of Common Stock at price $196.27 on 2020-11-02, increased h https://s.flashalert.me/jTRml",
+      "created_at": "2020-11-03T21:32:12Z",
+      "user": {
+        "id": 595702,
+        "username": "fla",
+        "name": "FlashAlert_me",
+        "avatar_url": "https://avatars.stocktwits.com/production/595702/thumb-1550769466.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/595702/thumb-1550769466.png",
+        "join_date": "2015-09-09",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 2664,
+        "following": 60,
+        "ideas": 726389,
+        "watchlist_stocks_count": 0,
+        "like_count": 4,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 4622,
+        "title": "FlashAlert",
+        "url": "https://flashalert.me/"
+      },
+      "symbols": [
+        {
+          "id": 2819,
+          "symbol": "NDSN",
+          "title": "Nordson Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 419
+        }
+      ],
+      "links": [
+        {
+          "title": "Flash Alert",
+          "url": "https://s.flashalert.me/jTRml",
+          "shortened_url": "https://s.flashalert.me/jTRml",
+          "shortened_expanded_url": "sec.gov/Archives/edgar/data...",
+          "description": "Real-time alerts about equities, ETFs, cryptocurrencies and more sent to any device",
+          "image": null,
+          "created_at": "2020-11-03T21:32:13Z",
+          "video_url": null,
+          "source": {
+            "name": "Flashalert",
+            "website": "https://flashalert.me"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254221116,
+      "body": "Nordson Corporation director just picked up 662 shares  http://www.conferencecalltranscripts.org/4/summary/?id=8512407 $NDSN",
+      "created_at": "2020-11-03T21:30:54Z",
+      "user": {
+        "id": 210967,
+        "username": "cctranscripts",
+        "name": "Conference Call Transcripts",
+        "avatar_url": "https://avatars.stocktwits.com/production/210967/thumb-1363372333.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/210967/thumb-1363372333.png",
+        "join_date": "2013-01-30",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 6361,
+        "following": 10,
+        "ideas": 2369597,
+        "watchlist_stocks_count": 0,
+        "like_count": 758,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1130,
+        "title": "cctranscripts",
+        "url": "http://conferencecalltranscripts.org"
+      },
+      "symbols": [
+        {
+          "id": 2819,
+          "symbol": "NDSN",
+          "title": "Nordson Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 419
+        }
+      ],
+      "links": [
+        {
+          "title": "Conference Call Transcripts",
+          "url": "http://www.conferencecalltranscripts.org/4/summary/?id=8512407",
+          "shortened_url": "http://www.conferencecalltranscripts.org/4/summary/?id=8512407",
+          "shortened_expanded_url": "conferencecalltranscripts.o...",
+          "description": "Get notified next time NDSN.US makes a similar move! Lee C Banks, a director of Nordson Corporation, recently acquired 662 shares of the company. The buys took place at $196.27 per share, on November 02, 2020. Banks now owns 17,252 shares of the company. Banks operates out of Westlake, OH.",
+          "image": null,
+          "created_at": "2020-11-03T21:30:54Z",
+          "video_url": null,
+          "source": {
+            "name": "Conferencecalltranscripts",
+            "website": "http://www.conferencecalltranscripts.org"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254220851,
+      "body": "$NDSN [15s. delayed] filed SEC form 4: Director BANKS LEE C: \nGranted 662 of Common Stock at price $196.27 on 2020-11-02, increased holdin https://s.flashalert.me/PISjE",
+      "created_at": "2020-11-03T21:29:58Z",
+      "user": {
+        "id": 595702,
+        "username": "fla",
+        "name": "FlashAlert_me",
+        "avatar_url": "https://avatars.stocktwits.com/production/595702/thumb-1550769466.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/595702/thumb-1550769466.png",
+        "join_date": "2015-09-09",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 2664,
+        "following": 60,
+        "ideas": 726389,
+        "watchlist_stocks_count": 0,
+        "like_count": 4,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 4622,
+        "title": "FlashAlert",
+        "url": "https://flashalert.me/"
+      },
+      "symbols": [
+        {
+          "id": 2819,
+          "symbol": "NDSN",
+          "title": "Nordson Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 419
+        }
+      ],
+      "links": [
+        {
+          "title": "Flash Alert",
+          "url": "https://s.flashalert.me/PISjE",
+          "shortened_url": "https://s.flashalert.me/PISjE",
+          "shortened_expanded_url": "sec.gov/Archives/edgar/data...",
+          "description": "Real-time alerts about equities, ETFs, cryptocurrencies and more sent to any device",
+          "image": null,
+          "created_at": "2020-11-03T21:29:58Z",
+          "video_url": null,
+          "source": {
+            "name": "Flashalert",
+            "website": "https://flashalert.me"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254220773,
+      "body": "$NDSN $129,930.74 of shares acquired by Banks Lee C (Director), reported in a new form 4 filed with the SEC  \n\nhttps://newsfilter.io/a/7d1a895fd6170f19c2c18f1fb4187408",
+      "created_at": "2020-11-03T21:29:37Z",
+      "user": {
+        "id": 2762379,
+        "username": "Newsfilter",
+        "name": "@newsfilterio",
+        "avatar_url": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "join_date": "2019-09-01",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 7563,
+        "following": 16,
+        "ideas": 611776,
+        "watchlist_stocks_count": 1,
+        "like_count": 531,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 2819,
+          "symbol": "NDSN",
+          "title": "Nordson Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 419
+        }
+      ],
+      "links": [
+        {
+          "title": "4 Form - Statement of changes in beneficial ownership of securities - NORDSON CORP (0000072331) (Issuer)",
+          "url": "https://newsfilter.io/a/7d1a895fd6170f19c2c18f1fb4187408",
+          "shortened_url": "https://newsfilter.io/a/7d1a895fd6170f19c2c18f1fb4187408",
+          "shortened_expanded_url": "newsfilter.io/a/7d1a895fd61...",
+          "description": "SEC FORM 4 SEC Form 4 Check this box if no longer subject to Section 16. Form 4 or Form 5 obligations may continue. See Instruction 1(b). Table I - Non-Derivative Securities Acquired, Disposed of, or Beneficially Owned 1. Title of Security (Instr. 3) 2. Transaction Date (Month/Day/Year) 2A.",
+          "image": "https://newsfilter.io/meta-images/?url=https://storage.googleapis.com/iex/api/logos/NDSN.png",
+          "created_at": "2020-11-03T21:29:38Z",
+          "video_url": null,
+          "source": {
+            "name": "Newsfilter",
+            "website": "https://newsfilter.io"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253956660,
+      "body": "Comprehensive non-correlated Nordson $NDSN Trading Report https://tinyurl.com/y5t98vrr",
+      "created_at": "2020-11-02T19:00:07Z",
+      "user": {
+        "id": 456768,
+        "username": "stocktradersdaily",
+        "name": "Stock Traders Daily",
+        "avatar_url": "https://avatars.stocktwits.com/production/456768/thumb-1422538105.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/456768/thumb-1422538105.png",
+        "join_date": "2015-01-29",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 520,
+        "following": 0,
+        "ideas": 56354,
+        "watchlist_stocks_count": 0,
+        "like_count": 0,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 4326,
+        "title": "Stock Traders Daily",
+        "url": "https://www.stocktradersdaily.com"
+      },
+      "symbols": [
+        {
+          "id": 2819,
+          "symbol": "NDSN",
+          "title": "Nordson Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 419
+        }
+      ],
+      "links": [
+        {
+          "title": "Comprehensive non-correlated Nordson $NDSN Trading Report",
+          "url": "https://tinyurl.com/y5t98vrr",
+          "shortened_url": "https://tinyurl.com/y5t98vrr",
+          "shortened_expanded_url": "news.stocktradersdaily.com/...",
+          "description": "Celebrating 20 years, Stock Traders Daily provides the tools that help you develop investment strategies, and this is a good example. When we couple this with out market based analysis, the probabilities of going with the flow increases, and that is material over time.",
+          "image": "https://news.stocktradersdaily.com/images/STD-banner-336x280-v1r2.jpg",
+          "created_at": "2020-11-02T19:00:10Z",
+          "video_url": null,
+          "source": {
+            "name": "Stocktradersdaily",
+            "website": "https://news.stocktradersdaily.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_253956660.png",
+          "large": "https://charts.stocktwits.com/production/large_253956660.png",
+          "original": "https://charts.stocktwits.com/production/original_253956660.png",
+          "url": "https://charts.stocktwits.com/production/original_253956660.png"
+        },
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253840354,
+      "body": "This is why Hedge Funds use A.I. $NDSN in Downtrend: Stochastic indicator stays in oversold zone for 2 days. View odds for this and other indicators: https://srnk.us/go/2271894",
+      "created_at": "2020-11-02T04:37:16Z",
+      "user": {
+        "id": 967528,
+        "username": "tickeron",
+        "name": "Tickeron",
+        "avatar_url": "https://avatars.stocktwits.com/production/967528/thumb-1492026736.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/967528/thumb-1492026736.png",
+        "join_date": "2017-02-23",
+        "official": true,
+        "identity": "Official",
+        "classification": [
+          "official"
+        ],
+        "followers": 3886,
+        "following": 108,
+        "ideas": 433629,
+        "watchlist_stocks_count": 0,
+        "like_count": 0,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5810,
+        "title": "Tickeron",
+        "url": "https://tickeron.com"
+      },
+      "symbols": [
+        {
+          "id": 2819,
+          "symbol": "NDSN",
+          "title": "Nordson Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 419
+        }
+      ],
+      "links": [
+        {
+          "title": "Tickeron - A.I. Trading With Odds of Success",
+          "url": "https://srnk.us/go/2271894",
+          "shortened_url": "https://srnk.us/go/2271894",
+          "shortened_expanded_url": "tickeron.com/ticker/NDSN/?u...",
+          "description": "Our A.I.-powered algorithms generate and verify trade ideas. Invest in trends, trade with patterns, and analyze Stocks, ETFs, Mutual Funds, FOREX, Cryptos.",
+          "image": "https://tickeron.com/Img/Seo/main.png",
+          "created_at": "2020-11-02T04:37:17Z",
+          "video_url": null,
+          "source": {
+            "name": "Tickeron Inc.",
+            "website": "https://tickeron.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_253840354.",
+          "large": "https://charts.stocktwits.com/production/large_253840354.",
+          "original": "https://charts.stocktwits.com/production/original_253840354.",
+          "url": "https://charts.stocktwits.com/production/original_253840354."
+        },
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253736100,
+      "body": "#GIndustry #BUY WK44 $HDD.DE, $RHM.DE, $PH, $ZBRA, $NDSN, GNRC, AOS  #Diversified #Industrials DIA XLI #growthstocks #stocks #finance #investment https://tinyurl.com/y2qr8mf4",
+      "created_at": "2020-10-31T18:40:20Z",
+      "user": {
+        "id": 1514501,
+        "username": "Aigner_Andreas",
+        "name": "Andreas Aigner",
+        "avatar_url": "https://avatars.stocktwits.com/production/1514501/thumb-1528390137.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1514501/thumb-1528390137.png",
+        "join_date": "2018-06-07",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 2572,
+        "following": 49,
+        "ideas": 27392,
+        "watchlist_stocks_count": 87,
+        "like_count": 1047,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 4841,
+        "title": "Main App",
+        "url": "http://www.tradeflags.de"
+      },
+      "symbols": [
+        {
+          "id": 2819,
+          "symbol": "NDSN",
+          "title": "Nordson Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 419
+        },
+        {
+          "id": 4182,
+          "symbol": "ZBRA",
+          "title": "Zebra Technologies Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1572
+        },
+        {
+          "id": 6753,
+          "symbol": "PH",
+          "title": "Parker Hannifin Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 878
+        }
+      ],
+      "links": [
+        {
+          "title": null,
+          "url": "https://tinyurl.com/y2qr8mf4",
+          "shortened_url": "https://tinyurl.com/y2qr8mf4",
+          "shortened_expanded_url": "tradeflags.de/2020/10/31/GI...",
+          "description": null,
+          "image": null,
+          "created_at": "2020-10-31T18:40:25Z",
+          "video_url": null,
+          "source": {
+            "name": "Tradeflags",
+            "website": "https://www.tradeflags.de"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_253736100.png",
+          "large": "https://charts.stocktwits.com/production/large_253736100.png",
+          "original": "https://charts.stocktwits.com/production/original_253736100.png",
+          "url": "https://charts.stocktwits.com/production/original_253736100.png"
+        },
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 252556839,
+      "body": "$NDSN - Latest headline from stockmarketvista.com:\u2026 https://www.macroaxis.com/stock-analysis/NDSN/Nordson #insidertrading #stocks #fintechnews",
+      "created_at": "2020-10-26T17:28:02Z",
+      "user": {
+        "id": 56948,
+        "username": "macroaxis",
+        "name": "Macroaxis",
+        "avatar_url": "https://avatars.stocktwits.com/production/56948/thumb-1361399398.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/56948/thumb-1361399398.png",
+        "join_date": "2011-03-04",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 2948,
+        "following": 4,
+        "ideas": 351725,
+        "watchlist_stocks_count": 15,
+        "like_count": 28,
+        "plus_tier": "year",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1351,
+        "title": "dlvr.it",
+        "url": "https://dlvrit.com/"
+      },
+      "symbols": [
+        {
+          "id": 2819,
+          "symbol": "NDSN",
+          "title": "Nordson Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 419
+        }
+      ],
+      "links": [
+        {
+          "title": "Stock Market Vista -",
+          "url": "stockmarketvista.com",
+          "shortened_url": "stockmarketvista.com",
+          "shortened_expanded_url": "stockmarketvista.com/",
+          "description": "Latest research document on 'Golf Balls' Market is added in AMA database providing detailed insights on growth factors and future strategies. The study breaks market by key regions that includes North America, Europe, Asia-Pacific with country level break-up and provide volume* and value related cross segmented information by each country.",
+          "image": null,
+          "created_at": "2020-10-26T17:28:04Z",
+          "video_url": null,
+          "source": {
+            "name": "Stock Market Vista",
+            "website": "https://stockmarketvista.com"
+          }
+        },
+        {
+          "title": "Nordson Stock Analysis - 2020 | NDSN - Macroaxis",
+          "url": "https://www.macroaxis.com/stock-analysis/NDSN/Nordson",
+          "shortened_url": "https://www.macroaxis.com/stock-analysis/NDSN/Nordson",
+          "shortened_expanded_url": "macroaxis.com/stock-analysi...",
+          "description": "To execute equity pricing pattern simulations, real time valuations, recommendations, instant reporting, and portfolio analytics such as mean-variance optimization takes huge amount of computing resources. Since we are a small company we cannot afford to have hundreds of servers in our cluster.",
+          "image": "https://www.macroaxis.com/images/companies/logos/macroaxis_NDSN.gif",
+          "created_at": "2020-10-26T17:28:04Z",
+          "video_url": null,
+          "source": {
+            "name": "Macroaxis",
+            "website": "https://www.macroaxis.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 252374813,
+      "body": "$NDSN was analyzed by 8 analysts. The buy consensus is at 85%. So analysts seem to be very confident about $NDSN. https://www.chartmill.com/stock/analyzer/stock/NDSN?view=analyst-ratings&amp;utm_source=stocktwits&amp;utm_medium=ANALYST&amp;utm_content=NDSN&amp;utm_campaign=social_tracking",
+      "created_at": "2020-10-25T03:00:01Z",
+      "user": {
+        "id": 47688,
+        "username": "ChartMill",
+        "name": "ChartMill",
+        "avatar_url": "https://avatars.stocktwits.com/production/47688/thumb-1363343728.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/47688/thumb-1363343728.png",
+        "join_date": "2011-01-26",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 22065,
+        "following": 891,
+        "ideas": 1099376,
+        "watchlist_stocks_count": 20,
+        "like_count": 32,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1135,
+        "title": "ChartMill",
+        "url": "http://www.chartmill.com"
+      },
+      "symbols": [
+        {
+          "id": 2819,
+          "symbol": "NDSN",
+          "title": "Nordson Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 419
+        }
+      ],
+      "links": [
+        {
+          "title": null,
+          "url": "https://www.chartmill.com/stock/analyzer/stock/NDSN?view=analyst-ratings&utm_source=stocktwits&utm_medium=ANALYST&utm_content=NDSN&utm_campaign=social_tracking",
+          "shortened_url": "https://www.chartmill.com/stock/analyzer/stock/NDSN?view=analyst-ratings&utm_source=stocktwits&utm_medium=ANALYST&utm_content=NDSN&utm_campaign=social_tracking",
+          "shortened_expanded_url": "chartmill.com/stock/analyze...",
+          "description": null,
+          "image": null,
+          "created_at": "2020-10-25T03:00:02Z",
+          "video_url": null,
+          "source": {
+            "name": "Chartmill",
+            "website": "https://www.chartmill.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 252342069,
+      "body": "#GIndustry #BUY WK43 $HDD.DE, $RHM.DE, $PH, $ZBRA, $NDSN, AOS  #Diversified #Industrials DIA XLI #growthstocks #stocks #finance #investment https://tinyurl.com/y2uk4dhz",
+      "created_at": "2020-10-24T17:40:19Z",
+      "user": {
+        "id": 1514501,
+        "username": "Aigner_Andreas",
+        "name": "Andreas Aigner",
+        "avatar_url": "https://avatars.stocktwits.com/production/1514501/thumb-1528390137.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1514501/thumb-1528390137.png",
+        "join_date": "2018-06-07",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 2572,
+        "following": 49,
+        "ideas": 27392,
+        "watchlist_stocks_count": 87,
+        "like_count": 1047,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 4841,
+        "title": "Main App",
+        "url": "http://www.tradeflags.de"
+      },
+      "symbols": [
+        {
+          "id": 2819,
+          "symbol": "NDSN",
+          "title": "Nordson Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 419
+        },
+        {
+          "id": 4182,
+          "symbol": "ZBRA",
+          "title": "Zebra Technologies Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1572
+        },
+        {
+          "id": 6753,
+          "symbol": "PH",
+          "title": "Parker Hannifin Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 878
+        }
+      ],
+      "links": [
+        {
+          "title": null,
+          "url": "https://tinyurl.com/y2uk4dhz",
+          "shortened_url": "https://tinyurl.com/y2uk4dhz",
+          "shortened_expanded_url": "tradeflags.de/2020/10/24/GI...",
+          "description": null,
+          "image": null,
+          "created_at": "2020-10-24T17:40:24Z",
+          "video_url": null,
+          "source": {
+            "name": "Tradeflags",
+            "website": "https://www.tradeflags.de"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_252342069.png",
+          "large": "https://charts.stocktwits.com/production/large_252342069.png",
+          "original": "https://charts.stocktwits.com/production/original_252342069.png",
+          "url": "https://charts.stocktwits.com/production/original_252342069.png"
+        },
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 252335286,
+      "body": "Comprehensive non-correlated Nordson $NDSN Trading Report https://tinyurl.com/yx8q8ae6",
+      "created_at": "2020-10-24T15:45:05Z",
+      "user": {
+        "id": 456768,
+        "username": "stocktradersdaily",
+        "name": "Stock Traders Daily",
+        "avatar_url": "https://avatars.stocktwits.com/production/456768/thumb-1422538105.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/456768/thumb-1422538105.png",
+        "join_date": "2015-01-29",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 520,
+        "following": 0,
+        "ideas": 56349,
+        "watchlist_stocks_count": 0,
+        "like_count": 0,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 4326,
+        "title": "Stock Traders Daily",
+        "url": "https://www.stocktradersdaily.com"
+      },
+      "symbols": [
+        {
+          "id": 2819,
+          "symbol": "NDSN",
+          "title": "Nordson Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 419
+        }
+      ],
+      "links": [
+        {
+          "title": "Comprehensive non-correlated Nordson $NDSN Trading Report",
+          "url": "https://tinyurl.com/yx8q8ae6",
+          "shortened_url": "https://tinyurl.com/yx8q8ae6",
+          "shortened_expanded_url": "news.stocktradersdaily.com/...",
+          "description": "Technical Summary October 24, 2020, 11:45 am ET The Technical Summary and Trading Plans for NDSN help you determine where to buy, sell, and set risk controls. The data is best used in conjunction with our Market Analysis and Stock Correlation Filters too, because those help us go with the flow of the market as well.",
+          "image": "https://news.stocktradersdaily.com/images/STD-banner-336x280-v1r2.jpg",
+          "created_at": "2020-10-24T15:45:09Z",
+          "video_url": null,
+          "source": {
+            "name": "Stocktradersdaily",
+            "website": "https://news.stocktradersdaily.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_252335286.png",
+          "large": "https://charts.stocktwits.com/production/large_252335286.png",
+          "original": "https://charts.stocktwits.com/production/original_252335286.png",
+          "url": "https://charts.stocktwits.com/production/original_252335286.png"
+        },
+        "sentiment": null
+      }
+    },
+    {
+      "id": 251806922,
+      "body": "Nordson $NDSN BidaskScore is Increased to Bought https://bidaskclub.com/news/company/2020-10-21/NDSN",
+      "created_at": "2020-10-22T09:14:02Z",
+      "user": {
+        "id": 1177001,
+        "username": "BidaskBot",
+        "name": "BidaskBot",
+        "avatar_url": "https://avatars.stocktwits.com/production/1177001/thumb-1504377126.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1177001/thumb-1504377126.png",
+        "join_date": "2017-09-02",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 1069,
+        "following": 21,
+        "ideas": 68702,
+        "watchlist_stocks_count": 20,
+        "like_count": 1009,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 3725,
+        "title": "BidaskBot",
+        "url": "https://bidaskclub.com"
+      },
+      "symbols": [
+        {
+          "id": 2819,
+          "symbol": "NDSN",
+          "title": "Nordson Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 419
+        }
+      ],
+      "links": [
+        {
+          "title": "BidaskClub.com - See where people invest",
+          "url": "https://bidaskclub.com/news/company/2020-10-21/NDSN",
+          "shortened_url": "https://bidaskclub.com/news/company/2020-10-21/NDSN",
+          "shortened_expanded_url": "bidaskclub.com/news/company...",
+          "description": "Use the proprietary BidaskScore to see where people invest. Use the market heatmap and market screener to explore the US equity stock market",
+          "image": null,
+          "created_at": "2020-10-22T09:14:03Z",
+          "video_url": null,
+          "source": {
+            "name": "Bidaskclub",
+            "website": "https://bidaskclub.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_251806922.png",
+          "large": "https://charts.stocktwits.com/production/large_251806922.png",
+          "original": "https://charts.stocktwits.com/production/original_251806922.png",
+          "url": "https://charts.stocktwits.com/production/original_251806922.png"
+        },
+        "sentiment": null
+      }
+    },
+    {
+      "id": 251701026,
+      "body": "Jane B. Nord just provided an update on share ownership of Nordson Corporation http://www.conferencecalltranscripts.org/13G/summary2/?id=8463034 $NDSN",
+      "created_at": "2020-10-21T19:42:16Z",
+      "user": {
+        "id": 210967,
+        "username": "cctranscripts",
+        "name": "Conference Call Transcripts",
+        "avatar_url": "https://avatars.stocktwits.com/production/210967/thumb-1363372333.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/210967/thumb-1363372333.png",
+        "join_date": "2013-01-30",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 6361,
+        "following": 10,
+        "ideas": 2370272,
+        "watchlist_stocks_count": 0,
+        "like_count": 758,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1130,
+        "title": "cctranscripts",
+        "url": "http://conferencecalltranscripts.org"
+      },
+      "symbols": [
+        {
+          "id": 2819,
+          "symbol": "NDSN",
+          "title": "Nordson Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 419
+        }
+      ],
+      "links": [
+        {
+          "title": "Conference Call Transcripts",
+          "url": "http://www.conferencecalltranscripts.org/13G/summary2/?id=8463034",
+          "shortened_url": "http://www.conferencecalltranscripts.org/13G/summary2/?id=8463034",
+          "shortened_expanded_url": "conferencecalltranscripts.o...",
+          "description": "Company Conference Call Transcripts",
+          "image": null,
+          "created_at": "2020-10-21T19:42:16Z",
+          "video_url": null,
+          "source": {
+            "name": "Conferencecalltranscripts",
+            "website": "http://www.conferencecalltranscripts.org"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 251700728,
+      "body": "$NDSN [15s. delayed] filed form SC 13G on October 21, 15:40:32 https://s.flashalert.me/V1IZA",
+      "created_at": "2020-10-21T19:41:26Z",
+      "user": {
+        "id": 595702,
+        "username": "fla",
+        "name": "FlashAlert_me",
+        "avatar_url": "https://avatars.stocktwits.com/production/595702/thumb-1550769466.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/595702/thumb-1550769466.png",
+        "join_date": "2015-09-09",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 2665,
+        "following": 60,
+        "ideas": 726964,
+        "watchlist_stocks_count": 0,
+        "like_count": 4,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 4622,
+        "title": "FlashAlert",
+        "url": "https://flashalert.me/"
+      },
+      "symbols": [
+        {
+          "id": 2819,
+          "symbol": "NDSN",
+          "title": "Nordson Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 419
+        }
+      ],
+      "links": [
+        {
+          "title": "Flash Alert",
+          "url": "https://s.flashalert.me/V1IZA",
+          "shortened_url": "https://s.flashalert.me/V1IZA",
+          "shortened_expanded_url": "sec.gov/Archives/edgar/data...",
+          "description": "Real-time alerts about equities, ETFs, cryptocurrencies and more sent to any device",
+          "image": null,
+          "created_at": "2020-10-21T19:41:26Z",
+          "video_url": null,
+          "source": {
+            "name": "Flashalert",
+            "website": "https://flashalert.me"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 251637438,
+      "body": "52-Week High Alert: Trading today&#39;s movement in NORDSON $NDSN https://wp.me/p5bLGB-bbYZ",
+      "created_at": "2020-10-21T16:23:00Z",
+      "user": {
+        "id": 403382,
+        "username": "quantcha",
+        "name": "Quantcha",
+        "avatar_url": "https://avatars.stocktwits.com/production/403382/thumb-1411503795.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/403382/thumb-1411503795.png",
+        "join_date": "2014-09-23",
+        "official": true,
+        "identity": "Official",
+        "classification": [
+          "official"
+        ],
+        "followers": 42710,
+        "following": 34,
+        "ideas": 70374,
+        "watchlist_stocks_count": 0,
+        "like_count": 13,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1788,
+        "title": "Quantcha Ideas",
+        "url": "http://ideas.quantcha.com"
+      },
+      "symbols": [
+        {
+          "id": 2819,
+          "symbol": "NDSN",
+          "title": "Nordson Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 419
+        }
+      ],
+      "links": [
+        {
+          "title": "52-Week High Alert: Trading today's movement in NORDSON $NDSN",
+          "url": "https://wp.me/p5bLGB-bbYZ",
+          "shortened_url": "https://wp.me/p5bLGB-bbYZ",
+          "shortened_expanded_url": "ideas.quantcha.com/2020/10/...",
+          "description": "Quantcha now offering unlimited commission-free options trading. Quantchabot has detected a promising Bull Put Spread trade opportunity for NORDSON ( NDSN) for the 20-Nov-2020 expiration period. You can analyze the opportunity in depth over at the Quantcha Options Search Engine. NDSN was recently trading at $209.06 and has an implied volatility of 32.25% for this period.",
+          "image": "https://i0.wp.com/ideas.quantcha.com/wp-content/uploads/2020/10/automated-966.png?fit=1200%2C630&ssl=1",
+          "created_at": "2020-10-21T16:23:04Z",
+          "video_url": null,
+          "source": {
+            "name": "Quantcha Trade Ideas",
+            "website": "https://ideas.quantcha.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_251637438.",
+          "large": "https://charts.stocktwits.com/production/large_251637438.",
+          "original": "https://charts.stocktwits.com/production/original_251637438.",
+          "url": "https://charts.stocktwits.com/production/original_251637438."
+        },
+        "sentiment": null
+      }
+    },
+    {
+      "id": 251636951,
+      "body": "52-Week High Alert: Trading today&#39;s movement in NORDSON $NDSN https://wp.me/p5bLGB-bbYv",
+      "created_at": "2020-10-21T16:21:44Z",
+      "user": {
+        "id": 403382,
+        "username": "quantcha",
+        "name": "Quantcha",
+        "avatar_url": "https://avatars.stocktwits.com/production/403382/thumb-1411503795.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/403382/thumb-1411503795.png",
+        "join_date": "2014-09-23",
+        "official": true,
+        "identity": "Official",
+        "classification": [
+          "official"
+        ],
+        "followers": 42710,
+        "following": 34,
+        "ideas": 70374,
+        "watchlist_stocks_count": 0,
+        "like_count": 13,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1788,
+        "title": "Quantcha Ideas",
+        "url": "http://ideas.quantcha.com"
+      },
+      "symbols": [
+        {
+          "id": 2819,
+          "symbol": "NDSN",
+          "title": "Nordson Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 419
+        }
+      ],
+      "links": [
+        {
+          "title": "52-Week High Alert: Trading today's movement in NORDSON $NDSN",
+          "url": "https://wp.me/p5bLGB-bbYv",
+          "shortened_url": "https://wp.me/p5bLGB-bbYv",
+          "shortened_expanded_url": "ideas.quantcha.com/2020/10/...",
+          "description": "Quantcha now offering unlimited commission-free options trading. Quantchabot has detected a promising Bull Put Spread trade opportunity for NORDSON ( NDSN) for the 20-Nov-2020 expiration period. You can analyze the opportunity in depth over at the Quantcha Options Search Engine. NDSN was recently trading at $209.06 and has an implied volatility of 32.25% for this period.",
+          "image": "https://i0.wp.com/ideas.quantcha.com/wp-content/uploads/2020/10/automated-965.png?fit=1200%2C630&ssl=1",
+          "created_at": "2020-10-21T16:21:49Z",
+          "video_url": null,
+          "source": {
+            "name": "Quantcha Trade Ideas",
+            "website": "https://ideas.quantcha.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_251636951.",
+          "large": "https://charts.stocktwits.com/production/large_251636951.",
+          "original": "https://charts.stocktwits.com/production/original_251636951.",
+          "url": "https://charts.stocktwits.com/production/original_251636951."
+        },
+        "sentiment": null
+      }
+    },
+    {
+      "id": 251258714,
+      "body": "$NDSN broke to an all time high today. Last quarter they beat both sides with a 1.42 EPS on 538M in sales.  Falling wedge on the annual before the bullish breakout. I think this keeps going. Will be picking up the dip in small doses.  \ud83d\udc4d\ud83c\udffd",
+      "created_at": "2020-10-20T04:53:19Z",
+      "user": {
+        "id": 3614819,
+        "username": "golongFTW",
+        "name": "Jake",
+        "avatar_url": "https://avatars.stocktwits.com/production/3614819/thumb-1604229060.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3614819/thumb-1604229060.png",
+        "join_date": "2020-06-12",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 1642,
+        "following": 66,
+        "ideas": 3959,
+        "watchlist_stocks_count": 300,
+        "like_count": 1531,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 2819,
+          "symbol": "NDSN",
+          "title": "Nordson Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 419
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_251258714.PNG",
+          "large": "https://charts.stocktwits.com/production/large_251258714.PNG",
+          "original": "https://charts.stocktwits.com/production/original_251258714.PNG",
+          "url": "https://charts.stocktwits.com/production/original_251258714.PNG"
+        },
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 250931320,
+      "body": "$NDSN Nordson Corporation \n LETS GOOOO",
+      "created_at": "2020-10-17T20:00:48Z",
+      "user": {
+        "id": 4154136,
+        "username": "Melissa_Trades",
+        "name": "Melissa",
+        "avatar_url": "https://avatars.stocktwits.com/production/4154136/thumb-1602206874.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/4154136/thumb-1602206874.png",
+        "join_date": "2020-10-07",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 61,
+        "following": 3,
+        "ideas": 245,
+        "watchlist_stocks_count": 1,
+        "like_count": 53,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 2819,
+          "symbol": "NDSN",
+          "title": "Nordson Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 419
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    }
+  ]
+}

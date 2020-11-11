@@ -1,0 +1,2115 @@
+{
+  "response": {
+    "status": 200
+  },
+  "symbol": {
+    "id": 6372,
+    "symbol": "MS",
+    "title": "Morgan Stanley",
+    "aliases": [],
+    "is_following": false,
+    "watchlist_count": 9184
+  },
+  "cursor": {
+    "more": true,
+    "since": 254871154,
+    "max": 254698826
+  },
+  "messages": [
+    {
+      "id": 254871154,
+      "body": "$FUBO Goldman Sachs is one of the earliest investors in addition to $DIS $MS Comcast and Tsang Group.\n\nA lot of big players are behind FUBO and they have every intention to make it the next $NFLX in Sports Streaming.  \n\nThey will have Sports Betting soon.  This is a long term investment and i believe $200 is possible once we have sports betting and more subscribers.\n\nThis is undervalued.",
+      "created_at": "2020-11-06T15:52:44Z",
+      "user": {
+        "id": 4154747,
+        "username": "confuciusays",
+        "name": "Jeffrey Mars",
+        "avatar_url": "https://avatars.stocktwits.com/production/4154747/thumb-1603684965.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/4154747/thumb-1603684965.png",
+        "join_date": "2020-10-07",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 147,
+        "following": 69,
+        "ideas": 2862,
+        "watchlist_stocks_count": 19,
+        "like_count": 1751,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 2839,
+          "symbol": "NFLX",
+          "title": "Netflix, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 301384
+        },
+        {
+          "id": 4983,
+          "symbol": "DIS",
+          "title": "Walt Disney Co.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 177891
+        },
+        {
+          "id": 6372,
+          "symbol": "MS",
+          "title": "Morgan Stanley",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 9184
+        },
+        {
+          "id": 15982,
+          "symbol": "FUBO",
+          "title": "fuboTV Inc",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 3792
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          296496
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_254871154.png",
+          "large": "https://charts.stocktwits.com/production/large_254871154.png",
+          "original": "https://charts.stocktwits.com/production/original_254871154.png",
+          "url": "https://charts.stocktwits.com/production/original_254871154.png"
+        },
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254855438,
+      "body": "Square \ud83d\udcc8\n\n$SQ dashes past $TD, $FIS, $MS, and others after reporting strong earnings.\n\n\u2022 Square reports $1.63 billion in $BTC.X sales for the third quarter via its Cash App\n\n\u2022 Square has now sold more than $3.4 billion in total sales\n\nLeaderboard \u27a1\ufe0f assetdash.com",
+      "created_at": "2020-11-06T15:08:49Z",
+      "user": {
+        "id": 3503684,
+        "username": "assetdash",
+        "name": "AssetDash.com",
+        "avatar_url": "https://avatars.stocktwits.com/production/3503684/thumb-1597319330.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3503684/thumb-1597319330.png",
+        "join_date": "2020-05-25",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 217,
+        "following": 3,
+        "ideas": 4904,
+        "watchlist_stocks_count": 0,
+        "like_count": 13,
+        "plus_tier": "year",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 5352,
+          "symbol": "FIS",
+          "title": "Fidelity National Information Services, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 830
+        },
+        {
+          "id": 6372,
+          "symbol": "MS",
+          "title": "Morgan Stanley",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 9184
+        },
+        {
+          "id": 7362,
+          "symbol": "TD",
+          "title": "The Toronto-Dominion Bank",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 4341
+        },
+        {
+          "id": 7991,
+          "symbol": "SQ",
+          "title": "Square",
+          "aliases": [
+            "SQUARE"
+          ],
+          "is_following": false,
+          "watchlist_count": 108116
+        },
+        {
+          "id": 11418,
+          "symbol": "BTC.X",
+          "title": "Bitcoin BTC/USD",
+          "aliases": [
+            "BTCUSD"
+          ],
+          "is_following": false,
+          "watchlist_count": 201403
+        }
+      ],
+      "links": [
+        {
+          "title": "AssetDash",
+          "url": "assetdash.com",
+          "shortened_url": "assetdash.com",
+          "shortened_expanded_url": "assetdash.com/",
+          "description": null,
+          "image": null,
+          "created_at": "2020-11-06T15:08:50Z",
+          "video_url": null,
+          "source": {
+            "name": "Assetdash",
+            "website": "https://assetdash.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_254855438.png",
+          "large": "https://charts.stocktwits.com/production/large_254855438.png",
+          "original": "https://charts.stocktwits.com/production/original_254855438.png",
+          "url": "https://charts.stocktwits.com/production/original_254855438.png"
+        },
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 254851501,
+      "body": "$MS Up 7 days in a row 47.59 | 48.12 | 48.15 | 49.39 | 51.17 | 51.44 | 52.18 | 52.38 |  https://www.sleekoptions.com/sleekscan.aspx?sub1=dscan",
+      "created_at": "2020-11-06T14:58:45Z",
+      "user": {
+        "id": 1553598,
+        "username": "sleekoptions_twits",
+        "name": "sleekOptions Signals",
+        "avatar_url": "https://avatars.stocktwits.com/production/1553598/thumb-1600048561.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1553598/thumb-1600048561.png",
+        "join_date": "2018-07-22",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 1782,
+        "following": 29,
+        "ideas": 25384,
+        "watchlist_stocks_count": 3,
+        "like_count": 263,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 4255,
+        "title": "Sleekoptions Daytrade",
+        "url": "http://www.sleekoptions.com"
+      },
+      "symbols": [
+        {
+          "id": 6372,
+          "symbol": "MS",
+          "title": "Morgan Stanley",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 9184
+        }
+      ],
+      "links": [
+        {
+          "title": "SleekOptions.com - Algo based option trading Alerts",
+          "url": "https://www.sleekoptions.com/sleekscan.aspx?sub1=dscan",
+          "shortened_url": "https://www.sleekoptions.com/sleekscan.aspx?sub1=dscan",
+          "shortened_expanded_url": "sleekoptions.com/sleekscan....",
+          "description": "SleekOptions.com - Algo based option trading alerts gives you near real time alerts of good setups for option trading. Option trading alerts are triggered by the system using proprietary algo , historical data analysis, technical analysis and price action analysis. The alerts are posted in both the website and also in chat platform for push and email notifications.",
+          "image": null,
+          "created_at": "2020-11-06T14:58:45Z",
+          "video_url": null,
+          "source": {
+            "name": "Sleekoptions",
+            "website": "https://www.sleekoptions.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254828706,
+      "body": "$MYL don\u2019t allow the big banks like $GS $MS &amp; $WFC be the only ones to get shares for cheap. Wait for the big dip to load up\ud83e\udd11\ud83e\udd1f\ud83d\udcb0",
+      "created_at": "2020-11-06T13:47:43Z",
+      "user": {
+        "id": 2248514,
+        "username": "everspring",
+        "name": "jimmy",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2019-08-08",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 13,
+        "following": 4,
+        "ideas": 1051,
+        "watchlist_stocks_count": 10,
+        "like_count": 31,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 2779,
+          "symbol": "MYL",
+          "title": "Mylan, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 7306
+        },
+        {
+          "id": 5593,
+          "symbol": "GS",
+          "title": "Goldman Sachs Group, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 24072
+        },
+        {
+          "id": 6372,
+          "symbol": "MS",
+          "title": "Morgan Stanley",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 9185
+        },
+        {
+          "id": 7718,
+          "symbol": "WFC",
+          "title": "Wells Fargo & Company",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 45257
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 254828424,
+      "body": "Chinese video-sharing app Kuaishou files for IPO as new leaders emerge in the industry        $MS, $BILI, $700-HK, $BABA, $IQ\nhttps://stockxpo.com/chinese-video-sharing-app-kuaishou-files-for-ipo-as-new-leaders-emerge-in-the-industry/",
+      "created_at": "2020-11-06T13:46:26Z",
+      "user": {
+        "id": 4196867,
+        "username": "stockxpous",
+        "name": "StockXpo",
+        "avatar_url": "https://avatars.stocktwits.com/production/4196867/thumb-1604063121.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/4196867/thumb-1604063121.png",
+        "join_date": "2020-10-17",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 2,
+        "following": 28,
+        "ideas": 14,
+        "watchlist_stocks_count": 8,
+        "like_count": 4,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 6372,
+          "symbol": "MS",
+          "title": "Morgan Stanley",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 9185
+        },
+        {
+          "id": 12100,
+          "symbol": "BABA",
+          "title": "Alibaba",
+          "aliases": [
+            "ALIBABA"
+          ],
+          "is_following": false,
+          "watchlist_count": 231224
+        },
+        {
+          "id": 14488,
+          "symbol": "BILI",
+          "title": "BILIBILI INC.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 9835
+        },
+        {
+          "id": 14489,
+          "symbol": "IQ",
+          "title": "iQIYI",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 30799
+        }
+      ],
+      "links": [
+        {
+          "title": "Chinese video-sharing app Kuaishou files for IPO as new leaders emerge in the industry",
+          "url": "https://stockxpo.com/chinese-video-sharing-app-kuaishou-files-for-ipo-as-new-leaders-emerge-in-the-industry/",
+          "shortened_url": "https://stockxpo.com/chinese-video-sharing-app-kuaishou-files-for-ipo-as-new-leaders-emerge-in-the-industry/",
+          "shortened_expanded_url": "stockxpo.com/chinese-video-...",
+          "description": "Sales associates at one of Alibaba-owned InTime's store display products for sale during a livestream. InTime | Alibaba BEIJING - The fickle Chinese consumer has latched onto a set of new preferences for watching videos, a trend investors and media giants are tapping into. Late on Thursday, short-video and livestreaming app Kuaishou filed for an [...]",
+          "image": "https://stockxpo.com/myckysez/2020/11/chinese-video-sharing-app-kuaishou-files-for-ipo-as-new-leaders-emerge-in-the-industry-scaled.jpg",
+          "created_at": "2020-11-06T13:46:31Z",
+          "video_url": null,
+          "source": {
+            "name": "Stockxpo - A professional network of traders, investors and analysts",
+            "website": "https://stockxpo.com"
+          }
+        }
+      ],
+      "likes": {
+        "total": 2,
+        "user_ids": [
+          3780403,
+          1798703
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_254828424.jpg",
+          "large": "https://charts.stocktwits.com/production/large_254828424.jpg",
+          "original": "https://charts.stocktwits.com/production/original_254828424.jpg",
+          "url": "https://charts.stocktwits.com/production/original_254828424.jpg"
+        },
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 254809913,
+      "body": "$MS The Carlyle Group Acquires Leading Pet Health and Nutrition Provider Manna Pro Products from Morgan Stanley Capital Partners\nhttps://www.stocktitan.net/news/MS/the-carlyle-group-acquires-leading-pet-health-and-nutrition-provider-nn1irkk6lje1.html",
+      "created_at": "2020-11-06T12:03:17Z",
+      "user": {
+        "id": 3372441,
+        "username": "Stock_Titan",
+        "name": "StockTitan",
+        "avatar_url": "https://avatars.stocktwits.com/production/3372441/thumb-1588173612.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3372441/thumb-1588173612.png",
+        "join_date": "2020-04-28",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 455,
+        "following": 0,
+        "ideas": 30149,
+        "watchlist_stocks_count": 0,
+        "like_count": 0,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5677,
+        "title": "StockTitan",
+        "url": "https://stocktitan.net"
+      },
+      "symbols": [
+        {
+          "id": 6372,
+          "symbol": "MS",
+          "title": "Morgan Stanley",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 9184
+        }
+      ],
+      "links": [
+        {
+          "title": "The Carlyle Group Acquires Leading Pet Health and Nutrition | StockTitan.net",
+          "url": "https://www.stocktitan.net/news/MS/the-carlyle-group-acquires-leading-pet-health-and-nutrition-provider-nn1irkk6lje1.html",
+          "shortened_url": "https://www.stocktitan.net/news/MS/the-carlyle-group-acquires-leading-pet-health-and-nutrition-provider-nn1irkk6lje1.html",
+          "shortened_expanded_url": "stocktitan.net/news/MS/the-...",
+          "description": "NEW YORK--()--The Carlyle Group today announced that it has acquired a majority stake in Manna Pro Products (\"Manna Pro\") from investment funds managed by Morgan Stanley Capital Partners (\"MSCP\"). Financial terms of the transaction were not disclosed. Manna Pro, a St.",
+          "image": "https://static.stocktitan.net/company-logo/ms.png",
+          "created_at": "2020-11-06T12:03:18Z",
+          "video_url": null,
+          "source": {
+            "name": "Stocktitan",
+            "website": "https://www.stocktitan.net"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254804454,
+      "body": "$MS Form FWP (filing under securities act rules 163/433 of free writing prospectuses) filed with the SEC \n\nhttps://newsfilter.io/a/dcc40f648919ab9c74dbc2e30672577e",
+      "created_at": "2020-11-06T11:13:27Z",
+      "user": {
+        "id": 2762379,
+        "username": "Newsfilter",
+        "name": "@newsfilterio",
+        "avatar_url": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "join_date": "2019-09-01",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 7571,
+        "following": 16,
+        "ideas": 612434,
+        "watchlist_stocks_count": 1,
+        "like_count": 531,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 6372,
+          "symbol": "MS",
+          "title": "Morgan Stanley",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 9184
+        }
+      ],
+      "links": [
+        {
+          "title": "FWP Form - Filing under Securities Act Rules 163/433 of free writing prospectuses - MORGAN STANLEY (0000895421) (Subject)",
+          "url": "https://newsfilter.io/a/dcc40f648919ab9c74dbc2e30672577e",
+          "shortened_url": "https://newsfilter.io/a/dcc40f648919ab9c74dbc2e30672577e",
+          "shortened_expanded_url": "newsfilter.io/a/dcc40f64891...",
+          "description": "FWP 1 dp140337_fwp-ps5249.htm FORM FWP Free Writing Prospectus to Preliminary Terms No. 5,249 Registration Statement Nos. 333-221595; 333-221595-01 Dated November 5, 2020; Filed pursuant to Rule 433 3-Year NFLX Contingent Income Auto-Callable Securities This document provides a summary of the terms of the securities.",
+          "image": "https://newsfilter.io/meta-images/?url=https://storage.googleapis.com/iex/api/logos/MS.png",
+          "created_at": "2020-11-06T11:13:27Z",
+          "video_url": null,
+          "source": {
+            "name": "Newsfilter",
+            "website": "https://newsfilter.io"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254804391,
+      "body": "$MS filed 4 new form FWP (filing under securities act rules 163/433 of free writing prospectuses) with the SEC in the last 2 minutes.\n\n1. filing: https://newsfilter.io/a/c38e17abb03fc5db6d6b151ec9659654\n2. filing: https://newsfilter.io/a/e57814431a43fe838519de9c19e229d0\n3. filing: https://newsfilter.io/a/503cc448a2b6183c17f5c2dc262d1cbc\n4. filing: https://newsfilter.io/a/354492e0adc5f8d2f71d93b38c1b2384",
+      "created_at": "2020-11-06T11:12:42Z",
+      "user": {
+        "id": 2762379,
+        "username": "Newsfilter",
+        "name": "@newsfilterio",
+        "avatar_url": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "join_date": "2019-09-01",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 7571,
+        "following": 16,
+        "ideas": 612434,
+        "watchlist_stocks_count": 1,
+        "like_count": 531,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 6372,
+          "symbol": "MS",
+          "title": "Morgan Stanley",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 9184
+        }
+      ],
+      "links": [
+        {
+          "title": "FWP Form - Filing under Securities Act Rules 163/433 of free writing prospectuses - MORGAN STANLEY (0000895421) (Subject)",
+          "url": "https://newsfilter.io/a/c38e17abb03fc5db6d6b151ec9659654",
+          "shortened_url": "https://newsfilter.io/a/c38e17abb03fc5db6d6b151ec9659654",
+          "shortened_expanded_url": "newsfilter.io/a/c38e17abb03...",
+          "description": "FWP 1 dp140287_fwp-ps5243.htm FORM FWP November 2020 Preliminary Terms No. 5,243 Registration Statement Nos. 333-221595; 333-221595-01 Dated November 5, 2020 Filed pursuant to Rule 433 Morgan Stanley Finance LLC STRUCTURED INVESTMENTS Opportunities in U.S.",
+          "image": "https://newsfilter.io/meta-images/?url=https://storage.googleapis.com/iex/api/logos/MS.png",
+          "created_at": "2020-11-06T11:12:44Z",
+          "video_url": null,
+          "source": {
+            "name": "Newsfilter",
+            "website": "https://newsfilter.io"
+          }
+        },
+        {
+          "title": "FWP Form - Filing under Securities Act Rules 163/433 of free writing prospectuses - MORGAN STANLEY (0000895421) (Subject)",
+          "url": "https://newsfilter.io/a/e57814431a43fe838519de9c19e229d0",
+          "shortened_url": "https://newsfilter.io/a/e57814431a43fe838519de9c19e229d0",
+          "shortened_expanded_url": "newsfilter.io/a/e57814431a4...",
+          "description": "FWP 1 dp140296_fwp-ps5244.htm FORM FWP November 2020 Preliminary Terms No. 5,244 Registration Statement Nos. 333-221595; 333-221595-01 Dated November 5, 2020 Filed pursuant to Rule 433 Morgan Stanley Finance LLC Structured Investments Opportunities in U.S.",
+          "image": "https://newsfilter.io/meta-images/?url=https://storage.googleapis.com/iex/api/logos/MS.png",
+          "created_at": "2020-11-06T11:12:44Z",
+          "video_url": null,
+          "source": {
+            "name": "Newsfilter",
+            "website": "https://newsfilter.io"
+          }
+        },
+        {
+          "title": "FWP Form - Filing under Securities Act Rules 163/433 of free writing prospectuses - MORGAN STANLEY (0000895421) (Subject)",
+          "url": "https://newsfilter.io/a/503cc448a2b6183c17f5c2dc262d1cbc",
+          "shortened_url": "https://newsfilter.io/a/503cc448a2b6183c17f5c2dc262d1cbc",
+          "shortened_expanded_url": "newsfilter.io/a/503cc448a2b...",
+          "description": "FWP 1 dp139906_fwp-ps5206.htm FORM FWP Morgan Stanley Free Writing Prospectus to Preliminary Terms No. 5,206 Registration Statement Nos. 333-221595; 333-221595-01 Dated November 5, 2020; Filed pursuant to Rule 433 3-Year GE Contingent Income Auto-Callable Securities This document provides a summary of the terms of the securities.",
+          "image": "https://newsfilter.io/meta-images/?url=https://storage.googleapis.com/iex/api/logos/MS.png",
+          "created_at": "2020-11-06T11:12:44Z",
+          "video_url": null,
+          "source": {
+            "name": "Newsfilter",
+            "website": "https://newsfilter.io"
+          }
+        },
+        {
+          "title": "FWP Form - Filing under Securities Act Rules 163/433 of free writing prospectuses - MORGAN STANLEY (0000895421) (Subject)",
+          "url": "https://newsfilter.io/a/354492e0adc5f8d2f71d93b38c1b2384",
+          "shortened_url": "https://newsfilter.io/a/354492e0adc5f8d2f71d93b38c1b2384",
+          "shortened_expanded_url": "newsfilter.io/a/354492e0adc...",
+          "description": "FWP 1 dp140326_fwp-ps5247.htm FORM FWP November 2020 Preliminary Terms No. 5,247 Registration Statement Nos. 333-221595; 333-221595-01 Dated November 5, 2020 Filed pursuant to Rule 433 Morgan Stanley Finance LLC Structured Investments Opportunities in U.S.",
+          "image": "https://newsfilter.io/meta-images/?url=https://storage.googleapis.com/iex/api/logos/MS.png",
+          "created_at": "2020-11-06T11:12:44Z",
+          "video_url": null,
+          "source": {
+            "name": "Newsfilter",
+            "website": "https://newsfilter.io"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254803938,
+      "body": "$MS [15s. delayed] filed form FWP on November 05, 21:03:36 https://s.flashalert.me/UMfZ3D",
+      "created_at": "2020-11-06T11:08:00Z",
+      "user": {
+        "id": 595702,
+        "username": "fla",
+        "name": "FlashAlert_me",
+        "avatar_url": "https://avatars.stocktwits.com/production/595702/thumb-1550769466.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/595702/thumb-1550769466.png",
+        "join_date": "2015-09-09",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 2667,
+        "following": 60,
+        "ideas": 727186,
+        "watchlist_stocks_count": 0,
+        "like_count": 4,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 4622,
+        "title": "FlashAlert",
+        "url": "https://flashalert.me/"
+      },
+      "symbols": [
+        {
+          "id": 6372,
+          "symbol": "MS",
+          "title": "Morgan Stanley",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 9184
+        }
+      ],
+      "links": [
+        {
+          "title": "Flash Alert",
+          "url": "https://s.flashalert.me/UMfZ3D",
+          "shortened_url": "https://s.flashalert.me/UMfZ3D",
+          "shortened_expanded_url": "sec.gov/Archives/edgar/data...",
+          "description": "Real-time alerts about equities, ETFs, cryptocurrencies and more sent to any device",
+          "image": null,
+          "created_at": "2020-11-06T11:08:01Z",
+          "video_url": null,
+          "source": {
+            "name": "Flashalert",
+            "website": "https://flashalert.me"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254803256,
+      "body": "$MS Form FWP (filing under securities act rules 163/433 of free writing prospectuses) filed with the SEC \n\nhttps://newsfilter.io/a/d95143c3de419fd2cad4f3132a82e157",
+      "created_at": "2020-11-06T11:00:54Z",
+      "user": {
+        "id": 2762379,
+        "username": "Newsfilter",
+        "name": "@newsfilterio",
+        "avatar_url": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "join_date": "2019-09-01",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 7571,
+        "following": 16,
+        "ideas": 612434,
+        "watchlist_stocks_count": 1,
+        "like_count": 531,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 6372,
+          "symbol": "MS",
+          "title": "Morgan Stanley",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 9184
+        }
+      ],
+      "links": [
+        {
+          "title": "FWP Form - Filing under Securities Act Rules 163/433 of free writing prospectuses - MORGAN STANLEY (0000895421) (Subject)",
+          "url": "https://newsfilter.io/a/d95143c3de419fd2cad4f3132a82e157",
+          "shortened_url": "https://newsfilter.io/a/d95143c3de419fd2cad4f3132a82e157",
+          "shortened_expanded_url": "newsfilter.io/a/d95143c3de4...",
+          "description": "FWP 1 dp140320_fwp-ps5248.htm FORM FWP Morgan Stanley Free Writing Prospectus to Preliminary Terms No. 5,248 Registration Statement Nos. 333-221595; 333-221595-01 Dated November 5, 2020; Filed pursuant to Rule 433 3-Year JPM Contingent Income Auto-Callable Securities This document provides a summary of the terms of the securities.",
+          "image": "https://newsfilter.io/meta-images/?url=https://storage.googleapis.com/iex/api/logos/MS.png",
+          "created_at": "2020-11-06T11:00:55Z",
+          "video_url": null,
+          "source": {
+            "name": "Newsfilter",
+            "website": "https://newsfilter.io"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254800084,
+      "body": "Does this make you nervous? $MS MACD Histogram just turned positive. View odds of uptrend. https://srnk.us/go/2287350",
+      "created_at": "2020-11-06T10:07:38Z",
+      "user": {
+        "id": 967528,
+        "username": "tickeron",
+        "name": "Tickeron",
+        "avatar_url": "https://avatars.stocktwits.com/production/967528/thumb-1492026736.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/967528/thumb-1492026736.png",
+        "join_date": "2017-02-23",
+        "official": true,
+        "identity": "Official",
+        "classification": [
+          "official"
+        ],
+        "followers": 3889,
+        "following": 108,
+        "ideas": 433821,
+        "watchlist_stocks_count": 0,
+        "like_count": 0,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5810,
+        "title": "Tickeron",
+        "url": "https://tickeron.com"
+      },
+      "symbols": [
+        {
+          "id": 6372,
+          "symbol": "MS",
+          "title": "Morgan Stanley",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 9183
+        }
+      ],
+      "links": [
+        {
+          "title": "Tickeron - A.I. Trading With Odds of Success",
+          "url": "https://srnk.us/go/2287350",
+          "shortened_url": "https://srnk.us/go/2287350",
+          "shortened_expanded_url": "tickeron.com/news/7784761-m...",
+          "description": "Our A.I.-powered algorithms generate and verify trade ideas. Invest in trends, trade with patterns, and analyze Stocks, ETFs, Mutual Funds, FOREX, Cryptos.",
+          "image": "https://tickeron.com/Img/Seo/main.png",
+          "created_at": "2020-11-06T10:07:40Z",
+          "video_url": null,
+          "source": {
+            "name": "Tickeron Inc.",
+            "website": "https://tickeron.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_254800084.",
+          "large": "https://charts.stocktwits.com/production/large_254800084.",
+          "original": "https://charts.stocktwits.com/production/original_254800084.",
+          "url": "https://charts.stocktwits.com/production/original_254800084."
+        },
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 254796479,
+      "body": "$FUBO Goldman is also an investor!\n\n$DIS $MS Comcast \n\nThe Next $NFLX in sports streaming !!!\n\n12 months after Sports Betting Integration = $250",
+      "created_at": "2020-11-06T08:58:32Z",
+      "user": {
+        "id": 4154747,
+        "username": "confuciusays",
+        "name": "Jeffrey Mars",
+        "avatar_url": "https://avatars.stocktwits.com/production/4154747/thumb-1603684965.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/4154747/thumb-1603684965.png",
+        "join_date": "2020-10-07",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 147,
+        "following": 69,
+        "ideas": 2862,
+        "watchlist_stocks_count": 19,
+        "like_count": 1750,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 2839,
+          "symbol": "NFLX",
+          "title": "Netflix, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 301287
+        },
+        {
+          "id": 4983,
+          "symbol": "DIS",
+          "title": "Walt Disney Co.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 177854
+        },
+        {
+          "id": 6372,
+          "symbol": "MS",
+          "title": "Morgan Stanley",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 9184
+        },
+        {
+          "id": 15982,
+          "symbol": "FUBO",
+          "title": "fuboTV Inc",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 3788
+        }
+      ],
+      "likes": {
+        "total": 3,
+        "user_ids": [
+          3820258,
+          3525892,
+          3079705
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_254796479.png",
+          "large": "https://charts.stocktwits.com/production/large_254796479.png",
+          "original": "https://charts.stocktwits.com/production/original_254796479.png",
+          "url": "https://charts.stocktwits.com/production/original_254796479.png"
+        },
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 254796343,
+      "body": "$onFUBO No one actually talked about this. Goldman is also a co-investor!!!!\n\n$DIS $MS Comcast all are onboard.  \n\n- FUBO is recession proof\n- Nothing can stop FUBO not even a Black Swan Event\n-Next $NFLX for Sport Streaming\n-OTT has a CAGR of 55% \n\n1 year after sports betting ...\n$250+ Price \ud83c\udfaf",
+      "created_at": "2020-11-06T08:54:00Z",
+      "user": {
+        "id": 4154747,
+        "username": "confuciusays",
+        "name": "Jeffrey Mars",
+        "avatar_url": "https://avatars.stocktwits.com/production/4154747/thumb-1603684965.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/4154747/thumb-1603684965.png",
+        "join_date": "2020-10-07",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 148,
+        "following": 69,
+        "ideas": 2854,
+        "watchlist_stocks_count": 19,
+        "like_count": 1748,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 2839,
+          "symbol": "NFLX",
+          "title": "Netflix, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 301278
+        },
+        {
+          "id": 4983,
+          "symbol": "DIS",
+          "title": "Walt Disney Co.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 177849
+        },
+        {
+          "id": 6372,
+          "symbol": "MS",
+          "title": "Morgan Stanley",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 9183
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_254796343.png",
+          "large": "https://charts.stocktwits.com/production/large_254796343.png",
+          "original": "https://charts.stocktwits.com/production/original_254796343.png",
+          "url": "https://charts.stocktwits.com/production/original_254796343.png"
+        },
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254780879,
+      "body": "ByteDance\u2019s Chief Rival Files for $5 Billion Hong Kong IPO  $BAC $MS $BABA \n\nhttps://newsfilter.io/a/35b5295b51fffb63689c88ebd8b87a1b",
+      "created_at": "2020-11-06T04:23:36Z",
+      "user": {
+        "id": 2762379,
+        "username": "Newsfilter",
+        "name": "@newsfilterio",
+        "avatar_url": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "join_date": "2019-09-01",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 7568,
+        "following": 16,
+        "ideas": 612364,
+        "watchlist_stocks_count": 1,
+        "like_count": 531,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 4438,
+          "symbol": "BAC",
+          "title": "Bank of America Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 106488
+        },
+        {
+          "id": 6372,
+          "symbol": "MS",
+          "title": "Morgan Stanley",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 9182
+        },
+        {
+          "id": 12100,
+          "symbol": "BABA",
+          "title": "Alibaba",
+          "aliases": [
+            "ALIBABA"
+          ],
+          "is_following": false,
+          "watchlist_count": 231026
+        }
+      ],
+      "links": [
+        {
+          "title": "ByteDance's Chief Rival Files for $5 Billion Hong Kong IPO",
+          "url": "https://newsfilter.io/a/35b5295b51fffb63689c88ebd8b87a1b",
+          "shortened_url": "https://newsfilter.io/a/35b5295b51fffb63689c88ebd8b87a1b",
+          "shortened_expanded_url": "newsfilter.io/a/35b5295b51f...",
+          "description": "Kuaishou Technology has filed an application for a Hong Kong initial public offering, heading toward a listing that could raise as much as $5 billion and beat larger rival ByteDance to market.",
+          "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iTBCVqn_eKZU/v1/-1x-1.jpg",
+          "created_at": "2020-11-06T04:23:37Z",
+          "video_url": null,
+          "source": {
+            "name": "Newsfilter",
+            "website": "https://newsfilter.io"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_254780879.jpg",
+          "large": "https://charts.stocktwits.com/production/large_254780879.jpg",
+          "original": "https://charts.stocktwits.com/production/original_254780879.jpg",
+          "url": "https://charts.stocktwits.com/production/original_254780879.jpg"
+        },
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254722783,
+      "body": "$MS filed 2 new form FWP (filing under securities act rules 163/433 of free writing prospectuses) with the SEC in the last 2 minutes.\n\n1. filing: https://newsfilter.io/a/14c443cec6ffa6d802892512a3451cf9\n2. filing: https://newsfilter.io/a/9be63f7b8b8b74c4c9e9e3da6c5fe172",
+      "created_at": "2020-11-05T22:29:44Z",
+      "user": {
+        "id": 2762379,
+        "username": "Newsfilter",
+        "name": "@newsfilterio",
+        "avatar_url": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "join_date": "2019-09-01",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 7563,
+        "following": 16,
+        "ideas": 612689,
+        "watchlist_stocks_count": 1,
+        "like_count": 531,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 6372,
+          "symbol": "MS",
+          "title": "Morgan Stanley",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 9182
+        }
+      ],
+      "links": [
+        {
+          "title": "FWP Form - Filing under Securities Act Rules 163/433 of free writing prospectuses - MORGAN STANLEY (0000895421) (Subject)",
+          "url": "https://newsfilter.io/a/14c443cec6ffa6d802892512a3451cf9",
+          "shortened_url": "https://newsfilter.io/a/14c443cec6ffa6d802892512a3451cf9",
+          "shortened_expanded_url": "newsfilter.io/a/14c443cec6f...",
+          "description": "FWP 1 dp140307_fwp-ps5242.htm FORM FWP November 2020 Preliminary Terms No. 5,242 Registration Statement Nos.",
+          "image": "https://newsfilter.io/meta-images/?url=https://storage.googleapis.com/iex/api/logos/MS.png",
+          "created_at": "2020-11-05T22:29:46Z",
+          "video_url": null,
+          "source": {
+            "name": "Newsfilter",
+            "website": "https://newsfilter.io"
+          }
+        },
+        {
+          "title": "FWP Form - Filing under Securities Act Rules 163/433 of free writing prospectuses - MORGAN STANLEY (0000895421) (Subject)",
+          "url": "https://newsfilter.io/a/9be63f7b8b8b74c4c9e9e3da6c5fe172",
+          "shortened_url": "https://newsfilter.io/a/9be63f7b8b8b74c4c9e9e3da6c5fe172",
+          "shortened_expanded_url": "newsfilter.io/a/9be63f7b8b8...",
+          "description": "Free Writing Prospectus No. 5,252 Registration Statement Nos. 333-221595; 333-221595-01 Dated November 5, 2020 Filed Pursuant to Rule 433 Linked to the Least Performing Underlying between the S&P 500 \u00ae Index and the NASDAQ-100 Index \u00ae due November 9, 2023 Fully and Unconditionally Guaranteed by Morgan Stanley Principal at Risk Securities These Trigger Autocallable Contingent Yield Notes (the \"Securities\") are unsecured and unsubordinated debt obligations of Morgan Stanley Finance LLC (\"MSFL\") and are fully and unconditionally guaranteed by Morgan Stanley.",
+          "image": "https://newsfilter.io/meta-images/?url=https://storage.googleapis.com/iex/api/logos/MS.png",
+          "created_at": "2020-11-05T22:29:46Z",
+          "video_url": null,
+          "source": {
+            "name": "Newsfilter",
+            "website": "https://newsfilter.io"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254722207,
+      "body": "$MS [15s. delayed] filed form FWP on November 05, 17:26:52 https://s.flashalert.me/75IEaX",
+      "created_at": "2020-11-05T22:27:38Z",
+      "user": {
+        "id": 595702,
+        "username": "fla",
+        "name": "FlashAlert_me",
+        "avatar_url": "https://avatars.stocktwits.com/production/595702/thumb-1550769466.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/595702/thumb-1550769466.png",
+        "join_date": "2015-09-09",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 2665,
+        "following": 60,
+        "ideas": 726389,
+        "watchlist_stocks_count": 0,
+        "like_count": 4,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 4622,
+        "title": "FlashAlert",
+        "url": "https://flashalert.me/"
+      },
+      "symbols": [
+        {
+          "id": 6372,
+          "symbol": "MS",
+          "title": "Morgan Stanley",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 9182
+        }
+      ],
+      "links": [
+        {
+          "title": "Flash Alert",
+          "url": "https://s.flashalert.me/75IEaX",
+          "shortened_url": "https://s.flashalert.me/75IEaX",
+          "shortened_expanded_url": "sec.gov/Archives/edgar/data...",
+          "description": "Real-time alerts about equities, ETFs, cryptocurrencies and more sent to any device",
+          "image": null,
+          "created_at": "2020-11-05T22:27:38Z",
+          "video_url": null,
+          "source": {
+            "name": "Flashalert",
+            "website": "https://flashalert.me"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254721526,
+      "body": "$MS [15s. delayed] filed form FWP on November 05, 17:24:16 https://s.flashalert.me/3RtQja",
+      "created_at": "2020-11-05T22:25:08Z",
+      "user": {
+        "id": 595702,
+        "username": "fla",
+        "name": "FlashAlert_me",
+        "avatar_url": "https://avatars.stocktwits.com/production/595702/thumb-1550769466.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/595702/thumb-1550769466.png",
+        "join_date": "2015-09-09",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 2665,
+        "following": 60,
+        "ideas": 726389,
+        "watchlist_stocks_count": 0,
+        "like_count": 4,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 4622,
+        "title": "FlashAlert",
+        "url": "https://flashalert.me/"
+      },
+      "symbols": [
+        {
+          "id": 6372,
+          "symbol": "MS",
+          "title": "Morgan Stanley",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 9182
+        }
+      ],
+      "links": [
+        {
+          "title": "Flash Alert",
+          "url": "https://s.flashalert.me/3RtQja",
+          "shortened_url": "https://s.flashalert.me/3RtQja",
+          "shortened_expanded_url": "sec.gov/Archives/edgar/data...",
+          "description": "Real-time alerts about equities, ETFs, cryptocurrencies and more sent to any device",
+          "image": null,
+          "created_at": "2020-11-05T22:25:09Z",
+          "video_url": null,
+          "source": {
+            "name": "Flashalert",
+            "website": "https://flashalert.me"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254720702,
+      "body": "$MS [15s. delayed] filed form FWP on November 05, 17:21:39 https://s.flashalert.me/S3etS2",
+      "created_at": "2020-11-05T22:22:26Z",
+      "user": {
+        "id": 595702,
+        "username": "fla",
+        "name": "FlashAlert_me",
+        "avatar_url": "https://avatars.stocktwits.com/production/595702/thumb-1550769466.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/595702/thumb-1550769466.png",
+        "join_date": "2015-09-09",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 2665,
+        "following": 60,
+        "ideas": 726389,
+        "watchlist_stocks_count": 0,
+        "like_count": 4,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 4622,
+        "title": "FlashAlert",
+        "url": "https://flashalert.me/"
+      },
+      "symbols": [
+        {
+          "id": 6372,
+          "symbol": "MS",
+          "title": "Morgan Stanley",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 9182
+        }
+      ],
+      "links": [
+        {
+          "title": "Flash Alert",
+          "url": "https://s.flashalert.me/S3etS2",
+          "shortened_url": "https://s.flashalert.me/S3etS2",
+          "shortened_expanded_url": "sec.gov/Archives/edgar/data...",
+          "description": "Real-time alerts about equities, ETFs, cryptocurrencies and more sent to any device",
+          "image": null,
+          "created_at": "2020-11-05T22:22:27Z",
+          "video_url": null,
+          "source": {
+            "name": "Flashalert",
+            "website": "https://flashalert.me"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254720608,
+      "body": "$MS Form FWP (filing under securities act rules 163/433 of free writing prospectuses) filed with the SEC \n\nhttps://newsfilter.io/a/16edf27388b3a834faa6bc18babb8c3f",
+      "created_at": "2020-11-05T22:22:06Z",
+      "user": {
+        "id": 2762379,
+        "username": "Newsfilter",
+        "name": "@newsfilterio",
+        "avatar_url": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "join_date": "2019-09-01",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 7563,
+        "following": 16,
+        "ideas": 611776,
+        "watchlist_stocks_count": 1,
+        "like_count": 531,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 6372,
+          "symbol": "MS",
+          "title": "Morgan Stanley",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 9182
+        }
+      ],
+      "links": [
+        {
+          "title": "FWP Form - Filing under Securities Act Rules 163/433 of free writing prospectuses - MORGAN STANLEY (0000895421) (Subject)",
+          "url": "https://newsfilter.io/a/16edf27388b3a834faa6bc18babb8c3f",
+          "shortened_url": "https://newsfilter.io/a/16edf27388b3a834faa6bc18babb8c3f",
+          "shortened_expanded_url": "newsfilter.io/a/16edf27388b...",
+          "description": "Free Writing Prospectus No. 5,253 Registration Statement Nos. 333-221595; 333-221595-01 Dated November 5, 2020 Filed Pursuant to Rule 433 Linked to the Least Performing Underlying between the S&P 500 \u00ae Index and the NASDAQ-100 Index \u00ae due November 9, 2023 Fully and Unconditionally Guaranteed by Morgan Stanley Principal at Risk Securities These Trigger Autocallable Contingent Yield Notes (the \"Securities\") are unsecured and unsubordinated debt obligations of Morgan Stanley Finance LLC (\"MSFL\") and are fully and unconditionally guaranteed by Morgan Stanley.",
+          "image": "https://newsfilter.io/meta-images/?url=https://storage.googleapis.com/iex/api/logos/MS.png",
+          "created_at": "2020-11-05T22:22:09Z",
+          "video_url": null,
+          "source": {
+            "name": "Newsfilter",
+            "website": "https://newsfilter.io"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254719268,
+      "body": "$MS Form FWP (filing under securities act rules 163/433 of free writing prospectuses) filed with the SEC https://newsfilter.io/a/d63a5f56ca2106499152ab36d14c6598",
+      "created_at": "2020-11-05T22:17:33Z",
+      "user": {
+        "id": 2762379,
+        "username": "Newsfilter",
+        "name": "@newsfilterio",
+        "avatar_url": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "join_date": "2019-09-01",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 7563,
+        "following": 16,
+        "ideas": 611776,
+        "watchlist_stocks_count": 1,
+        "like_count": 531,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 6372,
+          "symbol": "MS",
+          "title": "Morgan Stanley",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 9182
+        }
+      ],
+      "links": [
+        {
+          "title": "FWP Form - Filing under Securities Act Rules 163/433 of free writing prospectuses - MORGAN STANLEY (0000895421) (Subject)",
+          "url": "https://newsfilter.io/a/d63a5f56ca2106499152ab36d14c6598",
+          "shortened_url": "https://newsfilter.io/a/d63a5f56ca2106499152ab36d14c6598",
+          "shortened_expanded_url": "newsfilter.io/a/d63a5f56ca2...",
+          "description": "FWP 1 dp140284_fwp-ps5250.htm FORM FWP Morgan Stanley Free Writing Prospectus to Preliminary Terms No. 5,250 Registration Statement Nos. 333-221595; 333-221595-01 Dated November 5, 2020; Filed pursuant to Rule 433 3-Year FB Contingent Income Auto-Callable Securities This document provides a summary of the terms of the securities.",
+          "image": "https://newsfilter.io/meta-images/?url=https://storage.googleapis.com/iex/api/logos/MS.png",
+          "created_at": "2020-11-05T22:17:34Z",
+          "video_url": null,
+          "source": {
+            "name": "Newsfilter",
+            "website": "https://newsfilter.io"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254717895,
+      "body": "$MS [15s. delayed] filed form FWP on November 05, 17:11:57 https://s.flashalert.me/M2lZKD",
+      "created_at": "2020-11-05T22:12:54Z",
+      "user": {
+        "id": 595702,
+        "username": "fla",
+        "name": "FlashAlert_me",
+        "avatar_url": "https://avatars.stocktwits.com/production/595702/thumb-1550769466.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/595702/thumb-1550769466.png",
+        "join_date": "2015-09-09",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 2664,
+        "following": 60,
+        "ideas": 726389,
+        "watchlist_stocks_count": 0,
+        "like_count": 4,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 4622,
+        "title": "FlashAlert",
+        "url": "https://flashalert.me/"
+      },
+      "symbols": [
+        {
+          "id": 6372,
+          "symbol": "MS",
+          "title": "Morgan Stanley",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 9182
+        }
+      ],
+      "links": [
+        {
+          "title": "Flash Alert",
+          "url": "https://s.flashalert.me/M2lZKD",
+          "shortened_url": "https://s.flashalert.me/M2lZKD",
+          "shortened_expanded_url": "sec.gov/Archives/edgar/data...",
+          "description": "Real-time alerts about equities, ETFs, cryptocurrencies and more sent to any device",
+          "image": null,
+          "created_at": "2020-11-05T22:12:54Z",
+          "video_url": null,
+          "source": {
+            "name": "Flashalert",
+            "website": "https://flashalert.me"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254716953,
+      "body": "$MS [15s. delayed] filed form 424B2 on November 05, 17:08:24 https://s.flashalert.me/ypKUEP",
+      "created_at": "2020-11-05T22:09:24Z",
+      "user": {
+        "id": 595702,
+        "username": "fla",
+        "name": "FlashAlert_me",
+        "avatar_url": "https://avatars.stocktwits.com/production/595702/thumb-1550769466.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/595702/thumb-1550769466.png",
+        "join_date": "2015-09-09",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 2664,
+        "following": 60,
+        "ideas": 726389,
+        "watchlist_stocks_count": 0,
+        "like_count": 4,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 4622,
+        "title": "FlashAlert",
+        "url": "https://flashalert.me/"
+      },
+      "symbols": [
+        {
+          "id": 6372,
+          "symbol": "MS",
+          "title": "Morgan Stanley",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 9182
+        }
+      ],
+      "links": [
+        {
+          "title": "Flash Alert",
+          "url": "https://s.flashalert.me/ypKUEP",
+          "shortened_url": "https://s.flashalert.me/ypKUEP",
+          "shortened_expanded_url": "sec.gov/Archives/edgar/data...",
+          "description": "Real-time alerts about equities, ETFs, cryptocurrencies and more sent to any device",
+          "image": null,
+          "created_at": "2020-11-05T22:09:24Z",
+          "video_url": null,
+          "source": {
+            "name": "Flashalert",
+            "website": "https://flashalert.me"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254716246,
+      "body": "New Hedge Fund Buys- filed as of Today:\n\n$XRX 1m+ shares by Carl Icahn\n$TCP 500,000sh + by Harvest Fund\n$TBK  1.4m shares+ by Luxor Capital\n$PVG 3.6m shares by $MS \n\nhttps://twitter.com/WallStSizingUp",
+      "created_at": "2020-11-05T22:06:58Z",
+      "user": {
+        "id": 4218546,
+        "username": "1ambull",
+        "name": "Wall St. Sizing Up",
+        "avatar_url": "https://avatars.stocktwits.com/production/4218546/thumb-1603766002.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/4218546/thumb-1603766002.png",
+        "join_date": "2020-10-22",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 0,
+        "following": 0,
+        "ideas": 13,
+        "watchlist_stocks_count": 18,
+        "like_count": 27,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 6372,
+          "symbol": "MS",
+          "title": "Morgan Stanley",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 9182
+        },
+        {
+          "id": 7832,
+          "symbol": "XRX",
+          "title": "Xerox Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 3173
+        },
+        {
+          "id": 11408,
+          "symbol": "PVG",
+          "title": "Pretium Resources Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1478
+        },
+        {
+          "id": 12238,
+          "symbol": "TBK",
+          "title": "Triumph Bancorp",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 63
+        },
+        {
+          "id": 13172,
+          "symbol": "TCP",
+          "title": "TC Pipelines, LP",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 178
+        }
+      ],
+      "links": [
+        {
+          "title": null,
+          "url": "https://twitter.com/WallStSizingUp",
+          "shortened_url": "https://twitter.com/WallStSizingUp",
+          "shortened_expanded_url": "twitter.com/wallstsizingup",
+          "description": null,
+          "image": null,
+          "created_at": "2020-11-05T22:06:59Z",
+          "video_url": null,
+          "source": {
+            "name": "Twitter",
+            "website": "https://twitter.com"
+          }
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          4218546
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_254716246.jpg",
+          "large": "https://charts.stocktwits.com/production/large_254716246.jpg",
+          "original": "https://charts.stocktwits.com/production/original_254716246.jpg",
+          "url": "https://charts.stocktwits.com/production/original_254716246.jpg"
+        },
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254715524,
+      "body": "MercadoLibre Takes Page Out of Amazon Playbook With Air Fleet  $MS $JD $BABA $AMZN $MELI \n\nhttps://newsfilter.io/a/5915b9287f3518cb134b05f6c70b664f",
+      "created_at": "2020-11-05T22:04:40Z",
+      "user": {
+        "id": 2762379,
+        "username": "Newsfilter",
+        "name": "@newsfilterio",
+        "avatar_url": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "join_date": "2019-09-01",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 7562,
+        "following": 16,
+        "ideas": 612689,
+        "watchlist_stocks_count": 1,
+        "like_count": 531,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 864,
+          "symbol": "AMZN",
+          "title": "Amazon.com Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 347968
+        },
+        {
+          "id": 2639,
+          "symbol": "MELI",
+          "title": "Mercadolibre, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 8956
+        },
+        {
+          "id": 6372,
+          "symbol": "MS",
+          "title": "Morgan Stanley",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 9182
+        },
+        {
+          "id": 12017,
+          "symbol": "JD",
+          "title": "JD.com",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 45220
+        },
+        {
+          "id": 12100,
+          "symbol": "BABA",
+          "title": "Alibaba",
+          "aliases": [
+            "ALIBABA"
+          ],
+          "is_following": false,
+          "watchlist_count": 230886
+        }
+      ],
+      "links": [
+        {
+          "title": "MercadoLibre Takes Page Out of Amazon Playbook With Air Fleet",
+          "url": "https://newsfilter.io/a/5915b9287f3518cb134b05f6c70b664f",
+          "shortened_url": "https://newsfilter.io/a/5915b9287f3518cb134b05f6c70b664f",
+          "shortened_expanded_url": "newsfilter.io/a/5915b9287f3...",
+          "description": "Latin America's largest e-commerce retailer MercadoLibre is turning to airplanes to have its products shipped at a faster pace as online sales continue to expand in the region.",
+          "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/itI7MeeLYmlQ/v0/-1x-1.jpg",
+          "created_at": "2020-11-05T22:04:41Z",
+          "video_url": null,
+          "source": {
+            "name": "Newsfilter",
+            "website": "https://newsfilter.io"
+          }
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          3372555
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_254715524.jpg",
+          "large": "https://charts.stocktwits.com/production/large_254715524.jpg",
+          "original": "https://charts.stocktwits.com/production/original_254715524.jpg",
+          "url": "https://charts.stocktwits.com/production/original_254715524.jpg"
+        },
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254715497,
+      "body": "$MS [15s. delayed] filed form FWP on November 05, 17:03:46 https://s.flashalert.me/5gt4w",
+      "created_at": "2020-11-05T22:04:35Z",
+      "user": {
+        "id": 595702,
+        "username": "fla",
+        "name": "FlashAlert_me",
+        "avatar_url": "https://avatars.stocktwits.com/production/595702/thumb-1550769466.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/595702/thumb-1550769466.png",
+        "join_date": "2015-09-09",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 2664,
+        "following": 60,
+        "ideas": 726389,
+        "watchlist_stocks_count": 0,
+        "like_count": 4,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 4622,
+        "title": "FlashAlert",
+        "url": "https://flashalert.me/"
+      },
+      "symbols": [
+        {
+          "id": 6372,
+          "symbol": "MS",
+          "title": "Morgan Stanley",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 9182
+        }
+      ],
+      "links": [
+        {
+          "title": "Flash Alert",
+          "url": "https://s.flashalert.me/5gt4w",
+          "shortened_url": "https://s.flashalert.me/5gt4w",
+          "shortened_expanded_url": "sec.gov/Archives/edgar/data...",
+          "description": "Real-time alerts about equities, ETFs, cryptocurrencies and more sent to any device",
+          "image": null,
+          "created_at": "2020-11-05T22:04:35Z",
+          "video_url": null,
+          "source": {
+            "name": "Flashalert",
+            "website": "https://flashalert.me"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254715391,
+      "body": "$MS Form FWP (filing under securities act rules 163/433 of free writing prospectuses) filed with the SEC \n\nhttps://newsfilter.io/a/797082f96f7cc6fcd0ed2f1767ad0f5e",
+      "created_at": "2020-11-05T22:04:14Z",
+      "user": {
+        "id": 2762379,
+        "username": "Newsfilter",
+        "name": "@newsfilterio",
+        "avatar_url": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "join_date": "2019-09-01",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 7563,
+        "following": 16,
+        "ideas": 611776,
+        "watchlist_stocks_count": 1,
+        "like_count": 531,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 6372,
+          "symbol": "MS",
+          "title": "Morgan Stanley",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 9182
+        }
+      ],
+      "links": [
+        {
+          "title": "FWP Form - Filing under Securities Act Rules 163/433 of free writing prospectuses - MORGAN STANLEY (0000895421) (Subject)",
+          "url": "https://newsfilter.io/a/797082f96f7cc6fcd0ed2f1767ad0f5e",
+          "shortened_url": "https://newsfilter.io/a/797082f96f7cc6fcd0ed2f1767ad0f5e",
+          "shortened_expanded_url": "newsfilter.io/a/797082f96f7...",
+          "description": "FWP 1 dp140289_fwp-ps5246.htm FORM FWP Morgan Stanley Free Writing Prospectus to Preliminary Terms No. 5,246 Registration Statement Nos. 333-221595; 333-221595-01 Dated November 5, 2020; Filed pursuant to Rule 433 2-Year Worst-of NDX, SPX and RTY Contingent Income Auto-Callable Securities This document provides a summary of the terms of the securities.",
+          "image": "https://newsfilter.io/meta-images/?url=https://storage.googleapis.com/iex/api/logos/MS.png",
+          "created_at": "2020-11-05T22:04:14Z",
+          "video_url": null,
+          "source": {
+            "name": "Newsfilter",
+            "website": "https://newsfilter.io"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254710925,
+      "body": "just provided an update on share ownership of Morgan Stanley http://www.conferencecalltranscripts.org/13G/summary/?id=8523354 $MS",
+      "created_at": "2020-11-05T21:50:09Z",
+      "user": {
+        "id": 210967,
+        "username": "cctranscripts",
+        "name": "Conference Call Transcripts",
+        "avatar_url": "https://avatars.stocktwits.com/production/210967/thumb-1363372333.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/210967/thumb-1363372333.png",
+        "join_date": "2013-01-30",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 6360,
+        "following": 10,
+        "ideas": 2369597,
+        "watchlist_stocks_count": 0,
+        "like_count": 758,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1130,
+        "title": "cctranscripts",
+        "url": "http://conferencecalltranscripts.org"
+      },
+      "symbols": [
+        {
+          "id": 6372,
+          "symbol": "MS",
+          "title": "Morgan Stanley",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 9182
+        }
+      ],
+      "links": [
+        {
+          "title": "Conference Call Transcripts",
+          "url": "http://www.conferencecalltranscripts.org/13G/summary/?id=8523354",
+          "shortened_url": "http://www.conferencecalltranscripts.org/13G/summary/?id=8523354",
+          "shortened_expanded_url": "conferencecalltranscripts.o...",
+          "description": "Company Conference Call Transcripts",
+          "image": null,
+          "created_at": "2020-11-05T21:50:09Z",
+          "video_url": null,
+          "source": {
+            "name": "Conferencecalltranscripts",
+            "website": "http://www.conferencecalltranscripts.org"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254701061,
+      "body": "$MS Form SC 13G (statement of acquisition of beneficial ownership by individuals) filed with the SEC https://newsfilter.io/a/65e4de5eca7360e4c91237013c9c0c22",
+      "created_at": "2020-11-05T21:24:22Z",
+      "user": {
+        "id": 2762379,
+        "username": "Newsfilter",
+        "name": "@newsfilterio",
+        "avatar_url": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "join_date": "2019-09-01",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 7564,
+        "following": 16,
+        "ideas": 610182,
+        "watchlist_stocks_count": 1,
+        "like_count": 531,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 6372,
+          "symbol": "MS",
+          "title": "Morgan Stanley",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 9182
+        }
+      ],
+      "links": [
+        {
+          "title": "SC 13G Form - Statement of acquisition of beneficial ownership by individuals - MORGAN STANLEY (0000895421) (Filed by)",
+          "url": "https://newsfilter.io/a/65e4de5eca7360e4c91237013c9c0c22",
+          "shortened_url": "https://newsfilter.io/a/65e4de5eca7360e4c91237013c9c0c22",
+          "shortened_expanded_url": "newsfilter.io/a/65e4de5eca7...",
+          "description": "Form SC 13G (statement of acquisition of beneficial ownership by individuals) filed with the SEC",
+          "image": "https://newsfilter.io/meta-images/?url=https://storage.googleapis.com/iex/api/logos/MS.png",
+          "created_at": "2020-11-05T21:24:23Z",
+          "video_url": null,
+          "source": {
+            "name": "Newsfilter",
+            "website": "https://newsfilter.io"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254700147,
+      "body": "$MS [15s. delayed] filed form SC 13G on November 05, 16:18:32 https://s.flashalert.me/9ed6FR",
+      "created_at": "2020-11-05T21:22:12Z",
+      "user": {
+        "id": 595702,
+        "username": "fla",
+        "name": "FlashAlert_me",
+        "avatar_url": "https://avatars.stocktwits.com/production/595702/thumb-1550769466.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/595702/thumb-1550769466.png",
+        "join_date": "2015-09-09",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 2664,
+        "following": 60,
+        "ideas": 725213,
+        "watchlist_stocks_count": 0,
+        "like_count": 4,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 4622,
+        "title": "FlashAlert",
+        "url": "https://flashalert.me/"
+      },
+      "symbols": [
+        {
+          "id": 6372,
+          "symbol": "MS",
+          "title": "Morgan Stanley",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 9182
+        }
+      ],
+      "links": [
+        {
+          "title": "Flash Alert",
+          "url": "https://s.flashalert.me/9ed6FR",
+          "shortened_url": "https://s.flashalert.me/9ed6FR",
+          "shortened_expanded_url": "sec.gov/Archives/edgar/data...",
+          "description": "Real-time alerts about equities, ETFs, cryptocurrencies and more sent to any device",
+          "image": null,
+          "created_at": "2020-11-05T21:22:12Z",
+          "video_url": null,
+          "source": {
+            "name": "Flashalert",
+            "website": "https://flashalert.me"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254698826,
+      "body": "$MS [15s. delayed] filed form 424B2 on November 05, 16:17:10 https://s.flashalert.me/4Dvlw",
+      "created_at": "2020-11-05T21:19:17Z",
+      "user": {
+        "id": 595702,
+        "username": "fla",
+        "name": "FlashAlert_me",
+        "avatar_url": "https://avatars.stocktwits.com/production/595702/thumb-1550769466.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/595702/thumb-1550769466.png",
+        "join_date": "2015-09-09",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 2664,
+        "following": 60,
+        "ideas": 725213,
+        "watchlist_stocks_count": 0,
+        "like_count": 4,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 4622,
+        "title": "FlashAlert",
+        "url": "https://flashalert.me/"
+      },
+      "symbols": [
+        {
+          "id": 6372,
+          "symbol": "MS",
+          "title": "Morgan Stanley",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 9182
+        }
+      ],
+      "links": [
+        {
+          "title": null,
+          "url": "https://s.flashalert.me/4Dvlw",
+          "shortened_url": "https://s.flashalert.me/4Dvlw",
+          "shortened_expanded_url": "s.flashalert.me/4Dvlw",
+          "description": null,
+          "image": null,
+          "created_at": "2020-11-05T21:19:21Z",
+          "video_url": null,
+          "source": {
+            "name": "Flashalert",
+            "website": "https://s.flashalert.me"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    }
+  ]
+}

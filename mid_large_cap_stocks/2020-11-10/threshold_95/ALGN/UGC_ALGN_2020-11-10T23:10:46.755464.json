@@ -1,0 +1,1789 @@
+{
+  "response": {
+    "status": 200
+  },
+  "symbol": {
+    "id": 801,
+    "symbol": "ALGN",
+    "title": "Align Technology Inc.",
+    "aliases": [],
+    "is_following": false,
+    "watchlist_count": 7277
+  },
+  "cursor": {
+    "more": true,
+    "since": 255537989,
+    "max": 254987779
+  },
+  "messages": [
+    {
+      "id": 255537989,
+      "body": "$ALGN insiders selling https://stocktwits.com/Newsfilter/message/255506895",
+      "created_at": "2020-11-10T03:37:37Z",
+      "user": {
+        "id": 3243582,
+        "username": "Nonip0ni",
+        "name": "Billy B",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2020-03-29",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 6,
+        "following": 8,
+        "ideas": 520,
+        "watchlist_stocks_count": 2,
+        "like_count": 146,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 801,
+          "symbol": "ALGN",
+          "title": "Align Technology Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 7279
+        }
+      ],
+      "links": [
+        {
+          "title": "@newsfilterio (@Newsfilter) | Stocktwits",
+          "url": "https://stocktwits.com/Newsfilter/message/255506895",
+          "shortened_url": "https://stocktwits.com/Newsfilter/message/255506895",
+          "shortened_expanded_url": "stocktwits.com/Newsfilter/m...",
+          "description": "ALGN reported 2 new insider trades to the SEC in the last 2 minutes. $4,867,547.00 of shares sold by Prescott Thomas M (Director) https://newsfilter.io/articles/4-form-d4656be71ea0ac5fc554e9336593d0a3 100 shares sold by Olson Jennifer (SVP & Mng Dir Cust Service) https://newsfilter.io/articles/4-form-fdb317d5421ead1e72e57e615802224d",
+          "image": "https://avatars.stocktwits.com/production/2762379/large-1570180226.png",
+          "created_at": "2020-11-10T03:37:37Z",
+          "video_url": null,
+          "source": {
+            "name": "Stocktwits",
+            "website": "https://stocktwits.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255535531,
+      "body": "$ALGN: New SEC filing on Director, THOMAS M PRESCOTT: https://www.sec.gov/Archives/edgar/data/1097149/000120919120057503/xslF345X03/doc4.xml",
+      "created_at": "2020-11-10T03:16:01Z",
+      "user": {
+        "id": 1606168,
+        "username": "FilingsVille",
+        "name": "Filings Ville",
+        "avatar_url": "https://avatars.stocktwits.com/production/1606168/thumb-1589354235.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1606168/thumb-1589354235.png",
+        "join_date": "2018-09-11",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 216,
+        "following": 0,
+        "ideas": 22635,
+        "watchlist_stocks_count": 0,
+        "like_count": 0,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 4346,
+        "title": "Filings Ville",
+        "url": "https://example.com"
+      },
+      "symbols": [
+        {
+          "id": 801,
+          "symbol": "ALGN",
+          "title": "Align Technology Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 7279
+        }
+      ],
+      "links": [
+        {
+          "title": "SEC FORM 4",
+          "url": "https://www.sec.gov/Archives/edgar/data/1097149/000120919120057503/xslF345X03/doc4.xml",
+          "shortened_url": "https://www.sec.gov/Archives/edgar/data/1097149/000120919120057503/xslF345X03/doc4.xml",
+          "shortened_expanded_url": "sec.gov/Archives/edgar/data...",
+          "description": "Signature of Reporting Person Date Reminder: Report on a separate line for each class of securities beneficially owned directly or indirectly. * If the form is filed by more than one reporting person, see Instruction 4 (b)(v). ** Intentional misstatements or omissions of facts constitute Federal Criminal Violations See 18 U.S.C.",
+          "image": null,
+          "created_at": "2020-11-10T03:16:01Z",
+          "video_url": null,
+          "source": {
+            "name": "Sec",
+            "website": "https://www.sec.gov"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255530425,
+      "body": "$ALGN was analyzed by 11 analysts. The buy consensus is at 80%. So analysts seem to be mildly confident about $ALGN. https://www.chartmill.com/stock/analyzer/stock/ALGN?view=analyst-ratings&amp;utm_source=stocktwits&amp;utm_medium=ANALYST&amp;utm_content=ALGN&amp;utm_campaign=social_tracking",
+      "created_at": "2020-11-10T02:36:00Z",
+      "user": {
+        "id": 47688,
+        "username": "ChartMill",
+        "name": "ChartMill",
+        "avatar_url": "https://avatars.stocktwits.com/production/47688/thumb-1363343728.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/47688/thumb-1363343728.png",
+        "join_date": "2011-01-26",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 22114,
+        "following": 891,
+        "ideas": 1103497,
+        "watchlist_stocks_count": 20,
+        "like_count": 32,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1135,
+        "title": "ChartMill",
+        "url": "http://www.chartmill.com"
+      },
+      "symbols": [
+        {
+          "id": 801,
+          "symbol": "ALGN",
+          "title": "Align Technology Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 7279
+        }
+      ],
+      "links": [
+        {
+          "title": null,
+          "url": "https://www.chartmill.com/stock/analyzer/stock/ALGN?view=analyst-ratings&utm_source=stocktwits&utm_medium=ANALYST&utm_content=ALGN&utm_campaign=social_tracking",
+          "shortened_url": "https://www.chartmill.com/stock/analyzer/stock/ALGN?view=analyst-ratings&utm_source=stocktwits&utm_medium=ANALYST&utm_content=ALGN&utm_campaign=social_tracking",
+          "shortened_expanded_url": "chartmill.com/stock/analyze...",
+          "description": null,
+          "image": null,
+          "created_at": "2020-11-10T02:36:00Z",
+          "video_url": null,
+          "source": {
+            "name": "Chartmill",
+            "website": "https://www.chartmill.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255506895,
+      "body": "$ALGN reported 2 new insider trades to the SEC in the last 2 minutes.\n\n$4,867,547.00 of shares sold by Prescott Thomas M (Director)   https://newsfilter.io/articles/4-form-d4656be71ea0ac5fc554e9336593d0a3\n100 shares sold by Olson Jennifer (SVP &amp; Mng Dir Cust Service)   https://newsfilter.io/articles/4-form-fdb317d5421ead1e72e57e615802224d",
+      "created_at": "2020-11-10T00:08:10Z",
+      "user": {
+        "id": 2762379,
+        "username": "Newsfilter",
+        "name": "@newsfilterio",
+        "avatar_url": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "join_date": "2019-09-01",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 7590,
+        "following": 16,
+        "ideas": 618619,
+        "watchlist_stocks_count": 1,
+        "like_count": 531,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 801,
+          "symbol": "ALGN",
+          "title": "Align Technology Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 7280
+        }
+      ],
+      "links": [
+        {
+          "title": null,
+          "url": "https://newsfilter.io/articles/4-form-d4656be71ea0ac5fc554e9336593d0a3",
+          "shortened_url": "https://newsfilter.io/articles/4-form-d4656be71ea0ac5fc554e9336593d0a3",
+          "shortened_expanded_url": "newsfilter.io/articles/4-fo...",
+          "description": null,
+          "image": null,
+          "created_at": "2020-11-10T00:08:11Z",
+          "video_url": null,
+          "source": {
+            "name": "Newsfilter",
+            "website": "https://newsfilter.io"
+          }
+        },
+        {
+          "title": null,
+          "url": "https://newsfilter.io/articles/4-form-fdb317d5421ead1e72e57e615802224d",
+          "shortened_url": "https://newsfilter.io/articles/4-form-fdb317d5421ead1e72e57e615802224d",
+          "shortened_expanded_url": "newsfilter.io/articles/4-fo...",
+          "description": null,
+          "image": null,
+          "created_at": "2020-11-10T00:08:11Z",
+          "video_url": null,
+          "source": {
+            "name": "Newsfilter",
+            "website": "https://newsfilter.io"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255506299,
+      "body": "Align Technology director just disposed of 10,000 shares  http://www.conferencecalltranscripts.org/4/summary/?id=8536974 $ALGN",
+      "created_at": "2020-11-10T00:05:22Z",
+      "user": {
+        "id": 210967,
+        "username": "cctranscripts",
+        "name": "Conference Call Transcripts",
+        "avatar_url": "https://avatars.stocktwits.com/production/210967/thumb-1363372333.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/210967/thumb-1363372333.png",
+        "join_date": "2013-01-30",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 6362,
+        "following": 10,
+        "ideas": 2375050,
+        "watchlist_stocks_count": 0,
+        "like_count": 758,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1130,
+        "title": "cctranscripts",
+        "url": "http://conferencecalltranscripts.org"
+      },
+      "symbols": [
+        {
+          "id": 801,
+          "symbol": "ALGN",
+          "title": "Align Technology Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 7280
+        }
+      ],
+      "links": [
+        {
+          "title": "Conference Call Transcripts",
+          "url": "http://www.conferencecalltranscripts.org/4/summary/?id=8536974",
+          "shortened_url": "http://www.conferencecalltranscripts.org/4/summary/?id=8536974",
+          "shortened_expanded_url": "conferencecalltranscripts.o...",
+          "description": "Get notified next time ALGN.US makes a similar move! Thomas M Prescott, a director of Align Technology, recently disposed of 10,000 shares of the company. The disposals took place at prices ranging from $485.48 to $491.50 per share, on November 06, 2020. Prescott still owns 64,398 shares of the company.",
+          "image": null,
+          "created_at": "2020-11-10T00:05:23Z",
+          "video_url": null,
+          "source": {
+            "name": "Conferencecalltranscripts",
+            "website": "http://www.conferencecalltranscripts.org"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255506138,
+      "body": "$ALGN [15s. delayed] filed SEC form 4: Director PRESCOTT THOMAS M: \nDisposed 10,000 of Common Stock at average price $486.75 on 2020-11-06 https://s.flashalert.me/tIjHX0",
+      "created_at": "2020-11-10T00:04:38Z",
+      "user": {
+        "id": 595702,
+        "username": "fla",
+        "name": "FlashAlert_me",
+        "avatar_url": "https://avatars.stocktwits.com/production/595702/thumb-1550769466.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/595702/thumb-1550769466.png",
+        "join_date": "2015-09-09",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 2683,
+        "following": 60,
+        "ideas": 732470,
+        "watchlist_stocks_count": 0,
+        "like_count": 4,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 4622,
+        "title": "FlashAlert",
+        "url": "https://flashalert.me/"
+      },
+      "symbols": [
+        {
+          "id": 801,
+          "symbol": "ALGN",
+          "title": "Align Technology Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 7280
+        }
+      ],
+      "links": [
+        {
+          "title": "Flash Alert",
+          "url": "https://s.flashalert.me/tIjHX0",
+          "shortened_url": "https://s.flashalert.me/tIjHX0",
+          "shortened_expanded_url": "sec.gov/Archives/edgar/data...",
+          "description": "Real-time alerts about equities, ETFs, cryptocurrencies and more sent to any device",
+          "image": null,
+          "created_at": "2020-11-10T00:04:39Z",
+          "video_url": null,
+          "source": {
+            "name": "Flashalert",
+            "website": "https://flashalert.me"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255506085,
+      "body": "Align Technology&#39;s SVP &amp; Mng Dir Cust Service just disposed of 100 shares  http://www.conferencecalltranscripts.org/4/summary2/?id=8536970 $ALGN",
+      "created_at": "2020-11-10T00:04:20Z",
+      "user": {
+        "id": 210967,
+        "username": "cctranscripts",
+        "name": "Conference Call Transcripts",
+        "avatar_url": "https://avatars.stocktwits.com/production/210967/thumb-1363372333.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/210967/thumb-1363372333.png",
+        "join_date": "2013-01-30",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 6362,
+        "following": 10,
+        "ideas": 2375050,
+        "watchlist_stocks_count": 0,
+        "like_count": 758,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1130,
+        "title": "cctranscripts",
+        "url": "http://conferencecalltranscripts.org"
+      },
+      "symbols": [
+        {
+          "id": 801,
+          "symbol": "ALGN",
+          "title": "Align Technology Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 7280
+        }
+      ],
+      "links": [
+        {
+          "title": "Conference Call Transcripts",
+          "url": "http://www.conferencecalltranscripts.org/4/summary2/?id=8536970",
+          "shortened_url": "http://www.conferencecalltranscripts.org/4/summary2/?id=8536970",
+          "shortened_expanded_url": "conferencecalltranscripts.o...",
+          "description": "Get notified next time ALGN.US makes a similar move! Jennifer Olson, Align Technology's SVP & Mng Dir Cust Service, recently disposed of 100 shares of the company. The disposals took place at $0.00 per share, on November 06, 2020. Olson still owns 2,277 shares of the company.",
+          "image": null,
+          "created_at": "2020-11-10T00:04:21Z",
+          "video_url": null,
+          "source": {
+            "name": "Conferencecalltranscripts",
+            "website": "http://www.conferencecalltranscripts.org"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255505885,
+      "body": "$ALGN [15s. delayed] filed SEC form 4: SVP &amp; Mng Dir Cust Service Olson Jennifer: \nGifted 100 of Common Stock at price $0 on 2020-11-06, d https://s.flashalert.me/8loKBa",
+      "created_at": "2020-11-10T00:03:30Z",
+      "user": {
+        "id": 595702,
+        "username": "fla",
+        "name": "FlashAlert_me",
+        "avatar_url": "https://avatars.stocktwits.com/production/595702/thumb-1550769466.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/595702/thumb-1550769466.png",
+        "join_date": "2015-09-09",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 2683,
+        "following": 60,
+        "ideas": 732392,
+        "watchlist_stocks_count": 0,
+        "like_count": 4,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 4622,
+        "title": "FlashAlert",
+        "url": "https://flashalert.me/"
+      },
+      "symbols": [
+        {
+          "id": 801,
+          "symbol": "ALGN",
+          "title": "Align Technology Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 7280
+        }
+      ],
+      "links": [
+        {
+          "title": "Flash Alert",
+          "url": "https://s.flashalert.me/8loKBa",
+          "shortened_url": "https://s.flashalert.me/8loKBa",
+          "shortened_expanded_url": "sec.gov/Archives/edgar/data...",
+          "description": "Real-time alerts about equities, ETFs, cryptocurrencies and more sent to any device",
+          "image": null,
+          "created_at": "2020-11-10T00:03:31Z",
+          "video_url": null,
+          "source": {
+            "name": "Flashalert",
+            "website": "https://flashalert.me"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255484872,
+      "body": "$ALGN Max Pain is 475.00 for maturity 11/13/2020. #maxpain #options http://maximum-pain.com/options/ALGN?m=11%2f13%2f2020",
+      "created_at": "2020-11-09T22:34:53Z",
+      "user": {
+        "id": 1216862,
+        "username": "OptionsTech",
+        "name": "Dan Smith",
+        "avatar_url": "https://avatars.stocktwits.com/production/1216862/thumb-1507373900.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1216862/thumb-1507373900.png",
+        "join_date": "2017-10-07",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 550,
+        "following": 1,
+        "ideas": 17600,
+        "watchlist_stocks_count": 0,
+        "like_count": 0,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 801,
+          "symbol": "ALGN",
+          "title": "Align Technology Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 7280
+        }
+      ],
+      "links": [
+        {
+          "title": "Stock Option Max Pain",
+          "url": "http://maximum-pain.com/options/ALGN?m=11%2f13%2f2020",
+          "shortened_url": "http://maximum-pain.com/options/ALGN?m=11%2f13%2f2020",
+          "shortened_expanded_url": "maximum-pain.com/options/AL...",
+          "description": null,
+          "image": null,
+          "created_at": "2020-11-09T22:34:54Z",
+          "video_url": null,
+          "source": {
+            "name": "Maximum-pain",
+            "website": "http://maximum-pain.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_255484872.png",
+          "large": "https://charts.stocktwits.com/production/large_255484872.png",
+          "original": "https://charts.stocktwits.com/production/original_255484872.png",
+          "url": "https://charts.stocktwits.com/production/original_255484872.png"
+        },
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255443123,
+      "body": "Your daily News digest for Align Technology $ALGN https://wsfriend.com/daily/news/ALGN/2020-11-09/",
+      "created_at": "2020-11-09T20:53:20Z",
+      "user": {
+        "id": 732840,
+        "username": "WallStreetFriend",
+        "name": "Wall Street Friend",
+        "avatar_url": "https://avatars.stocktwits.com/production/732840/thumb-1577167895.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/732840/thumb-1577167895.png",
+        "join_date": "2016-04-17",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 563,
+        "following": 39,
+        "ideas": 73561,
+        "watchlist_stocks_count": 31,
+        "like_count": 94,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5142,
+        "title": "Programmatic Alerts ",
+        "url": "https://wsfriend.com"
+      },
+      "symbols": [
+        {
+          "id": 801,
+          "symbol": "ALGN",
+          "title": "Align Technology Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 7279
+        }
+      ],
+      "links": [
+        {
+          "title": "ALGN Trending News and Daily News Digest for on Nov 09, 2020",
+          "url": "https://wsfriend.com/daily/news/ALGN/2020-11-09/",
+          "shortened_url": "https://wsfriend.com/daily/news/ALGN/2020-11-09/",
+          "shortened_expanded_url": "wsfriend.com/daily/news/ALG...",
+          "description": "ALGN Dail News Digest and Top trending news for",
+          "image": "https://www.digitalcommerce360.com/wp-content/uploads/2019/10/shutterstock_1195757992-1024x493.jpg",
+          "created_at": "2020-11-09T20:53:22Z",
+          "video_url": null,
+          "source": {
+            "name": "Wsfriend",
+            "website": "https://wsfriend.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255375377,
+      "body": "Taking profits at all-time highs.  I still own these stocks, but I booked some gains and sold parts of my positions:  sld $ALGN (seasonal) for a 65% gain; sld $DRE (REIT) for a 25% gain; sld $LSI (REIT) for a 20% gain;",
+      "created_at": "2020-11-09T17:40:19Z",
+      "user": {
+        "id": 730,
+        "username": "txbondman",
+        "name": "Larry Jordan",
+        "avatar_url": "https://avatars.stocktwits.com/production/730/thumb-1590675511.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/730/thumb-1590675511.png",
+        "join_date": "2009-09-01",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 329,
+        "following": 44,
+        "ideas": 2334,
+        "watchlist_stocks_count": 0,
+        "like_count": 50,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 801,
+          "symbol": "ALGN",
+          "title": "Align Technology Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 7280
+        },
+        {
+          "id": 5040,
+          "symbol": "DRE",
+          "title": "Duke Realty Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 312
+        },
+        {
+          "id": 6205,
+          "symbol": "LSI",
+          "title": "LSI Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 262
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255369176,
+      "body": "$ALGN $SDC is a fucking scam. Check any customer review site to see people getting burned by their actual product rather than the hype pumped out from an unprofitable company to keep raising capital.",
+      "created_at": "2020-11-09T17:23:41Z",
+      "user": {
+        "id": 1736646,
+        "username": "Saolof",
+        "name": "Saolof",
+        "avatar_url": "https://avatars.stocktwits.com/production/1736646/thumb-1554234988.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1736646/thumb-1554234988.png",
+        "join_date": "2018-11-29",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 47,
+        "following": 13,
+        "ideas": 3746,
+        "watchlist_stocks_count": 57,
+        "like_count": 1214,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 801,
+          "symbol": "ALGN",
+          "title": "Align Technology Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 7279
+        },
+        {
+          "id": 15379,
+          "symbol": "SDC",
+          "title": "SmileDirectClub, Inc",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 13039
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 255369176,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 5
+      },
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          2729276
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255337941,
+      "body": "$SDC $ALGN smile direct is interesting. Stimulus and   vaccine play. Good financials, lots of insider buying.",
+      "created_at": "2020-11-09T16:00:17Z",
+      "user": {
+        "id": 1665731,
+        "username": "Tkscgc",
+        "name": "Thanks Bruce",
+        "avatar_url": "https://avatars.stocktwits.com/production/1665731/thumb-1550160400.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1665731/thumb-1550160400.png",
+        "join_date": "2018-10-18",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 11,
+        "following": 18,
+        "ideas": 262,
+        "watchlist_stocks_count": 15,
+        "like_count": 406,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2095,
+        "title": "StockTwits For Android ",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 801,
+          "symbol": "ALGN",
+          "title": "Align Technology Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 7283
+        },
+        {
+          "id": 15379,
+          "symbol": "SDC",
+          "title": "SmileDirectClub, Inc",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 13036
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255307081,
+      "body": "$SDC going to keep running into earnings, $ALGN already crushed it, this will too",
+      "created_at": "2020-11-09T14:57:31Z",
+      "user": {
+        "id": 2071978,
+        "username": "JortSqueeze",
+        "name": "Chris",
+        "avatar_url": "https://avatars.stocktwits.com/production/2071978/thumb-1557510880.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2071978/thumb-1557510880.png",
+        "join_date": "2019-05-10",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 2,
+        "following": 24,
+        "ideas": 268,
+        "watchlist_stocks_count": 0,
+        "like_count": 33,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 801,
+          "symbol": "ALGN",
+          "title": "Align Technology Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 7277
+        },
+        {
+          "id": 15379,
+          "symbol": "SDC",
+          "title": "SmileDirectClub, Inc",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 13037
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 255279052,
+      "body": "$ALGN love the \u201coh crap gotta fix my teef\u201d before the office reopens trade",
+      "created_at": "2020-11-09T13:59:33Z",
+      "user": {
+        "id": 461204,
+        "username": "BoCap",
+        "name": "BoCapital",
+        "avatar_url": "https://avatars.stocktwits.com/production/461204/thumb-1497565954.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/461204/thumb-1497565954.png",
+        "join_date": "2015-02-05",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 92,
+        "following": 229,
+        "ideas": 7043,
+        "watchlist_stocks_count": 160,
+        "like_count": 2675,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 801,
+          "symbol": "ALGN",
+          "title": "Align Technology Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 7277
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          1579682
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255266535,
+      "body": "$ALGN, $UNH and $NTLA gaining pre market https://www.chartmill.com/stock/stock-screener?v=5&amp;f=s_pmg,p_pg10,v1_50b500,exch_us&amp;utm_source=stocktwits&amp;utm_medium=screener&amp;utm_content=Stock_Screener:_pre_market_gainers&amp;utm_campaign=social_tracking",
+      "created_at": "2020-11-09T13:27:00Z",
+      "user": {
+        "id": 47688,
+        "username": "ChartMill",
+        "name": "ChartMill",
+        "avatar_url": "https://avatars.stocktwits.com/production/47688/thumb-1363343728.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/47688/thumb-1363343728.png",
+        "join_date": "2011-01-26",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 22131,
+        "following": 891,
+        "ideas": 1103986,
+        "watchlist_stocks_count": 20,
+        "like_count": 32,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1135,
+        "title": "ChartMill",
+        "url": "http://www.chartmill.com"
+      },
+      "symbols": [
+        {
+          "id": 801,
+          "symbol": "ALGN",
+          "title": "Align Technology Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 7277
+        },
+        {
+          "id": 7569,
+          "symbol": "UNH",
+          "title": "Unitedhealth Group, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 12253
+        },
+        {
+          "id": 12992,
+          "symbol": "NTLA",
+          "title": "Intellia Therapeutics ",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 5084
+        }
+      ],
+      "links": [
+        {
+          "title": null,
+          "url": "https://www.chartmill.com/stock/stock-screener?v=5&f=s_pmg,p_pg10,v1_50b500,exch_us&utm_source=stocktwits&utm_medium=screener&utm_content=Stock_Screener:_pre_market_gainers&utm_campaign=social_tracking",
+          "shortened_url": "https://www.chartmill.com/stock/stock-screener?v=5&f=s_pmg,p_pg10,v1_50b500,exch_us&utm_source=stocktwits&utm_medium=screener&utm_content=Stock_Screener:_pre_market_gainers&utm_campaign=social_tracking",
+          "shortened_expanded_url": "chartmill.com/stock/stock-s...",
+          "description": null,
+          "image": null,
+          "created_at": "2020-11-09T13:27:00Z",
+          "video_url": null,
+          "source": {
+            "name": "Chartmill",
+            "website": "https://www.chartmill.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255263897,
+      "body": "$ALGN i am going to short this like a stuck pig.",
+      "created_at": "2020-11-09T13:19:36Z",
+      "user": {
+        "id": 3339807,
+        "username": "treydur",
+        "name": "treydur",
+        "avatar_url": "https://avatars.stocktwits.com/production/3339807/thumb-1589332858.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3339807/thumb-1589332858.png",
+        "join_date": "2020-04-21",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 17,
+        "following": 19,
+        "ideas": 2837,
+        "watchlist_stocks_count": 17,
+        "like_count": 341,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 801,
+          "symbol": "ALGN",
+          "title": "Align Technology Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 7277
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          1656720
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255254460,
+      "body": "$ALGN crazy what we are seeing. broader markets up, this is up on only 2k shares traded, but huge rotation out of tech as people switch to buy Industrials and other companies hammered by COVID. Where will it go? The run up due to the earnings release mentioned the \u201czoom\u201d effect. and zoom getting clobbered. We shall see!",
+      "created_at": "2020-11-09T12:52:19Z",
+      "user": {
+        "id": 1656720,
+        "username": "Dudemastafunk",
+        "name": "Christopher Holdsworth",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2018-10-11",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 3,
+        "following": 2,
+        "ideas": 115,
+        "watchlist_stocks_count": 5,
+        "like_count": 62,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 801,
+          "symbol": "ALGN",
+          "title": "Align Technology Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 7277
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          1656720
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bearish"
+        }
+      }
+    },
+    {
+      "id": 255225227,
+      "body": "$ALGN - should i buy more ??? lost on this valuation",
+      "created_at": "2020-11-09T09:28:20Z",
+      "user": {
+        "id": 3292880,
+        "username": "bikistocktwit",
+        "name": "Biky Omaha",
+        "avatar_url": "https://avatars.stocktwits.com/production/3292880/thumb-1603174542.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3292880/thumb-1603174542.png",
+        "join_date": "2020-04-11",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 78,
+        "following": 173,
+        "ideas": 1376,
+        "watchlist_stocks_count": 110,
+        "like_count": 586,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 801,
+          "symbol": "ALGN",
+          "title": "Align Technology Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 7279
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_255225227.png",
+          "large": "https://charts.stocktwits.com/production/large_255225227.png",
+          "original": "https://charts.stocktwits.com/production/original_255225227.png",
+          "url": "https://charts.stocktwits.com/production/original_255225227.png"
+        },
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255223536,
+      "body": "$NIO $TLRY $ACB $UNH $ALGN I was asking if any of my followers made money on those 1000%+ calls\n\nTLRY 500%+ from Thu alert\nACB 300%+ from Fri alert\nNIO $39C yesterday 800%+\nNIO be$30C OCT 30 2000%\nNIO $40C Nov 6th 1000%\nALGN $460C Nov6th calls 1300%\nUNH $310C Nov 6th calls 1000%+\nZM 480C 500%",
+      "created_at": "2020-11-09T09:00:01Z",
+      "user": {
+        "id": 1486401,
+        "username": "JoeAlerts",
+        "name": "JoeAlerts",
+        "avatar_url": "https://avatars.stocktwits.com/production/1486401/thumb-1554931819.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1486401/thumb-1554931819.png",
+        "join_date": "2018-05-04",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 11735,
+        "following": 0,
+        "ideas": 7203,
+        "watchlist_stocks_count": 0,
+        "like_count": 1408,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 801,
+          "symbol": "ALGN",
+          "title": "Align Technology Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 7277
+        },
+        {
+          "id": 6499,
+          "symbol": "NIO",
+          "title": "NIO Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 138413
+        },
+        {
+          "id": 7569,
+          "symbol": "UNH",
+          "title": "Unitedhealth Group, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 12253
+        },
+        {
+          "id": 14741,
+          "symbol": "TLRY",
+          "title": "Tilray, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 58865
+        },
+        {
+          "id": 15005,
+          "symbol": "ACB",
+          "title": "Aurora Cannabis Inc",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 89757
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 255223536,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "likes": {
+        "total": 6,
+        "user_ids": [
+          3397402,
+          3594428,
+          3796773,
+          2766836,
+          1572950,
+          4158768
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_255223536.png",
+          "large": "https://charts.stocktwits.com/production/large_255223536.png",
+          "original": "https://charts.stocktwits.com/production/original_255223536.png",
+          "url": "https://charts.stocktwits.com/production/original_255223536.png"
+        },
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255198776,
+      "body": "$ALGN Need to sell my Puts",
+      "created_at": "2020-11-09T02:21:03Z",
+      "user": {
+        "id": 3093047,
+        "username": "ELONsaid2High",
+        "name": "D",
+        "avatar_url": "https://avatars.stocktwits.com/production/3093047/thumb-1597729250.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3093047/thumb-1597729250.png",
+        "join_date": "2020-02-13",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 35,
+        "following": 20,
+        "ideas": 2162,
+        "watchlist_stocks_count": 297,
+        "like_count": 999,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 801,
+          "symbol": "ALGN",
+          "title": "Align Technology Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 7279
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          3547140
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bearish"
+        }
+      }
+    },
+    {
+      "id": 255164935,
+      "body": "Your daily News digest for Align Technology $ALGN https://wsfriend.com/daily/news/ALGN/2020-11-08/",
+      "created_at": "2020-11-08T20:53:37Z",
+      "user": {
+        "id": 732840,
+        "username": "WallStreetFriend",
+        "name": "Wall Street Friend",
+        "avatar_url": "https://avatars.stocktwits.com/production/732840/thumb-1577167895.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/732840/thumb-1577167895.png",
+        "join_date": "2016-04-17",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 563,
+        "following": 39,
+        "ideas": 73561,
+        "watchlist_stocks_count": 31,
+        "like_count": 94,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5142,
+        "title": "Programmatic Alerts ",
+        "url": "https://wsfriend.com"
+      },
+      "symbols": [
+        {
+          "id": 801,
+          "symbol": "ALGN",
+          "title": "Align Technology Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 7279
+        }
+      ],
+      "links": [
+        {
+          "title": "ALGN Trending News and Daily News Digest for on Nov 08, 2020",
+          "url": "https://wsfriend.com/daily/news/ALGN/2020-11-08/",
+          "shortened_url": "https://wsfriend.com/daily/news/ALGN/2020-11-08/",
+          "shortened_expanded_url": "wsfriend.com/daily/news/ALG...",
+          "description": "ALGN Dail News Digest and Top trending news for",
+          "image": "https://assets.entrepreneur.com/content/3x2/2000/1601922899-GettyImages-1153816901.jpg",
+          "created_at": "2020-11-08T20:53:39Z",
+          "video_url": null,
+          "source": {
+            "name": "Wsfriend",
+            "website": "https://wsfriend.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255164127,
+      "body": "Best 3-month total returns in S&amp;P 500 as of 11/6/2020: 1. Tapestry $TPR (73.34%), 2. FedEx $FDX (62.91%), 3. Align Technology $ALGN (58.33%), 4. Gap $GPS (56.77%), 5. Under Armour (Class A) $UAA (46.06%). Average 3-month total return to all stocks in the index was 5.81% #3MonthBest",
+      "created_at": "2020-11-08T20:44:50Z",
+      "user": {
+        "id": 1495079,
+        "username": "EquityStatsDotCom",
+        "name": "Equity Stats",
+        "avatar_url": "https://avatars.stocktwits.com/production/1495079/thumb-1526819316.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1495079/thumb-1526819316.png",
+        "join_date": "2018-05-14",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 647,
+        "following": 1,
+        "ideas": 4770,
+        "watchlist_stocks_count": 0,
+        "like_count": 55,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 801,
+          "symbol": "ALGN",
+          "title": "Align Technology Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 7280
+        },
+        {
+          "id": 4796,
+          "symbol": "TPR",
+          "title": "Tapestry Inc.",
+          "aliases": [
+            "COH"
+          ],
+          "is_following": false,
+          "watchlist_count": 4111
+        },
+        {
+          "id": 5322,
+          "symbol": "FDX",
+          "title": "FedEx Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 19579
+        },
+        {
+          "id": 5576,
+          "symbol": "GPS",
+          "title": "Gap Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 8142
+        },
+        {
+          "id": 7529,
+          "symbol": "UAA",
+          "title": "Under Armour, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 44306
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          1322300
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255138281,
+      "body": "$ALGN so puts getting busted tomorrow",
+      "created_at": "2020-11-08T15:23:10Z",
+      "user": {
+        "id": 1704450,
+        "username": "jaques",
+        "name": "Jaques",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2018-11-09",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 2,
+        "following": 0,
+        "ideas": 2,
+        "watchlist_stocks_count": 27,
+        "like_count": 7,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 801,
+          "symbol": "ALGN",
+          "title": "Align Technology Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 7284
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 255113696,
+      "body": "$ALGN bounce city",
+      "created_at": "2020-11-08T03:55:33Z",
+      "user": {
+        "id": 697855,
+        "username": "Yurmst",
+        "name": "Emmanuel Falade",
+        "avatar_url": "https://avatars.stocktwits.com/production/697855/thumb-1519624610.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/697855/thumb-1519624610.png",
+        "join_date": "2016-03-02",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 546,
+        "following": 54,
+        "ideas": 4581,
+        "watchlist_stocks_count": 240,
+        "like_count": 5322,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 801,
+          "symbol": "ALGN",
+          "title": "Align Technology Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 7279
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 255082775,
+      "body": "$ALGN Biden won\u2019t help your teeth \ud83d\ude02",
+      "created_at": "2020-11-07T22:34:19Z",
+      "user": {
+        "id": 3093047,
+        "username": "ELONsaid2High",
+        "name": "D",
+        "avatar_url": "https://avatars.stocktwits.com/production/3093047/thumb-1597729250.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3093047/thumb-1597729250.png",
+        "join_date": "2020-02-13",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 36,
+        "following": 20,
+        "ideas": 2162,
+        "watchlist_stocks_count": 297,
+        "like_count": 999,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 801,
+          "symbol": "ALGN",
+          "title": "Align Technology Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 7280
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bearish"
+        }
+      }
+    },
+    {
+      "id": 255074873,
+      "body": "$ALGN Julie Tay sold 6,000 shares [Average Conviction] www.insider-analysis.com/search_transactions.php?ticker=TABLE_ALGN",
+      "created_at": "2020-11-07T21:04:23Z",
+      "user": {
+        "id": 2965453,
+        "username": "Insider_Analysis",
+        "name": "Insider Analysis",
+        "avatar_url": "https://avatars.stocktwits.com/production/2965453/thumb-1583012785.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2965453/thumb-1583012785.png",
+        "join_date": "2019-12-13",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 692,
+        "following": 0,
+        "ideas": 31629,
+        "watchlist_stocks_count": 15,
+        "like_count": 22,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5476,
+        "title": "Insider Analysis",
+        "url": "http://www.insider-analysis.com/"
+      },
+      "symbols": [
+        {
+          "id": 801,
+          "symbol": "ALGN",
+          "title": "Align Technology Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 7279
+        }
+      ],
+      "links": [
+        {
+          "title": "Insider Analysis",
+          "url": "www.insider-analysis.com/search_transactions.php?ticker=TABLE_ALGN",
+          "shortened_url": "www.insider-analysis.com/search_transactions.php?ticker=TABLE_ALGN",
+          "shortened_expanded_url": "insider-analysis.com/search...",
+          "description": "InsiderAnalysis - Trade ideas from insider activities INSIDER ANALYSIS, INC .",
+          "image": null,
+          "created_at": "2020-11-07T21:04:25Z",
+          "video_url": null,
+          "source": {
+            "name": "Insider-analysis",
+            "website": "https://insider-analysis.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255073825,
+      "body": "Your daily News digest for Align Technology $ALGN https://wsfriend.com/daily/news/ALGN/2020-11-07/",
+      "created_at": "2020-11-07T20:53:21Z",
+      "user": {
+        "id": 732840,
+        "username": "WallStreetFriend",
+        "name": "Wall Street Friend",
+        "avatar_url": "https://avatars.stocktwits.com/production/732840/thumb-1577167895.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/732840/thumb-1577167895.png",
+        "join_date": "2016-04-17",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 563,
+        "following": 39,
+        "ideas": 73561,
+        "watchlist_stocks_count": 31,
+        "like_count": 94,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5142,
+        "title": "Programmatic Alerts ",
+        "url": "https://wsfriend.com"
+      },
+      "symbols": [
+        {
+          "id": 801,
+          "symbol": "ALGN",
+          "title": "Align Technology Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 7279
+        }
+      ],
+      "links": [
+        {
+          "title": "ALGN Trending News and Daily News Digest for on Nov 07, 2020",
+          "url": "https://wsfriend.com/daily/news/ALGN/2020-11-07/",
+          "shortened_url": "https://wsfriend.com/daily/news/ALGN/2020-11-07/",
+          "shortened_expanded_url": "wsfriend.com/daily/news/ALG...",
+          "description": "ALGN Dail News Digest and Top trending news for",
+          "image": "https://mma.prnewswire.com/media/1328650/Student_troubleshoots.jpg?p=facebook",
+          "created_at": "2020-11-07T20:53:23Z",
+          "video_url": null,
+          "source": {
+            "name": "Wsfriend",
+            "website": "https://wsfriend.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254993062,
+      "body": "You guys knew this chart was coming $ALGN",
+      "created_at": "2020-11-07T00:20:07Z",
+      "user": {
+        "id": 811974,
+        "username": "SonGoku",
+        "name": "Goku",
+        "avatar_url": "https://avatars.stocktwits.com/production/811974/thumb-1553153857.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/811974/thumb-1553153857.png",
+        "join_date": "2016-08-04",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 5889,
+        "following": 5374,
+        "ideas": 154638,
+        "watchlist_stocks_count": 61,
+        "like_count": 66161,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 801,
+          "symbol": "ALGN",
+          "title": "Align Technology Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 7283
+        }
+      ],
+      "likes": {
+        "total": 3,
+        "user_ids": [
+          1421403,
+          697855,
+          3292880
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_254993062.png",
+          "large": "https://charts.stocktwits.com/production/large_254993062.png",
+          "original": "https://charts.stocktwits.com/production/original_254993062.png",
+          "url": "https://charts.stocktwits.com/production/original_254993062.png"
+        },
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254987779,
+      "body": "Align Technology&#39;s SVP &amp; Mng Dir. Asia Pacific just disposed of 6,000 shares  http://www.conferencecalltranscripts.org/4/summary2/?id=8531357 $ALGN",
+      "created_at": "2020-11-06T23:38:26Z",
+      "user": {
+        "id": 210967,
+        "username": "cctranscripts",
+        "name": "Conference Call Transcripts",
+        "avatar_url": "https://avatars.stocktwits.com/production/210967/thumb-1363372333.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/210967/thumb-1363372333.png",
+        "join_date": "2013-01-30",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 6362,
+        "following": 10,
+        "ideas": 2375050,
+        "watchlist_stocks_count": 0,
+        "like_count": 758,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1130,
+        "title": "cctranscripts",
+        "url": "http://conferencecalltranscripts.org"
+      },
+      "symbols": [
+        {
+          "id": 801,
+          "symbol": "ALGN",
+          "title": "Align Technology Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 7280
+        }
+      ],
+      "links": [
+        {
+          "title": "Conference Call Transcripts",
+          "url": "http://www.conferencecalltranscripts.org/4/summary2/?id=8531357",
+          "shortened_url": "http://www.conferencecalltranscripts.org/4/summary2/?id=8531357",
+          "shortened_expanded_url": "conferencecalltranscripts.o...",
+          "description": "Get notified next time ALGN.US makes a similar move! Julie Tay, Align Technology's SVP & Mng Dir. Asia Pacific, recently disposed of 6,000 shares of the company. The disposals took place at prices ranging from $472.23 to $480.00 per share, on November 04, 2020. Tay still owns 17,692 shares of the company.",
+          "image": null,
+          "created_at": "2020-11-06T23:38:27Z",
+          "video_url": null,
+          "source": {
+            "name": "Conferencecalltranscripts",
+            "website": "http://www.conferencecalltranscripts.org"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    }
+  ]
+}

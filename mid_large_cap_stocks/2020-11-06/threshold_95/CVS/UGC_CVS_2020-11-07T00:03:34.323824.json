@@ -1,0 +1,1673 @@
+{
+  "response": {
+    "status": 200
+  },
+  "symbol": {
+    "id": 4873,
+    "symbol": "CVS",
+    "title": "CVS Caremark Corporation",
+    "aliases": [],
+    "is_following": false,
+    "watchlist_count": 19784
+  },
+  "cursor": {
+    "more": true,
+    "since": 254875117,
+    "max": 254847871
+  },
+  "messages": [
+    {
+      "id": 254875117,
+      "body": "$CVS +6%+ on E and Rev beats.",
+      "created_at": "2020-11-06T16:03:16Z",
+      "user": {
+        "id": 15302,
+        "username": "SunAndStorm",
+        "name": "David Durand",
+        "avatar_url": "https://avatars.stocktwits.com/production/15302/thumb-1393022401.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/15302/thumb-1393022401.png",
+        "join_date": "2010-05-18",
+        "official": false,
+        "identity": "User",
+        "classification": [
+          "suggested"
+        ],
+        "followers": 32546,
+        "following": 5,
+        "ideas": 36830,
+        "watchlist_stocks_count": 69,
+        "like_count": 597,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 4873,
+          "symbol": "CVS",
+          "title": "CVS Caremark Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 19784
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254875097,
+      "body": "$CVS NEW ARTICLE : CVS Health Names New CEO, Increasing Female Leadership Of S&amp;P 500 Companies https://www.stck.pro/news/CVS/8972750",
+      "created_at": "2020-11-06T16:03:14Z",
+      "user": {
+        "id": 1555408,
+        "username": "STCKPRO",
+        "name": "STCK.PRO",
+        "avatar_url": "https://avatars.stocktwits.com/production/1555408/thumb-1576077822.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1555408/thumb-1576077822.png",
+        "join_date": "2018-07-24",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 4433,
+        "following": 2,
+        "ideas": 272951,
+        "watchlist_stocks_count": 18,
+        "like_count": 52,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5011,
+        "title": "STCK.PRO",
+        "url": "https://dashboard.stck.pro"
+      },
+      "symbols": [
+        {
+          "id": 4873,
+          "symbol": "CVS",
+          "title": "CVS Caremark Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 19784
+        }
+      ],
+      "links": [
+        {
+          "title": "CVS Health (CVS)",
+          "url": "https://www.stck.pro/news/CVS/8972750",
+          "shortened_url": "https://www.stck.pro/news/CVS/8972750",
+          "shortened_expanded_url": "stck.pro/news/CVS",
+          "description": "Never miss an important article again, stay on top of your investments and become a better investor today! Get your moat on and sync your watchlist with Stocktwits and get all the latest news for your symbols. Sync with Stocktwits",
+          "image": "https://www.stck.pro/img/imac.png",
+          "created_at": "2020-11-06T16:03:21Z",
+          "video_url": null,
+          "source": {
+            "name": "Stck",
+            "website": "https://www.stck.pro"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_254875097.jpg",
+          "large": "https://charts.stocktwits.com/production/large_254875097.jpg",
+          "original": "https://charts.stocktwits.com/production/original_254875097.jpg",
+          "url": "https://charts.stocktwits.com/production/original_254875097.jpg"
+        },
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254874438,
+      "body": "$CVS THINK $FDX $ups move",
+      "created_at": "2020-11-06T16:01:27Z",
+      "user": {
+        "id": 599515,
+        "username": "INCRDHULKtrder",
+        "name": "James Benoit",
+        "avatar_url": "https://avatars.stocktwits.com/production/599515/thumb-1443535987.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/599515/thumb-1443535987.png",
+        "join_date": "2015-09-15",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 127,
+        "following": 30,
+        "ideas": 12376,
+        "watchlist_stocks_count": 66,
+        "like_count": 1547,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2095,
+        "title": "StockTwits For Android ",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 4873,
+          "symbol": "CVS",
+          "title": "CVS Caremark Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 19784
+        },
+        {
+          "id": 5322,
+          "symbol": "FDX",
+          "title": "FedEx Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 19545
+        },
+        {
+          "id": 7577,
+          "symbol": "UPS",
+          "title": "United Parcel Service, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 14126
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254874275,
+      "body": "$CVS 120 NEAR TERM",
+      "created_at": "2020-11-06T16:01:04Z",
+      "user": {
+        "id": 599515,
+        "username": "INCRDHULKtrder",
+        "name": "James Benoit",
+        "avatar_url": "https://avatars.stocktwits.com/production/599515/thumb-1443535987.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/599515/thumb-1443535987.png",
+        "join_date": "2015-09-15",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 127,
+        "following": 30,
+        "ideas": 12376,
+        "watchlist_stocks_count": 66,
+        "like_count": 1547,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2095,
+        "title": "StockTwits For Android ",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 4873,
+          "symbol": "CVS",
+          "title": "CVS Caremark Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 19784
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          2219002
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254872766,
+      "body": "$CVS big congrats to the guy/gal who bought my weekly hedge calls very well played. 10 bagger",
+      "created_at": "2020-11-06T15:56:59Z",
+      "user": {
+        "id": 3455984,
+        "username": "d_investor",
+        "name": "David",
+        "avatar_url": "https://avatars.stocktwits.com/production/3455984/thumb-1591391304.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3455984/thumb-1591391304.png",
+        "join_date": "2020-05-14",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 5,
+        "following": 3,
+        "ideas": 410,
+        "watchlist_stocks_count": 1,
+        "like_count": 203,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 4873,
+          "symbol": "CVS",
+          "title": "CVS Caremark Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 19784
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254869707,
+      "body": "CVS Is Aggressive and Optimistic, and I&#39;m Long the Shares $CVS https://realmoney.thestreet.com/investing/cvs-is-aggressive-and-optimistic-and-i-m-long-the-shares-15481993",
+      "created_at": "2020-11-06T15:48:55Z",
+      "user": {
+        "id": 286647,
+        "username": "Sarge986",
+        "name": "Stephen Guilfoyle",
+        "avatar_url": "https://avatars.stocktwits.com/production/286647/thumb-1502440767.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/286647/thumb-1502440767.png",
+        "join_date": "2013-12-02",
+        "official": true,
+        "identity": "Official",
+        "classification": [
+          "suggested",
+          "official"
+        ],
+        "followers": 669,
+        "following": 31,
+        "ideas": 4664,
+        "watchlist_stocks_count": 40,
+        "like_count": 91,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 4873,
+          "symbol": "CVS",
+          "title": "CVS Caremark Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 19784
+        }
+      ],
+      "links": [
+        {
+          "title": "CVS Is Aggressive and Optimistic, and I'm Long the Shares",
+          "url": "https://realmoney.thestreet.com/investing/cvs-is-aggressive-and-optimistic-and-i-m-long-the-shares-15481993",
+          "shortened_url": "https://realmoney.thestreet.com/investing/cvs-is-aggressive-and-optimistic-and-i-m-long-the-shares-15481993",
+          "shortened_expanded_url": "realmoney.thestreet.com/inv...",
+          "description": "CVS Health ( CVS) reported the firm's fiscal third quarter performance on Friday (this) morning. The firm posted adjusted EPS of $1.66, easily beating Wall Street's expectations. As for revenue generation, CVS put a $67.1 billion print to the tape.",
+          "image": "http://s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/cvspharmacy-2.jpg",
+          "created_at": "2020-11-06T15:48:55Z",
+          "video_url": null,
+          "source": {
+            "name": "RealMoney",
+            "website": "https://realmoney.thestreet.com"
+          }
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          4085701
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254868542,
+      "body": "$CVS congrats to all the longs who stuck it out. This day is ours.",
+      "created_at": "2020-11-06T15:45:43Z",
+      "user": {
+        "id": 1107120,
+        "username": "rickeyreed",
+        "name": "Rickey Reed",
+        "avatar_url": "https://avatars.stocktwits.com/production/1107120/thumb-1574326195.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1107120/thumb-1574326195.png",
+        "join_date": "2017-06-27",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 1,
+        "following": 2,
+        "ideas": 22,
+        "watchlist_stocks_count": 6,
+        "like_count": 8,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 4873,
+          "symbol": "CVS",
+          "title": "CVS Caremark Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 19784
+        }
+      ],
+      "likes": {
+        "total": 5,
+        "user_ids": [
+          657203,
+          1587385,
+          1314204,
+          1584618,
+          3310269
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 254868373,
+      "body": "$CVS",
+      "created_at": "2020-11-06T15:45:17Z",
+      "user": {
+        "id": 2841616,
+        "username": "malvarez94",
+        "name": "Michael Alvarez",
+        "avatar_url": "https://avatars.stocktwits.com/production/2841616/thumb-1594234158.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2841616/thumb-1594234158.png",
+        "join_date": "2019-10-04",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 2,
+        "following": 1,
+        "ideas": 559,
+        "watchlist_stocks_count": 27,
+        "like_count": 644,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2095,
+        "title": "StockTwits For Android ",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 4873,
+          "symbol": "CVS",
+          "title": "CVS Caremark Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 19784
+        }
+      ],
+      "likes": {
+        "total": 3,
+        "user_ids": [
+          4085701,
+          2219002,
+          3310269
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "giphy": {
+          "id": "3ohzdIuqJoo8QdKlnW",
+          "ratio": 2.1652173913043478
+        },
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254868156,
+      "body": "$CVS CVS Health Stock Jumps on Raised Outlook, New CEO Named \n\nhttps://newsfilter.io/a/c159d1606fba99d36439af6df11b9626",
+      "created_at": "2020-11-06T15:44:44Z",
+      "user": {
+        "id": 2762379,
+        "username": "Newsfilter",
+        "name": "@newsfilterio",
+        "avatar_url": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "join_date": "2019-09-01",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 7571,
+        "following": 16,
+        "ideas": 613444,
+        "watchlist_stocks_count": 1,
+        "like_count": 531,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 4873,
+          "symbol": "CVS",
+          "title": "CVS Caremark Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 19784
+        }
+      ],
+      "links": [
+        {
+          "title": "CVS Health Stock Jumps on Raised Outlook, New CEO Named",
+          "url": "https://newsfilter.io/a/c159d1606fba99d36439af6df11b9626",
+          "shortened_url": "https://newsfilter.io/a/c159d1606fba99d36439af6df11b9626",
+          "shortened_expanded_url": "newsfilter.io/a/c159d1606fb...",
+          "description": "CVS Health said its outlook for full-year profits has improved because of a surge in coronavirus testing, and it named a new chief executive, beginning in February. CVS (ticker: CVS) said Friday that its third-quarter revenue of $67.1 billion was 3.5% higher than last year, driven by growth in its insurance and retail businesses.",
+          "image": "https://images.barrons.com/im-256224?width=620&size=1.5",
+          "created_at": "2020-11-06T15:44:46Z",
+          "video_url": null,
+          "source": {
+            "name": "Newsfilter",
+            "website": "https://newsfilter.io"
+          }
+        }
+      ],
+      "likes": {
+        "total": 2,
+        "user_ids": [
+          1587385,
+          2219002
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254867085,
+      "body": "$CVS Return On Capital Employed Overview: CVS Health \n\nhttps://newsfilter.io/a/ffdc4f2ba18ecfaff2f72576b81e747c",
+      "created_at": "2020-11-06T15:41:45Z",
+      "user": {
+        "id": 2762379,
+        "username": "Newsfilter",
+        "name": "@newsfilterio",
+        "avatar_url": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "join_date": "2019-09-01",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 7568,
+        "following": 16,
+        "ideas": 613326,
+        "watchlist_stocks_count": 1,
+        "like_count": 531,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 4873,
+          "symbol": "CVS",
+          "title": "CVS Caremark Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 19784
+        }
+      ],
+      "links": [
+        {
+          "title": "Return On Capital Employed Overview: CVS Health",
+          "url": "https://newsfilter.io/a/ffdc4f2ba18ecfaff2f72576b81e747c",
+          "shortened_url": "https://newsfilter.io/a/ffdc4f2ba18ecfaff2f72576b81e747c",
+          "shortened_expanded_url": "newsfilter.io/a/ffdc4f2ba18...",
+          "description": "CVS Health posted a 32.27% decrease in earnings from Q2. Sales, however, increased by 2.62% over the previous quarter to $67.06 billion. Despite the increase in sales this quarter, the decrease in earnings may suggest CVS Health is not utilizing their capital as effectively as possible...",
+          "image": "https://newsfilter.io/meta-images/?url=https://storage.googleapis.com/iex/api/logos/CVS.png",
+          "created_at": "2020-11-06T15:41:45Z",
+          "video_url": null,
+          "source": {
+            "name": "Newsfilter",
+            "website": "https://newsfilter.io"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254865672,
+      "body": "$CVS CVS Health raises 2020 earnings guidance as medical services pays off https://www.cnbc.com/2020/11/05/cvs-health-cvs-earnings-q3-2020.html?__source=iosappshare%7Ccom.apple.UIKit.activity.CopyToPasteboard",
+      "created_at": "2020-11-06T15:37:52Z",
+      "user": {
+        "id": 1587385,
+        "username": "nagataaa",
+        "name": "Joshua Nagata",
+        "avatar_url": "https://avatars.stocktwits.com/production/1587385/thumb-1586984031.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1587385/thumb-1586984031.png",
+        "join_date": "2018-08-25",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 9,
+        "following": 17,
+        "ideas": 91,
+        "watchlist_stocks_count": 77,
+        "like_count": 690,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 4873,
+          "symbol": "CVS",
+          "title": "CVS Caremark Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 19784
+        }
+      ],
+      "links": [
+        {
+          "title": "CVS Health raises 2020 earnings guidance as plan to offer wide range of medical services pays off",
+          "url": "https://www.cnbc.com/2020/11/05/cvs-health-cvs-earnings-q3-2020.html?__source=iosappshare%7Ccom.apple.UIKit.activity.CopyToPasteboard",
+          "shortened_url": "https://www.cnbc.com/2020/11/05/cvs-health-cvs-earnings-q3-2020.html?__source=iosappshare%7Ccom.apple.UIKit.activity.CopyToPasteboard",
+          "shortened_expanded_url": "cnbc.com/2020/11/05/cvs-hea...",
+          "description": "CVS Health reported a better-than-expected 3.5% jump in third-quarter revenue and raised its 2020 earnings guidance on Friday as its plan to remake the drugstore chain into a health service company paid off. Offering everything from insurance to Covid-19 testing, the health-care company also named a new CEO.",
+          "image": "https://image.cnbcfm.com/api/v1/image/106765587-16038851682020-10-27t210257z_1743582337_rc29rj9orqbw_rtrmadp_0_usa-health-flu.jpeg?v=1603885217",
+          "created_at": "2020-11-06T15:37:55Z",
+          "video_url": null,
+          "source": {
+            "name": "CNBC",
+            "website": "https://www.cnbc.com"
+          }
+        }
+      ],
+      "likes": {
+        "total": 2,
+        "user_ids": [
+          2841616,
+          3310269
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_254865672.gif",
+          "large": "https://charts.stocktwits.com/production/large_254865672.gif",
+          "original": "https://charts.stocktwits.com/production/original_254865672.gif",
+          "url": "https://charts.stocktwits.com/production/original_254865672.gif"
+        },
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 254864438,
+      "body": "$CVS",
+      "created_at": "2020-11-06T15:34:32Z",
+      "user": {
+        "id": 2016637,
+        "username": "Thereal2x",
+        "name": "Tom",
+        "avatar_url": "https://avatars.stocktwits.com/production/2016637/thumb-1565475173.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2016637/thumb-1565475173.png",
+        "join_date": "2019-04-17",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 62,
+        "following": 20,
+        "ideas": 4473,
+        "watchlist_stocks_count": 44,
+        "like_count": 20891,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2095,
+        "title": "StockTwits For Android ",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 4873,
+          "symbol": "CVS",
+          "title": "CVS Caremark Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 19784
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 254864438,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          1587385
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_254864438.jpg",
+          "large": "https://charts.stocktwits.com/production/large_254864438.jpg",
+          "original": "https://charts.stocktwits.com/production/original_254864438.jpg",
+          "url": "https://charts.stocktwits.com/production/original_254864438.jpg"
+        },
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 254862027,
+      "body": "$CVS congratulations \ud83c\udf7e\ud83c\udf8a\ud83c\udf89...on our way to +$70 maybe even today!!!",
+      "created_at": "2020-11-06T15:27:59Z",
+      "user": {
+        "id": 3942844,
+        "username": "TradeDave",
+        "name": "David",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2020-08-12",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 5,
+        "following": 0,
+        "ideas": 251,
+        "watchlist_stocks_count": 8,
+        "like_count": 355,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 4873,
+          "symbol": "CVS",
+          "title": "CVS Caremark Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 19784
+        }
+      ],
+      "likes": {
+        "total": 9,
+        "user_ids": [
+          1587385,
+          3339040,
+          791414,
+          3850889,
+          855277,
+          3193487,
+          2841616,
+          1584618,
+          3636937
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 254861915,
+      "body": "$CVS I\u2019m new to option trading. But today I woke up to $2000 from @tmus and I\u2019m addicted. Can someone help with what call option I should do with cvs? Please",
+      "created_at": "2020-11-06T15:27:40Z",
+      "user": {
+        "id": 3626020,
+        "username": "Jessicaporreca",
+        "name": "Jessica porreca",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2020-06-15",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 2,
+        "following": 4,
+        "ideas": 32,
+        "watchlist_stocks_count": 69,
+        "like_count": 28,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 4873,
+          "symbol": "CVS",
+          "title": "CVS Caremark Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 19784
+        }
+      ],
+      "mentioned_users": [
+        "@tmus"
+      ],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254861421,
+      "body": "$CVS what\u2019s wrong with this stock today? 5% up on its results day and on a down market day!",
+      "created_at": "2020-11-06T15:26:16Z",
+      "user": {
+        "id": 453704,
+        "username": "killMe",
+        "name": "killMe",
+        "avatar_url": "https://avatars.stocktwits.com/production/453704/thumb-1529575623.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/453704/thumb-1529575623.png",
+        "join_date": "2015-01-23",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 9,
+        "following": 55,
+        "ideas": 238,
+        "watchlist_stocks_count": 105,
+        "like_count": 409,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 4873,
+          "symbol": "CVS",
+          "title": "CVS Caremark Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 19784
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254860679,
+      "body": "Put you profits from $CVS into $ISR and possibly double your money next week.  \nThen come back and buy the dip!",
+      "created_at": "2020-11-06T15:23:56Z",
+      "user": {
+        "id": 2135892,
+        "username": "Fundamentally",
+        "name": "Mr. Fishers",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2019-06-12",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 41,
+        "following": 15,
+        "ideas": 3578,
+        "watchlist_stocks_count": 27,
+        "like_count": 829,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 302,
+          "symbol": "ISR",
+          "title": "IsoRay, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 8247
+        },
+        {
+          "id": 4873,
+          "symbol": "CVS",
+          "title": "CVS Caremark Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 19784
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          789643
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 254859765,
+      "body": "$CVS Trade alert for 68C expiring 20th November",
+      "created_at": "2020-11-06T15:21:21Z",
+      "user": {
+        "id": 683856,
+        "username": "ivandsouza75",
+        "name": "Ivandsouza",
+        "avatar_url": "https://avatars.stocktwits.com/production/683856/thumb-1478290501.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/683856/thumb-1478290501.png",
+        "join_date": "2016-02-05",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 562,
+        "following": 162,
+        "ideas": 16211,
+        "watchlist_stocks_count": 289,
+        "like_count": 12840,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2095,
+        "title": "StockTwits For Android ",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 4873,
+          "symbol": "CVS",
+          "title": "CVS Caremark Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 19778
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254859554,
+      "body": "1208 $CVS JAN2021 $70 Cs bought 1.04",
+      "created_at": "2020-11-06T15:20:47Z",
+      "user": {
+        "id": 323598,
+        "username": "androsForm",
+        "name": "Rishesh Singh",
+        "avatar_url": "https://avatars.stocktwits.com/production/323598/thumb-1395157246.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/323598/thumb-1395157246.png",
+        "join_date": "2014-03-04",
+        "official": false,
+        "identity": "User",
+        "classification": [
+          "suggested"
+        ],
+        "followers": 20621,
+        "following": 1756,
+        "ideas": 42379,
+        "watchlist_stocks_count": 21,
+        "like_count": 24192,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 4873,
+          "symbol": "CVS",
+          "title": "CVS Caremark Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 19778
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254858324,
+      "body": "$CVS maybe this is like when Steve left $msft and it grew significantly over the years.",
+      "created_at": "2020-11-06T15:17:06Z",
+      "user": {
+        "id": 599515,
+        "username": "INCRDHULKtrder",
+        "name": "James Benoit",
+        "avatar_url": "https://avatars.stocktwits.com/production/599515/thumb-1443535987.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/599515/thumb-1443535987.png",
+        "join_date": "2015-09-15",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 127,
+        "following": 30,
+        "ideas": 12374,
+        "watchlist_stocks_count": 66,
+        "like_count": 1547,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2095,
+        "title": "StockTwits For Android ",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 2735,
+          "symbol": "MSFT",
+          "title": "Microsoft Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 268592
+        },
+        {
+          "id": 4873,
+          "symbol": "CVS",
+          "title": "CVS Caremark Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 19778
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254858111,
+      "body": "$CVS This thing is a bit slow moving, but be patient. It will cross $70 soon.",
+      "created_at": "2020-11-06T15:16:27Z",
+      "user": {
+        "id": 623998,
+        "username": "ikpk",
+        "name": "me",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2015-10-29",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 8,
+        "following": 70,
+        "ideas": 377,
+        "watchlist_stocks_count": 80,
+        "like_count": 152,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 4873,
+          "symbol": "CVS",
+          "title": "CVS Caremark Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 19784
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 254858111,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "likes": {
+        "total": 2,
+        "user_ids": [
+          1587385,
+          2841616
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 254856962,
+      "body": "$CVS A $90 stock that has been held down way too long",
+      "created_at": "2020-11-06T15:13:06Z",
+      "user": {
+        "id": 2954728,
+        "username": "DefNotWarrenBuffet",
+        "name": "Ryan B",
+        "avatar_url": "https://avatars.stocktwits.com/production/2954728/thumb-1599255575.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2954728/thumb-1599255575.png",
+        "join_date": "2019-12-07",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 5,
+        "following": 1,
+        "ideas": 171,
+        "watchlist_stocks_count": 144,
+        "like_count": 34,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 4873,
+          "symbol": "CVS",
+          "title": "CVS Caremark Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 19784
+        }
+      ],
+      "likes": {
+        "total": 5,
+        "user_ids": [
+          4163364,
+          623998,
+          670397,
+          1587385,
+          2016637
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254856620,
+      "body": "CVS Health third-quarter sales rises on pharmacy boost\n\nhttps://pageone.ng/2020/11/06/cvs-health-third-quarter-sales-rises-on-pharmacy-boost/\n\n$CVS $WMT",
+      "created_at": "2020-11-06T15:12:08Z",
+      "user": {
+        "id": 3577261,
+        "username": "vinci86",
+        "name": "Samuel Odusami",
+        "avatar_url": "https://avatars.stocktwits.com/production/3577261/thumb-1591690423.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3577261/thumb-1591690423.png",
+        "join_date": "2020-06-08",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 105,
+        "following": 6,
+        "ideas": 4833,
+        "watchlist_stocks_count": 37,
+        "like_count": 5,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2095,
+        "title": "StockTwits For Android ",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 4873,
+          "symbol": "CVS",
+          "title": "CVS Caremark Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 19778
+        },
+        {
+          "id": 7745,
+          "symbol": "WMT",
+          "title": "Walmart Stores Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 81854
+        }
+      ],
+      "links": [
+        {
+          "title": "CVS Health third-quarter sales rises on pharmacy boost | PageOne",
+          "url": "https://pageone.ng/2020/11/06/cvs-health-third-quarter-sales-rises-on-pharmacy-boost/",
+          "shortened_url": "https://pageone.ng/2020/11/06/cvs-health-third-quarter-sales-rises-on-pharmacy-boost/",
+          "shortened_expanded_url": "pageone.ng/2020/11/06/cvs-h...",
+          "description": "(Reuters) - CVS Health posted a 3.5% rise in third-quarter sales on Friday, partly boosted by higher demand at its pharmacy stores that sell over-the-counter consumer health products and prescription drugs. Quarterly sales rose to $67.06 billion in the quarter from $64.81 billion a year earlier. (Reporting by Manas",
+          "image": "https://i1.wp.com/pageone.ng/wp-content/uploads/2020/09/7B5YDHCZWNCOHCCVSNGRZWICFY.jpg?fit=1024%2C844&ssl=1",
+          "created_at": "2020-11-06T15:12:12Z",
+          "video_url": null,
+          "source": {
+            "name": "PageOne",
+            "website": "https://pageone.ng"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254853988,
+      "body": "$CVS See ya Merlo. It was real, but let&#39;s see what new management can do.",
+      "created_at": "2020-11-06T15:05:13Z",
+      "user": {
+        "id": 1610014,
+        "username": "dojicandle",
+        "name": "dojicandle",
+        "avatar_url": "https://avatars.stocktwits.com/production/1610014/thumb-1537491057.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1610014/thumb-1537491057.png",
+        "join_date": "2018-09-13",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 6,
+        "following": 65,
+        "ideas": 333,
+        "watchlist_stocks_count": 257,
+        "like_count": 489,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2095,
+        "title": "StockTwits For Android ",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 4873,
+          "symbol": "CVS",
+          "title": "CVS Caremark Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 19778
+        }
+      ],
+      "likes": {
+        "total": 3,
+        "user_ids": [
+          657203,
+          3310269,
+          1587385
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254853062,
+      "body": "$CVS",
+      "created_at": "2020-11-06T15:02:42Z",
+      "user": {
+        "id": 2794646,
+        "username": "jdoesch",
+        "name": "jdoesch",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2019-09-06",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 1,
+        "following": 3,
+        "ideas": 137,
+        "watchlist_stocks_count": 0,
+        "like_count": 110,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2095,
+        "title": "StockTwits For Android ",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 4873,
+          "symbol": "CVS",
+          "title": "CVS Caremark Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 19778
+        }
+      ],
+      "likes": {
+        "total": 8,
+        "user_ids": [
+          4163364,
+          1587385,
+          1436857,
+          845451,
+          2273676,
+          2799968,
+          3310269,
+          670397
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "giphy": {
+          "id": "d9O4Lumgzag6iiDuGb",
+          "ratio": 1.2213740458015268
+        },
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 254852024,
+      "body": "$CVS i called it.",
+      "created_at": "2020-11-06T15:00:06Z",
+      "user": {
+        "id": 1584618,
+        "username": "GolFirst",
+        "name": "Sid",
+        "avatar_url": "https://avatars.stocktwits.com/production/1584618/thumb-1597866041.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1584618/thumb-1597866041.png",
+        "join_date": "2018-08-23",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 30,
+        "following": 7,
+        "ideas": 1529,
+        "watchlist_stocks_count": 210,
+        "like_count": 3322,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 4873,
+          "symbol": "CVS",
+          "title": "CVS Caremark Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 19778
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          2799968
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 254850475,
+      "body": "$CVS hello.",
+      "created_at": "2020-11-06T14:56:19Z",
+      "user": {
+        "id": 3359231,
+        "username": "PrintingProfits",
+        "name": "Nelson",
+        "avatar_url": "https://avatars.stocktwits.com/production/3359231/thumb-1594780104.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3359231/thumb-1594780104.png",
+        "join_date": "2020-04-26",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 249,
+        "following": 72,
+        "ideas": 2527,
+        "watchlist_stocks_count": 56,
+        "like_count": 613,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 4873,
+          "symbol": "CVS",
+          "title": "CVS Caremark Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 19778
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          827242
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_254850475.png",
+          "large": "https://charts.stocktwits.com/production/large_254850475.png",
+          "original": "https://charts.stocktwits.com/production/original_254850475.png",
+          "url": "https://charts.stocktwits.com/production/original_254850475.png"
+        },
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 254850135,
+      "body": "$CVS am I dreaming?",
+      "created_at": "2020-11-06T14:55:27Z",
+      "user": {
+        "id": 599515,
+        "username": "INCRDHULKtrder",
+        "name": "James Benoit",
+        "avatar_url": "https://avatars.stocktwits.com/production/599515/thumb-1443535987.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/599515/thumb-1443535987.png",
+        "join_date": "2015-09-15",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 127,
+        "following": 30,
+        "ideas": 12374,
+        "watchlist_stocks_count": 66,
+        "like_count": 1547,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2095,
+        "title": "StockTwits For Android ",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 4873,
+          "symbol": "CVS",
+          "title": "CVS Caremark Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 19784
+        }
+      ],
+      "likes": {
+        "total": 7,
+        "user_ids": [
+          3366613,
+          3577273,
+          2799968,
+          1587385,
+          4239809,
+          670397,
+          3850889
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254849945,
+      "body": "$CVS both CVS AND WBA WILL ROCKET RAD WILL BE LEFT BEHIND",
+      "created_at": "2020-11-06T14:55:01Z",
+      "user": {
+        "id": 838731,
+        "username": "biotech99",
+        "name": "Dave",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2016-09-12",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 274,
+        "following": 7,
+        "ideas": 11531,
+        "watchlist_stocks_count": 63,
+        "like_count": 2977,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 4873,
+          "symbol": "CVS",
+          "title": "CVS Caremark Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 19778
+        }
+      ],
+      "likes": {
+        "total": 3,
+        "user_ids": [
+          4163364,
+          2799968,
+          1587385
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 254849063,
+      "body": "$CVS as predicted!",
+      "created_at": "2020-11-06T14:52:52Z",
+      "user": {
+        "id": 2059563,
+        "username": "RedWine12",
+        "name": "Pinot Noir",
+        "avatar_url": "https://avatars.stocktwits.com/production/2059563/thumb-1582912189.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2059563/thumb-1582912189.png",
+        "join_date": "2019-05-06",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 18,
+        "following": 0,
+        "ideas": 554,
+        "watchlist_stocks_count": 9,
+        "like_count": 4,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2095,
+        "title": "StockTwits For Android ",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 4873,
+          "symbol": "CVS",
+          "title": "CVS Caremark Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 19778
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_254849063.jpg",
+          "large": "https://charts.stocktwits.com/production/large_254849063.jpg",
+          "original": "https://charts.stocktwits.com/production/original_254849063.jpg",
+          "url": "https://charts.stocktwits.com/production/original_254849063.jpg"
+        },
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254847871,
+      "body": "$CVS always here bulls if you need me.",
+      "created_at": "2020-11-06T14:50:00Z",
+      "user": {
+        "id": 4265211,
+        "username": "sonyaharglas",
+        "name": "sonyaharglas",
+        "avatar_url": "https://avatars.stocktwits.com/production/4265211/thumb-1604408539.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/4265211/thumb-1604408539.png",
+        "join_date": "2020-11-03",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 0,
+        "following": 2,
+        "ideas": 11,
+        "watchlist_stocks_count": 0,
+        "like_count": 0,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 4873,
+          "symbol": "CVS",
+          "title": "CVS Caremark Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 19778
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          2871437
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    }
+  ]
+}

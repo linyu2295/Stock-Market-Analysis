@@ -1,0 +1,1670 @@
+{
+  "response": {
+    "status": 200
+  },
+  "symbol": {
+    "id": 14597,
+    "symbol": "PS",
+    "title": "PLURALSIGHT, INC",
+    "aliases": [],
+    "is_following": false,
+    "watchlist_count": 1272
+  },
+  "cursor": {
+    "more": true,
+    "since": 254863437,
+    "max": 254703018
+  },
+  "messages": [
+    {
+      "id": 254863437,
+      "body": "Fri Nov 6th\nLosing stocks this morning:\n\n$ASMB: -68.6%\n$GBT: -35.8%\n$PS: -23.7%\n$TRUE: -22.7%\n$CLMT: -19.8%\nMTEM: -18.8%\nQUOT: -17.7%\nEPZM: -17.6%\nANGI: -16.2%\nAYX: -15.8%\n\nclick here for a visual version:\nhttps://thebubbleboard.com/?tickers=ASMB,GBT,PS,TRUE,CLMT,MTEM,QUOT,EPZM,ANGI,AYX&amp;name=Nov%206th%20losers&amp;utm_medium=bot-post",
+      "created_at": "2020-11-06T15:31:43Z",
+      "user": {
+        "id": 3628389,
+        "username": "BubbleBoard",
+        "name": "The Bubble Board",
+        "avatar_url": "https://avatars.stocktwits.com/production/3628389/thumb-1593179485.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3628389/thumb-1593179485.png",
+        "join_date": "2020-06-15",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 2613,
+        "following": 0,
+        "ideas": 2828,
+        "watchlist_stocks_count": 10,
+        "like_count": 46,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5596,
+        "title": "Test App",
+        "url": "https://torchlabs.io"
+      },
+      "symbols": [
+        {
+          "id": 1336,
+          "symbol": "CLMT",
+          "title": "Calumet Specialty Products Partners LP",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1226
+        },
+        {
+          "id": 9486,
+          "symbol": "ASMB",
+          "title": "Assembly Biosciences",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1119
+        },
+        {
+          "id": 11959,
+          "symbol": "TRUE",
+          "title": "TrueCar",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 2917
+        },
+        {
+          "id": 12761,
+          "symbol": "GBT",
+          "title": "Global Blood Therapeutics",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 4549
+        },
+        {
+          "id": 14597,
+          "symbol": "PS",
+          "title": "PLURALSIGHT, INC",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1272
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 254863437,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "links": [
+        {
+          "title": "The Bubble Board",
+          "url": "https://thebubbleboard.com/?tickers=ASMB,GBT,PS,TRUE,CLMT,MTEM,QUOT,EPZM,ANGI,AYX&name=Nov%206th%20losers&utm_medium=bot-post",
+          "shortened_url": "https://thebubbleboard.com/?tickers=ASMB,GBT,PS,TRUE,CLMT,MTEM,QUOT,EPZM,ANGI,AYX&name=Nov%206th%20losers&utm_medium=bot-post",
+          "shortened_expanded_url": "thebubbleboard.com/?tickers...",
+          "description": "A visual take on watchlists. See what your stocks are doing without hunting through a list of tickers. A better way to follow the stock market.",
+          "image": "https://thebubbleboard.com/images/twitter-card-2.png",
+          "created_at": "2020-11-06T15:31:48Z",
+          "video_url": null,
+          "source": {
+            "name": "Thebubbleboard",
+            "website": "https://thebubbleboard.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_254863437.",
+          "large": "https://charts.stocktwits.com/production/large_254863437.",
+          "original": "https://charts.stocktwits.com/production/original_254863437.",
+          "url": "https://charts.stocktwits.com/production/original_254863437."
+        },
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254854577,
+      "body": "$PS added at 14:50",
+      "created_at": "2020-11-06T15:06:40Z",
+      "user": {
+        "id": 636404,
+        "username": "Fizzer",
+        "name": "Fizzer",
+        "avatar_url": "https://avatars.stocktwits.com/production/636404/thumb-1465874865.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/636404/thumb-1465874865.png",
+        "join_date": "2015-11-19",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 17,
+        "following": 61,
+        "ideas": 424,
+        "watchlist_stocks_count": 22,
+        "like_count": 675,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 14597,
+          "symbol": "PS",
+          "title": "PLURALSIGHT, INC",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1272
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254854529,
+      "body": "$PS Raymond James Maintains to Outperform : PT $22.00 https://stockhoot.com/ExtSymbol.aspx?from=AnalystRatingTweet&amp;symbol=PS&amp;t=228&amp;Social=StockTwits",
+      "created_at": "2020-11-06T15:06:32Z",
+      "user": {
+        "id": 835250,
+        "username": "Stockhoot",
+        "name": "Stockhoot",
+        "avatar_url": "https://avatars.stocktwits.com/production/835250/thumb-1510088734.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/835250/thumb-1510088734.png",
+        "join_date": "2016-09-06",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 1939,
+        "following": 103,
+        "ideas": 68166,
+        "watchlist_stocks_count": 8,
+        "like_count": 33,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 3360,
+        "title": "StockHoot",
+        "url": "https://stockhoot.com"
+      },
+      "symbols": [
+        {
+          "id": 14597,
+          "symbol": "PS",
+          "title": "PLURALSIGHT, INC",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1272
+        }
+      ],
+      "links": [
+        {
+          "title": "PS - Pluralsight Charts, Trade Ideas, Earnings, Ratings",
+          "url": "https://stockhoot.com/ExtSymbol.aspx?from=AnalystRatingTweet&symbol=PS&t=228&Social=StockTwits",
+          "shortened_url": "https://stockhoot.com/ExtSymbol.aspx?from=AnalystRatingTweet&symbol=PS&t=228&Social=StockTwits",
+          "shortened_expanded_url": "stockhoot.com/ExtSymbol.asp...",
+          "description": "PS : Get free stock charts, earnings, analyst ratings and investment stock tips from independent traders who track PS. Follow their trades and see their performance",
+          "image": "https://storage.googleapis.com/iex/api/logos/PS.png",
+          "created_at": "2020-11-06T15:06:33Z",
+          "video_url": null,
+          "source": {
+            "name": "Stockhoot",
+            "website": "https://stockhoot.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254854007,
+      "body": "$PS adding here",
+      "created_at": "2020-11-06T15:05:15Z",
+      "user": {
+        "id": 318793,
+        "username": "cshe14",
+        "name": "cshe14",
+        "avatar_url": "https://avatars.stocktwits.com/production/318793/thumb-1516426779.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/318793/thumb-1516426779.png",
+        "join_date": "2014-02-22",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 157,
+        "following": 155,
+        "ideas": 6096,
+        "watchlist_stocks_count": 71,
+        "like_count": 1401,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2095,
+        "title": "StockTwits For Android ",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 14597,
+          "symbol": "PS",
+          "title": "PLURALSIGHT, INC",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1272
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254853112,
+      "body": "$PS used it like it. Beating all expectations and raising annual expectations what i\u00b4m missing why the drop?",
+      "created_at": "2020-11-06T15:02:49Z",
+      "user": {
+        "id": 1979824,
+        "username": "drknmstr01",
+        "name": "Manu",
+        "avatar_url": "https://avatars.stocktwits.com/production/1979824/thumb-1576497222.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1979824/thumb-1576497222.png",
+        "join_date": "2019-04-01",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 67,
+        "following": 97,
+        "ideas": 3038,
+        "watchlist_stocks_count": 300,
+        "like_count": 996,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 14597,
+          "symbol": "PS",
+          "title": "PLURALSIGHT, INC",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1272
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254853020,
+      "body": "$PS wow, what a great price here. Jumping back in this one for an entry, this platform is leaps and bounds better than similar corporate elearning products, once business start investing more in development this has a ton of opportunity",
+      "created_at": "2020-11-06T15:02:36Z",
+      "user": {
+        "id": 3265380,
+        "username": "BiLow734",
+        "name": "Erik",
+        "avatar_url": "https://avatars.stocktwits.com/production/3265380/thumb-1592593582.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3265380/thumb-1592593582.png",
+        "join_date": "2020-04-03",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 0,
+        "following": 15,
+        "ideas": 133,
+        "watchlist_stocks_count": 38,
+        "like_count": 539,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 14597,
+          "symbol": "PS",
+          "title": "PLURALSIGHT, INC",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1272
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254850920,
+      "body": "$PS I&#39;m Buying the Dip!!!",
+      "created_at": "2020-11-06T14:57:26Z",
+      "user": {
+        "id": 944932,
+        "username": "KingMidas9",
+        "name": "Carlos Arroyo",
+        "avatar_url": "https://avatars.stocktwits.com/production/944932/thumb-1499357387.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/944932/thumb-1499357387.png",
+        "join_date": "2017-02-03",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 8,
+        "following": 70,
+        "ideas": 682,
+        "watchlist_stocks_count": 48,
+        "like_count": 157,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 14597,
+          "symbol": "PS",
+          "title": "PLURALSIGHT, INC",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1272
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 254849986,
+      "body": "$PS WTF",
+      "created_at": "2020-11-06T14:55:07Z",
+      "user": {
+        "id": 1788773,
+        "username": "mahepup",
+        "name": "GodsGrace",
+        "avatar_url": "https://avatars.stocktwits.com/production/1788773/thumb-1598285757.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1788773/thumb-1598285757.png",
+        "join_date": "2019-01-02",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 35,
+        "following": 161,
+        "ideas": 453,
+        "watchlist_stocks_count": 29,
+        "like_count": 206,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 14597,
+          "symbol": "PS",
+          "title": "PLURALSIGHT, INC",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1272
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254849476,
+      "body": "$PS As a tech professional who uses PS for technical training. This is the future of workforce training. Taking some here for LT",
+      "created_at": "2020-11-06T14:53:56Z",
+      "user": {
+        "id": 1877613,
+        "username": "Ktouss2",
+        "name": "Keith",
+        "avatar_url": "https://avatars.stocktwits.com/production/1877613/thumb-1586883611.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1877613/thumb-1586883611.png",
+        "join_date": "2019-02-18",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 81,
+        "following": 68,
+        "ideas": 2477,
+        "watchlist_stocks_count": 51,
+        "like_count": 777,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 14597,
+          "symbol": "PS",
+          "title": "PLURALSIGHT, INC",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1272
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 254842771,
+      "body": "$PS halt (LUDP) was alerted within seconds at tradethehalt.com with the halt price of $15.06 and volume of 605.32K.",
+      "created_at": "2020-11-06T14:37:02Z",
+      "user": {
+        "id": 2942797,
+        "username": "tradethehalt",
+        "name": "Trade The Halt",
+        "avatar_url": "https://avatars.stocktwits.com/production/2942797/thumb-1596040003.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2942797/thumb-1596040003.png",
+        "join_date": "2019-12-01",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 7536,
+        "following": 0,
+        "ideas": 20652,
+        "watchlist_stocks_count": 0,
+        "like_count": 162,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5874,
+        "title": "Trade The Halt v3",
+        "url": "https://app.tradethehalt.com"
+      },
+      "symbols": [
+        {
+          "id": 14597,
+          "symbol": "PS",
+          "title": "PLURALSIGHT, INC",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1270
+        }
+      ],
+      "links": [
+        {
+          "title": "Nasdaq and NYSE Trading Halt Alerts, Day Trade Ideas - Trade The Halt",
+          "url": "tradethehalt.com",
+          "shortened_url": "tradethehalt.com",
+          "shortened_expanded_url": "tradethehalt.com/",
+          "description": "We offer real-time alerts, advanced charting and stock research tools, buy/sell sentiment indicators, day trading education and resources, and a community of traders to give you the trading edge and maximize your profit opportunities. Sophisticated charts, customized by our experienced traders, built on the TradingView charting platform.",
+          "image": "https://tradethehalt.com/content/frontend/img/demo-halts-dashboard.png",
+          "created_at": "2020-11-06T14:37:02Z",
+          "video_url": null,
+          "source": {
+            "name": "Tradethehalt",
+            "website": "https://tradethehalt.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254841030,
+      "body": "$PS just halted at a price of 15.06 and volume 596,850. To see the lowest latency alerts available or create your own customized scans, visit us at https://primustrade.com/demo-request #customscanners #stockmarket #trading #daytrading #seewhatotherscant",
+      "created_at": "2020-11-06T14:32:24Z",
+      "user": {
+        "id": 1161752,
+        "username": "primusscan",
+        "name": "PrimusScan",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2017-08-18",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 1,
+        "following": 60,
+        "ideas": 23,
+        "watchlist_stocks_count": 0,
+        "like_count": 0,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5941,
+        "title": "ScanLink",
+        "url": "http://primus-ngnx.primustrade.com"
+      },
+      "symbols": [
+        {
+          "id": 14597,
+          "symbol": "PS",
+          "title": "PLURALSIGHT, INC",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1270
+        }
+      ],
+      "links": [
+        {
+          "title": "Request a Demo",
+          "url": "https://primustrade.com/demo-request",
+          "shortened_url": "https://primustrade.com/demo-request",
+          "shortened_expanded_url": "primustrade.com/demo-request/",
+          "description": null,
+          "image": null,
+          "created_at": "2020-11-06T14:32:24Z",
+          "video_url": null,
+          "source": {
+            "name": "Primustrade",
+            "website": "https://www.primustrade.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254840639,
+      "body": "$PS - http://www.trade-ideas.com/ticky/ticky.html?symbol=PS - Ouch .. that is going to Leave a mark - Down 17% for the day.",
+      "created_at": "2020-11-06T14:31:13Z",
+      "user": {
+        "id": 116462,
+        "username": "TradeIdeasQuant",
+        "name": "Trade-Ideas Quant",
+        "avatar_url": "https://avatars.stocktwits.com/production/116462/thumb-1458241309.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/116462/thumb-1458241309.png",
+        "join_date": "2011-11-07",
+        "official": true,
+        "identity": "Official",
+        "classification": [
+          "official"
+        ],
+        "followers": 43755,
+        "following": 5,
+        "ideas": 238563,
+        "watchlist_stocks_count": 0,
+        "like_count": 0,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1008,
+        "title": "TI Pro Collaboration",
+        "url": "http://trade-ideas.com"
+      },
+      "symbols": [
+        {
+          "id": 14597,
+          "symbol": "PS",
+          "title": "PLURALSIGHT, INC",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1270
+        }
+      ],
+      "links": [
+        {
+          "title": "PS",
+          "url": "http://www.trade-ideas.com/ticky/ticky.html?symbol=PS",
+          "shortened_url": "http://www.trade-ideas.com/ticky/ticky.html?symbol=PS",
+          "shortened_expanded_url": "trade-ideas.com/ticky/ticky...",
+          "description": "Trade Ideas Finds Your Next Trade in Pluralsight, Inc LAST PRICE - 09:11am PS is trading DOWN -$-2.60 or -13.7% from yesterday's close of $19.00.",
+          "image": null,
+          "created_at": "2020-11-06T14:31:15Z",
+          "video_url": null,
+          "source": {
+            "name": "Trade-ideas",
+            "website": "https://www.trade-ideas.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254839351,
+      "body": "$PS It was at $17 when the PT at JPM was $29 so I don\u2019t see a reason to sell it here.",
+      "created_at": "2020-11-06T14:26:54Z",
+      "user": {
+        "id": 266870,
+        "username": "rtaker",
+        "name": "SniperDownSouth",
+        "avatar_url": "https://avatars.stocktwits.com/production/266870/thumb-1383429629.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/266870/thumb-1383429629.png",
+        "join_date": "2013-10-02",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 146,
+        "following": 58,
+        "ideas": 7756,
+        "watchlist_stocks_count": 131,
+        "like_count": 6853,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 14597,
+          "symbol": "PS",
+          "title": "PLURALSIGHT, INC",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1270
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 254820059,
+      "body": "Pluralsight downgraded to neutral from overweight at J.P. Morgan\n\u2014 MarketWatch\n$PS",
+      "created_at": "2020-11-06T13:08:03Z",
+      "user": {
+        "id": 1171931,
+        "username": "Faws",
+        "name": "Faws.com",
+        "avatar_url": "https://avatars.stocktwits.com/production/1171931/thumb-1504728208.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1171931/thumb-1504728208.png",
+        "join_date": "2017-08-29",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 1030,
+        "following": 0,
+        "ideas": 59005,
+        "watchlist_stocks_count": 0,
+        "like_count": 0,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 3541,
+        "title": "Faws",
+        "url": "https://faws.com"
+      },
+      "symbols": [
+        {
+          "id": 14597,
+          "symbol": "PS",
+          "title": "PLURALSIGHT, INC",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1266
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254819420,
+      "body": "$PS beats by $0.06, beats on revs; guides FY20 EPS above consensus, revs above consensus https://www.briefing.com/in-depth-analysis/Content/Article?ArticleId=IN20201105163159PS",
+      "created_at": "2020-11-06T13:05:03Z",
+      "user": {
+        "id": 8115,
+        "username": "briefingcom",
+        "name": "Briefingcom",
+        "avatar_url": "https://avatars.stocktwits.com/production/8115/thumb-1340802633.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/8115/thumb-1340802633.png",
+        "join_date": "2010-01-25",
+        "official": true,
+        "identity": "Official",
+        "classification": [
+          "official"
+        ],
+        "followers": 85647,
+        "following": 821,
+        "ideas": 80221,
+        "watchlist_stocks_count": 8,
+        "like_count": 67,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 14597,
+          "symbol": "PS",
+          "title": "PLURALSIGHT, INC",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1266
+        }
+      ],
+      "links": [
+        {
+          "title": null,
+          "url": "https://www.briefing.com/in-depth-analysis/Content/Article?ArticleId=IN20201105163159PS",
+          "shortened_url": "https://www.briefing.com/in-depth-analysis/Content/Article?ArticleId=IN20201105163159PS",
+          "shortened_expanded_url": "briefing.com/in-depth-analy...",
+          "description": null,
+          "image": null,
+          "created_at": "2020-11-06T13:05:33Z",
+          "video_url": null,
+          "source": {
+            "name": "Briefing",
+            "website": "http://www.briefing.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254818090,
+      "body": "$PS (-13.7% pre) Pluralsight Announces Third Quarter 2020 Results - SI\n\nhttp://ooc.bz/l/63483",
+      "created_at": "2020-11-06T12:58:24Z",
+      "user": {
+        "id": 348830,
+        "username": "OpenOutcrier",
+        "name": "Open Outcrier",
+        "avatar_url": "https://avatars.stocktwits.com/production/348830/thumb-1423676197.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/348830/thumb-1423676197.png",
+        "join_date": "2014-04-30",
+        "official": false,
+        "identity": "User",
+        "classification": [
+          "suggested"
+        ],
+        "followers": 193512,
+        "following": 139,
+        "ideas": 119825,
+        "watchlist_stocks_count": 0,
+        "like_count": 976,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2384,
+        "title": "Open Outcrier",
+        "url": "http://openoutcrier.com"
+      },
+      "symbols": [
+        {
+          "id": 14597,
+          "symbol": "PS",
+          "title": "PLURALSIGHT, INC",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1266
+        }
+      ],
+      "links": [
+        {
+          "title": null,
+          "url": "http://ooc.bz/l/63483",
+          "shortened_url": "http://ooc.bz/l/63483",
+          "shortened_expanded_url": "streetinsider.com/Globe+New...",
+          "description": null,
+          "image": null,
+          "created_at": "2020-11-06T12:58:25Z",
+          "video_url": null,
+          "source": {
+            "name": "Streetinsider",
+            "website": "https://www.streetinsider.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254814214,
+      "body": "$PS Pluralsight plunges as billings deceleration concerns outweigh Q3 beats, upside forecast \n\nhttps://newsfilter.io/a/6b16cd608bb8c747e451e7db63102929",
+      "created_at": "2020-11-06T12:33:34Z",
+      "user": {
+        "id": 2762379,
+        "username": "Newsfilter",
+        "name": "@newsfilterio",
+        "avatar_url": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "join_date": "2019-09-01",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 7567,
+        "following": 16,
+        "ideas": 612747,
+        "watchlist_stocks_count": 1,
+        "like_count": 531,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 14597,
+          "symbol": "PS",
+          "title": "PLURALSIGHT, INC",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1266
+        }
+      ],
+      "links": [
+        {
+          "title": "Pluralsight plunges as billings deceleration concerns outweigh Q3 beats, upside forecast",
+          "url": "https://newsfilter.io/a/6b16cd608bb8c747e451e7db63102929",
+          "shortened_url": "https://newsfilter.io/a/6b16cd608bb8c747e451e7db63102929",
+          "shortened_expanded_url": "newsfilter.io/a/6b16cd608bb...",
+          "description": "Pluralsight shares are down 12.3% pre-market after yesterday's Q3 results, which beat estimates with 20% Y/Y revenue growth to $99.47M and break-even profit. The company also provided upside guidance, but the billings deceleration weighed down the good news.Billings were up 9% period over period to $100M in the quarter.",
+          "image": "https://newsfilter.io/meta-images/?url=https://storage.googleapis.com/iex/api/logos/PS.png",
+          "created_at": "2020-11-06T12:33:34Z",
+          "video_url": null,
+          "source": {
+            "name": "Newsfilter",
+            "website": "https://newsfilter.io"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254807167,
+      "body": "JP Morgan Downgrades Pluralsight to Neutral, Announces $20 Price Target\n\nRelated Tickers: $PS",
+      "created_at": "2020-11-06T11:41:12Z",
+      "user": {
+        "id": 3539670,
+        "username": "QuantData",
+        "name": "Quant Data",
+        "avatar_url": "https://avatars.stocktwits.com/production/3539670/thumb-1602473985.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3539670/thumb-1602473985.png",
+        "join_date": "2020-06-03",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 753,
+        "following": 0,
+        "ideas": 11848,
+        "watchlist_stocks_count": 0,
+        "like_count": 20,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5828,
+        "title": "QuantData",
+        "url": "https://quantdata.us"
+      },
+      "symbols": [
+        {
+          "id": 14597,
+          "symbol": "PS",
+          "title": "PLURALSIGHT, INC",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1266
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254805771,
+      "body": "$PS JP Morgan Downgrades to Neutral : PT $20.00 https://stockhoot.com/ExtSymbol.aspx?from=AnalystRatingTweet&amp;symbol=PS&amp;t=973&amp;Social=StockTwits",
+      "created_at": "2020-11-06T11:27:56Z",
+      "user": {
+        "id": 835250,
+        "username": "Stockhoot",
+        "name": "Stockhoot",
+        "avatar_url": "https://avatars.stocktwits.com/production/835250/thumb-1510088734.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/835250/thumb-1510088734.png",
+        "join_date": "2016-09-06",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 1940,
+        "following": 103,
+        "ideas": 68007,
+        "watchlist_stocks_count": 8,
+        "like_count": 33,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 3360,
+        "title": "StockHoot",
+        "url": "https://stockhoot.com"
+      },
+      "symbols": [
+        {
+          "id": 14597,
+          "symbol": "PS",
+          "title": "PLURALSIGHT, INC",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1266
+        }
+      ],
+      "links": [
+        {
+          "title": "PS - Pluralsight Charts, Trade Ideas, Earnings, Ratings",
+          "url": "https://stockhoot.com/ExtSymbol.aspx?from=AnalystRatingTweet&symbol=PS&t=973&Social=StockTwits",
+          "shortened_url": "https://stockhoot.com/ExtSymbol.aspx?from=AnalystRatingTweet&symbol=PS&t=973&Social=StockTwits",
+          "shortened_expanded_url": "stockhoot.com/ExtSymbol.asp...",
+          "description": "PS : Get atock charts, earnings data, analyst ratings and good investment ideas from independent traders who track PS. Follow their trades and see their performance",
+          "image": "https://storage.googleapis.com/iex/api/logos/PS.png",
+          "created_at": "2020-11-06T11:27:57Z",
+          "video_url": null,
+          "source": {
+            "name": "Stockhoot",
+            "website": "https://stockhoot.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254797747,
+      "body": "$PS Piper Sandler Maintains to Overweight : PT $21.00 https://stockhoot.com/ExtSymbol.aspx?from=AnalystRatingTweet&amp;symbol=PS&amp;t=377&amp;Social=StockTwits",
+      "created_at": "2020-11-06T09:25:25Z",
+      "user": {
+        "id": 835250,
+        "username": "Stockhoot",
+        "name": "Stockhoot",
+        "avatar_url": "https://avatars.stocktwits.com/production/835250/thumb-1510088734.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/835250/thumb-1510088734.png",
+        "join_date": "2016-09-06",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 1940,
+        "following": 103,
+        "ideas": 67976,
+        "watchlist_stocks_count": 8,
+        "like_count": 33,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 3360,
+        "title": "StockHoot",
+        "url": "https://stockhoot.com"
+      },
+      "symbols": [
+        {
+          "id": 14597,
+          "symbol": "PS",
+          "title": "PLURALSIGHT, INC",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1265
+        }
+      ],
+      "links": [
+        {
+          "title": "PS - Pluralsight Charts, Trade Ideas, Earnings, Ratings",
+          "url": "https://stockhoot.com/ExtSymbol.aspx?from=AnalystRatingTweet&symbol=PS&t=377&Social=StockTwits",
+          "shortened_url": "https://stockhoot.com/ExtSymbol.aspx?from=AnalystRatingTweet&symbol=PS&t=377&Social=StockTwits",
+          "shortened_expanded_url": "stockhoot.com/ExtSymbol.asp...",
+          "description": "PS : Get atock charts, earnings data, analyst ratings and free stock tips from independent traders who track PS. Follow their trades and see their performance",
+          "image": "https://storage.googleapis.com/iex/api/logos/PS.png",
+          "created_at": "2020-11-06T09:25:27Z",
+          "video_url": null,
+          "source": {
+            "name": "Stockhoot",
+            "website": "https://stockhoot.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254759216,
+      "body": "Last10K highlighted 23 positive and negative remarks in $PS&#39;s 10-Q filed today. See them in the Quarterly Report: https://last10k.com/sec-filings/PS/0001725579-20-000062.htm?utm_source=stocktwits&amp;utm_medium=forum&amp;utm_campaign=sentiment&amp;utm_term=ps",
+      "created_at": "2020-11-06T01:30:14Z",
+      "user": {
+        "id": 1409376,
+        "username": "Last10K",
+        "name": "Last10K.com",
+        "avatar_url": "https://avatars.stocktwits.com/production/1409376/thumb-1559672751.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1409376/thumb-1559672751.png",
+        "join_date": "2018-02-13",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 1267,
+        "following": 0,
+        "ideas": 232328,
+        "watchlist_stocks_count": 0,
+        "like_count": 360,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 3968,
+        "title": "Last10K",
+        "url": "https://last10k.com"
+      },
+      "symbols": [
+        {
+          "id": 14597,
+          "symbol": "PS",
+          "title": "PLURALSIGHT, INC",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1265
+        }
+      ],
+      "links": [
+        {
+          "title": "Pluralsight, Inc. (PS) 10K Annual Reports & 10Q SEC Filings | Last10K",
+          "url": "https://last10k.com/sec-filings/PS/0001725579-20-000062.htm?utm_source=stocktwits&utm_medium=forum&utm_campaign=sentiment&utm_term=ps",
+          "shortened_url": "https://last10k.com/sec-filings/PS/0001725579-20-000062.htm?utm_source=stocktwits&utm_medium=forum&utm_campaign=sentiment&utm_term=ps",
+          "shortened_expanded_url": "last10k.com/sec-filings/ps",
+          "description": "Pluralsight Announces Fourth Quarter and Year End 2019 Results Silicon Slopes, Utah - February 12, 2020 - Pluralsight, Inc. (NASDAQ: PS), the enterprise technology skills company, today announced financial results for the fourth quarter and year ended December 31, 2019 .",
+          "image": "https://last10k.com/wp-content/uploads/notifications.png",
+          "created_at": "2020-11-06T01:30:15Z",
+          "video_url": null,
+          "source": {
+            "name": "Last10k",
+            "website": "https://last10k.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254758712,
+      "body": "$PS just filed a 10-Q Quarterly Report with 77 sections and 5 exhibits. Access them all or just read their earnings: https://last10k.com/sec-filings/ps/0001725579-20-000062.htm?utm_source=stocktwits&amp;utm_medium=forum&amp;utm_campaign=10KQ2040F&amp;utm_term=ps",
+      "created_at": "2020-11-06T01:27:09Z",
+      "user": {
+        "id": 1409376,
+        "username": "Last10K",
+        "name": "Last10K.com",
+        "avatar_url": "https://avatars.stocktwits.com/production/1409376/thumb-1559672751.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1409376/thumb-1559672751.png",
+        "join_date": "2018-02-13",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 1267,
+        "following": 0,
+        "ideas": 232328,
+        "watchlist_stocks_count": 0,
+        "like_count": 360,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 3968,
+        "title": "Last10K",
+        "url": "https://last10k.com"
+      },
+      "symbols": [
+        {
+          "id": 14597,
+          "symbol": "PS",
+          "title": "PLURALSIGHT, INC",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1265
+        }
+      ],
+      "links": [
+        {
+          "title": "Pluralsight, Inc. (PS) 10K Annual Reports & 10Q SEC Filings | Last10K",
+          "url": "https://last10k.com/sec-filings/ps/0001725579-20-000062.htm?utm_source=stocktwits&utm_medium=forum&utm_campaign=10KQ2040F&utm_term=ps",
+          "shortened_url": "https://last10k.com/sec-filings/ps/0001725579-20-000062.htm?utm_source=stocktwits&utm_medium=forum&utm_campaign=10KQ2040F&utm_term=ps",
+          "shortened_expanded_url": "last10k.com/sec-filings/ps",
+          "description": "Pluralsight Announces Fourth Quarter and Year End 2019 Results Silicon Slopes, Utah - February 12, 2020 - Pluralsight, Inc. (NASDAQ: PS), the enterprise technology skills company, today announced financial results for the fourth quarter and year ended December 31, 2019 .",
+          "image": "https://last10k.com/wp-content/uploads/notifications.png",
+          "created_at": "2020-11-06T01:27:09Z",
+          "video_url": null,
+          "source": {
+            "name": "Last10k",
+            "website": "https://last10k.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254747056,
+      "body": "Have you seen this? $PS in Uptrend: RSI indicator exits oversold zone. View odds for this and other indicators: https://srnk.us/go/2286046",
+      "created_at": "2020-11-06T00:22:15Z",
+      "user": {
+        "id": 967528,
+        "username": "tickeron",
+        "name": "Tickeron",
+        "avatar_url": "https://avatars.stocktwits.com/production/967528/thumb-1492026736.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/967528/thumb-1492026736.png",
+        "join_date": "2017-02-23",
+        "official": true,
+        "identity": "Official",
+        "classification": [
+          "official"
+        ],
+        "followers": 3884,
+        "following": 108,
+        "ideas": 433438,
+        "watchlist_stocks_count": 0,
+        "like_count": 0,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5810,
+        "title": "Tickeron",
+        "url": "https://tickeron.com"
+      },
+      "symbols": [
+        {
+          "id": 14597,
+          "symbol": "PS",
+          "title": "PLURALSIGHT, INC",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1265
+        }
+      ],
+      "links": [
+        {
+          "title": "Tickeron - A.I. Trading With Odds of Success",
+          "url": "https://srnk.us/go/2286046",
+          "shortened_url": "https://srnk.us/go/2286046",
+          "shortened_expanded_url": "tickeron.com/ticker/PS/?utm...",
+          "description": "Our A.I.-powered algorithms generate and verify trade ideas. Invest in trends, trade with patterns, and analyze Stocks, ETFs, Mutual Funds, FOREX, Cryptos.",
+          "image": "https://tickeron.com/Img/Seo/main.png",
+          "created_at": "2020-11-06T00:22:17Z",
+          "video_url": null,
+          "source": {
+            "name": "Tickeron Inc.",
+            "website": "https://tickeron.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_254747056.",
+          "large": "https://charts.stocktwits.com/production/large_254747056.",
+          "original": "https://charts.stocktwits.com/production/original_254747056.",
+          "url": "https://charts.stocktwits.com/production/original_254747056."
+        },
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254740474,
+      "body": "$PS this sucks. Any chance for a recovery tomorrow?",
+      "created_at": "2020-11-05T23:49:32Z",
+      "user": {
+        "id": 3886762,
+        "username": "Cheze",
+        "name": "Cheze",
+        "avatar_url": "https://avatars.stocktwits.com/production/3886762/thumb-1596251149.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3886762/thumb-1596251149.png",
+        "join_date": "2020-08-01",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 7,
+        "following": 23,
+        "ideas": 193,
+        "watchlist_stocks_count": 39,
+        "like_count": 175,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2095,
+        "title": "StockTwits For Android ",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 14597,
+          "symbol": "PS",
+          "title": "PLURALSIGHT, INC",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1265
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 254740474,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254712771,
+      "body": "Securities to be offered to employees in employee benefit plans http://www.conferencecalltranscripts.org/no/summary/?id=8523478 $PS",
+      "created_at": "2020-11-05T21:56:18Z",
+      "user": {
+        "id": 210967,
+        "username": "cctranscripts",
+        "name": "Conference Call Transcripts",
+        "avatar_url": "https://avatars.stocktwits.com/production/210967/thumb-1363372333.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/210967/thumb-1363372333.png",
+        "join_date": "2013-01-30",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 6360,
+        "following": 10,
+        "ideas": 2369597,
+        "watchlist_stocks_count": 0,
+        "like_count": 758,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1130,
+        "title": "cctranscripts",
+        "url": "http://conferencecalltranscripts.org"
+      },
+      "symbols": [
+        {
+          "id": 14597,
+          "symbol": "PS",
+          "title": "PLURALSIGHT, INC",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1264
+        }
+      ],
+      "links": [
+        {
+          "title": "Conference Call Transcripts",
+          "url": "http://www.conferencecalltranscripts.org/no/summary/?id=8523478",
+          "shortened_url": "http://www.conferencecalltranscripts.org/no/summary/?id=8523478",
+          "shortened_expanded_url": "conferencecalltranscripts.o...",
+          "description": "Get notified next time PS.US makes a similar move! If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 7(a)(2)(B) of the Securities Act.",
+          "image": null,
+          "created_at": "2020-11-05T21:56:19Z",
+          "video_url": null,
+          "source": {
+            "name": "Conferencecalltranscripts",
+            "website": "http://www.conferencecalltranscripts.org"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254711378,
+      "body": "Pluralsight Q3 Sales $99.50M Beat $95.45M Estimate\n\nRelated Tickers: $PS",
+      "created_at": "2020-11-05T21:51:36Z",
+      "user": {
+        "id": 3539670,
+        "username": "QuantData",
+        "name": "Quant Data",
+        "avatar_url": "https://avatars.stocktwits.com/production/3539670/thumb-1602473985.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3539670/thumb-1602473985.png",
+        "join_date": "2020-06-03",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 753,
+        "following": 0,
+        "ideas": 11529,
+        "watchlist_stocks_count": 0,
+        "like_count": 20,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5828,
+        "title": "QuantData",
+        "url": "https://quantdata.us"
+      },
+      "symbols": [
+        {
+          "id": 14597,
+          "symbol": "PS",
+          "title": "PLURALSIGHT, INC",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1264
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254709636,
+      "body": "Pluralsight, Inc. Just Filed Its Quarterly Report: Net Loss Per ShareTh... http://www.conferencecalltranscripts.org/Q/summary/?id=8523310 $PS",
+      "created_at": "2020-11-05T21:46:14Z",
+      "user": {
+        "id": 210967,
+        "username": "cctranscripts",
+        "name": "Conference Call Transcripts",
+        "avatar_url": "https://avatars.stocktwits.com/production/210967/thumb-1363372333.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/210967/thumb-1363372333.png",
+        "join_date": "2013-01-30",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 6359,
+        "following": 10,
+        "ideas": 2369597,
+        "watchlist_stocks_count": 0,
+        "like_count": 758,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1130,
+        "title": "cctranscripts",
+        "url": "http://conferencecalltranscripts.org"
+      },
+      "symbols": [
+        {
+          "id": 14597,
+          "symbol": "PS",
+          "title": "PLURALSIGHT, INC",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1264
+        }
+      ],
+      "links": [
+        {
+          "title": "Conference Call Transcripts",
+          "url": "http://www.conferencecalltranscripts.org/Q/summary/?id=8523310",
+          "shortened_url": "http://www.conferencecalltranscripts.org/Q/summary/?id=8523310",
+          "shortened_expanded_url": "conferencecalltranscripts.o...",
+          "description": "Get notified next time PS.US makes a similar move! Net Loss Per Share The following table presents the calculation of basic and diluted net loss per share (in thousands, except per share amounts): Shares of Class B and Class C common stock do not share in the earnings or losses of Pluralsight and are therefore not participating securities.",
+          "image": null,
+          "created_at": "2020-11-05T21:46:14Z",
+          "video_url": null,
+          "source": {
+            "name": "Conferencecalltranscripts",
+            "website": "http://www.conferencecalltranscripts.org"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254704391,
+      "body": "$PS reported $0.00, consensus was ($0.06), Earnings Whisper was ($0.01) via @eWhispers #whisperbeat http://eps.sh/d/ps",
+      "created_at": "2020-11-05T21:32:30Z",
+      "user": {
+        "id": 627461,
+        "username": "epsguid",
+        "name": "Earnings Whispers News",
+        "avatar_url": "https://avatars.stocktwits.com/production/627461/thumb-1495623645.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/627461/thumb-1495623645.png",
+        "join_date": "2015-11-04",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 2448,
+        "following": 378,
+        "ideas": 59965,
+        "watchlist_stocks_count": 0,
+        "like_count": 21,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2326,
+        "title": "Earnings Whispers News",
+        "url": "https://www.earningswhispers.com"
+      },
+      "symbols": [
+        {
+          "id": 14597,
+          "symbol": "PS",
+          "title": "PLURALSIGHT, INC",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1264
+        }
+      ],
+      "links": [
+        {
+          "title": "Pluralsight Inc Cl A Beats",
+          "url": "http://eps.sh/d/ps",
+          "shortened_url": "http://eps.sh/d/ps",
+          "shortened_expanded_url": "earningswhispers.com/epsdet...",
+          "description": "Pluralsight Inc Cl A (PS) reported breakeven results for the 3rd Quarter September 2020. The consensus estimate was a loss of $0.06 per share on revenue of $95.3 million. The Earnings Whisper number was for a loss of $0.01 per share.",
+          "image": "https://www.earningswhispers.com/images/EW-PEAD.gif",
+          "created_at": "2020-11-05T21:32:31Z",
+          "video_url": null,
+          "source": {
+            "name": "Earningswhispers",
+            "website": "https://www.earningswhispers.com"
+          }
+        }
+      ],
+      "mentioned_users": [
+        "@eWhispers"
+      ],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254703160,
+      "body": "$PS [15s. delayed] filed form S-8 on November 05, 16:28:22 https://s.flashalert.me/99cPEk",
+      "created_at": "2020-11-05T21:29:28Z",
+      "user": {
+        "id": 595702,
+        "username": "fla",
+        "name": "FlashAlert_me",
+        "avatar_url": "https://avatars.stocktwits.com/production/595702/thumb-1550769466.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/595702/thumb-1550769466.png",
+        "join_date": "2015-09-09",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 2664,
+        "following": 60,
+        "ideas": 725213,
+        "watchlist_stocks_count": 0,
+        "like_count": 4,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 4622,
+        "title": "FlashAlert",
+        "url": "https://flashalert.me/"
+      },
+      "symbols": [
+        {
+          "id": 14597,
+          "symbol": "PS",
+          "title": "PLURALSIGHT, INC",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1264
+        }
+      ],
+      "links": [
+        {
+          "title": "Flash Alert",
+          "url": "https://s.flashalert.me/99cPEk",
+          "shortened_url": "https://s.flashalert.me/99cPEk",
+          "shortened_expanded_url": "sec.gov/Archives/edgar/data...",
+          "description": "Real-time alerts about equities, ETFs, cryptocurrencies and more sent to any device",
+          "image": null,
+          "created_at": "2020-11-05T21:29:28Z",
+          "video_url": null,
+          "source": {
+            "name": "Flashalert",
+            "website": "https://flashalert.me"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254703018,
+      "body": "$PS Form S-8 (securities to be offered to employees in employee benefit plans) filed with the SEC \n\nhttps://newsfilter.io/a/8dc1aa4252962c5c6cd912c585deb764",
+      "created_at": "2020-11-05T21:29:06Z",
+      "user": {
+        "id": 2762379,
+        "username": "Newsfilter",
+        "name": "@newsfilterio",
+        "avatar_url": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "join_date": "2019-09-01",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 7565,
+        "following": 16,
+        "ideas": 611198,
+        "watchlist_stocks_count": 1,
+        "like_count": 531,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 14597,
+          "symbol": "PS",
+          "title": "PLURALSIGHT, INC",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1264
+        }
+      ],
+      "links": [
+        {
+          "title": "S-8 Form - Securities to be offered to employees in employee benefit plans - Pluralsight, Inc. (0001725579) (Filer)",
+          "url": "https://newsfilter.io/a/8dc1aa4252962c5c6cd912c585deb764",
+          "shortened_url": "https://newsfilter.io/a/8dc1aa4252962c5c6cd912c585deb764",
+          "shortened_expanded_url": "newsfilter.io/a/8dc1aa42529...",
+          "description": "S-8 1 s-820201105.htm S-8 Document As filed with the U.S. Securities and Exchange Commission on November 5, 2020 SECURITIES AND EXCHANGE COMMISSION THE SECURITIES ACT OF 1933 (Exact name of registrant as specified in its charter) (Address of principal executive offices, including zip code) Pluralsight, Inc.",
+          "image": "https://newsfilter.io/meta-images/?url=https://storage.googleapis.com/iex/api/logos/PS.png",
+          "created_at": "2020-11-05T21:29:07Z",
+          "video_url": null,
+          "source": {
+            "name": "Newsfilter",
+            "website": "https://newsfilter.io"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    }
+  ]
+}

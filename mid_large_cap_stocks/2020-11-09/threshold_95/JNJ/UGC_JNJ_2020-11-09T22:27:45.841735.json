@@ -1,0 +1,2358 @@
+{
+  "response": {
+    "status": 200
+  },
+  "symbol": {
+    "id": 6011,
+    "symbol": "JNJ",
+    "title": "Johnson & Johnson",
+    "aliases": [],
+    "is_following": false,
+    "watchlist_count": 33457
+  },
+  "cursor": {
+    "more": true,
+    "since": 255276454,
+    "max": 255019312
+  },
+  "messages": [
+    {
+      "id": 255276454,
+      "body": "&#39;Great day for humanity&#39;: Pfizer says COVID-19 vaccine over 90% effective  $PFE $BNTX $JNJ $MRNA \n\nhttps://newsfilter.io/a/34b3458ca26804833b98069bbe94d841",
+      "created_at": "2020-11-09T13:52:52Z",
+      "user": {
+        "id": 2762379,
+        "username": "Newsfilter",
+        "name": "@newsfilterio",
+        "avatar_url": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "join_date": "2019-09-01",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 7586,
+        "following": 16,
+        "ideas": 616380,
+        "watchlist_stocks_count": 1,
+        "like_count": 531,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 2723,
+          "symbol": "MRNA",
+          "title": "Moderna, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 55546
+        },
+        {
+          "id": 6011,
+          "symbol": "JNJ",
+          "title": "Johnson & Johnson",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 33457
+        },
+        {
+          "id": 6728,
+          "symbol": "PFE",
+          "title": "Pfizer Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 39113
+        },
+        {
+          "id": 15391,
+          "symbol": "BNTX",
+          "title": "BioNTech",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 8612
+        }
+      ],
+      "links": [
+        {
+          "title": "'Great day for humanity': Pfizer says COVID-19 vaccine over 90% effective",
+          "url": "https://newsfilter.io/a/34b3458ca26804833b98069bbe94d841",
+          "shortened_url": "https://newsfilter.io/a/34b3458ca26804833b98069bbe94d841",
+          "shortened_expanded_url": "newsfilter.io/a/34b3458ca26...",
+          "description": "(Reuters) - Pfizer Inc on Monday said its experimental vaccine was more than 90% effective in preventing COVID-19 based on initial data from a large study, a major victory in the fight against a pandemic that has killed over 1 million people, roiled the world's economy and upended daily life.",
+          "image": "https://s3.reutersmedia.net/resources/r/?m=02&d=20201109&t=2&i=1540528411&&fh=&fw=&ll=&pl=&sq=&r=LYNXMPEGA80QQ",
+          "created_at": "2020-11-09T13:52:53Z",
+          "video_url": null,
+          "source": {
+            "name": "Newsfilter",
+            "website": "https://newsfilter.io"
+          }
+        }
+      ],
+      "likes": {
+        "total": 2,
+        "user_ids": [
+          4006041,
+          1505436
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255276453,
+      "body": "BioNTech hopes COVID-19 vaccine will immunize for at least a year  $PFE $BNTX $JNJ $MRNA \n\nhttps://newsfilter.io/a/92089c296f36d28d0512b8d21730686f",
+      "created_at": "2020-11-09T13:52:51Z",
+      "user": {
+        "id": 2762379,
+        "username": "Newsfilter",
+        "name": "@newsfilterio",
+        "avatar_url": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "join_date": "2019-09-01",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 7586,
+        "following": 16,
+        "ideas": 616380,
+        "watchlist_stocks_count": 1,
+        "like_count": 531,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 2723,
+          "symbol": "MRNA",
+          "title": "Moderna, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 55546
+        },
+        {
+          "id": 6011,
+          "symbol": "JNJ",
+          "title": "Johnson & Johnson",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 33457
+        },
+        {
+          "id": 6728,
+          "symbol": "PFE",
+          "title": "Pfizer Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 39113
+        },
+        {
+          "id": 15391,
+          "symbol": "BNTX",
+          "title": "BioNTech",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 8612
+        }
+      ],
+      "links": [
+        {
+          "title": "BioNTech hopes COVID-19 vaccine will immunize for at least a year",
+          "url": "https://newsfilter.io/a/92089c296f36d28d0512b8d21730686f",
+          "shortened_url": "https://newsfilter.io/a/92089c296f36d28d0512b8d21730686f",
+          "shortened_expanded_url": "newsfilter.io/a/92089c296f3...",
+          "description": "(Reuters) - Pfizer Inc on Monday said its experimental vaccine was more than 90% effective in preventing COVID-19 based on initial data from a large study, a major victory in the fight against a pandemic that has killed over 1 million people, roiled the world's economy and upended daily life.",
+          "image": "https://s3.reutersmedia.net/resources/r/?m=02&d=20201109&t=2&i=1540533931&&fh=&fw=&ll=&pl=&sq=&r=LYNXMPEGA80U5",
+          "created_at": "2020-11-09T13:52:53Z",
+          "video_url": null,
+          "source": {
+            "name": "Newsfilter",
+            "website": "https://newsfilter.io"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255272342,
+      "body": "$PFE  we may see $50 by the end of the week. It is already above the 52 weeks high... Premarket... wait until 9:30AM crowd and all the Covid investment from $NVAX, $JNJ $AZN and $MRNA join it. Great job bulls.",
+      "created_at": "2020-11-09T13:42:15Z",
+      "user": {
+        "id": 3475421,
+        "username": "greenthoughts",
+        "name": "greenthoughts",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2020-05-19",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 10,
+        "following": 1,
+        "ideas": 387,
+        "watchlist_stocks_count": 35,
+        "like_count": 271,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 2723,
+          "symbol": "MRNA",
+          "title": "Moderna, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 55546
+        },
+        {
+          "id": 2924,
+          "symbol": "NVAX",
+          "title": "Novavax, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 68188
+        },
+        {
+          "id": 4433,
+          "symbol": "AZN",
+          "title": "AstraZeneca PLC",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 16878
+        },
+        {
+          "id": 6011,
+          "symbol": "JNJ",
+          "title": "Johnson & Johnson",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 33457
+        },
+        {
+          "id": 6728,
+          "symbol": "PFE",
+          "title": "Pfizer Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 39113
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 255272342,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          4006041
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_255272342.png",
+          "large": "https://charts.stocktwits.com/production/large_255272342.png",
+          "original": "https://charts.stocktwits.com/production/original_255272342.png",
+          "url": "https://charts.stocktwits.com/production/original_255272342.png"
+        },
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 255268542,
+      "body": "$SNDL $JNJ \n\nCovid 19 play \n\nhttps://www.newswire.ca/news-releases/pathway-rx-advances-research-that-shows-potential-for-medical-cannabis-to-treat-covid-19-847899238.html",
+      "created_at": "2020-11-09T13:32:18Z",
+      "user": {
+        "id": 3706172,
+        "username": "_KINGCASH_",
+        "name": "KING CASH",
+        "avatar_url": "https://avatars.stocktwits.com/production/3706172/thumb-1593385653.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3706172/thumb-1593385653.png",
+        "join_date": "2020-06-28",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 4,
+        "following": 3,
+        "ideas": 735,
+        "watchlist_stocks_count": 19,
+        "like_count": 205,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2095,
+        "title": "StockTwits For Android ",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 6011,
+          "symbol": "JNJ",
+          "title": "Johnson & Johnson",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 33457
+        },
+        {
+          "id": 15350,
+          "symbol": "SNDL",
+          "title": "Sundial Growers Inc",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 15327
+        }
+      ],
+      "links": [
+        {
+          "title": "Pathway Rx Advances Research that Shows Potential for Medical Cannabis to Treat COVID-19",
+          "url": "https://www.newswire.ca/news-releases/pathway-rx-advances-research-that-shows-potential-for-medical-cannabis-to-treat-covid-19-847899238.html",
+          "shortened_url": "https://www.newswire.ca/news-releases/pathway-rx-advances-research-that-shows-potential-for-medical-cannabis-to-treat-covid-19-847899238.html",
+          "shortened_expanded_url": "newswire.ca/news-releases/p...",
+          "description": "Data collected from previous studies conducted in collaboration with Swysh and commercial partner Sundial Growers reveals that some medical cannabis cultivars can help reduce the severity and complications of COVID-19 disease LETHBRIDGE, AB, May 5, 2020 /CNW/ - Pathway RX Inc. (\"Pathway Rx\"), a research company dedicated to developing custom cannabis therapies to treat specific diseases and Swysh Inc.",
+          "image": "https://mma.prnewswire.com/media/1163961/Pathway_Rx_Pathway_Rx_Advances_Research_that_Shows_Potential_for.jpg?p=facebook",
+          "created_at": "2020-11-09T13:32:18Z",
+          "video_url": null,
+          "source": {
+            "name": "Newswire",
+            "website": "https://www.newswire.ca"
+          }
+        }
+      ],
+      "likes": {
+        "total": 3,
+        "user_ids": [
+          4249016,
+          507559,
+          637017
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 255265766,
+      "body": "BioNTech hopes immunisation effect of COVID-19 vaccine will last at least a year  $PFE $BNTX $JNJ $MRNA \n\nhttps://newsfilter.io/a/c131fdf3871eb61419c25d3c03317301",
+      "created_at": "2020-11-09T13:24:51Z",
+      "user": {
+        "id": 2762379,
+        "username": "Newsfilter",
+        "name": "@newsfilterio",
+        "avatar_url": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "join_date": "2019-09-01",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 7586,
+        "following": 16,
+        "ideas": 615955,
+        "watchlist_stocks_count": 1,
+        "like_count": 531,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 2723,
+          "symbol": "MRNA",
+          "title": "Moderna, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 55526
+        },
+        {
+          "id": 6011,
+          "symbol": "JNJ",
+          "title": "Johnson & Johnson",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 33453
+        },
+        {
+          "id": 6728,
+          "symbol": "PFE",
+          "title": "Pfizer Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 38360
+        },
+        {
+          "id": 15391,
+          "symbol": "BNTX",
+          "title": "BioNTech",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 8379
+        }
+      ],
+      "links": [
+        {
+          "title": "BioNTech hopes immunisation effect of COVID-19 vaccine will last at least a year",
+          "url": "https://newsfilter.io/a/c131fdf3871eb61419c25d3c03317301",
+          "shortened_url": "https://newsfilter.io/a/c131fdf3871eb61419c25d3c03317301",
+          "shortened_expanded_url": "newsfilter.io/a/c131fdf3871...",
+          "description": "(Reuters) - Pfizer Inc on Monday said its experimental vaccine was more than 90% effective in preventing COVID-19 based on initial data from a large study, a major victory in the fight against a pandemic that has killed over 1 million people, roiled the world's economy and upended daily life.",
+          "image": "https://s3.reutersmedia.net/resources/r/?m=02&d=20201109&t=2&i=1540528415&&fh=&fw=&ll=&pl=&sq=&r=LYNXMPEGA80U5",
+          "created_at": "2020-11-09T13:24:53Z",
+          "video_url": null,
+          "source": {
+            "name": "Newsfilter",
+            "website": "https://newsfilter.io"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255264064,
+      "body": "European banks, airlines surge after Pfizer COVID-19 vaccine news\n\nhttps://pageone.ng/2020/11/09/european-banks-airlines-surge-after-pfizer-covid-19-vaccine-news/\n\n$PFE $JNJ $AZN $BNTX",
+      "created_at": "2020-11-09T13:20:04Z",
+      "user": {
+        "id": 3577261,
+        "username": "vinci86",
+        "name": "Samuel Odusami",
+        "avatar_url": "https://avatars.stocktwits.com/production/3577261/thumb-1591690423.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3577261/thumb-1591690423.png",
+        "join_date": "2020-06-08",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 119,
+        "following": 6,
+        "ideas": 5259,
+        "watchlist_stocks_count": 41,
+        "like_count": 5,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2095,
+        "title": "StockTwits For Android ",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 4433,
+          "symbol": "AZN",
+          "title": "AstraZeneca PLC",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 16875
+        },
+        {
+          "id": 6011,
+          "symbol": "JNJ",
+          "title": "Johnson & Johnson",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 33453
+        },
+        {
+          "id": 6728,
+          "symbol": "PFE",
+          "title": "Pfizer Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 38360
+        },
+        {
+          "id": 15391,
+          "symbol": "BNTX",
+          "title": "BioNTech",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 8379
+        }
+      ],
+      "links": [
+        {
+          "title": "European banks, airlines surge after Pfizer COVID-19 vaccine news |",
+          "url": "https://pageone.ng/2020/11/09/european-banks-airlines-surge-after-pfizer-covid-19-vaccine-news/",
+          "shortened_url": "https://pageone.ng/2020/11/09/european-banks-airlines-surge-after-pfizer-covid-19-vaccine-news/",
+          "shortened_expanded_url": "pageone.ng/2020/11/09/europ...",
+          "description": "(Reuters) - Shares in European banks and in the travel and leisure industries surged about 10% on Monday after Pfizer announced that its experimental COVID-19 vaccine was more than 90% effective, which prompted a major rally across the continent's bourses. Europe's banking index made its biggest jump since",
+          "image": "https://i2.wp.com/pageone.ng/wp-content/uploads/2020/10/pfizer.jpg?fit=680%2C453&ssl=1",
+          "created_at": "2020-11-09T13:20:10Z",
+          "video_url": null,
+          "source": {
+            "name": "PageOne",
+            "website": "https://pageone.ng"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255259159,
+      "body": "$PFE says their COVID treatment is 90% effective...how does that compare to regular trials? $JNJ $AZN $MYL $SPY",
+      "created_at": "2020-11-09T13:06:08Z",
+      "user": {
+        "id": 1108620,
+        "username": "DJEuphoria",
+        "name": "Terence Michael",
+        "avatar_url": "https://avatars.stocktwits.com/production/1108620/thumb-1551958478.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1108620/thumb-1551958478.png",
+        "join_date": "2017-06-28",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 181,
+        "following": 87,
+        "ideas": 13035,
+        "watchlist_stocks_count": 79,
+        "like_count": 7439,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 2779,
+          "symbol": "MYL",
+          "title": "Mylan, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 7307
+        },
+        {
+          "id": 4433,
+          "symbol": "AZN",
+          "title": "AstraZeneca PLC",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 16875
+        },
+        {
+          "id": 6011,
+          "symbol": "JNJ",
+          "title": "Johnson & Johnson",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 33453
+        },
+        {
+          "id": 6728,
+          "symbol": "PFE",
+          "title": "Pfizer Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 38360
+        },
+        {
+          "id": 7271,
+          "symbol": "SPY",
+          "title": "SPDR S&P 500",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 269719
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 255248929,
+      "body": "$JNJ   premarket movers \u00f7=\nhttps://youtu.be/FHpIAtiOz2g",
+      "created_at": "2020-11-09T12:33:28Z",
+      "user": {
+        "id": 266242,
+        "username": "SmallShare",
+        "name": "SmallShare Trading",
+        "avatar_url": "https://avatars.stocktwits.com/production/266242/thumb-1516705650.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/266242/thumb-1516705650.png",
+        "join_date": "2013-10-01",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 825,
+        "following": 0,
+        "ideas": 46270,
+        "watchlist_stocks_count": 132,
+        "like_count": 715,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2095,
+        "title": "StockTwits For Android ",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 6011,
+          "symbol": "JNJ",
+          "title": "Johnson & Johnson",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 33453
+        }
+      ],
+      "links": [
+        {
+          "title": "Live Streaming stock market gauges and our list of Market Movers!",
+          "url": "https://youtu.be/FHpIAtiOz2g",
+          "shortened_url": "https://youtu.be/FHpIAtiOz2g",
+          "shortened_expanded_url": "youtube.com/watch?v=FHpIAti...",
+          "description": "Our list of market movers and live streaming market charts. music Phatt Package https://www.youtube.com/channel/UCnsnwlEH9NrnHrcIpCSOWbw listen on soundcloud...",
+          "image": "https://i.ytimg.com/vi/FHpIAtiOz2g/hqdefault.jpg",
+          "created_at": "2020-11-09T12:33:28Z",
+          "video_url": "//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FFHpIAtiOz2g%3Ffeature%3Doembed=YouTube=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DFHpIAtiOz2g=https%3A%2F%2Fi.ytimg.com%2Fvi%2FFHpIAtiOz2g%2Fhqdefault.jpg=38dd9af069fe4432a0efe5550d2ea231=text%2Fhtml=youtube",
+          "source": {
+            "name": "YouTube",
+            "website": "https://www.youtube.com/"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255246206,
+      "body": "Epic day for science! \nNew $PFE results depend on Messenger RNA. \nWhat is mRNA? \n\nhttps://www.sickeconomics.com/2020/07/20/mrna-biotech-investors/\n\n$PFE \n$MRNA \n$JNJ \n$MRK \n$NVAX",
+      "created_at": "2020-11-09T12:23:26Z",
+      "user": {
+        "id": 1706484,
+        "username": "sickeconomics",
+        "name": "Sickeconomics.com",
+        "avatar_url": "https://avatars.stocktwits.com/production/1706484/thumb-1541908225.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1706484/thumb-1541908225.png",
+        "join_date": "2018-11-10",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 27,
+        "following": 27,
+        "ideas": 139,
+        "watchlist_stocks_count": 21,
+        "like_count": 4,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 2723,
+          "symbol": "MRNA",
+          "title": "Moderna, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 55518
+        },
+        {
+          "id": 2924,
+          "symbol": "NVAX",
+          "title": "Novavax, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 68185
+        },
+        {
+          "id": 6011,
+          "symbol": "JNJ",
+          "title": "Johnson & Johnson",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 33453
+        },
+        {
+          "id": 6368,
+          "symbol": "MRK",
+          "title": "Merck & Co. Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 13181
+        },
+        {
+          "id": 6728,
+          "symbol": "PFE",
+          "title": "Pfizer Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 37211
+        }
+      ],
+      "links": [
+        {
+          "title": "What Is mRNA and Why Does It Matter To Biotech Investors? | Sick Economics",
+          "url": "https://www.sickeconomics.com/2020/07/20/mrna-biotech-investors/",
+          "shortened_url": "https://www.sickeconomics.com/2020/07/20/mrna-biotech-investors/",
+          "shortened_expanded_url": "sickeconomics.com/2020/07/2...",
+          "description": "Biotech Analyst Lee Rivers investigates..... Messenger ribonucleic acid (mRNA) is currently a popular topic in the biotech space. mRNA is a single strand molecule that delivers messages from our DNA to create necessary proteins. mRNA is the step in gene expression DNA and the protein production centers of the cells.",
+          "image": "https://secureservercdn.net/198.71.233.51/5ja.c09.myftpupload.com/wp-content/uploads/2020/07/coronavirus-4844593_1920.jpg?time=1604920418",
+          "created_at": "2020-11-09T12:23:29Z",
+          "video_url": null,
+          "source": {
+            "name": "Sick Economics",
+            "website": "https://www.sickeconomics.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 255245731,
+      "body": "$MRNA $NVAX $JNJ, guys  it looks like $PFE  will be the FIRST...",
+      "created_at": "2020-11-09T12:21:39Z",
+      "user": {
+        "id": 3475421,
+        "username": "greenthoughts",
+        "name": "greenthoughts",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2020-05-19",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 10,
+        "following": 1,
+        "ideas": 385,
+        "watchlist_stocks_count": 35,
+        "like_count": 271,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 2723,
+          "symbol": "MRNA",
+          "title": "Moderna, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 55518
+        },
+        {
+          "id": 2924,
+          "symbol": "NVAX",
+          "title": "Novavax, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 68185
+        },
+        {
+          "id": 6011,
+          "symbol": "JNJ",
+          "title": "Johnson & Johnson",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 33453
+        },
+        {
+          "id": 6728,
+          "symbol": "PFE",
+          "title": "Pfizer Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 37211
+        }
+      ],
+      "likes": {
+        "total": 3,
+        "user_ids": [
+          3345051,
+          3573160,
+          708307
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_255245731.png",
+          "large": "https://charts.stocktwits.com/production/large_255245731.png",
+          "original": "https://charts.stocktwits.com/production/original_255245731.png",
+          "url": "https://charts.stocktwits.com/production/original_255245731.png"
+        },
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 255241757,
+      "body": "Pfizer\u2019s Covid Vaccine Prevents 90% of Infections in Study  $JNJ $MRNA $BNTX $PFE \n\nhttps://newsfilter.io/a/ec9bdb9ec692ae8ba90554c997cb1140",
+      "created_at": "2020-11-09T12:05:10Z",
+      "user": {
+        "id": 2762379,
+        "username": "Newsfilter",
+        "name": "@newsfilterio",
+        "avatar_url": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "join_date": "2019-09-01",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 7584,
+        "following": 16,
+        "ideas": 615398,
+        "watchlist_stocks_count": 1,
+        "like_count": 531,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 2723,
+          "symbol": "MRNA",
+          "title": "Moderna, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 55518
+        },
+        {
+          "id": 6011,
+          "symbol": "JNJ",
+          "title": "Johnson & Johnson",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 33453
+        },
+        {
+          "id": 6728,
+          "symbol": "PFE",
+          "title": "Pfizer Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 37211
+        },
+        {
+          "id": 15391,
+          "symbol": "BNTX",
+          "title": "BioNTech",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 8202
+        }
+      ],
+      "links": [
+        {
+          "title": "Pfizer's Covid Vaccine Prevents 90% of Infections in Study",
+          "url": "https://newsfilter.io/a/ec9bdb9ec692ae8ba90554c997cb1140",
+          "shortened_url": "https://newsfilter.io/a/ec9bdb9ec692ae8ba90554c997cb1140",
+          "shortened_expanded_url": "newsfilter.io/a/ec9bdb9ec69...",
+          "description": "The Covid-19 vaccine being developed by Pfizer and BioNTech SE prevented more than 90% of infections in a study of tens of thousands of volunteers, the most encouraging scientific advance so far in the battle against the coronavirus.",
+          "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iMH9LvCads0w/v0/-1x-1.jpg",
+          "created_at": "2020-11-09T12:05:11Z",
+          "video_url": null,
+          "source": {
+            "name": "Newsfilter",
+            "website": "https://newsfilter.io"
+          }
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          3460135
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_255241757.jpg",
+          "large": "https://charts.stocktwits.com/production/large_255241757.jpg",
+          "original": "https://charts.stocktwits.com/production/original_255241757.jpg",
+          "url": "https://charts.stocktwits.com/production/original_255241757.jpg"
+        },
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255240860,
+      "body": "$BNTX $JNJ I don\u2019t think JNJ is going to be very happy with me when I drop out of their study and get the BNTX shots.",
+      "created_at": "2020-11-09T12:01:29Z",
+      "user": {
+        "id": 535186,
+        "username": "DrFeelgood",
+        "name": "Michael",
+        "avatar_url": "https://avatars.stocktwits.com/production/535186/thumb-1495660192.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/535186/thumb-1495660192.png",
+        "join_date": "2015-06-17",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 51,
+        "following": 168,
+        "ideas": 6651,
+        "watchlist_stocks_count": 200,
+        "like_count": 1129,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 6011,
+          "symbol": "JNJ",
+          "title": "Johnson & Johnson",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 33453
+        },
+        {
+          "id": 15391,
+          "symbol": "BNTX",
+          "title": "BioNTech",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 8202
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          427993
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255240507,
+      "body": "#Levermann #US #MegaCap #Sell WK45 $AAPL (2), $AMZN (2), $WMT (-2), $JNJ (1), $UNH (2), JPM (-1) https://bit.ly/3pelFVS",
+      "created_at": "2020-11-09T12:00:15Z",
+      "user": {
+        "id": 1514501,
+        "username": "Aigner_Andreas",
+        "name": "Andreas Aigner",
+        "avatar_url": "https://avatars.stocktwits.com/production/1514501/thumb-1528390137.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1514501/thumb-1528390137.png",
+        "join_date": "2018-06-07",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 2582,
+        "following": 49,
+        "ideas": 27462,
+        "watchlist_stocks_count": 87,
+        "like_count": 1051,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 4841,
+        "title": "Main App",
+        "url": "http://www.tradeflags.de"
+      },
+      "symbols": [
+        {
+          "id": 686,
+          "symbol": "AAPL",
+          "title": "Apple Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 527947
+        },
+        {
+          "id": 864,
+          "symbol": "AMZN",
+          "title": "Amazon.com Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 348956
+        },
+        {
+          "id": 6011,
+          "symbol": "JNJ",
+          "title": "Johnson & Johnson",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 33453
+        },
+        {
+          "id": 7569,
+          "symbol": "UNH",
+          "title": "Unitedhealth Group, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 12231
+        },
+        {
+          "id": 7745,
+          "symbol": "WMT",
+          "title": "Walmart Stores Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 81948
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 255240507,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "links": [
+        {
+          "title": null,
+          "url": "https://bit.ly/3pelFVS",
+          "shortened_url": "https://bit.ly/3pelFVS",
+          "shortened_expanded_url": "tradeflags.de/2020/11/09/Le...",
+          "description": null,
+          "image": null,
+          "created_at": "2020-11-09T12:00:19Z",
+          "video_url": null,
+          "source": {
+            "name": "Tradeflags",
+            "website": "https://www.tradeflags.de"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_255240507.png",
+          "large": "https://charts.stocktwits.com/production/large_255240507.png",
+          "original": "https://charts.stocktwits.com/production/original_255240507.png",
+          "url": "https://charts.stocktwits.com/production/original_255240507.png"
+        },
+        "sentiment": {
+          "basic": "Bearish"
+        }
+      }
+    },
+    {
+      "id": 255234602,
+      "body": "Investors bet vaccine sparks revival in beaten down stocks\n\nhttps://pageone.ng/2020/11/09/investors-bet-vaccine-sparks-revival-in-beaten-down-stocks/\n\n$AZN $JNJ $PFE $BNTX",
+      "created_at": "2020-11-09T11:16:13Z",
+      "user": {
+        "id": 3577261,
+        "username": "vinci86",
+        "name": "Samuel Odusami",
+        "avatar_url": "https://avatars.stocktwits.com/production/3577261/thumb-1591690423.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3577261/thumb-1591690423.png",
+        "join_date": "2020-06-08",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 118,
+        "following": 6,
+        "ideas": 5255,
+        "watchlist_stocks_count": 39,
+        "like_count": 5,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2095,
+        "title": "StockTwits For Android ",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 4433,
+          "symbol": "AZN",
+          "title": "AstraZeneca PLC",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 16879
+        },
+        {
+          "id": 6011,
+          "symbol": "JNJ",
+          "title": "Johnson & Johnson",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 33453
+        },
+        {
+          "id": 6728,
+          "symbol": "PFE",
+          "title": "Pfizer Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 37209
+        },
+        {
+          "id": 15391,
+          "symbol": "BNTX",
+          "title": "BioNTech",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 8188
+        }
+      ],
+      "links": [
+        {
+          "title": "Investors bet vaccine sparks revival in beaten down stocks | PageOne",
+          "url": "https://pageone.ng/2020/11/09/investors-bet-vaccine-sparks-revival-in-beaten-down-stocks/",
+          "shortened_url": "https://pageone.ng/2020/11/09/investors-bet-vaccine-sparks-revival-in-beaten-down-stocks/",
+          "shortened_expanded_url": "pageone.ng/2020/11/09/inves...",
+          "description": "(Reuters) - Investors expecting an imminent COVID-19 vaccine are beginning to buy bank stocks and industrials in anticipation of a roaring return in consumer confidence, though many remain wary of risks in sectors ravaged by the pandemic.",
+          "image": "https://i0.wp.com/pageone.ng/wp-content/uploads/2020/10/eli-lilly.jpg?fit=496%2C311&ssl=1",
+          "created_at": "2020-11-09T11:16:18Z",
+          "video_url": null,
+          "source": {
+            "name": "PageOne",
+            "website": "https://pageone.ng"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255186310,
+      "body": "$JNJ",
+      "created_at": "2020-11-09T00:31:45Z",
+      "user": {
+        "id": 3715272,
+        "username": "JujuBug",
+        "name": "Pakmanjean",
+        "avatar_url": "https://avatars.stocktwits.com/production/3715272/thumb-1595410965.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3715272/thumb-1595410965.png",
+        "join_date": "2020-06-30",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 4,
+        "following": 0,
+        "ideas": 405,
+        "watchlist_stocks_count": 26,
+        "like_count": 90,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 6011,
+          "symbol": "JNJ",
+          "title": "Johnson & Johnson",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 33452
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          3959786
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_255186310.png",
+          "large": "https://charts.stocktwits.com/production/large_255186310.png",
+          "original": "https://charts.stocktwits.com/production/original_255186310.png",
+          "url": "https://charts.stocktwits.com/production/original_255186310.png"
+        },
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 255175112,
+      "body": "Updated ratings for Johnson Johnson($JNJ), Western\u2026 https://www.macroaxis.com/invest/marketRatings?s=JNJ,WU,BGCP,IR,PAYX,PBCT #insidertrading #stocks #fintechnews",
+      "created_at": "2020-11-08T22:47:33Z",
+      "user": {
+        "id": 56948,
+        "username": "macroaxis",
+        "name": "Macroaxis",
+        "avatar_url": "https://avatars.stocktwits.com/production/56948/thumb-1361399398.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/56948/thumb-1361399398.png",
+        "join_date": "2011-03-04",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 2955,
+        "following": 4,
+        "ideas": 352767,
+        "watchlist_stocks_count": 15,
+        "like_count": 28,
+        "plus_tier": "year",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1351,
+        "title": "dlvr.it",
+        "url": "https://dlvrit.com/"
+      },
+      "symbols": [
+        {
+          "id": 6011,
+          "symbol": "JNJ",
+          "title": "Johnson & Johnson",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 33450
+        }
+      ],
+      "links": [
+        {
+          "title": "Digital Advice For JNJ,WU,BGCP,IR,PAYX,PBCT",
+          "url": "https://www.macroaxis.com/invest/marketRatings?s=JNJ,WU,BGCP,IR,PAYX,PBCT",
+          "shortened_url": "https://www.macroaxis.com/invest/marketRatings?s=JNJ,WU,BGCP,IR,PAYX,PBCT",
+          "shortened_expanded_url": "macroaxis.com/invest/market...",
+          "description": "To execute equity pricing pattern simulations, real time valuations, recommendations, instant reporting, and portfolio analytics such as mean-variance optimization takes huge amount of computing resources. Since we are a small company we cannot afford to have hundreds of servers in our cluster.",
+          "image": "https://www.macroaxis.com/images/aboutMacroaxisGuy.png",
+          "created_at": "2020-11-08T22:47:34Z",
+          "video_url": null,
+          "source": {
+            "name": "Macroaxis",
+            "website": "https://www.macroaxis.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255167793,
+      "body": "Your daily News digest for Johnson and Johnson $JNJ https://wsfriend.com/daily/news/JNJ/2020-11-08/",
+      "created_at": "2020-11-08T21:24:09Z",
+      "user": {
+        "id": 732840,
+        "username": "WallStreetFriend",
+        "name": "Wall Street Friend",
+        "avatar_url": "https://avatars.stocktwits.com/production/732840/thumb-1577167895.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/732840/thumb-1577167895.png",
+        "join_date": "2016-04-17",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 560,
+        "following": 39,
+        "ideas": 73315,
+        "watchlist_stocks_count": 31,
+        "like_count": 94,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5142,
+        "title": "Programmatic Alerts ",
+        "url": "https://wsfriend.com"
+      },
+      "symbols": [
+        {
+          "id": 6011,
+          "symbol": "JNJ",
+          "title": "Johnson & Johnson",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 33450
+        }
+      ],
+      "links": [
+        {
+          "title": "JNJ Trending News and Daily News Digest for on Nov 08, 2020",
+          "url": "https://wsfriend.com/daily/news/JNJ/2020-11-08/",
+          "shortened_url": "https://wsfriend.com/daily/news/JNJ/2020-11-08/",
+          "shortened_expanded_url": "wsfriend.com/daily/news/JNJ...",
+          "description": "JNJ Dail News Digest and Top trending news for",
+          "image": "https://s.yimg.com/uu/api/res/1.2/R.I6e_CiJ1gZN11qD8tIsw--~B/aD0yMzU3O3c9MzUzMztzbT0xO2FwcGlkPXl0YWNoeW9u/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2020-11/1e965e80-21f4-11eb-b5ff-016f05704b4b",
+          "created_at": "2020-11-08T21:24:10Z",
+          "video_url": null,
+          "source": {
+            "name": "Wsfriend",
+            "website": "https://wsfriend.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255164161,
+      "body": "#Levermann #Global #MegaCap #Sell WK45 $AAPL (2), $AMZN (2), $WMT (-2), $JNJ (1), $UNH (2), JPM (-1) https://bit.ly/3kcC61e",
+      "created_at": "2020-11-08T20:45:16Z",
+      "user": {
+        "id": 1514501,
+        "username": "Aigner_Andreas",
+        "name": "Andreas Aigner",
+        "avatar_url": "https://avatars.stocktwits.com/production/1514501/thumb-1528390137.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1514501/thumb-1528390137.png",
+        "join_date": "2018-06-07",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 2583,
+        "following": 49,
+        "ideas": 27462,
+        "watchlist_stocks_count": 87,
+        "like_count": 1050,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 4841,
+        "title": "Main App",
+        "url": "http://www.tradeflags.de"
+      },
+      "symbols": [
+        {
+          "id": 686,
+          "symbol": "AAPL",
+          "title": "Apple Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 527831
+        },
+        {
+          "id": 864,
+          "symbol": "AMZN",
+          "title": "Amazon.com Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 348836
+        },
+        {
+          "id": 6011,
+          "symbol": "JNJ",
+          "title": "Johnson & Johnson",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 33454
+        },
+        {
+          "id": 7569,
+          "symbol": "UNH",
+          "title": "Unitedhealth Group, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 12229
+        },
+        {
+          "id": 7745,
+          "symbol": "WMT",
+          "title": "Walmart Stores Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 81933
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 255164161,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "links": [
+        {
+          "title": null,
+          "url": "https://bit.ly/3kcC61e",
+          "shortened_url": "https://bit.ly/3kcC61e",
+          "shortened_expanded_url": "tradeflags.de/2020/11/08/Le...",
+          "description": null,
+          "image": null,
+          "created_at": "2020-11-08T20:45:18Z",
+          "video_url": null,
+          "source": {
+            "name": "Tradeflags",
+            "website": "https://www.tradeflags.de"
+          }
+        }
+      ],
+      "likes": {
+        "total": 2,
+        "user_ids": [
+          3514213,
+          2766836
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_255164161.png",
+          "large": "https://charts.stocktwits.com/production/large_255164161.png",
+          "original": "https://charts.stocktwits.com/production/original_255164161.png",
+          "url": "https://charts.stocktwits.com/production/original_255164161.png"
+        },
+        "sentiment": {
+          "basic": "Bearish"
+        }
+      }
+    },
+    {
+      "id": 255142918,
+      "body": "Buy And Hold Forever Stocks- Part 1 $JNJ https://talkmarkets.com/content/stocks--equities/buy-and-hold-forever-stocks-part-1?post=284695",
+      "created_at": "2020-11-08T16:26:05Z",
+      "user": {
+        "id": 296805,
+        "username": "TalkMarkets",
+        "name": "TalkMarkets",
+        "avatar_url": "https://avatars.stocktwits.com/production/296805/thumb-1388900805.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/296805/thumb-1388900805.png",
+        "join_date": "2014-01-05",
+        "official": true,
+        "identity": "Official",
+        "classification": [
+          "official"
+        ],
+        "followers": 28969,
+        "following": 328,
+        "ideas": 262939,
+        "watchlist_stocks_count": 0,
+        "like_count": 413,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1644,
+        "title": "TalkMarkets",
+        "url": "http://talkmarkets.com"
+      },
+      "symbols": [
+        {
+          "id": 6011,
+          "symbol": "JNJ",
+          "title": "Johnson & Johnson",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 33450
+        }
+      ],
+      "links": [
+        {
+          "title": "Buy And Hold Forever Stocks- Part 1",
+          "url": "https://talkmarkets.com/content/stocks--equities/buy-and-hold-forever-stocks-part-1?post=284695",
+          "shortened_url": "https://talkmarkets.com/content/stocks--equities/buy-and-hold-forever-stocks-part-1?post=284695",
+          "shortened_expanded_url": "talkmarkets.com/content/sto...",
+          "description": "The pandemic sunk the economy into recession this year, and the outlook moving forward remains highly uncertain. In times of economic recession, investors should prioritize dividend safety. Instead of buying stocks with the highest yields, it makes sense to focus on quality.",
+          "image": "https://d1ty0e8cxefhfl.cloudfront.net/user_content/contacts/largethumb_1D89D8C9-645C-4CD2-AE03-E083FE4B2324.jpeg?app=197211",
+          "created_at": "2020-11-08T16:26:06Z",
+          "video_url": null,
+          "source": {
+            "name": "TalkMarkets",
+            "website": "https://talkmarkets.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255126789,
+      "body": "The short sale volume (not short interest) for $JNJ on 2020-11-06 is 36%. http://shortvolumes.com/?t=JNJ via @shortvolumes",
+      "created_at": "2020-11-08T10:23:34Z",
+      "user": {
+        "id": 1246819,
+        "username": "shortvolumes",
+        "name": "shortvolumes",
+        "avatar_url": "https://avatars.stocktwits.com/production/1246819/thumb-1511564141.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1246819/thumb-1511564141.png",
+        "join_date": "2017-10-30",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 3569,
+        "following": 61,
+        "ideas": 195169,
+        "watchlist_stocks_count": 0,
+        "like_count": 3,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 6011,
+          "symbol": "JNJ",
+          "title": "Johnson & Johnson",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 33453
+        }
+      ],
+      "links": [
+        {
+          "title": "Daily short sale volume percent for stock ticker JNJ is 36% on Nov 06, 2020",
+          "url": "http://shortvolumes.com/?t=JNJ",
+          "shortened_url": "http://shortvolumes.com/?t=JNJ",
+          "shortened_expanded_url": "shortvolumes.com/?t=JNJ",
+          "description": "Daily short sale volume for stock ticker JNJ is 36% on Nov 06, 2020. The short sale volume percent is up 1% compare to Nov 05, 2020.",
+          "image": "http://shortvolumes.com/wp-content/uploads/2017/11/logo-1.png",
+          "created_at": "2020-11-08T10:23:34Z",
+          "video_url": null,
+          "source": {
+            "name": "Shortvolumes",
+            "website": "http://shortvolumes.com"
+          }
+        }
+      ],
+      "mentioned_users": [
+        "@shortvolumes"
+      ],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255125462,
+      "body": "AstraZeneca&#39;s drugs pipeline progresses as COVID vaccine data awaited\n\nhttps://pageone.ng/2020/11/05/astrazenecas-drugs-pipeline-progresses-as-covid-vaccine-data-awaited/\n\n$AZN $JNJ $LLY $PFE $BNTX",
+      "created_at": "2020-11-08T08:56:32Z",
+      "user": {
+        "id": 3577261,
+        "username": "vinci86",
+        "name": "Samuel Odusami",
+        "avatar_url": "https://avatars.stocktwits.com/production/3577261/thumb-1591690423.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3577261/thumb-1591690423.png",
+        "join_date": "2020-06-08",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 118,
+        "following": 6,
+        "ideas": 5251,
+        "watchlist_stocks_count": 37,
+        "like_count": 5,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2095,
+        "title": "StockTwits For Android ",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 4433,
+          "symbol": "AZN",
+          "title": "AstraZeneca PLC",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 16877
+        },
+        {
+          "id": 6011,
+          "symbol": "JNJ",
+          "title": "Johnson & Johnson",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 33454
+        },
+        {
+          "id": 6183,
+          "symbol": "LLY",
+          "title": "Eli Lilly & Co.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 7252
+        },
+        {
+          "id": 6728,
+          "symbol": "PFE",
+          "title": "Pfizer Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 37208
+        },
+        {
+          "id": 15391,
+          "symbol": "BNTX",
+          "title": "BioNTech",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 8190
+        }
+      ],
+      "links": [
+        {
+          "title": "AstraZeneca's drugs pipeline progresses as COVID vaccine data awaited",
+          "url": "https://pageone.ng/2020/11/05/astrazenecas-drugs-pipeline-progresses-as-covid-vaccine-data-awaited/",
+          "shortened_url": "https://pageone.ng/2020/11/05/astrazenecas-drugs-pipeline-progresses-as-covid-vaccine-data-awaited/",
+          "shortened_expanded_url": "pageone.ng/2020/11/05/astra...",
+          "description": "(Reuters) - AstraZeneca, the British drugmaker working on one of the world's leading COVID-19 vaccine hopefuls, reported progress in its pipeline of other medicines on Thursday as it posted a mixed set of third-quarter results. The company also echoed comments from its partners at Oxford university, who said on",
+          "image": "https://i1.wp.com/pageone.ng/wp-content/uploads/2020/08/Astrazeneca.jpg?fit=512%2C288&ssl=1",
+          "created_at": "2020-11-08T08:56:36Z",
+          "video_url": null,
+          "source": {
+            "name": "PageOne",
+            "website": "https://pageone.ng"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255125446,
+      "body": "India-made COVID-19 vaccine could be launched as early as February - government scientist\n\nhttps://pageone.ng/2020/11/05/india-made-covid-19-vaccine-could-be-launched-as-early-as-february-government-scientist/\n\n$JNJ $BNTX $MRNA $AZN $LLY",
+      "created_at": "2020-11-08T08:55:40Z",
+      "user": {
+        "id": 3577261,
+        "username": "vinci86",
+        "name": "Samuel Odusami",
+        "avatar_url": "https://avatars.stocktwits.com/production/3577261/thumb-1591690423.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3577261/thumb-1591690423.png",
+        "join_date": "2020-06-08",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 118,
+        "following": 6,
+        "ideas": 5251,
+        "watchlist_stocks_count": 37,
+        "like_count": 5,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2095,
+        "title": "StockTwits For Android ",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 2723,
+          "symbol": "MRNA",
+          "title": "Moderna, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 55517
+        },
+        {
+          "id": 4433,
+          "symbol": "AZN",
+          "title": "AstraZeneca PLC",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 16877
+        },
+        {
+          "id": 6011,
+          "symbol": "JNJ",
+          "title": "Johnson & Johnson",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 33454
+        },
+        {
+          "id": 6183,
+          "symbol": "LLY",
+          "title": "Eli Lilly & Co.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 7252
+        },
+        {
+          "id": 15391,
+          "symbol": "BNTX",
+          "title": "BioNTech",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 8190
+        }
+      ],
+      "links": [
+        {
+          "title": "India-made COVID-19 vaccine could be launched as early as February -",
+          "url": "https://pageone.ng/2020/11/05/india-made-covid-19-vaccine-could-be-launched-as-early-as-february-government-scientist/",
+          "shortened_url": "https://pageone.ng/2020/11/05/india-made-covid-19-vaccine-could-be-launched-as-early-as-february-government-scientist/",
+          "shortened_expanded_url": "pageone.ng/2020/11/05/india...",
+          "description": "(Reuters) - An Indian government-backed COVID-19 vaccine could be launched as early as February - months earlier than expected - as last-stage trials begin this month and studies have so far showed it is safe and effective, a senior government scientist told Reuters.",
+          "image": "https://i0.wp.com/pageone.ng/wp-content/uploads/2018/05/india_flag_1-500x500.jpg?fit=500%2C313&ssl=1",
+          "created_at": "2020-11-08T08:55:44Z",
+          "video_url": null,
+          "source": {
+            "name": "PageOne",
+            "website": "https://pageone.ng"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255125434,
+      "body": "Australia orders more COVID-19 vaccines for total of 135 million\n\nhttps://pageone.ng/2020/11/05/australia-orders-more-covid-19-vaccines-for-total-of-135-million/\n\n$JNJ $AZN $PFE",
+      "created_at": "2020-11-08T08:55:11Z",
+      "user": {
+        "id": 3577261,
+        "username": "vinci86",
+        "name": "Samuel Odusami",
+        "avatar_url": "https://avatars.stocktwits.com/production/3577261/thumb-1591690423.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3577261/thumb-1591690423.png",
+        "join_date": "2020-06-08",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 118,
+        "following": 6,
+        "ideas": 5251,
+        "watchlist_stocks_count": 37,
+        "like_count": 5,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2095,
+        "title": "StockTwits For Android ",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 4433,
+          "symbol": "AZN",
+          "title": "AstraZeneca PLC",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 16877
+        },
+        {
+          "id": 6011,
+          "symbol": "JNJ",
+          "title": "Johnson & Johnson",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 33454
+        },
+        {
+          "id": 6728,
+          "symbol": "PFE",
+          "title": "Pfizer Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 37208
+        }
+      ],
+      "links": [
+        {
+          "title": "Australia orders more COVID-19 vaccines for total of 135 million |",
+          "url": "https://pageone.ng/2020/11/05/australia-orders-more-covid-19-vaccines-for-total-of-135-million/",
+          "shortened_url": "https://pageone.ng/2020/11/05/australia-orders-more-covid-19-vaccines-for-total-of-135-million/",
+          "shortened_expanded_url": "pageone.ng/2020/11/05/austr...",
+          "description": "(Reuters) - The Australian government has agreed to purchase two more COVID-19 vaccines in development, beefing up the country's prospective arsenal against the pandemic to 135 million doses as it aims to complete a mass inoculation programme within months. Prime Minister Scott Morrison said on Thursday the",
+          "image": "https://i0.wp.com/pageone.ng/wp-content/uploads/2020/10/vaccine-christmas.jpg?fit=679%2C452&ssl=1",
+          "created_at": "2020-11-08T08:55:16Z",
+          "video_url": null,
+          "source": {
+            "name": "PageOne",
+            "website": "https://pageone.ng"
+          }
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          4006041
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255076593,
+      "body": "Your daily News digest for Johnson and Johnson $JNJ https://wsfriend.com/daily/news/JNJ/2020-11-07/",
+      "created_at": "2020-11-07T21:23:50Z",
+      "user": {
+        "id": 732840,
+        "username": "WallStreetFriend",
+        "name": "Wall Street Friend",
+        "avatar_url": "https://avatars.stocktwits.com/production/732840/thumb-1577167895.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/732840/thumb-1577167895.png",
+        "join_date": "2016-04-17",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 560,
+        "following": 39,
+        "ideas": 73315,
+        "watchlist_stocks_count": 31,
+        "like_count": 94,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5142,
+        "title": "Programmatic Alerts ",
+        "url": "https://wsfriend.com"
+      },
+      "symbols": [
+        {
+          "id": 6011,
+          "symbol": "JNJ",
+          "title": "Johnson & Johnson",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 33450
+        }
+      ],
+      "links": [
+        {
+          "title": "JNJ Trending News and Daily News Digest for on Nov 07, 2020",
+          "url": "https://wsfriend.com/daily/news/JNJ/2020-11-07/",
+          "shortened_url": "https://wsfriend.com/daily/news/JNJ/2020-11-07/",
+          "shortened_expanded_url": "wsfriend.com/daily/news/JNJ...",
+          "description": "JNJ Dail News Digest and Top trending news for",
+          "image": "https://s.yimg.com/uu/api/res/1.2/CXqtyoKsGyJpChoZEgZ7Og--~B/aD0yNzIzO3c9MTgxNjtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en-us/detroit_free_press_usa_today_sports_articles_655/cceba5406b62028b8b45a6ad55aa4903",
+          "created_at": "2020-11-07T21:23:51Z",
+          "video_url": null,
+          "source": {
+            "name": "Wsfriend",
+            "website": "https://wsfriend.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255075366,
+      "body": "The ABSOLUTE Top FIVE Foundation Dividend Stocks for YOUR Portfolio!\n\nGotta check them out, Dividend Aristocrats w/ 25+ years of dividend growth, LET&#39;S GO!!!\n\n$JNJ $PG $MCD $T $ED \n\nThe Proof is In the Pudding - Updated October 2020!\nhttps://t.co/TSVktTNYow?amp=1",
+      "created_at": "2020-11-07T21:09:48Z",
+      "user": {
+        "id": 405114,
+        "username": "DividendDiplomats",
+        "name": "Dividend Diplomats",
+        "avatar_url": "https://avatars.stocktwits.com/production/405114/thumb-1432482402.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/405114/thumb-1432482402.png",
+        "join_date": "2014-09-27",
+        "official": false,
+        "identity": "User",
+        "classification": [
+          "suggested"
+        ],
+        "followers": 15685,
+        "following": 115,
+        "ideas": 1425,
+        "watchlist_stocks_count": 5,
+        "like_count": 4,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 5108,
+          "symbol": "ED",
+          "title": "Consolidated Edison Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1898
+        },
+        {
+          "id": 6011,
+          "symbol": "JNJ",
+          "title": "Johnson & Johnson",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 33450
+        },
+        {
+          "id": 6245,
+          "symbol": "MCD",
+          "title": "McDonald's Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 27111
+        },
+        {
+          "id": 6741,
+          "symbol": "PG",
+          "title": "Procter & Gamble Co.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 15503
+        },
+        {
+          "id": 7341,
+          "symbol": "T",
+          "title": "AT&T, Inc.",
+          "aliases": [
+            "ATT"
+          ],
+          "is_following": false,
+          "watchlist_count": 71904
+        }
+      ],
+      "links": [
+        {
+          "title": "Top 5 Foundation Dividend Stocks for any Portfolio",
+          "url": "https://t.co/TSVktTNYow",
+          "shortened_url": "https://t.co/TSVktTNYow",
+          "shortened_expanded_url": "dividenddiplomats.com/top-5...",
+          "description": "Hey everyone! I was sitting at my kitchen table doing an intense round of push-ups, reading articles and had a thought. I would love to share my point of view on the top 5 foundation dividend stocks that every beginning investor should own.",
+          "image": "https://www.dividenddiplomats.com/wp-content/uploads/2014/10/2012-07-24-The-Foundation-1024x768-1.jpg",
+          "created_at": "2020-11-07T21:09:51Z",
+          "video_url": null,
+          "source": {
+            "name": "Dividend Diplomats",
+            "website": "https://www.dividenddiplomats.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255064203,
+      "body": "6 of 10 $JNJ $JPM $KO The best reward to risk ratio trades are when consecutive bars show dark colored signals \u2026 see 7/10",
+      "created_at": "2020-11-07T19:22:23Z",
+      "user": {
+        "id": 3553,
+        "username": "GemsBot",
+        "name": "George Marcovits",
+        "avatar_url": "https://avatars.stocktwits.com/production/3553/thumb-1582493636.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3553/thumb-1582493636.png",
+        "join_date": "2009-09-15",
+        "official": true,
+        "identity": "Official",
+        "classification": [
+          "suggested",
+          "official"
+        ],
+        "followers": 15426,
+        "following": 26,
+        "ideas": 3506,
+        "watchlist_stocks_count": 4,
+        "like_count": 2,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 6011,
+          "symbol": "JNJ",
+          "title": "Johnson & Johnson",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 33449
+        },
+        {
+          "id": 6020,
+          "symbol": "JPM",
+          "title": "JPMorgan Chase & Co.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 58584
+        },
+        {
+          "id": 6102,
+          "symbol": "KO",
+          "title": "The Coca-Cola Company",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 32825
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_255064203.jpg",
+          "large": "https://charts.stocktwits.com/production/large_255064203.jpg",
+          "original": "https://charts.stocktwits.com/production/original_255064203.jpg",
+          "url": "https://charts.stocktwits.com/production/original_255064203.jpg"
+        },
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255024947,
+      "body": "BREATHE IN, SPEAK OUT is in the process of being trademarked by JOHNSON &amp; JOHNSON https://uspto.report/TM/90296324 #BREATHEINSPEAKOUT $JNJ #BREATHE #SPEAK",
+      "created_at": "2020-11-07T08:36:47Z",
+      "user": {
+        "id": 2831538,
+        "username": "uspto",
+        "name": "Trademarkbot",
+        "avatar_url": "https://avatars.stocktwits.com/production/2831538/thumb-1569611907.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2831538/thumb-1569611907.png",
+        "join_date": "2019-09-27",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 84,
+        "following": 0,
+        "ideas": 3713,
+        "watchlist_stocks_count": 0,
+        "like_count": 132,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5681,
+        "title": "Trademark Reporter",
+        "url": "https://uspto.report"
+      },
+      "symbols": [
+        {
+          "id": 6011,
+          "symbol": "JNJ",
+          "title": "Johnson & Johnson",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 33454
+        }
+      ],
+      "links": [
+        {
+          "title": "BREATHE IN, SPEAK OUT - Johnson & Johnson Trademark Registration",
+          "url": "https://uspto.report/TM/90296324",
+          "shortened_url": "https://uspto.report/TM/90296324",
+          "shortened_expanded_url": "uspto.report/TM/90296324",
+          "description": "Trademark registration by Johnson & Johnson for the trademark BREATHE IN, SPEAK OUT.",
+          "image": "https://uspto.report/TM/90296324/mark.png",
+          "created_at": "2020-11-07T08:36:49Z",
+          "video_url": null,
+          "source": {
+            "name": "USPTO.report",
+            "website": "https://uspto.report"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_255024947.",
+          "large": "https://charts.stocktwits.com/production/large_255024947.",
+          "original": "https://charts.stocktwits.com/production/original_255024947.",
+          "url": "https://charts.stocktwits.com/production/original_255024947."
+        },
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255023754,
+      "body": "$JNJ 145c in play baby",
+      "created_at": "2020-11-07T07:34:52Z",
+      "user": {
+        "id": 561386,
+        "username": "Eddycos",
+        "name": "EddyCos",
+        "avatar_url": "https://avatars.stocktwits.com/production/561386/thumb-1588184546.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/561386/thumb-1588184546.png",
+        "join_date": "2015-08-01",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 5,
+        "following": 94,
+        "ideas": 151,
+        "watchlist_stocks_count": 16,
+        "like_count": 129,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 6011,
+          "symbol": "JNJ",
+          "title": "Johnson & Johnson",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 33454
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255019778,
+      "body": "Covid-19 Vaccine Safety Efforts to Feature App Tracking  $PFE $MRNA $JNJ $AZN $GEN \n\nhttps://newsfilter.io/a/0b8351047cc1adda39abae110fd95819",
+      "created_at": "2020-11-07T05:40:13Z",
+      "user": {
+        "id": 2762379,
+        "username": "Newsfilter",
+        "name": "@newsfilterio",
+        "avatar_url": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "join_date": "2019-09-01",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 7582,
+        "following": 16,
+        "ideas": 615108,
+        "watchlist_stocks_count": 1,
+        "like_count": 531,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 2723,
+          "symbol": "MRNA",
+          "title": "Moderna, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 55509
+        },
+        {
+          "id": 4433,
+          "symbol": "AZN",
+          "title": "AstraZeneca PLC",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 16877
+        },
+        {
+          "id": 6011,
+          "symbol": "JNJ",
+          "title": "Johnson & Johnson",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 33454
+        },
+        {
+          "id": 6728,
+          "symbol": "PFE",
+          "title": "Pfizer Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 37213
+        },
+        {
+          "id": 9445,
+          "symbol": "GEN",
+          "title": " Genesis Healthcare",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 2980
+        }
+      ],
+      "links": [
+        {
+          "title": "Covid-19 Vaccine Safety Efforts to Feature App Tracking",
+          "url": "https://newsfilter.io/a/0b8351047cc1adda39abae110fd95819",
+          "shortened_url": "https://newsfilter.io/a/0b8351047cc1adda39abae110fd95819",
+          "shortened_expanded_url": "newsfilter.io/a/0b8351047cc...",
+          "description": "Government health officials and drugmakers plan to roll out extra tools to detect whether Covid-19 vaccines cause any serious side effects once the shots are cleared for widespread use, aiming to fill gaps in existing safeguards given the expected speed and scope of the rollout.",
+          "image": "https://images.wsj.net/im-255102/social",
+          "created_at": "2020-11-07T05:40:14Z",
+          "video_url": null,
+          "source": {
+            "name": "Newsfilter",
+            "website": "https://newsfilter.io"
+          }
+        }
+      ],
+      "likes": {
+        "total": 2,
+        "user_ids": [
+          328243,
+          4184178
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255019312,
+      "body": "Biogen&#39;s long and winding road in Alzheimer&#39;s hits wall  $BIIB $LLY $JNJ \n\nhttps://newsfilter.io/a/416df7cbd4f08a3e5e13fcde4162e3dc",
+      "created_at": "2020-11-07T05:30:59Z",
+      "user": {
+        "id": 2762379,
+        "username": "Newsfilter",
+        "name": "@newsfilterio",
+        "avatar_url": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "join_date": "2019-09-01",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 7581,
+        "following": 16,
+        "ideas": 615119,
+        "watchlist_stocks_count": 1,
+        "like_count": 531,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 1075,
+          "symbol": "BIIB",
+          "title": "Biogen Idec Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 14318
+        },
+        {
+          "id": 6011,
+          "symbol": "JNJ",
+          "title": "Johnson & Johnson",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 33454
+        },
+        {
+          "id": 6183,
+          "symbol": "LLY",
+          "title": "Eli Lilly & Co.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 7252
+        }
+      ],
+      "links": [
+        {
+          "title": "Biogen's long and winding road in Alzheimer's hits wall",
+          "url": "https://newsfilter.io/a/416df7cbd4f08a3e5e13fcde4162e3dc",
+          "shortened_url": "https://newsfilter.io/a/416df7cbd4f08a3e5e13fcde4162e3dc",
+          "shortened_expanded_url": "newsfilter.io/a/416df7cbd4f...",
+          "description": "Yesterday's negative FDA advisory committee vote may be the final nail in the coffin in the up-and-down registration path of Biogen and collaboration partner Eisai's aducanumab for the treatment of patients with mild Alzheimer's disease. This is the latest setback for therapies targeting the underlying pathology of AD in which the highest dose achieved the primary endpoint, was insufficient to demonstrate efficacy.",
+          "image": "https://newsfilter.io/meta-images/?url=https://storage.googleapis.com/iex/api/logos/BIIB.png",
+          "created_at": "2020-11-07T05:30:59Z",
+          "video_url": null,
+          "source": {
+            "name": "Newsfilter",
+            "website": "https://newsfilter.io"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,1786 @@
+{
+  "response": {
+    "status": 200
+  },
+  "symbol": {
+    "id": 4678,
+    "symbol": "CCI",
+    "title": "Crown Castle International Corp.",
+    "aliases": [],
+    "is_following": false,
+    "watchlist_count": 3250
+  },
+  "cursor": {
+    "more": true,
+    "since": 254504551,
+    "max": 253127984
+  },
+  "messages": [
+    {
+      "id": 254504551,
+      "body": "$CCI not bad",
+      "created_at": "2020-11-05T02:40:05Z",
+      "user": {
+        "id": 4065276,
+        "username": "webguyoregon",
+        "name": "OregonCloud Support",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2020-09-11",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 3,
+        "following": 24,
+        "ideas": 230,
+        "watchlist_stocks_count": 25,
+        "like_count": 1171,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2095,
+        "title": "StockTwits For Android ",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 4678,
+          "symbol": "CCI",
+          "title": "Crown Castle International Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 3251
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 254466347,
+      "body": "Your daily News digest for Crown Castle International $CCI https://wsfriend.com/daily/news/CCI/2020-11-04/",
+      "created_at": "2020-11-04T22:18:40Z",
+      "user": {
+        "id": 732840,
+        "username": "WallStreetFriend",
+        "name": "Wall Street Friend",
+        "avatar_url": "https://avatars.stocktwits.com/production/732840/thumb-1577167895.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/732840/thumb-1577167895.png",
+        "join_date": "2016-04-17",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 558,
+        "following": 39,
+        "ideas": 72482,
+        "watchlist_stocks_count": 31,
+        "like_count": 94,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5142,
+        "title": "Programmatic Alerts ",
+        "url": "https://wsfriend.com"
+      },
+      "symbols": [
+        {
+          "id": 4678,
+          "symbol": "CCI",
+          "title": "Crown Castle International Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 3250
+        }
+      ],
+      "links": [
+        {
+          "title": "CCI Trending News and Daily News Digest for on Nov 04, 2020",
+          "url": "https://wsfriend.com/daily/news/CCI/2020-11-04/",
+          "shortened_url": "https://wsfriend.com/daily/news/CCI/2020-11-04/",
+          "shortened_expanded_url": "wsfriend.com/daily/news/CCI...",
+          "description": "CCI Dail News Digest and Top trending news for",
+          "image": null,
+          "created_at": "2020-11-04T22:18:40Z",
+          "video_url": null,
+          "source": {
+            "name": "Wsfriend",
+            "website": "https://wsfriend.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254428043,
+      "body": "$CCI Implied Volatility expiration 11/20/2020 #maxpain #options http://maximum-pain.com/iv/CCI?m=11%2f20%2f2020",
+      "created_at": "2020-11-04T19:50:55Z",
+      "user": {
+        "id": 1216862,
+        "username": "OptionsTech",
+        "name": "Dan Smith",
+        "avatar_url": "https://avatars.stocktwits.com/production/1216862/thumb-1507373900.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1216862/thumb-1507373900.png",
+        "join_date": "2017-10-07",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 545,
+        "following": 1,
+        "ideas": 17508,
+        "watchlist_stocks_count": 0,
+        "like_count": 0,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 4678,
+          "symbol": "CCI",
+          "title": "Crown Castle International Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 3250
+        }
+      ],
+      "links": [
+        {
+          "title": "Stock Option Max Pain",
+          "url": "http://maximum-pain.com/iv/CCI?m=11%2f20%2f2020",
+          "shortened_url": "http://maximum-pain.com/iv/CCI?m=11%2f20%2f2020",
+          "shortened_expanded_url": "maximum-pain.com/iv/CCI?m=1...",
+          "description": null,
+          "image": null,
+          "created_at": "2020-11-04T19:50:56Z",
+          "video_url": null,
+          "source": {
+            "name": "Maximum-pain",
+            "website": "http://maximum-pain.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_254428043.png",
+          "large": "https://charts.stocktwits.com/production/large_254428043.png",
+          "original": "https://charts.stocktwits.com/production/original_254428043.png",
+          "url": "https://charts.stocktwits.com/production/original_254428043.png"
+        },
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254230147,
+      "body": "Your daily News digest for Crown Castle International $CCI https://wsfriend.com/daily/news/CCI/2020-11-03/",
+      "created_at": "2020-11-03T22:15:39Z",
+      "user": {
+        "id": 732840,
+        "username": "WallStreetFriend",
+        "name": "Wall Street Friend",
+        "avatar_url": "https://avatars.stocktwits.com/production/732840/thumb-1577167895.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/732840/thumb-1577167895.png",
+        "join_date": "2016-04-17",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 558,
+        "following": 39,
+        "ideas": 72482,
+        "watchlist_stocks_count": 31,
+        "like_count": 94,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5142,
+        "title": "Programmatic Alerts ",
+        "url": "https://wsfriend.com"
+      },
+      "symbols": [
+        {
+          "id": 4678,
+          "symbol": "CCI",
+          "title": "Crown Castle International Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 3250
+        }
+      ],
+      "links": [
+        {
+          "title": "CCI Trending News and Daily News Digest for on Nov 03, 2020",
+          "url": "https://wsfriend.com/daily/news/CCI/2020-11-03/",
+          "shortened_url": "https://wsfriend.com/daily/news/CCI/2020-11-03/",
+          "shortened_expanded_url": "wsfriend.com/daily/news/CCI...",
+          "description": "CCI Dail News Digest and Top trending news for",
+          "image": null,
+          "created_at": "2020-11-03T22:15:39Z",
+          "video_url": null,
+          "source": {
+            "name": "Wsfriend",
+            "website": "https://wsfriend.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254066271,
+      "body": "$CCI public chat no phone verification https://sqwok.im/p/Rs6vzZSGdcsDYg?tab=chat",
+      "created_at": "2020-11-03T10:17:02Z",
+      "user": {
+        "id": 4065276,
+        "username": "webguyoregon",
+        "name": "OregonCloud Support",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2020-09-11",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 3,
+        "following": 26,
+        "ideas": 234,
+        "watchlist_stocks_count": 25,
+        "like_count": 1182,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2095,
+        "title": "StockTwits For Android ",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 4678,
+          "symbol": "CCI",
+          "title": "Crown Castle International Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 3253
+        }
+      ],
+      "links": [
+        {
+          "title": null,
+          "url": "https://sqwok.im/p/Rs6vzZSGdcsDYg?tab=chat",
+          "shortened_url": "https://sqwok.im/p/Rs6vzZSGdcsDYg?tab=chat",
+          "shortened_expanded_url": "sqwok.im/p/Rs6vzZSGdcsDYg?t...",
+          "description": null,
+          "image": null,
+          "created_at": "2020-11-03T10:17:03Z",
+          "video_url": null,
+          "source": {
+            "name": "Sqwok",
+            "website": "https://sqwok.im"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 254006663,
+      "body": "Your daily News digest for Crown Castle International $CCI https://wsfriend.com/daily/news/CCI/2020-11-02/",
+      "created_at": "2020-11-02T22:15:00Z",
+      "user": {
+        "id": 732840,
+        "username": "WallStreetFriend",
+        "name": "Wall Street Friend",
+        "avatar_url": "https://avatars.stocktwits.com/production/732840/thumb-1577167895.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/732840/thumb-1577167895.png",
+        "join_date": "2016-04-17",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 558,
+        "following": 39,
+        "ideas": 72482,
+        "watchlist_stocks_count": 31,
+        "like_count": 94,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5142,
+        "title": "Programmatic Alerts ",
+        "url": "https://wsfriend.com"
+      },
+      "symbols": [
+        {
+          "id": 4678,
+          "symbol": "CCI",
+          "title": "Crown Castle International Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 3250
+        }
+      ],
+      "links": [
+        {
+          "title": "CCI Trending News and Daily News Digest for on Nov 02, 2020",
+          "url": "https://wsfriend.com/daily/news/CCI/2020-11-02/",
+          "shortened_url": "https://wsfriend.com/daily/news/CCI/2020-11-02/",
+          "shortened_expanded_url": "wsfriend.com/daily/news/CCI...",
+          "description": "CCI Dail News Digest and Top trending news for",
+          "image": null,
+          "created_at": "2020-11-02T22:15:01Z",
+          "video_url": null,
+          "source": {
+            "name": "Wsfriend",
+            "website": "https://wsfriend.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253998990,
+      "body": "Peak profit for the last 6 expired option alerts for $CCI 71.43| 93.55| 140.00| 5.41| 44.68| 9.81|",
+      "created_at": "2020-11-02T21:39:30Z",
+      "user": {
+        "id": 1553598,
+        "username": "sleekoptions_twits",
+        "name": "sleekOptions Signals",
+        "avatar_url": "https://avatars.stocktwits.com/production/1553598/thumb-1600048561.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1553598/thumb-1600048561.png",
+        "join_date": "2018-07-22",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 1777,
+        "following": 29,
+        "ideas": 25151,
+        "watchlist_stocks_count": 3,
+        "like_count": 263,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 4255,
+        "title": "Sleekoptions Daytrade",
+        "url": "http://www.sleekoptions.com"
+      },
+      "symbols": [
+        {
+          "id": 4678,
+          "symbol": "CCI",
+          "title": "Crown Castle International Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 3250
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_253998990.png",
+          "large": "https://charts.stocktwits.com/production/large_253998990.png",
+          "original": "https://charts.stocktwits.com/production/original_253998990.png",
+          "url": "https://charts.stocktwits.com/production/original_253998990.png"
+        },
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253919682,
+      "body": "$CCI Detach your mind to toxicities bulls. Take a quick break and read some of this good news. Check disclaimer on my profile.http://psce.pw/TheSurgeOfECommerce",
+      "created_at": "2020-11-02T16:32:13Z",
+      "user": {
+        "id": 4074679,
+        "username": "mileymaron12",
+        "name": "miley maron",
+        "avatar_url": "https://avatars.stocktwits.com/production/4074679/thumb-1601992230.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/4074679/thumb-1601992230.png",
+        "join_date": "2020-09-15",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 9,
+        "following": 31,
+        "ideas": 506,
+        "watchlist_stocks_count": 0,
+        "like_count": 2,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 4678,
+          "symbol": "CCI",
+          "title": "Crown Castle International Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 3250
+        }
+      ],
+      "links": [
+        {
+          "title": "Slipping Under The Radar Companies With BreakOut Potential. Market Update See Here",
+          "url": "http://psce.pw/TheSurgeOfECommerce",
+          "shortened_url": "http://psce.pw/TheSurgeOfECommerce",
+          "shortened_expanded_url": "researchdrivennews.com/trac...",
+          "description": "With the global e-commerce boom showing no signs of slowing, it's creating BIG opportunity for severely undervalued Logiq Inc. ( STOCK:LGIQ). In fact, trading with a market cap of approx. $93 million, LGIQ is growing FAST in the $6.5 trillion global e-commerce market(1), and the $4.3 trillion mobile commerce market.(2) The very same markets that drove: Shopify from approx.",
+          "image": "https://researchdrivennews.com/wp-content/uploads/sites/14/2020/08/cropped-bull-vs-bear-market-graph-means-profit-or-loss-investment-trading-forex-shares-or-bond-markets-3d-illustration-T11P05-1.jpg",
+          "created_at": "2020-11-02T16:32:13Z",
+          "video_url": null,
+          "source": {
+            "name": "Research Driven News",
+            "website": "https://researchdrivennews.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 253851949,
+      "body": "$CCI - Keep Crown Castle and Equinix\u2026 https://www.macroaxis.com/invest/competition/CCI/EQIX/Crown-vs-Equinix #portfolio_prospective #better_portfolio #diversify",
+      "created_at": "2020-11-02T10:33:02Z",
+      "user": {
+        "id": 56948,
+        "username": "macroaxis",
+        "name": "Macroaxis",
+        "avatar_url": "https://avatars.stocktwits.com/production/56948/thumb-1361399398.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/56948/thumb-1361399398.png",
+        "join_date": "2011-03-04",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 2947,
+        "following": 4,
+        "ideas": 351605,
+        "watchlist_stocks_count": 15,
+        "like_count": 28,
+        "plus_tier": "year",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1351,
+        "title": "dlvr.it",
+        "url": "https://dlvrit.com/"
+      },
+      "symbols": [
+        {
+          "id": 4678,
+          "symbol": "CCI",
+          "title": "Crown Castle International Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 3253
+        }
+      ],
+      "links": [
+        {
+          "title": "Crown vs Equinix - Comparative Analysis | Macroaxis",
+          "url": "https://www.macroaxis.com/invest/competition/CCI/EQIX/Crown-vs-Equinix",
+          "shortened_url": "https://www.macroaxis.com/invest/competition/CCI/EQIX/Crown-vs-Equinix",
+          "shortened_expanded_url": "macroaxis.com/invest/compet...",
+          "description": "Crown vs Equinix comparative analysis provides an insight into diversification possibilities from combining Crown and Equinix into the same portfolio. You can use this module to analyze the comparative aspects of Crown and Equinix across most of their technical and fundamental indicators.",
+          "image": "https://www.macroaxis.com/images/aboutMacroaxisGuy.png",
+          "created_at": "2020-11-02T10:33:03Z",
+          "video_url": null,
+          "source": {
+            "name": "Macroaxis",
+            "website": "https://www.macroaxis.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253811817,
+      "body": "Your daily News digest for Crown Castle International $CCI https://wsfriend.com/daily/news/CCI/2020-11-01/",
+      "created_at": "2020-11-01T22:14:53Z",
+      "user": {
+        "id": 732840,
+        "username": "WallStreetFriend",
+        "name": "Wall Street Friend",
+        "avatar_url": "https://avatars.stocktwits.com/production/732840/thumb-1577167895.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/732840/thumb-1577167895.png",
+        "join_date": "2016-04-17",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 558,
+        "following": 39,
+        "ideas": 72482,
+        "watchlist_stocks_count": 31,
+        "like_count": 94,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5142,
+        "title": "Programmatic Alerts ",
+        "url": "https://wsfriend.com"
+      },
+      "symbols": [
+        {
+          "id": 4678,
+          "symbol": "CCI",
+          "title": "Crown Castle International Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 3250
+        }
+      ],
+      "links": [
+        {
+          "title": "CCI Trending News and Daily News Digest for on Nov 01, 2020",
+          "url": "https://wsfriend.com/daily/news/CCI/2020-11-01/",
+          "shortened_url": "https://wsfriend.com/daily/news/CCI/2020-11-01/",
+          "shortened_expanded_url": "wsfriend.com/daily/news/CCI...",
+          "description": "CCI Dail News Digest and Top trending news for",
+          "image": null,
+          "created_at": "2020-11-01T22:14:54Z",
+          "video_url": null,
+          "source": {
+            "name": "Wsfriend",
+            "website": "https://wsfriend.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253800658,
+      "body": "$CCI has an average volume of 1782720. This is a good sign as it is always nice to have a liquid stock. https://www.chartmill.com/stock/quote/CCI/technical-analysis?key=c78b5b4f-9f29-4230-8c35-6db0b7f6750a&amp;utm_source=stocktwits&amp;utm_medium=TA&amp;utm_content=CCI&amp;utm_campaign=social_tracking",
+      "created_at": "2020-11-01T19:20:02Z",
+      "user": {
+        "id": 47688,
+        "username": "ChartMill",
+        "name": "ChartMill",
+        "avatar_url": "https://avatars.stocktwits.com/production/47688/thumb-1363343728.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/47688/thumb-1363343728.png",
+        "join_date": "2011-01-26",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 22040,
+        "following": 891,
+        "ideas": 1097293,
+        "watchlist_stocks_count": 20,
+        "like_count": 32,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1135,
+        "title": "ChartMill",
+        "url": "http://www.chartmill.com"
+      },
+      "symbols": [
+        {
+          "id": 4678,
+          "symbol": "CCI",
+          "title": "Crown Castle International Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 3250
+        }
+      ],
+      "links": [
+        {
+          "title": null,
+          "url": "https://www.chartmill.com/stock/quote/CCI/technical-analysis?key=c78b5b4f-9f29-4230-8c35-6db0b7f6750a&utm_source=stocktwits&utm_medium=TA&utm_content=CCI&utm_campaign=social_tracking",
+          "shortened_url": "https://www.chartmill.com/stock/quote/CCI/technical-analysis?key=c78b5b4f-9f29-4230-8c35-6db0b7f6750a&utm_source=stocktwits&utm_medium=TA&utm_content=CCI&utm_campaign=social_tracking",
+          "shortened_expanded_url": "chartmill.com/stock/quote/C...",
+          "description": null,
+          "image": null,
+          "created_at": "2020-11-01T19:20:04Z",
+          "video_url": null,
+          "source": {
+            "name": "Chartmill",
+            "website": "https://www.chartmill.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_253800658.png",
+          "large": "https://charts.stocktwits.com/production/large_253800658.png",
+          "original": "https://charts.stocktwits.com/production/original_253800658.png",
+          "url": "https://charts.stocktwits.com/production/original_253800658.png"
+        },
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253792536,
+      "body": "If you\u2019re trading this week, Read This! $CCI&#39;s 10-day Moving Average broke below its 50-day Moving Average on October 28, 2020. View odds for this and other indicators: https://srnk.us/go/2270282",
+      "created_at": "2020-11-01T17:14:30Z",
+      "user": {
+        "id": 967528,
+        "username": "tickeron",
+        "name": "Tickeron",
+        "avatar_url": "https://avatars.stocktwits.com/production/967528/thumb-1492026736.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/967528/thumb-1492026736.png",
+        "join_date": "2017-02-23",
+        "official": true,
+        "identity": "Official",
+        "classification": [
+          "official"
+        ],
+        "followers": 3879,
+        "following": 108,
+        "ideas": 433168,
+        "watchlist_stocks_count": 0,
+        "like_count": 0,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5810,
+        "title": "Tickeron",
+        "url": "https://tickeron.com"
+      },
+      "symbols": [
+        {
+          "id": 4678,
+          "symbol": "CCI",
+          "title": "Crown Castle International Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 3250
+        }
+      ],
+      "links": [
+        {
+          "title": "Tickeron - A.I. Trading With Odds of Success",
+          "url": "https://srnk.us/go/2270282",
+          "shortened_url": "https://srnk.us/go/2270282",
+          "shortened_expanded_url": "tickeron.com/ticker/CCI/?ut...",
+          "description": "Our A.I.-powered algorithms generate and verify trade ideas. Invest in trends, trade with patterns, and analyze Stocks, ETFs, Mutual Funds, FOREX, Cryptos.",
+          "image": "https://tickeron.com/Img/Seo/main.png",
+          "created_at": "2020-11-01T17:14:32Z",
+          "video_url": null,
+          "source": {
+            "name": "Tickeron Inc.",
+            "website": "https://tickeron.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_253792536.",
+          "large": "https://charts.stocktwits.com/production/large_253792536.",
+          "original": "https://charts.stocktwits.com/production/original_253792536.",
+          "url": "https://charts.stocktwits.com/production/original_253792536."
+        },
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253748697,
+      "body": "Your daily News digest for Crown Castle International $CCI https://wsfriend.com/daily/news/CCI/2020-10-31/",
+      "created_at": "2020-10-31T22:13:18Z",
+      "user": {
+        "id": 732840,
+        "username": "WallStreetFriend",
+        "name": "Wall Street Friend",
+        "avatar_url": "https://avatars.stocktwits.com/production/732840/thumb-1577167895.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/732840/thumb-1577167895.png",
+        "join_date": "2016-04-17",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 558,
+        "following": 39,
+        "ideas": 72482,
+        "watchlist_stocks_count": 31,
+        "like_count": 94,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5142,
+        "title": "Programmatic Alerts ",
+        "url": "https://wsfriend.com"
+      },
+      "symbols": [
+        {
+          "id": 4678,
+          "symbol": "CCI",
+          "title": "Crown Castle International Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 3250
+        }
+      ],
+      "links": [
+        {
+          "title": "CCI Trending News and Daily News Digest for on Oct 31, 2020",
+          "url": "https://wsfriend.com/daily/news/CCI/2020-10-31/",
+          "shortened_url": "https://wsfriend.com/daily/news/CCI/2020-10-31/",
+          "shortened_expanded_url": "wsfriend.com/daily/news/CCI...",
+          "description": "CCI Dail News Digest and Top trending news for",
+          "image": null,
+          "created_at": "2020-10-31T22:13:19Z",
+          "video_url": null,
+          "source": {
+            "name": "Wsfriend",
+            "website": "https://wsfriend.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253713163,
+      "body": "$CCI Buying more here next week. Great price point, easy long term money.",
+      "created_at": "2020-10-31T12:01:09Z",
+      "user": {
+        "id": 1589951,
+        "username": "Kevin_Sorbo",
+        "name": "John",
+        "avatar_url": "https://avatars.stocktwits.com/production/1589951/thumb-1551974145.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1589951/thumb-1551974145.png",
+        "join_date": "2018-08-28",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 4,
+        "following": 4,
+        "ideas": 178,
+        "watchlist_stocks_count": 14,
+        "like_count": 151,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2095,
+        "title": "StockTwits For Android ",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 4678,
+          "symbol": "CCI",
+          "title": "Crown Castle International Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 3251
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 253713163,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 3
+      },
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          4065276
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 253698328,
+      "body": "$CCI hmm",
+      "created_at": "2020-10-31T03:06:36Z",
+      "user": {
+        "id": 834176,
+        "username": "xile737",
+        "name": "Keith Barclay",
+        "avatar_url": "https://avatars.stocktwits.com/production/834176/thumb-1566934059.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/834176/thumb-1566934059.png",
+        "join_date": "2016-09-04",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 1506,
+        "following": 445,
+        "ideas": 71283,
+        "watchlist_stocks_count": 299,
+        "like_count": 19824,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 4678,
+          "symbol": "CCI",
+          "title": "Crown Castle International Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 3251
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253697969,
+      "body": "CROWN CASTLE INVESTIGATION INITIATED BY FORMER LOUISIANA ATTORNEY GENERAL:  Kahn Swick &amp;amp, Foti, LLC Investigates the Officers and Directors of Crown Castle International Corp. - CCI http://www.conferencecalltranscripts.org/summary/?id=83612&amp;pr=true $CCI",
+      "created_at": "2020-10-31T03:01:02Z",
+      "user": {
+        "id": 210967,
+        "username": "cctranscripts",
+        "name": "Conference Call Transcripts",
+        "avatar_url": "https://avatars.stocktwits.com/production/210967/thumb-1363372333.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/210967/thumb-1363372333.png",
+        "join_date": "2013-01-30",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 6355,
+        "following": 10,
+        "ideas": 2368906,
+        "watchlist_stocks_count": 0,
+        "like_count": 758,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1130,
+        "title": "cctranscripts",
+        "url": "http://conferencecalltranscripts.org"
+      },
+      "symbols": [
+        {
+          "id": 4678,
+          "symbol": "CCI",
+          "title": "Crown Castle International Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 3251
+        }
+      ],
+      "links": [
+        {
+          "title": null,
+          "url": "http://www.conferencecalltranscripts.org/summary/?id=83612&pr=true",
+          "shortened_url": "http://www.conferencecalltranscripts.org/summary/?id=83612&pr=true",
+          "shortened_expanded_url": "conferencecalltranscripts.o...",
+          "description": null,
+          "image": null,
+          "created_at": "2020-10-31T03:01:03Z",
+          "video_url": null,
+          "source": {
+            "name": "Conferencecalltranscripts",
+            "website": "http://www.conferencecalltranscripts.org"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253697904,
+      "body": "$CCI: CROWN CASTLE INVESTIGATION INITIATED BY FORMER LOUISIANA ATTORNEY GENERAL:  Kahn Swick &amp; Foti, LLC Investiga ... https://www.chartmill.com/stock/quote/CCI/news?utm_source=stocktwits&amp;utm_medium=pressRelease&amp;utm_content=CCI&amp;utm_campaign=social_tracking",
+      "created_at": "2020-10-31T03:00:01Z",
+      "user": {
+        "id": 47688,
+        "username": "ChartMill",
+        "name": "ChartMill",
+        "avatar_url": "https://avatars.stocktwits.com/production/47688/thumb-1363343728.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/47688/thumb-1363343728.png",
+        "join_date": "2011-01-26",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 22042,
+        "following": 891,
+        "ideas": 1097759,
+        "watchlist_stocks_count": 20,
+        "like_count": 32,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1135,
+        "title": "ChartMill",
+        "url": "http://www.chartmill.com"
+      },
+      "symbols": [
+        {
+          "id": 4678,
+          "symbol": "CCI",
+          "title": "Crown Castle International Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 3251
+        }
+      ],
+      "links": [
+        {
+          "title": null,
+          "url": "https://www.chartmill.com/stock/quote/CCI/news?utm_source=stocktwits&utm_medium=pressRelease&utm_content=CCI&utm_campaign=social_tracking",
+          "shortened_url": "https://www.chartmill.com/stock/quote/CCI/news?utm_source=stocktwits&utm_medium=pressRelease&utm_content=CCI&utm_campaign=social_tracking",
+          "shortened_expanded_url": "chartmill.com/stock/quote/C...",
+          "description": null,
+          "image": null,
+          "created_at": "2020-10-31T03:00:01Z",
+          "video_url": null,
+          "source": {
+            "name": "Chartmill",
+            "website": "https://www.chartmill.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253697725,
+      "body": "$CCI NEW ARTICLE : CROWN CASTLE INVESTIGATION INITIATED BY FORMER LOUISIANA ATTORNEY GENERAL: Kahn Swick &amp; Foti, LLC Investigates the Officers and Directors of Crown Castle International Corp. - CCI https://www.stck.pro/news/CCI/8851887",
+      "created_at": "2020-10-31T02:57:05Z",
+      "user": {
+        "id": 1555408,
+        "username": "STCKPRO",
+        "name": "STCK.PRO",
+        "avatar_url": "https://avatars.stocktwits.com/production/1555408/thumb-1576077822.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1555408/thumb-1576077822.png",
+        "join_date": "2018-07-24",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 4411,
+        "following": 2,
+        "ideas": 270544,
+        "watchlist_stocks_count": 18,
+        "like_count": 52,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5011,
+        "title": "STCK.PRO",
+        "url": "https://dashboard.stck.pro"
+      },
+      "symbols": [
+        {
+          "id": 4678,
+          "symbol": "CCI",
+          "title": "Crown Castle International Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 3251
+        }
+      ],
+      "links": [
+        {
+          "title": "Crown Castle International (REIT) (CCI)",
+          "url": "https://www.stck.pro/news/CCI/8851887",
+          "shortened_url": "https://www.stck.pro/news/CCI/8851887",
+          "shortened_expanded_url": "stck.pro/news/CCI",
+          "description": "Never miss an important article again, stay on top of your investments and become a better investor today! Get your moat on and sync your watchlist with Stocktwits and get all the latest news for your symbols. Sync with Stocktwits",
+          "image": "https://www.stck.pro/img/imac.png",
+          "created_at": "2020-10-31T02:57:08Z",
+          "video_url": null,
+          "source": {
+            "name": "Stck",
+            "website": "https://www.stck.pro"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_253697725.jpg",
+          "large": "https://charts.stocktwits.com/production/large_253697725.jpg",
+          "original": "https://charts.stocktwits.com/production/original_253697725.jpg",
+          "url": "https://charts.stocktwits.com/production/original_253697725.jpg"
+        },
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253697529,
+      "body": "$CCI [15s. delayed]: Issued Press Release on October 30, 22:50:00: CROWN CASTLE INVESTIGATION INITIATED BY FORMER LOUISIANA ATTORNEY GENER https://s.flashalert.me/Rr8po",
+      "created_at": "2020-10-31T02:53:56Z",
+      "user": {
+        "id": 595702,
+        "username": "fla",
+        "name": "FlashAlert_me",
+        "avatar_url": "https://avatars.stocktwits.com/production/595702/thumb-1550769466.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/595702/thumb-1550769466.png",
+        "join_date": "2015-09-09",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 2660,
+        "following": 60,
+        "ideas": 723721,
+        "watchlist_stocks_count": 0,
+        "like_count": 4,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 4622,
+        "title": "FlashAlert",
+        "url": "https://flashalert.me/"
+      },
+      "symbols": [
+        {
+          "id": 4678,
+          "symbol": "CCI",
+          "title": "Crown Castle International Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 3251
+        }
+      ],
+      "links": [
+        {
+          "title": "Flash Alert",
+          "url": "https://s.flashalert.me/Rr8po",
+          "shortened_url": "https://s.flashalert.me/Rr8po",
+          "shortened_expanded_url": "prnewswire.com:443/news-rel...",
+          "description": "Real-time alerts about equities, ETFs, cryptocurrencies and more sent to any device",
+          "image": null,
+          "created_at": "2020-10-31T02:53:57Z",
+          "video_url": null,
+          "source": {
+            "name": "Flashalert",
+            "website": "https://flashalert.me"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253697311,
+      "body": "$CCI CROWN CASTLE INVESTIGATION INITIATED BY FORMER LOUISIANA ATTORNEY GENERAL:  Kahn Swick &amp; Foti, LLC Investigates the Officers and Directors of Crown Castle International Corp. - CCI\nhttps://www.stocktitan.net/news/CCI/crown-castle-investigation-initiated-by-former-louisiana-attorney-3nk8gmquu2m7.html",
+      "created_at": "2020-10-31T02:50:31Z",
+      "user": {
+        "id": 3372441,
+        "username": "Stock_Titan",
+        "name": "StockTitan",
+        "avatar_url": "https://avatars.stocktwits.com/production/3372441/thumb-1588173612.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3372441/thumb-1588173612.png",
+        "join_date": "2020-04-28",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 454,
+        "following": 0,
+        "ideas": 29127,
+        "watchlist_stocks_count": 0,
+        "like_count": 0,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5677,
+        "title": "StockTitan",
+        "url": "https://stocktitan.net"
+      },
+      "symbols": [
+        {
+          "id": 4678,
+          "symbol": "CCI",
+          "title": "Crown Castle International Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 3251
+        }
+      ],
+      "links": [
+        {
+          "title": "CROWN CASTLE INVESTIGATION INITIATED BY FORMER LOUISIANA | StockTitan.net",
+          "url": "https://www.stocktitan.net/news/CCI/crown-castle-investigation-initiated-by-former-louisiana-attorney-3nk8gmquu2m7.html",
+          "shortened_url": "https://www.stocktitan.net/news/CCI/crown-castle-investigation-initiated-by-former-louisiana-attorney-3nk8gmquu2m7.html",
+          "shortened_expanded_url": "stocktitan.net/news/CCI/cro...",
+          "description": "NEW ORLEANS, Oct. 30, 2020 -- Former Attorney General of Louisiana, Charles C. Foti, Jr., Esq., a partner at the law firm of Kahn Swick & Foti, LLC (\"KSF\"), announces that KSF has commenced an investigation into Crown Castle International Corp. (NYSE: CCI).",
+          "image": "https://static.stocktitan.net/company-logo/cci.png",
+          "created_at": "2020-10-31T02:50:32Z",
+          "video_url": null,
+          "source": {
+            "name": "Stocktitan",
+            "website": "https://www.stocktitan.net"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253688432,
+      "body": "Short sale volume (not short interest) for $CCI at 2020-10-30 is 39%. http://shortvolumes.com/?t=CCI via @shortvolumes",
+      "created_at": "2020-10-31T00:50:36Z",
+      "user": {
+        "id": 1246819,
+        "username": "shortvolumes",
+        "name": "shortvolumes",
+        "avatar_url": "https://avatars.stocktwits.com/production/1246819/thumb-1511564141.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1246819/thumb-1511564141.png",
+        "join_date": "2017-10-30",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 3562,
+        "following": 61,
+        "ideas": 194658,
+        "watchlist_stocks_count": 0,
+        "like_count": 3,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 4678,
+          "symbol": "CCI",
+          "title": "Crown Castle International Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 3251
+        }
+      ],
+      "links": [
+        {
+          "title": "Daily short sale volume percent for stock ticker CCI is 39% on Oct 30, 2020",
+          "url": "http://shortvolumes.com/?t=CCI",
+          "shortened_url": "http://shortvolumes.com/?t=CCI",
+          "shortened_expanded_url": "shortvolumes.com/?t=CCI",
+          "description": "Daily short sale volume for stock ticker CCI is 39% on Oct 30, 2020. The short sale volume percent is down -2% compare to Oct 29, 2020.",
+          "image": "http://shortvolumes.com/wp-content/uploads/2017/11/logo-1.png",
+          "created_at": "2020-10-31T00:50:36Z",
+          "video_url": null,
+          "source": {
+            "name": "Shortvolumes",
+            "website": "http://shortvolumes.com"
+          }
+        }
+      ],
+      "mentioned_users": [
+        "@shortvolumes"
+      ],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253670911,
+      "body": "Your daily News digest for Crown Castle International $CCI https://wsfriend.com/daily/news/CCI/2020-10-30/",
+      "created_at": "2020-10-30T22:14:13Z",
+      "user": {
+        "id": 732840,
+        "username": "WallStreetFriend",
+        "name": "Wall Street Friend",
+        "avatar_url": "https://avatars.stocktwits.com/production/732840/thumb-1577167895.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/732840/thumb-1577167895.png",
+        "join_date": "2016-04-17",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 558,
+        "following": 39,
+        "ideas": 72482,
+        "watchlist_stocks_count": 31,
+        "like_count": 94,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5142,
+        "title": "Programmatic Alerts ",
+        "url": "https://wsfriend.com"
+      },
+      "symbols": [
+        {
+          "id": 4678,
+          "symbol": "CCI",
+          "title": "Crown Castle International Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 3250
+        }
+      ],
+      "links": [
+        {
+          "title": "CCI Trending News and Daily News Digest for on Oct 30, 2020",
+          "url": "https://wsfriend.com/daily/news/CCI/2020-10-30/",
+          "shortened_url": "https://wsfriend.com/daily/news/CCI/2020-10-30/",
+          "shortened_expanded_url": "wsfriend.com/daily/news/CCI...",
+          "description": "CCI Dail News Digest and Top trending news for",
+          "image": null,
+          "created_at": "2020-10-30T22:14:14Z",
+          "video_url": null,
+          "source": {
+            "name": "Wsfriend",
+            "website": "https://wsfriend.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253475416,
+      "body": "Updated correlation matrix for Crown Castle($CCI),\u2026 https://www.macroaxis.com/invest/marketCorrelation?s=CCI,MMI,K,MAT,NI,ICE,CF,DNB,PBCT,TEL,THC #insidertrading #stocks #fintechnews",
+      "created_at": "2020-10-30T09:06:03Z",
+      "user": {
+        "id": 56948,
+        "username": "macroaxis",
+        "name": "Macroaxis",
+        "avatar_url": "https://avatars.stocktwits.com/production/56948/thumb-1361399398.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/56948/thumb-1361399398.png",
+        "join_date": "2011-03-04",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 2947,
+        "following": 4,
+        "ideas": 351590,
+        "watchlist_stocks_count": 15,
+        "like_count": 28,
+        "plus_tier": "year",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1351,
+        "title": "dlvr.it",
+        "url": "https://dlvrit.com/"
+      },
+      "symbols": [
+        {
+          "id": 4678,
+          "symbol": "CCI",
+          "title": "Crown Castle International Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 3253
+        }
+      ],
+      "links": [
+        {
+          "title": "Correlation analysis for CCI,MMI,K,MAT,NI,ICE,CF,DNB,PBCT,TEL,THC",
+          "url": "https://www.macroaxis.com/invest/marketCorrelation?s=CCI,MMI,K,MAT,NI,ICE,CF,DNB,PBCT,TEL,THC",
+          "shortened_url": "https://www.macroaxis.com/invest/marketCorrelation?s=CCI,MMI,K,MAT,NI,ICE,CF,DNB,PBCT,TEL,THC",
+          "shortened_expanded_url": "macroaxis.com/invest/market...",
+          "description": "An investor can reduce portfolio risk only by holding instruments that are not perfectly correlated. In other words, investors can reduce their exposure to individual asset risk by holding a diversified portfolio of assets. Diversification will allow for the same portfolio return with reduced risk.",
+          "image": "https://www.macroaxis.com/images/aboutMacroaxisGuy.png",
+          "created_at": "2020-10-30T09:06:05Z",
+          "video_url": null,
+          "source": {
+            "name": "Macroaxis",
+            "website": "https://www.macroaxis.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253408564,
+      "body": "Your daily News digest for Crown Castle International $CCI https://wsfriend.com/daily/news/CCI/2020-10-29/",
+      "created_at": "2020-10-29T22:14:24Z",
+      "user": {
+        "id": 732840,
+        "username": "WallStreetFriend",
+        "name": "Wall Street Friend",
+        "avatar_url": "https://avatars.stocktwits.com/production/732840/thumb-1577167895.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/732840/thumb-1577167895.png",
+        "join_date": "2016-04-17",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 558,
+        "following": 39,
+        "ideas": 72482,
+        "watchlist_stocks_count": 31,
+        "like_count": 94,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5142,
+        "title": "Programmatic Alerts ",
+        "url": "https://wsfriend.com"
+      },
+      "symbols": [
+        {
+          "id": 4678,
+          "symbol": "CCI",
+          "title": "Crown Castle International Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 3250
+        }
+      ],
+      "links": [
+        {
+          "title": "CCI Trending News and Daily News Digest for on Oct 29, 2020",
+          "url": "https://wsfriend.com/daily/news/CCI/2020-10-29/",
+          "shortened_url": "https://wsfriend.com/daily/news/CCI/2020-10-29/",
+          "shortened_expanded_url": "wsfriend.com/daily/news/CCI...",
+          "description": "CCI Dail News Digest and Top trending news for",
+          "image": null,
+          "created_at": "2020-10-29T22:14:25Z",
+          "video_url": null,
+          "source": {
+            "name": "Wsfriend",
+            "website": "https://wsfriend.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253214704,
+      "body": "$CCI J Landis Martin bought 8,050 shares [Low Conviction] www.insider-analysis.com/search_transactions.php?ticker=TABLE_CCI",
+      "created_at": "2020-10-29T12:32:57Z",
+      "user": {
+        "id": 2965453,
+        "username": "Insider_Analysis",
+        "name": "Insider Analysis",
+        "avatar_url": "https://avatars.stocktwits.com/production/2965453/thumb-1583012785.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2965453/thumb-1583012785.png",
+        "join_date": "2019-12-13",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 676,
+        "following": 0,
+        "ideas": 30796,
+        "watchlist_stocks_count": 15,
+        "like_count": 22,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5476,
+        "title": "Insider Analysis",
+        "url": "http://www.insider-analysis.com/"
+      },
+      "symbols": [
+        {
+          "id": 4678,
+          "symbol": "CCI",
+          "title": "Crown Castle International Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 3252
+        }
+      ],
+      "links": [
+        {
+          "title": "Insider Analysis",
+          "url": "www.insider-analysis.com/search_transactions.php?ticker=TABLE_CCI",
+          "shortened_url": "www.insider-analysis.com/search_transactions.php?ticker=TABLE_CCI",
+          "shortened_expanded_url": "insider-analysis.com/search...",
+          "description": "InsiderAnalysis - Trade ideas from insider activities INSIDER ANALYSIS, INC .",
+          "image": null,
+          "created_at": "2020-10-29T12:32:57Z",
+          "video_url": null,
+          "source": {
+            "name": "Insider-analysis",
+            "website": "https://insider-analysis.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253172183,
+      "body": "Crown Castle International Director J Landis Martin Buys $1,007,625.00 in $CCI https://www.marketbeat.com/i/413690",
+      "created_at": "2020-10-29T02:55:30Z",
+      "user": {
+        "id": 1034235,
+        "username": "MarketBeatInsiderTrades",
+        "name": "MarketBeat Insider Trades",
+        "avatar_url": "https://avatars.stocktwits.com/production/1034235/thumb-1492706962.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1034235/thumb-1492706962.png",
+        "join_date": "2017-04-20",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 3256,
+        "following": 60,
+        "ideas": 140219,
+        "watchlist_stocks_count": 0,
+        "like_count": 0,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1022,
+        "title": "Zapier",
+        "url": "https://zapier.com/"
+      },
+      "symbols": [
+        {
+          "id": 4678,
+          "symbol": "CCI",
+          "title": "Crown Castle International Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 3253
+        }
+      ],
+      "links": [
+        {
+          "title": "CCI Stock Forecast, Price & News (Crown Castle International)",
+          "url": "https://www.marketbeat.com/i/413690",
+          "shortened_url": "https://www.marketbeat.com/i/413690",
+          "shortened_expanded_url": "marketbeat.com/stocks/NYSE/...",
+          "description": "My \"5 Tips for Overcoming Market Volatility\" can make you great returns in both good-and volatile markets. These strategies can turn even the most unstable markets into cash opportunities. Click here now to learn how protect and grow your money, regardless of market conditions. What guidance has Crown Castle International issued on next quarter's earnings?",
+          "image": "https://www.marketbeat.com/logos/crown-castle-logo.jpg",
+          "created_at": "2020-10-29T02:55:32Z",
+          "video_url": null,
+          "source": {
+            "name": "Marketbeat",
+            "website": "https://www.marketbeat.com"
+          }
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          4065276
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253131960,
+      "body": "Your daily News digest for Crown Castle International $CCI https://wsfriend.com/daily/news/CCI/2020-10-28/",
+      "created_at": "2020-10-28T22:13:22Z",
+      "user": {
+        "id": 732840,
+        "username": "WallStreetFriend",
+        "name": "Wall Street Friend",
+        "avatar_url": "https://avatars.stocktwits.com/production/732840/thumb-1577167895.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/732840/thumb-1577167895.png",
+        "join_date": "2016-04-17",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 558,
+        "following": 39,
+        "ideas": 72482,
+        "watchlist_stocks_count": 31,
+        "like_count": 94,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5142,
+        "title": "Programmatic Alerts ",
+        "url": "https://wsfriend.com"
+      },
+      "symbols": [
+        {
+          "id": 4678,
+          "symbol": "CCI",
+          "title": "Crown Castle International Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 3250
+        }
+      ],
+      "links": [
+        {
+          "title": "CCI Trending News and Daily News Digest for on Oct 28, 2020",
+          "url": "https://wsfriend.com/daily/news/CCI/2020-10-28/",
+          "shortened_url": "https://wsfriend.com/daily/news/CCI/2020-10-28/",
+          "shortened_expanded_url": "wsfriend.com/daily/news/CCI...",
+          "description": "CCI Dail News Digest and Top trending news for",
+          "image": null,
+          "created_at": "2020-10-28T22:13:22Z",
+          "video_url": null,
+          "source": {
+            "name": "Wsfriend",
+            "website": "https://wsfriend.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253131299,
+      "body": "$CCI: New SEC filing on Director, J LANDIS MARTIN: https://www.sec.gov/Archives/edgar/data/1051470/000105147020000158/xslF345X03/wf-form4_160392200296387.xml",
+      "created_at": "2020-10-28T22:10:02Z",
+      "user": {
+        "id": 1606168,
+        "username": "FilingsVille",
+        "name": "Filings Ville",
+        "avatar_url": "https://avatars.stocktwits.com/production/1606168/thumb-1589354235.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1606168/thumb-1589354235.png",
+        "join_date": "2018-09-11",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 209,
+        "following": 0,
+        "ideas": 21887,
+        "watchlist_stocks_count": 0,
+        "like_count": 0,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 4346,
+        "title": "Filings Ville",
+        "url": "https://example.com"
+      },
+      "symbols": [
+        {
+          "id": 4678,
+          "symbol": "CCI",
+          "title": "Crown Castle International Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 3250
+        }
+      ],
+      "links": [
+        {
+          "title": "SEC FORM 4",
+          "url": "https://www.sec.gov/Archives/edgar/data/1051470/000105147020000158/xslF345X03/wf-form4_160392200296387.xml",
+          "shortened_url": "https://www.sec.gov/Archives/edgar/data/1051470/000105147020000158/xslF345X03/wf-form4_160392200296387.xml",
+          "shortened_expanded_url": "sec.gov/Archives/edgar/data...",
+          "description": "Signature of Reporting Person Date Reminder: Report on a separate line for each class of securities beneficially owned directly or indirectly. * If the form is filed by more than one reporting person, see Instruction 4 (b)(v). ** Intentional misstatements or omissions of facts constitute Federal Criminal Violations See 18 U.S.C.",
+          "image": null,
+          "created_at": "2020-10-28T22:10:02Z",
+          "video_url": null,
+          "source": {
+            "name": "Sec",
+            "website": "https://www.sec.gov"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253128222,
+      "body": "Crown Castle International Corporation director just picked up 8,050 shares  http://www.conferencecalltranscripts.org/4/summary2/?id=8487215 $CCI",
+      "created_at": "2020-10-28T21:55:45Z",
+      "user": {
+        "id": 210967,
+        "username": "cctranscripts",
+        "name": "Conference Call Transcripts",
+        "avatar_url": "https://avatars.stocktwits.com/production/210967/thumb-1363372333.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/210967/thumb-1363372333.png",
+        "join_date": "2013-01-30",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 6355,
+        "following": 10,
+        "ideas": 2368189,
+        "watchlist_stocks_count": 0,
+        "like_count": 758,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1130,
+        "title": "cctranscripts",
+        "url": "http://conferencecalltranscripts.org"
+      },
+      "symbols": [
+        {
+          "id": 4678,
+          "symbol": "CCI",
+          "title": "Crown Castle International Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 3250
+        }
+      ],
+      "links": [
+        {
+          "title": "Conference Call Transcripts",
+          "url": "http://www.conferencecalltranscripts.org/4/summary2/?id=8487215",
+          "shortened_url": "http://www.conferencecalltranscripts.org/4/summary2/?id=8487215",
+          "shortened_expanded_url": "conferencecalltranscripts.o...",
+          "description": "Get notified next time CCI.US makes a similar move! J Landis Martin, a director of Crown Castle International Corporation, recently acquired 8,050 shares of the company. The buys took place at prices ranging from $160.89 to $161.55 per share, on October 27, 2020. Martin now owns 173,243 shares of the company.",
+          "image": null,
+          "created_at": "2020-10-28T21:55:46Z",
+          "video_url": null,
+          "source": {
+            "name": "Conferencecalltranscripts",
+            "website": "http://www.conferencecalltranscripts.org"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 253127984,
+      "body": "$CCI [15s. delayed] filed SEC form 4: Director MARTIN J LANDIS: \nAcquired 8,050 of Common Stock at average price $161.19 on 2020-10-27, in https://s.flashalert.me/t37zdl",
+      "created_at": "2020-10-28T21:54:39Z",
+      "user": {
+        "id": 595702,
+        "username": "fla",
+        "name": "FlashAlert_me",
+        "avatar_url": "https://avatars.stocktwits.com/production/595702/thumb-1550769466.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/595702/thumb-1550769466.png",
+        "join_date": "2015-09-09",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 2662,
+        "following": 60,
+        "ideas": 722820,
+        "watchlist_stocks_count": 0,
+        "like_count": 4,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 4622,
+        "title": "FlashAlert",
+        "url": "https://flashalert.me/"
+      },
+      "symbols": [
+        {
+          "id": 4678,
+          "symbol": "CCI",
+          "title": "Crown Castle International Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 3250
+        }
+      ],
+      "links": [
+        {
+          "title": "Flash Alert",
+          "url": "https://s.flashalert.me/t37zdl",
+          "shortened_url": "https://s.flashalert.me/t37zdl",
+          "shortened_expanded_url": "sec.gov/Archives/edgar/data...",
+          "description": "Real-time alerts about equities, ETFs, cryptocurrencies and more sent to any device",
+          "image": null,
+          "created_at": "2020-10-28T21:54:39Z",
+          "video_url": null,
+          "source": {
+            "name": "Flashalert",
+            "website": "https://flashalert.me"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    }
+  ]
+}

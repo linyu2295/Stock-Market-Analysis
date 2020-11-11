@@ -1,0 +1,1869 @@
+{
+  "response": {
+    "status": 200
+  },
+  "symbol": {
+    "id": 4559,
+    "symbol": "BMY",
+    "title": "Bristol-Myers Squibb Company",
+    "aliases": [],
+    "is_following": false,
+    "watchlist_count": 14640
+  },
+  "cursor": {
+    "more": true,
+    "since": 254845098,
+    "max": 254656227
+  },
+  "messages": [
+    {
+      "id": 254845098,
+      "body": "$BMY fade it",
+      "created_at": "2020-11-06T14:42:49Z",
+      "user": {
+        "id": 1439820,
+        "username": "KermitDaFrog",
+        "name": "Muppet",
+        "avatar_url": "https://avatars.stocktwits.com/production/1439820/thumb-1574091965.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1439820/thumb-1574091965.png",
+        "join_date": "2018-03-11",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 107,
+        "following": 42,
+        "ideas": 6596,
+        "watchlist_stocks_count": 38,
+        "like_count": 3911,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 4559,
+          "symbol": "BMY",
+          "title": "Bristol-Myers Squibb Company",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 14640
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254832028,
+      "body": "$BMY receives European Commission approval for Opdivo (nivolumab) plus Yervoy (ipilimumab) with two cycles of chemotherapy for first-line treatment of metastatic non-small cell lung cancer https://www.briefing.com/in-depth-analysis/Content/Article?ArticleId=IN20201106070009BMY",
+      "created_at": "2020-11-06T14:01:06Z",
+      "user": {
+        "id": 8115,
+        "username": "briefingcom",
+        "name": "Briefingcom",
+        "avatar_url": "https://avatars.stocktwits.com/production/8115/thumb-1340802633.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/8115/thumb-1340802633.png",
+        "join_date": "2010-01-25",
+        "official": true,
+        "identity": "Official",
+        "classification": [
+          "official"
+        ],
+        "followers": 85646,
+        "following": 821,
+        "ideas": 80346,
+        "watchlist_stocks_count": 8,
+        "like_count": 67,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 4559,
+          "symbol": "BMY",
+          "title": "Bristol-Myers Squibb Company",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 14639
+        }
+      ],
+      "links": [
+        {
+          "title": "Briefing.com",
+          "url": "https://www.briefing.com/in-depth-analysis/Content/Article?ArticleId=IN20201106070009BMY",
+          "shortened_url": "https://www.briefing.com/in-depth-analysis/Content/Article?ArticleId=IN20201106070009BMY",
+          "shortened_expanded_url": "briefing.com/in-depth-analy...",
+          "description": "BMY: Bristol-Myers receives European Commission approval for Opdivo (nivolumab) plus Yervoy (ipilimumab) with two cycles of chemotherapy for first-line treatment of metastatic non-small cell lung cancer (63.75) European Commission (EC) has approvedOpdivo (nivolumab) plus Yervoy (ipilimumab) with two cycles of platinum-based chemotherapy for the first-line treatment of adult patients with metastatic non-small cell lung cancer (NSCLC) whose tumors have no sensitizing epidermal growth factor receptor (EGFR) mutation or anaplastic lymphoma kinase (ALK) translocation.",
+          "image": null,
+          "created_at": "2020-11-06T14:01:07Z",
+          "video_url": null,
+          "source": {
+            "name": "Briefing",
+            "website": "https://www.briefing.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254820537,
+      "body": "$BMY just filed with the SEC a New Agreement, a New Financial Obligation and a Financial Exhibit https://last10k.com/sec-filings/bmy/0001140361-20-024741.htm?utm_source=stocktwits&amp;utm_medium=forum&amp;utm_campaign=8K&amp;utm_term=bmy",
+      "created_at": "2020-11-06T13:10:09Z",
+      "user": {
+        "id": 1409376,
+        "username": "Last10K",
+        "name": "Last10K.com",
+        "avatar_url": "https://avatars.stocktwits.com/production/1409376/thumb-1559672751.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1409376/thumb-1559672751.png",
+        "join_date": "2018-02-13",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 1268,
+        "following": 0,
+        "ideas": 232682,
+        "watchlist_stocks_count": 0,
+        "like_count": 361,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 3968,
+        "title": "Last10K",
+        "url": "https://last10k.com"
+      },
+      "symbols": [
+        {
+          "id": 4559,
+          "symbol": "BMY",
+          "title": "Bristol-Myers Squibb Company",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 14638
+        }
+      ],
+      "links": [
+        {
+          "title": "Bristol Myers Squibb Co (BMY) 10K Annual Reports & 10Q SEC Filings | Last10K",
+          "url": "https://last10k.com/sec-filings/bmy/0001140361-20-024741.htm?utm_source=stocktwits&utm_medium=forum&utm_campaign=8K&utm_term=bmy",
+          "shortened_url": "https://last10k.com/sec-filings/bmy/0001140361-20-024741.htm?utm_source=stocktwits&utm_medium=forum&utm_campaign=8K&utm_term=bmy",
+          "shortened_expanded_url": "last10k.com/sec-filings/bmy",
+          "description": "Bristol-Myers Squibb Reports Fourth Quarter and Full Year Financial Results for 2019 Announces Two U.S. FDA Filing Acceptances for Opdivo plus Yervoy Regimen (NEW YORK, February 6, 2020) - Bristol-Myers Squibb Company (NYSE:BMY) today reports results for the fourth quarter and full year of 2019, which highlight continued strong sales and robust operating performance, along with the ongoing advancement of the company's pipeline.",
+          "image": "https://last10k.com/wp-content/uploads/notifications.png",
+          "created_at": "2020-11-06T13:10:10Z",
+          "video_url": null,
+          "source": {
+            "name": "Last10k",
+            "website": "https://last10k.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254819768,
+      "body": "Entry into a Material Definitive  http://www.conferencecalltranscripts.org/8/summary2/?id=8528132 $BMY",
+      "created_at": "2020-11-06T13:06:47Z",
+      "user": {
+        "id": 210967,
+        "username": "cctranscripts",
+        "name": "Conference Call Transcripts",
+        "avatar_url": "https://avatars.stocktwits.com/production/210967/thumb-1363372333.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/210967/thumb-1363372333.png",
+        "join_date": "2013-01-30",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 6358,
+        "following": 10,
+        "ideas": 2371925,
+        "watchlist_stocks_count": 0,
+        "like_count": 758,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1130,
+        "title": "cctranscripts",
+        "url": "http://conferencecalltranscripts.org"
+      },
+      "symbols": [
+        {
+          "id": 4559,
+          "symbol": "BMY",
+          "title": "Bristol-Myers Squibb Company",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 14638
+        }
+      ],
+      "links": [
+        {
+          "title": "Conference Call Transcripts",
+          "url": "http://www.conferencecalltranscripts.org/8/summary2/?id=8528132",
+          "shortened_url": "http://www.conferencecalltranscripts.org/8/summary2/?id=8528132",
+          "shortened_expanded_url": "conferencecalltranscripts.o...",
+          "description": "Get notified next time BMY.US makes a similar move! On November 4, 2020 Bristol-Myers Squibb Company (Bristol-Myers Squibb) entered into a Term Loan Credit Agreement (the Term Loan Agreement) with the lenders party thereto and Citibank, N.A., as administrative agent. The Term Loan Agreement provides for total term loan commitments in an aggregate principal amount of $4.0 billion.",
+          "image": null,
+          "created_at": "2020-11-06T13:06:47Z",
+          "video_url": null,
+          "source": {
+            "name": "Conferencecalltranscripts",
+            "website": "http://www.conferencecalltranscripts.org"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254819650,
+      "body": "$BMY Form 8-K: Entry into a Material Definitive Agreement. On November 4, 2020 Bristol-Myers Squibb Company entered into a Term Loan Credit Agreement with the lenders party thereto and Citibank, N.A.,.. https://newsfilter.io/a/e4cd5bcf165e73615861dfa634aa0604",
+      "created_at": "2020-11-06T13:06:14Z",
+      "user": {
+        "id": 2762379,
+        "username": "Newsfilter",
+        "name": "@newsfilterio",
+        "avatar_url": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "join_date": "2019-09-01",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 7567,
+        "following": 16,
+        "ideas": 612954,
+        "watchlist_stocks_count": 1,
+        "like_count": 531,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 4559,
+          "symbol": "BMY",
+          "title": "Bristol-Myers Squibb Company",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 14638
+        }
+      ],
+      "links": [
+        {
+          "title": "8-K Form - Current report, items 1.01, 2.03, and 9.01 - BRISTOL MYERS SQUIBB CO (0000014272) (Filer)",
+          "url": "https://newsfilter.io/a/e4cd5bcf165e73615861dfa634aa0604",
+          "shortened_url": "https://newsfilter.io/a/e4cd5bcf165e73615861dfa634aa0604",
+          "shortened_expanded_url": "newsfilter.io/a/e4cd5bcf165...",
+          "description": "SECURITIES AND EXCHANGE COMMISSION Pursuant to Section 13 OR 15(d) of The Securities Exchange Act of 1934 Date of Report (Date of earliest event reported): November 6, 2020 ( November 4, 2020) (Exact Name of Registrant as Specified in its Charter) (Address of Principal Executive Office) Registrant's telephone number, including area code: ( 212) 546-4000 Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2.",
+          "image": "https://newsfilter.io/meta-images/?url=https://storage.googleapis.com/iex/api/logos/BMY.png",
+          "created_at": "2020-11-06T13:06:15Z",
+          "video_url": null,
+          "source": {
+            "name": "Newsfilter",
+            "website": "https://newsfilter.io"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254816032,
+      "body": "$BMY\nAs expected, the European Commission approves the combination of Bristol Myers Squibb&#39;s (NYSE:BMY) Opdivo (nivolumab) and Yervoy (ipilimumab) with two cycles of chemo for the first-line treatment of adult patients with metastatic non-small cell lung cancer (NSCLC) whose tumors have no sensitizing epidermal growth factor receptor (EGFR) mutation or anaplastic lymphoma kinase (ALK) translocation.\nhttps://seekingalpha.com/news/3633098-bristol-myers-o-y-okd-in-europe-for-first-line-lung-cancer\nView the full list of news/momentum plays on watch at : bit.ly/32GfaRt\n[No bias / position]\n[Find me at https://stocktwits.com/sbiswas | https://twitter.com/soumyajyoti_b]&quot;",
+      "created_at": "2020-11-06T12:46:01Z",
+      "user": {
+        "id": 1665157,
+        "username": "sbiswas",
+        "name": "Soumyajyoti Biswas",
+        "avatar_url": "https://avatars.stocktwits.com/production/1665157/thumb-1598680399.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1665157/thumb-1598680399.png",
+        "join_date": "2018-10-17",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 204,
+        "following": 58,
+        "ideas": 3111,
+        "watchlist_stocks_count": 22,
+        "like_count": 71,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 4559,
+          "symbol": "BMY",
+          "title": "Bristol-Myers Squibb Company",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 14638
+        }
+      ],
+      "links": [
+        {
+          "title": "Bristol Myers' O+Y OK'd in Europe for first-line lung cancer (NYSE:BMY)",
+          "url": "https://seekingalpha.com/news/3633098-bristol-myers-o-y-okd-in-europe-for-first-line-lung-cancer",
+          "shortened_url": "https://seekingalpha.com/news/3633098-bristol-myers-o-y-okd-in-europe-for-first-line-lung-cancer",
+          "shortened_expanded_url": "seekingalpha.com/news/36330...",
+          "description": "As expected, the European Commission approves the combination of Bristol Myers Squibb's (NYSE:BMY) Opdivo (nivolumab) and Yervoy (ipilimumab) with two cycles of chemo for the first-line treatment of adult patients with metastatic non-small cell lung cancer &#40;NSCLC&#41; whose tumors have no sensitizing epidermal growth factor receptor &#40;EGFR&#41; mutation or anaplastic lymphoma kinase &#40;ALK&#41; translocation.About two months ago, the advisory group CHMP adopted a positive opinion backing approval.",
+          "image": "https://static3.seekingalpha.com/assets/og_image_192-59bfd51c9fe6af025b2f9f96c807e46f8e2f06c5ae787b15bf1423e6c676d4db.png",
+          "created_at": "2020-11-06T12:46:01Z",
+          "video_url": null,
+          "source": {
+            "name": "Seeking Alpha",
+            "website": "https://seekingalpha.com"
+          }
+        },
+        {
+          "title": "Daily_Trade_Levels - Google Drive",
+          "url": "bit.ly/32GfaRt",
+          "shortened_url": "bit.ly/32GfaRt",
+          "shortened_expanded_url": "docs.google.com/spreadsheet...",
+          "description": null,
+          "image": null,
+          "created_at": "2020-11-06T12:46:01Z",
+          "video_url": null,
+          "source": {
+            "name": "Google",
+            "website": "https://docs.google.com"
+          }
+        },
+        {
+          "title": "Soumyajyoti Biswas (@sbiswas) | Stocktwits",
+          "url": "https://stocktwits.com/sbiswas",
+          "shortened_url": "https://stocktwits.com/sbiswas",
+          "shortened_expanded_url": "stocktwits.com/sbiswas",
+          "description": "The latest messages and market ideas from Soumyajyoti Biswas (@sbiswas) on Stocktwits. I trade only options based on momentum and/or news. I read news pre-market / search for stocks with momentum, and form a daily watch list to trade. Knowledge should always be free.",
+          "image": "https://avatars.stocktwits.com/production/1665157/large-1598680399.png",
+          "created_at": "2020-11-06T12:46:01Z",
+          "video_url": null,
+          "source": {
+            "name": "Stocktwits",
+            "website": "https://stocktwits.com"
+          }
+        },
+        {
+          "title": null,
+          "url": "https://twitter.com/soumyajyoti_b",
+          "shortened_url": "https://twitter.com/soumyajyoti_b",
+          "shortened_expanded_url": "twitter.com/soumyajyoti_b",
+          "description": null,
+          "image": null,
+          "created_at": "2020-11-06T12:46:01Z",
+          "video_url": null,
+          "source": {
+            "name": "Twitter",
+            "website": "https://twitter.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254815449,
+      "body": "$BMY https://finance.yahoo.com/news/bristol-myers-squibb-receives-european-115900197.html",
+      "created_at": "2020-11-06T12:42:01Z",
+      "user": {
+        "id": 1953953,
+        "username": "sl33per",
+        "name": "Ms6",
+        "avatar_url": "https://avatars.stocktwits.com/production/1953953/thumb-1561478268.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1953953/thumb-1561478268.png",
+        "join_date": "2019-03-21",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 64,
+        "following": 0,
+        "ideas": 3834,
+        "watchlist_stocks_count": 281,
+        "like_count": 1345,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2095,
+        "title": "StockTwits For Android ",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 4559,
+          "symbol": "BMY",
+          "title": "Bristol-Myers Squibb Company",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 14638
+        }
+      ],
+      "links": [
+        {
+          "title": "Bristol Myers Squibb Receives European Commission Approval for Opdivo (nivolumab) plus Yervoy (ipilimumab) with Two Cycles of Chemotherapy for First-Line Treatment of Metastatic Non-Small Cell Lung Cancer",
+          "url": "https://finance.yahoo.com/news/bristol-myers-squibb-receives-european-115900197.html",
+          "shortened_url": "https://finance.yahoo.com/news/bristol-myers-squibb-receives-european-115900197.html",
+          "shortened_expanded_url": "finance.yahoo.com/news/bris...",
+          "description": "Approval based on Phase 3 CheckMate -9LA trial results showing superior overall survival in patients with metastatic non-small cell lung cancer, regardless of PD-L1 expression or tumor histologies European Commission decision marks the first time a dual immunotherapy with limited chemotherapy is approved for patients with non-small cell lung cancer",
+          "image": "https://s.yimg.com/uu/api/res/1.2/aNkme3mZVUzK5i0q2IDAew--~B/aD02Njt3PTQ4MDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/business-wire.com/45d8602dd2a6a49b54242b00ea88fcb4",
+          "created_at": "2020-11-06T12:42:03Z",
+          "video_url": null,
+          "source": {
+            "name": "Yahoo",
+            "website": "https://finance.yahoo.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 254815366,
+      "body": "$BMY Bristol Myers&#39; O+Y OK&#39;d in Europe for first-line lung cancer \n\nhttps://newsfilter.io/a/a7af14ed1cddd7973001ed51b94e2d18",
+      "created_at": "2020-11-06T12:41:34Z",
+      "user": {
+        "id": 2762379,
+        "username": "Newsfilter",
+        "name": "@newsfilterio",
+        "avatar_url": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "join_date": "2019-09-01",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 7567,
+        "following": 16,
+        "ideas": 612747,
+        "watchlist_stocks_count": 1,
+        "like_count": 531,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 4559,
+          "symbol": "BMY",
+          "title": "Bristol-Myers Squibb Company",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 14638
+        }
+      ],
+      "links": [
+        {
+          "title": "Bristol Myers' O+Y OK'd in Europe for first-line lung cancer",
+          "url": "https://newsfilter.io/a/a7af14ed1cddd7973001ed51b94e2d18",
+          "shortened_url": "https://newsfilter.io/a/a7af14ed1cddd7973001ed51b94e2d18",
+          "shortened_expanded_url": "newsfilter.io/a/a7af14ed1cd...",
+          "description": "As expected, the European Commission approves the combination of Bristol Myers Squibb's Opdivo and Yervoy with two cycles of chemo for the first-line treatment of adult patients with metastatic non-small cell lung cancer whose tumors have no sensitizing epidermal growth factor receptor mutation or anaplastic lymphoma kinase translocation.About two months ago, the advisory group CHMP adopted a positive opinion backing approval.",
+          "image": "https://newsfilter.io/meta-images/?url=https://storage.googleapis.com/iex/api/logos/BMY.png",
+          "created_at": "2020-11-06T12:41:34Z",
+          "video_url": null,
+          "source": {
+            "name": "Newsfilter",
+            "website": "https://newsfilter.io"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254813777,
+      "body": "$BMY Bristol Myers Squibb Receives European Commission Approval for Opdivo (nivolumab) plus Yervoy (ipilimumab) with Two Cycles of Chemotherapy for First-Line Treatment of Metastatic Non-Small Cell Lung Ca https://www.otcdynamics.com/bmy-bristol-myers-squibb-receives-european-commission-approval-for-opdivo-nivolumab-plus-yervoy-ipilimumab-with-two-cycles-of-chemotherapy-for-first-line-treatment-of-metastatic-non-small-ce",
+      "created_at": "2020-11-06T12:30:56Z",
+      "user": {
+        "id": 253206,
+        "username": "otcdynamics",
+        "name": "otcdynamics",
+        "avatar_url": "https://avatars.stocktwits.com/production/253206/thumb-1432182723.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/253206/thumb-1432182723.png",
+        "join_date": "2013-08-16",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 401,
+        "following": 0,
+        "ideas": 57460,
+        "watchlist_stocks_count": 0,
+        "like_count": 55,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5512,
+        "title": "project_n",
+        "url": "https://www.otcdynamics.com"
+      },
+      "symbols": [
+        {
+          "id": 4559,
+          "symbol": "BMY",
+          "title": "Bristol-Myers Squibb Company",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 14638
+        }
+      ],
+      "links": [
+        {
+          "title": "$BMY Bristol Myers Squibb Receives European Commission Approval for Opdivo (nivolumab) plus Yervoy (ipilimumab) with Two Cycles of Chemotherapy for First-Line Treatment of Metastatic Non-Small Cell Lung Ca",
+          "url": "https://www.otcdynamics.com/bmy-bristol-myers-squibb-receives-european-commission-approval-for-opdivo-nivolumab-plus-yervoy-ipilimumab-with-two-cycles-of-chemotherapy-for-first-line-treatment-of-metastatic-non-small-ce",
+          "shortened_url": "https://www.otcdynamics.com/bmy-bristol-myers-squibb-receives-european-commission-approval-for-opdivo-nivolumab-plus-yervoy-ipilimumab-with-two-cycles-of-chemotherapy-for-first-line-treatment-of-metastatic-non-small-ce",
+          "shortened_expanded_url": "otcdynamics.com/bmy-bristol...",
+          "description": "Bristol Myers Squibb (NYSE: BMY) today announced that the European Commission (EC) has approved Opdivo (nivolumab) plus Yervoy (ipilimumab) with two cycles of platinum-based chemotherapy for the first-line treatment of adult patients with metastatic non-small cell lung cancer (NSCLC) whose tumors have no sensitizing epidermal growth factor receptor (EGFR) mutation or anaplastic lymphoma kinase (ALK) translocation.",
+          "image": null,
+          "created_at": "2020-11-06T12:30:57Z",
+          "video_url": null,
+          "source": {
+            "name": "Otcdynamics",
+            "website": "https://www.otcdynamics.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254813156,
+      "body": "$PTON got out yest- taking a break see where things cool down $AAPL got out yest -taking break\n$BMY   have bmry for swing -will slowly decrease pos over a few months-",
+      "created_at": "2020-11-06T12:26:53Z",
+      "user": {
+        "id": 2984923,
+        "username": "2020Stocktwiter",
+        "name": "jaco79",
+        "avatar_url": "https://avatars.stocktwits.com/production/2984923/thumb-1589885727.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2984923/thumb-1589885727.png",
+        "join_date": "2019-12-24",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 4,
+        "following": 2,
+        "ideas": 483,
+        "watchlist_stocks_count": 28,
+        "like_count": 3,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 686,
+          "symbol": "AAPL",
+          "title": "Apple Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 526826
+        },
+        {
+          "id": 4559,
+          "symbol": "BMY",
+          "title": "Bristol-Myers Squibb Company",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 14638
+        },
+        {
+          "id": 15382,
+          "symbol": "PTON",
+          "title": "Peloton",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 26706
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254811504,
+      "body": "Bristol Myers Reports Receives EC Approval For Opdivo Plus Yervoy With 2 Cycles Of Chemo For First-Line Treatment Of Metastatic Non-Small Cell Lung Cancer\n\nRelated Tickers: $BMY",
+      "created_at": "2020-11-06T12:15:01Z",
+      "user": {
+        "id": 3539670,
+        "username": "QuantData",
+        "name": "Quant Data",
+        "avatar_url": "https://avatars.stocktwits.com/production/3539670/thumb-1602473985.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3539670/thumb-1602473985.png",
+        "join_date": "2020-06-03",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 753,
+        "following": 0,
+        "ideas": 11848,
+        "watchlist_stocks_count": 0,
+        "like_count": 20,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5828,
+        "title": "QuantData",
+        "url": "https://quantdata.us"
+      },
+      "symbols": [
+        {
+          "id": 4559,
+          "symbol": "BMY",
+          "title": "Bristol-Myers Squibb Company",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 14638
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254811116,
+      "body": "$BMY NEW ARTICLE : Bristol Myers Squibb Receives European Commission Approval for Opdivo (nivolumab) plus Yervoy (ipilimumab) with Two Cycles of Chemotherapy for First-Line Treatment of Metastatic Non-Small Cell Lung Cancer https://www.stck.pro/news/BMY/8967789",
+      "created_at": "2020-11-06T12:11:57Z",
+      "user": {
+        "id": 1555408,
+        "username": "STCKPRO",
+        "name": "STCK.PRO",
+        "avatar_url": "https://avatars.stocktwits.com/production/1555408/thumb-1576077822.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1555408/thumb-1576077822.png",
+        "join_date": "2018-07-24",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 4432,
+        "following": 2,
+        "ideas": 272362,
+        "watchlist_stocks_count": 18,
+        "like_count": 52,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5011,
+        "title": "STCK.PRO",
+        "url": "https://dashboard.stck.pro"
+      },
+      "symbols": [
+        {
+          "id": 4559,
+          "symbol": "BMY",
+          "title": "Bristol-Myers Squibb Company",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 14638
+        }
+      ],
+      "links": [
+        {
+          "title": "Bristol-Myers Squibb Company (BMY)",
+          "url": "https://www.stck.pro/news/BMY/8967789",
+          "shortened_url": "https://www.stck.pro/news/BMY/8967789",
+          "shortened_expanded_url": "stck.pro/news/BMY",
+          "description": "Never miss an important article again, stay on top of your investments and become a better investor today! Get your moat on and sync your watchlist with Stocktwits and get all the latest news for your symbols. Sync with Stocktwits",
+          "image": "https://www.stck.pro/img/imac.png",
+          "created_at": "2020-11-06T12:12:00Z",
+          "video_url": null,
+          "source": {
+            "name": "Stck",
+            "website": "https://www.stck.pro"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_254811116.jpg",
+          "large": "https://charts.stocktwits.com/production/large_254811116.jpg",
+          "original": "https://charts.stocktwits.com/production/original_254811116.jpg",
+          "url": "https://charts.stocktwits.com/production/original_254811116.jpg"
+        },
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254810446,
+      "body": "Bristol Myers Squibb Receives European Commission Approval for Opdivo (nivolumab) plus Yervoy (ipilimumab) with Two Cycles of Chemotherapy for First-Line Treatment of Metastatic Non-Small Cell Lung Cancer http://www.conferencecalltranscripts.org/summary/?id=89167&amp;pr=true $BMY",
+      "created_at": "2020-11-06T12:07:02Z",
+      "user": {
+        "id": 210967,
+        "username": "cctranscripts",
+        "name": "Conference Call Transcripts",
+        "avatar_url": "https://avatars.stocktwits.com/production/210967/thumb-1363372333.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/210967/thumb-1363372333.png",
+        "join_date": "2013-01-30",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 6358,
+        "following": 10,
+        "ideas": 2371109,
+        "watchlist_stocks_count": 0,
+        "like_count": 758,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1130,
+        "title": "cctranscripts",
+        "url": "http://conferencecalltranscripts.org"
+      },
+      "symbols": [
+        {
+          "id": 4559,
+          "symbol": "BMY",
+          "title": "Bristol-Myers Squibb Company",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 14638
+        }
+      ],
+      "links": [
+        {
+          "title": "Conference Call Transcripts",
+          "url": "http://www.conferencecalltranscripts.org/summary/?id=89167&pr=true",
+          "shortened_url": "http://www.conferencecalltranscripts.org/summary/?id=89167&pr=true",
+          "shortened_expanded_url": "conferencecalltranscripts.o...",
+          "description": "Get notified next time BMY.US makes a similar move!",
+          "image": null,
+          "created_at": "2020-11-06T12:07:03Z",
+          "video_url": null,
+          "source": {
+            "name": "Conferencecalltranscripts",
+            "website": "http://www.conferencecalltranscripts.org"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254809930,
+      "body": "$BMY Bristol Myers Squibb Receives European Commission Approval for Opdivo (nivolumab) plus Yervoy (ipilimumab) with Two Cycles of Chemotherapy for First-Line Treatment of Metastatic Non-Small Cell Lung Cancer\nhttps://www.stocktitan.net/news/BMY/bristol-myers-squibb-receives-european-commission-approval-for-57ucq5ktewf3.html\n\n#cancer",
+      "created_at": "2020-11-06T12:03:25Z",
+      "user": {
+        "id": 3372441,
+        "username": "Stock_Titan",
+        "name": "StockTitan",
+        "avatar_url": "https://avatars.stocktwits.com/production/3372441/thumb-1588173612.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3372441/thumb-1588173612.png",
+        "join_date": "2020-04-28",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 455,
+        "following": 0,
+        "ideas": 30149,
+        "watchlist_stocks_count": 0,
+        "like_count": 0,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5677,
+        "title": "StockTitan",
+        "url": "https://stocktitan.net"
+      },
+      "symbols": [
+        {
+          "id": 4559,
+          "symbol": "BMY",
+          "title": "Bristol-Myers Squibb Company",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 14638
+        }
+      ],
+      "links": [
+        {
+          "title": "Bristol Myers Squibb Receives European Commission Approval for | StockTitan.net",
+          "url": "https://www.stocktitan.net/news/BMY/bristol-myers-squibb-receives-european-commission-approval-for-57ucq5ktewf3.html",
+          "shortened_url": "https://www.stocktitan.net/news/BMY/bristol-myers-squibb-receives-european-commission-approval-for-57ucq5ktewf3.html",
+          "shortened_expanded_url": "stocktitan.net/news/BMY/bri...",
+          "description": "PRINCETON, N.J.--()-- Bristol Myers Squibb (NYSE: BMY) today announced that the European Commission (EC) has approved Opdivo (nivolumab) plus Yervoy (ipilimumab) with two cycles of platinum-based chemotherapy for the first-line treatment of adult patients with metastatic non-small cell lung cancer (NSCLC) whose tumors have no sensitizing epidermal growth factor receptor (EGFR) mutation or anaplastic lymphoma kinase (ALK) translocation.",
+          "image": "https://static.stocktitan.net/company-logo/bmy.png",
+          "created_at": "2020-11-06T12:03:26Z",
+          "video_url": null,
+          "source": {
+            "name": "Stocktitan",
+            "website": "https://www.stocktitan.net"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254809478,
+      "body": "$BMY [15s. delayed]: Issued Press Release on November 06, 06:59:00: Bristol Myers Squibb Receives European Commission Approval for Opdivo  https://s.flashalert.me/Dyosq",
+      "created_at": "2020-11-06T12:00:42Z",
+      "user": {
+        "id": 595702,
+        "username": "fla",
+        "name": "FlashAlert_me",
+        "avatar_url": "https://avatars.stocktwits.com/production/595702/thumb-1550769466.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/595702/thumb-1550769466.png",
+        "join_date": "2015-09-09",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 2666,
+        "following": 60,
+        "ideas": 727249,
+        "watchlist_stocks_count": 0,
+        "like_count": 4,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 4622,
+        "title": "FlashAlert",
+        "url": "https://flashalert.me/"
+      },
+      "symbols": [
+        {
+          "id": 4559,
+          "symbol": "BMY",
+          "title": "Bristol-Myers Squibb Company",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 14638
+        }
+      ],
+      "links": [
+        {
+          "title": "Flash Alert",
+          "url": "https://s.flashalert.me/Dyosq",
+          "shortened_url": "https://s.flashalert.me/Dyosq",
+          "shortened_expanded_url": "businesswire.com/news/home/...",
+          "description": "Real-time alerts about equities, ETFs, cryptocurrencies and more sent to any device",
+          "image": null,
+          "created_at": "2020-11-06T12:00:42Z",
+          "video_url": null,
+          "source": {
+            "name": "Flashalert",
+            "website": "https://flashalert.me"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254809288,
+      "body": "$BMY Bristol Myers Squibb Receives European Commission Approval for Opdivo plus Yervoy with Two Cycles of Chemotherapy for First-Line Treatment of Metastatic Non-Small Cell Lung Cancer \n\nhttps://newsfilter.io/a/ee4a4bb4fdb9d28ad8e18ae24569dc1c",
+      "created_at": "2020-11-06T11:59:33Z",
+      "user": {
+        "id": 2762379,
+        "username": "Newsfilter",
+        "name": "@newsfilterio",
+        "avatar_url": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "join_date": "2019-09-01",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 7569,
+        "following": 16,
+        "ideas": 612747,
+        "watchlist_stocks_count": 1,
+        "like_count": 531,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 4559,
+          "symbol": "BMY",
+          "title": "Bristol-Myers Squibb Company",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 14638
+        }
+      ],
+      "links": [
+        {
+          "title": "Bristol Myers Squibb Receives European Commission Approval for Opdivo (nivolumab) plus Yervoy (ipilimumab) with Two Cycles of Chemotherapy for First-Line Treatment of Metastatic Non-Small Cell Lung Cancer",
+          "url": "https://newsfilter.io/a/ee4a4bb4fdb9d28ad8e18ae24569dc1c",
+          "shortened_url": "https://newsfilter.io/a/ee4a4bb4fdb9d28ad8e18ae24569dc1c",
+          "shortened_expanded_url": "newsfilter.io/a/ee4a4bb4fdb...",
+          "description": "Bristol Myers Squibb announced that the European Commission has approved Opdivo plus Yervoy with two cycles of platinum-based chemotherapy for the first-line treatment of adult patients with metastatic non-small cell lung cancer whose tumors have no sensitizing epidermal growth factor receptor mutation or anaplastic lymphoma kinase translocation.",
+          "image": "https://newsfilter.io/meta-images/?url=https://storage.googleapis.com/iex/api/logos/BMY.png",
+          "created_at": "2020-11-06T11:59:35Z",
+          "video_url": null,
+          "source": {
+            "name": "Newsfilter",
+            "website": "https://newsfilter.io"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254775622,
+      "body": "$BMY was analyzed by 15 analysts. The buy consensus is at 85%. So analysts seem to be very confident about $BMY. https://www.chartmill.com/stock/quote/BMY/analyst-ratings?utm_source=stocktwits&amp;utm_medium=ANALYST&amp;utm_content=BMY&amp;utm_campaign=social_tracking",
+      "created_at": "2020-11-06T03:35:00Z",
+      "user": {
+        "id": 47688,
+        "username": "ChartMill",
+        "name": "ChartMill",
+        "avatar_url": "https://avatars.stocktwits.com/production/47688/thumb-1363343728.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/47688/thumb-1363343728.png",
+        "join_date": "2011-01-26",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 22062,
+        "following": 891,
+        "ideas": 1099255,
+        "watchlist_stocks_count": 20,
+        "like_count": 32,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1135,
+        "title": "ChartMill",
+        "url": "http://www.chartmill.com"
+      },
+      "symbols": [
+        {
+          "id": 4559,
+          "symbol": "BMY",
+          "title": "Bristol-Myers Squibb Company",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 14635
+        }
+      ],
+      "links": [
+        {
+          "title": null,
+          "url": "https://www.chartmill.com/stock/quote/BMY/analyst-ratings?utm_source=stocktwits&utm_medium=ANALYST&utm_content=BMY&utm_campaign=social_tracking",
+          "shortened_url": "https://www.chartmill.com/stock/quote/BMY/analyst-ratings?utm_source=stocktwits&utm_medium=ANALYST&utm_content=BMY&utm_campaign=social_tracking",
+          "shortened_expanded_url": "chartmill.com/stock/quote/B...",
+          "description": null,
+          "image": null,
+          "created_at": "2020-11-06T03:35:00Z",
+          "video_url": null,
+          "source": {
+            "name": "Chartmill",
+            "website": "https://www.chartmill.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254773121,
+      "body": "Comprehensive non-correlated Bristol-myers Squibb $BMY Trading Report https://tinyurl.com/y68vp3tz",
+      "created_at": "2020-11-06T03:15:05Z",
+      "user": {
+        "id": 456768,
+        "username": "stocktradersdaily",
+        "name": "Stock Traders Daily",
+        "avatar_url": "https://avatars.stocktwits.com/production/456768/thumb-1422538105.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/456768/thumb-1422538105.png",
+        "join_date": "2015-01-29",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 519,
+        "following": 0,
+        "ideas": 56377,
+        "watchlist_stocks_count": 0,
+        "like_count": 0,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 4326,
+        "title": "Stock Traders Daily",
+        "url": "https://www.stocktradersdaily.com"
+      },
+      "symbols": [
+        {
+          "id": 4559,
+          "symbol": "BMY",
+          "title": "Bristol-Myers Squibb Company",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 14635
+        }
+      ],
+      "links": [
+        {
+          "title": "Comprehensive non-correlated Bristol-myers Squibb $BMY Trading Report",
+          "url": "https://tinyurl.com/y68vp3tz",
+          "shortened_url": "https://tinyurl.com/y68vp3tz",
+          "shortened_expanded_url": "news.stocktradersdaily.com/...",
+          "description": "Celebrating 20 years, Stock Traders Daily provides the tools that help you develop investment strategies, and this is a good example. When we couple this with out market based analysis, the probabilities of going with the flow increases, and that is material over time.",
+          "image": "https://news.stocktradersdaily.com/images/STD-banner-336x280-v1r2.jpg",
+          "created_at": "2020-11-06T03:15:09Z",
+          "video_url": null,
+          "source": {
+            "name": "Stocktradersdaily",
+            "website": "https://news.stocktradersdaily.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_254773121.png",
+          "large": "https://charts.stocktwits.com/production/large_254773121.png",
+          "original": "https://charts.stocktwits.com/production/original_254773121.png",
+          "url": "https://charts.stocktwits.com/production/original_254773121.png"
+        },
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254759560,
+      "body": "$BMY Option Order Flow Sentiment is 74.4% Bullish. https://tinyurl.com/ycv5gztg",
+      "created_at": "2020-11-06T01:32:20Z",
+      "user": {
+        "id": 800154,
+        "username": "marketchameleonwins",
+        "name": "marketchameleon",
+        "avatar_url": "https://avatars.stocktwits.com/production/800154/thumb-1470414114.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/800154/thumb-1470414114.png",
+        "join_date": "2016-07-21",
+        "official": true,
+        "identity": "Official",
+        "classification": [
+          "official"
+        ],
+        "followers": 14470,
+        "following": 350,
+        "ideas": 214809,
+        "watchlist_stocks_count": 1,
+        "like_count": 304,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2931,
+        "title": "MarketChameleon.com",
+        "url": "https://marketchameleon.com"
+      },
+      "symbols": [
+        {
+          "id": 4559,
+          "symbol": "BMY",
+          "title": "Bristol-Myers Squibb Company",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 14638
+        }
+      ],
+      "links": [
+        {
+          "title": "Market Chameleon",
+          "url": "https://tinyurl.com/ycv5gztg",
+          "shortened_url": "https://tinyurl.com/ycv5gztg",
+          "shortened_expanded_url": "marketchameleon.com/Overvie...",
+          "description": "Possible reasons for receiving this error Corrective action(s) Accessing from a virtual machine and/or managed hosting environment Use a physical, local machine Using a VPN or other security product Disable it Using web automation or a non-standard web browser such as a crawler This is prohibited under MarketChameleon's Terms of Use Opening excessive windows and/or tabs Close all MarketChameleon windows/tabs and launch just one If you feel that you've received this message in error, please email the details that appear below to support@marketchameleon.com URL: https://marketchameleon.com/Overview/BMY/OptionOrderSentiment/ Reference Number: 18.c251cb8.1604626341.1f2eba51",
+          "image": null,
+          "created_at": "2020-11-06T01:32:21Z",
+          "video_url": null,
+          "source": {
+            "name": "Marketchameleon",
+            "website": "https://marketchameleon.com"
+          }
+        }
+      ],
+      "likes": {
+        "total": 2,
+        "user_ids": [
+          749501,
+          2006540
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254754906,
+      "body": "$BMY was analyzed by 15 analysts. The buy consensus is at 85%. So analysts seem to be very confident about $BMY. https://www.chartmill.com/stock/analyzer/stock/BMY?view=analyst-ratings&amp;utm_source=stocktwits&amp;utm_medium=ANALYST&amp;utm_content=BMY&amp;utm_campaign=social_tracking",
+      "created_at": "2020-11-06T01:05:01Z",
+      "user": {
+        "id": 47688,
+        "username": "ChartMill",
+        "name": "ChartMill",
+        "avatar_url": "https://avatars.stocktwits.com/production/47688/thumb-1363343728.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/47688/thumb-1363343728.png",
+        "join_date": "2011-01-26",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 22062,
+        "following": 891,
+        "ideas": 1099148,
+        "watchlist_stocks_count": 20,
+        "like_count": 32,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1135,
+        "title": "ChartMill",
+        "url": "http://www.chartmill.com"
+      },
+      "symbols": [
+        {
+          "id": 4559,
+          "symbol": "BMY",
+          "title": "Bristol-Myers Squibb Company",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 14635
+        }
+      ],
+      "links": [
+        {
+          "title": null,
+          "url": "https://www.chartmill.com/stock/analyzer/stock/BMY?view=analyst-ratings&utm_source=stocktwits&utm_medium=ANALYST&utm_content=BMY&utm_campaign=social_tracking",
+          "shortened_url": "https://www.chartmill.com/stock/analyzer/stock/BMY?view=analyst-ratings&utm_source=stocktwits&utm_medium=ANALYST&utm_content=BMY&utm_campaign=social_tracking",
+          "shortened_expanded_url": "chartmill.com/stock/analyze...",
+          "description": null,
+          "image": null,
+          "created_at": "2020-11-06T01:05:02Z",
+          "video_url": null,
+          "source": {
+            "name": "Chartmill",
+            "website": "https://www.chartmill.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254731415,
+      "body": "5 Leading #Healthcare #Stocks Surging On Pent-Up Demand $BMY $CI $AMGN $ABBV $ANTM https://talkmarkets.com/content/stocks--equities/5-leading-healthcare-stocks-surging-on-pent-up-demand?post=284424",
+      "created_at": "2020-11-05T23:05:42Z",
+      "user": {
+        "id": 296805,
+        "username": "TalkMarkets",
+        "name": "TalkMarkets",
+        "avatar_url": "https://avatars.stocktwits.com/production/296805/thumb-1388900805.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/296805/thumb-1388900805.png",
+        "join_date": "2014-01-05",
+        "official": true,
+        "identity": "Official",
+        "classification": [
+          "official"
+        ],
+        "followers": 28963,
+        "following": 328,
+        "ideas": 262751,
+        "watchlist_stocks_count": 0,
+        "like_count": 412,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1644,
+        "title": "TalkMarkets",
+        "url": "http://talkmarkets.com"
+      },
+      "symbols": [
+        {
+          "id": 838,
+          "symbol": "AMGN",
+          "title": "Amgen Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 11010
+        },
+        {
+          "id": 4559,
+          "symbol": "BMY",
+          "title": "Bristol-Myers Squibb Company",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 14635
+        },
+        {
+          "id": 4733,
+          "symbol": "CI",
+          "title": "CIGNA Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 3088
+        },
+        {
+          "id": 11364,
+          "symbol": "ABBV",
+          "title": "AbbVie Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 22881
+        },
+        {
+          "id": 12433,
+          "symbol": "ANTM",
+          "title": "Anthem Inc",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 2730
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 254731415,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "links": [
+        {
+          "title": "5 Leading Healthcare Stocks Surging On Pent-Up Demand",
+          "url": "https://talkmarkets.com/content/stocks--equities/5-leading-healthcare-stocks-surging-on-pent-up-demand?post=284424",
+          "shortened_url": "https://talkmarkets.com/content/stocks--equities/5-leading-healthcare-stocks-surging-on-pent-up-demand?post=284424",
+          "shortened_expanded_url": "talkmarkets.com/content/sto...",
+          "description": "As Mr. Valuation, I find myself constantly reminding investors that value investing requires patience. However, value investing also requires the willingness to get your money in front of attractive valuation when it is discovered. Trying to time your purchases perfectly can just as easily cause you to miss out on significant gains as it is to participate in them.",
+          "image": "https://static.seekingalpha.com/uploads/2020/11/5/426415-16046130868600793.png",
+          "created_at": "2020-11-05T23:05:43Z",
+          "video_url": null,
+          "source": {
+            "name": "TalkMarkets",
+            "website": "https://talkmarkets.com"
+          }
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          4091382
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254730101,
+      "body": "$BMY BMYr made the BEST day ever over 7 mill in bank, $AAPL $PTON Winning! hahahahahahhahhahhahhaha  weeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee!",
+      "created_at": "2020-11-05T22:59:57Z",
+      "user": {
+        "id": 2984923,
+        "username": "2020Stocktwiter",
+        "name": "jaco79",
+        "avatar_url": "https://avatars.stocktwits.com/production/2984923/thumb-1589885727.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2984923/thumb-1589885727.png",
+        "join_date": "2019-12-24",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 4,
+        "following": 2,
+        "ideas": 482,
+        "watchlist_stocks_count": 27,
+        "like_count": 3,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 686,
+          "symbol": "AAPL",
+          "title": "Apple Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 526644
+        },
+        {
+          "id": 4559,
+          "symbol": "BMY",
+          "title": "Bristol-Myers Squibb Company",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 14638
+        },
+        {
+          "id": 15382,
+          "symbol": "PTON",
+          "title": "Peloton",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 26578
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254724277,
+      "body": "$BMY hilarious this is in jim Cramer AAP as a buy but not to buy until it closes below 58 now (his recommendation today).",
+      "created_at": "2020-11-05T22:35:41Z",
+      "user": {
+        "id": 1998399,
+        "username": "John89m",
+        "name": "John",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2019-04-09",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 16,
+        "following": 9,
+        "ideas": 1958,
+        "watchlist_stocks_count": 9,
+        "like_count": 214,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 4559,
+          "symbol": "BMY",
+          "title": "Bristol-Myers Squibb Company",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 14638
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254705745,
+      "body": "$BMY  Closing chart for BMY",
+      "created_at": "2020-11-05T21:35:44Z",
+      "user": {
+        "id": 908438,
+        "username": "TheSkipper",
+        "name": "Navy",
+        "avatar_url": "https://avatars.stocktwits.com/production/908438/thumb-1568853080.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/908438/thumb-1568853080.png",
+        "join_date": "2016-12-22",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 759,
+        "following": 67,
+        "ideas": 25805,
+        "watchlist_stocks_count": 3,
+        "like_count": 9,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 4559,
+          "symbol": "BMY",
+          "title": "Bristol-Myers Squibb Company",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 14634
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_254705745.png",
+          "large": "https://charts.stocktwits.com/production/large_254705745.png",
+          "original": "https://charts.stocktwits.com/production/original_254705745.png",
+          "url": "https://charts.stocktwits.com/production/original_254705745.png"
+        },
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254700370,
+      "body": "Your daily News digest for Bristol Myers Squibb Company $BMY https://wsfriend.com/daily/news/BMY/2020-11-05/",
+      "created_at": "2020-11-05T21:22:40Z",
+      "user": {
+        "id": 732840,
+        "username": "WallStreetFriend",
+        "name": "Wall Street Friend",
+        "avatar_url": "https://avatars.stocktwits.com/production/732840/thumb-1577167895.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/732840/thumb-1577167895.png",
+        "join_date": "2016-04-17",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 557,
+        "following": 39,
+        "ideas": 72622,
+        "watchlist_stocks_count": 31,
+        "like_count": 94,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5142,
+        "title": "Programmatic Alerts ",
+        "url": "https://wsfriend.com"
+      },
+      "symbols": [
+        {
+          "id": 4559,
+          "symbol": "BMY",
+          "title": "Bristol-Myers Squibb Company",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 14634
+        }
+      ],
+      "links": [
+        {
+          "title": "BMY Trending News and Daily News Digest for on Nov 05, 2020",
+          "url": "https://wsfriend.com/daily/news/BMY/2020-11-05/",
+          "shortened_url": "https://wsfriend.com/daily/news/BMY/2020-11-05/",
+          "shortened_expanded_url": "wsfriend.com/daily/news/BMY...",
+          "description": "BMY Dail News Digest and Top trending news for",
+          "image": "https://g.foolcdn.com/editorial/images/598981/doctor-male-patient.jpg",
+          "created_at": "2020-11-05T21:22:42Z",
+          "video_url": null,
+          "source": {
+            "name": "Wsfriend",
+            "website": "https://wsfriend.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254692470,
+      "body": "Today&#39;s biggest market cap losers \u2198\ufe0f\n\n1. Alibaba ( $BABA ) -$21.23 B\n2. Biogen ( $BIIB ) -$4.12 B\n3. Bristol-Myers Squibb ( $BMY ) -$3.7 B\n4. AIA ( $AAIGF ) -$3.42 B\n5. Pfizer ( $PFE ) -$3.12 B\n\nMore: https://companiesmarketcap.com/top-companies-by-market-cap-loss/",
+      "created_at": "2020-11-05T21:06:46Z",
+      "user": {
+        "id": 3998904,
+        "username": "CompaniesMarketCap",
+        "name": "companiesmarketcap.com",
+        "avatar_url": "https://avatars.stocktwits.com/production/3998904/thumb-1598316155.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3998904/thumb-1598316155.png",
+        "join_date": "2020-08-25",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 227,
+        "following": 274,
+        "ideas": 4241,
+        "watchlist_stocks_count": 4,
+        "like_count": 147,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 1075,
+          "symbol": "BIIB",
+          "title": "Biogen Idec Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 13995
+        },
+        {
+          "id": 4559,
+          "symbol": "BMY",
+          "title": "Bristol-Myers Squibb Company",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 14635
+        },
+        {
+          "id": 6728,
+          "symbol": "PFE",
+          "title": "Pfizer Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 37190
+        },
+        {
+          "id": 12100,
+          "symbol": "BABA",
+          "title": "Alibaba",
+          "aliases": [
+            "ALIBABA"
+          ],
+          "is_following": false,
+          "watchlist_count": 230828
+        }
+      ],
+      "links": [
+        {
+          "title": "Companies ranked by Market Cap loss - CompaniesMarketCap.com",
+          "url": "https://companiesmarketcap.com/top-companies-by-market-cap-loss/",
+          "shortened_url": "https://companiesmarketcap.com/top-companies-by-market-cap-loss/",
+          "shortened_expanded_url": "companiesmarketcap.com/top-...",
+          "description": "List of todays biggest market cap wipe outs. This list shows the companies with the largest market cap loss",
+          "image": "https://companiesmarketcap.com/logo.png",
+          "created_at": "2020-11-05T21:06:48Z",
+          "video_url": null,
+          "source": {
+            "name": "Companiesmarketcap",
+            "website": "https://companiesmarketcap.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bearish"
+        }
+      }
+    },
+    {
+      "id": 254683876,
+      "body": "$BMY: The low PEG Ratio, which compensates the PE for growth, indicates a rather cheap valuation of the company. https://www.chartmill.com/stock/analyzer/stock/BMY?view=fundamental-analysis&amp;key=2001b027-9d63-4fea-985c-211d9bf9cff9&amp;utm_source=stocktwits&amp;utm_medium=FA&amp;utm_content=BMY&amp;utm_campaign=social_tracking",
+      "created_at": "2020-11-05T20:41:00Z",
+      "user": {
+        "id": 47688,
+        "username": "ChartMill",
+        "name": "ChartMill",
+        "avatar_url": "https://avatars.stocktwits.com/production/47688/thumb-1363343728.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/47688/thumb-1363343728.png",
+        "join_date": "2011-01-26",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 22056,
+        "following": 891,
+        "ideas": 1098725,
+        "watchlist_stocks_count": 20,
+        "like_count": 32,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1135,
+        "title": "ChartMill",
+        "url": "http://www.chartmill.com"
+      },
+      "symbols": [
+        {
+          "id": 4559,
+          "symbol": "BMY",
+          "title": "Bristol-Myers Squibb Company",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 14635
+        }
+      ],
+      "links": [
+        {
+          "title": null,
+          "url": "https://www.chartmill.com/stock/analyzer/stock/BMY?view=fundamental-analysis&key=2001b027-9d63-4fea-985c-211d9bf9cff9&utm_source=stocktwits&utm_medium=FA&utm_content=BMY&utm_campaign=social_tracking",
+          "shortened_url": "https://www.chartmill.com/stock/analyzer/stock/BMY?view=fundamental-analysis&key=2001b027-9d63-4fea-985c-211d9bf9cff9&utm_source=stocktwits&utm_medium=FA&utm_content=BMY&utm_campaign=social_tracking",
+          "shortened_expanded_url": "chartmill.com/stock/analyze...",
+          "description": null,
+          "image": null,
+          "created_at": "2020-11-05T20:41:01Z",
+          "video_url": null,
+          "source": {
+            "name": "Chartmill",
+            "website": "https://www.chartmill.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254678999,
+      "body": "$BMY Buying the dip.",
+      "created_at": "2020-11-05T20:23:51Z",
+      "user": {
+        "id": 2006540,
+        "username": "Shambala92000",
+        "name": "BB",
+        "avatar_url": "https://avatars.stocktwits.com/production/2006540/thumb-1602161715.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2006540/thumb-1602161715.png",
+        "join_date": "2019-04-13",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 52,
+        "following": 324,
+        "ideas": 2454,
+        "watchlist_stocks_count": 299,
+        "like_count": 2133,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 4559,
+          "symbol": "BMY",
+          "title": "Bristol-Myers Squibb Company",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 14635
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          522426
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254658393,
+      "body": "$BMY How Bristol Myers Squibb Beat Wall Street Estimates in Q3 http://dlvr.it/Rl4RZ2",
+      "created_at": "2020-11-05T19:13:02Z",
+      "user": {
+        "id": 3395308,
+        "username": "f3rmo",
+        "name": "ferchu",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2020-05-03",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 51,
+        "following": 0,
+        "ideas": 8403,
+        "watchlist_stocks_count": 35,
+        "like_count": 3,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1351,
+        "title": "dlvr.it",
+        "url": "https://dlvrit.com/"
+      },
+      "symbols": [
+        {
+          "id": 4559,
+          "symbol": "BMY",
+          "title": "Bristol-Myers Squibb Company",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 14638
+        }
+      ],
+      "links": [
+        {
+          "title": "How Bristol Myers Squibb Beat Wall Street Estimates in Q3",
+          "url": "http://dlvr.it/Rl4RZ2",
+          "shortened_url": "http://dlvr.it/Rl4RZ2",
+          "shortened_expanded_url": "finsharing.com/posts/how-br...",
+          "description": "Disclaimer: FinSharing does not guarantee that any of the information available on our website, APIs or provided by any other means is complete, accurate, current, reliable or appropriate for your needs. Some of our information is provided by third party services and we cannot guarantee that is complete, accurate, current, reliable or appropriate for your needs.",
+          "image": "https://g.foolcdn.com/editorial/images/598947/scientist-in-lab-with-arms-crossed.jpg",
+          "created_at": "2020-11-05T19:13:05Z",
+          "video_url": null,
+          "source": {
+            "name": "FinSharing.com",
+            "website": "https://finsharing.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254656227,
+      "body": "$BMY NEW ARTICLE : How Bristol Myers Squibb Beat Wall Street Estimates in Q3 https://www.stck.pro/news/BMY/8956590",
+      "created_at": "2020-11-05T19:05:36Z",
+      "user": {
+        "id": 1555408,
+        "username": "STCKPRO",
+        "name": "STCK.PRO",
+        "avatar_url": "https://avatars.stocktwits.com/production/1555408/thumb-1576077822.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1555408/thumb-1576077822.png",
+        "join_date": "2018-07-24",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 4429,
+        "following": 2,
+        "ideas": 271664,
+        "watchlist_stocks_count": 18,
+        "like_count": 52,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5011,
+        "title": "STCK.PRO",
+        "url": "https://dashboard.stck.pro"
+      },
+      "symbols": [
+        {
+          "id": 4559,
+          "symbol": "BMY",
+          "title": "Bristol-Myers Squibb Company",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 14638
+        }
+      ],
+      "links": [
+        {
+          "title": "Bristol-Myers Squibb Company (BMY)",
+          "url": "https://www.stck.pro/news/BMY/8956590",
+          "shortened_url": "https://www.stck.pro/news/BMY/8956590",
+          "shortened_expanded_url": "stck.pro/news/BMY",
+          "description": "Never miss an important article again, stay on top of your investments and become a better investor today! Get your moat on and sync your watchlist with Stocktwits and get all the latest news for your symbols. Sync with Stocktwits",
+          "image": "https://www.stck.pro/img/imac.png",
+          "created_at": "2020-11-05T19:05:40Z",
+          "video_url": null,
+          "source": {
+            "name": "Stck",
+            "website": "https://www.stck.pro"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_254656227.jpg",
+          "large": "https://charts.stocktwits.com/production/large_254656227.jpg",
+          "original": "https://charts.stocktwits.com/production/original_254656227.jpg",
+          "url": "https://charts.stocktwits.com/production/original_254656227.jpg"
+        },
+        "sentiment": null
+      }
+    }
+  ]
+}

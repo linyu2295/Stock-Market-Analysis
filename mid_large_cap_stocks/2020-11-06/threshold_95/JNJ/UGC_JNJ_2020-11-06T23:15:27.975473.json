@@ -1,0 +1,2165 @@
+{
+  "response": {
+    "status": 200
+  },
+  "symbol": {
+    "id": 6011,
+    "symbol": "JNJ",
+    "title": "Johnson & Johnson",
+    "aliases": [],
+    "is_following": false,
+    "watchlist_count": 33445
+  },
+  "cursor": {
+    "more": true,
+    "since": 254852492,
+    "max": 254586000
+  },
+  "messages": [
+    {
+      "id": 254852492,
+      "body": "($JNJ) ($NIO) ($XPEV) Found Possible Cup and Handle on 10Minute.",
+      "created_at": "2020-11-06T15:01:15Z",
+      "user": {
+        "id": 4023154,
+        "username": "BamTradeAlerts",
+        "name": "Bam Trade Alerts",
+        "avatar_url": "https://avatars.stocktwits.com/production/4023154/thumb-1598779613.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/4023154/thumb-1598779613.png",
+        "join_date": "2020-08-30",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 60,
+        "following": 2,
+        "ideas": 643,
+        "watchlist_stocks_count": 43,
+        "like_count": 0,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1022,
+        "title": "Zapier",
+        "url": "https://zapier.com/"
+      },
+      "symbols": [
+        {
+          "id": 6011,
+          "symbol": "JNJ",
+          "title": "Johnson & Johnson",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 33445
+        },
+        {
+          "id": 6499,
+          "symbol": "NIO",
+          "title": "NIO Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 135560
+        },
+        {
+          "id": 15842,
+          "symbol": "XPEV",
+          "title": "XPENG INC.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 13235
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254848998,
+      "body": "$JNJ Up 3 days in a row 138.5 | 139.4 | 139.76 | 140.16 |  https://www.sleekoptions.com/sleekscan.aspx?sub1=dscan",
+      "created_at": "2020-11-06T14:52:42Z",
+      "user": {
+        "id": 1553598,
+        "username": "sleekoptions_twits",
+        "name": "sleekOptions Signals",
+        "avatar_url": "https://avatars.stocktwits.com/production/1553598/thumb-1600048561.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1553598/thumb-1600048561.png",
+        "join_date": "2018-07-22",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 1782,
+        "following": 29,
+        "ideas": 25384,
+        "watchlist_stocks_count": 3,
+        "like_count": 263,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 4255,
+        "title": "Sleekoptions Daytrade",
+        "url": "http://www.sleekoptions.com"
+      },
+      "symbols": [
+        {
+          "id": 6011,
+          "symbol": "JNJ",
+          "title": "Johnson & Johnson",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 33445
+        }
+      ],
+      "links": [
+        {
+          "title": "SleekOptions.com - Algo based option trading Alerts",
+          "url": "https://www.sleekoptions.com/sleekscan.aspx?sub1=dscan",
+          "shortened_url": "https://www.sleekoptions.com/sleekscan.aspx?sub1=dscan",
+          "shortened_expanded_url": "sleekoptions.com/sleekscan....",
+          "description": "SleekOptions.com - Algo based option trading alerts gives you near real time alerts of good setups for option trading. Option trading alerts are triggered by the system using proprietary algo , historical data analysis, technical analysis and price action analysis. The alerts are posted in both the website and also in chat platform for push and email notifications.",
+          "image": null,
+          "created_at": "2020-11-06T14:52:42Z",
+          "video_url": null,
+          "source": {
+            "name": "Sleekoptions",
+            "website": "https://www.sleekoptions.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254846018,
+      "body": "09:30:08 AM MINR Automated Entry.  Long 300 shares of $JNJ at 140.3 for a trade that I will be looking to close in the next 10 days.",
+      "created_at": "2020-11-06T14:45:14Z",
+      "user": {
+        "id": 360657,
+        "username": "innersigma",
+        "name": "Lloyd bell",
+        "avatar_url": "https://avatars.stocktwits.com/production/360657/thumb-1559222495.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/360657/thumb-1559222495.png",
+        "join_date": "2014-06-04",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 785,
+        "following": 25,
+        "ideas": 9254,
+        "watchlist_stocks_count": 1,
+        "like_count": 567,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 4297,
+        "title": "BacktestedTradingBot",
+        "url": "http://www.localhost.com"
+      },
+      "symbols": [
+        {
+          "id": 6011,
+          "symbol": "JNJ",
+          "title": "Johnson & Johnson",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 33445
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254838205,
+      "body": "$JNJ reports that TREMFYA (guselkumab) reduced fatigue over 52 weeks in adult patients with psoriatic arthritis in two Phase 3 clinical trials https://www.briefing.com/in-depth-analysis/Content/Article?ArticleId=IN20201106070930JNJ",
+      "created_at": "2020-11-06T14:23:22Z",
+      "user": {
+        "id": 8115,
+        "username": "briefingcom",
+        "name": "Briefingcom",
+        "avatar_url": "https://avatars.stocktwits.com/production/8115/thumb-1340802633.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/8115/thumb-1340802633.png",
+        "join_date": "2010-01-25",
+        "official": true,
+        "identity": "Official",
+        "classification": [
+          "official"
+        ],
+        "followers": 85648,
+        "following": 821,
+        "ideas": 80346,
+        "watchlist_stocks_count": 8,
+        "like_count": 67,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 6011,
+          "symbol": "JNJ",
+          "title": "Johnson & Johnson",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 33445
+        }
+      ],
+      "links": [
+        {
+          "title": "Briefing.com",
+          "url": "https://www.briefing.com/in-depth-analysis/Content/Article?ArticleId=IN20201106070930JNJ",
+          "shortened_url": "https://www.briefing.com/in-depth-analysis/Content/Article?ArticleId=IN20201106070930JNJ",
+          "shortened_expanded_url": "briefing.com/in-depth-analy...",
+          "description": "JNJ: Johnson & Johnson's Janssen reports that TREMFYA (guselkumab) reduced fatigue over 52 weeks in adult patients with psoriatic arthritis in two Phase 3 clinical trials (139.76) Co announced data from two Phase 3 clinical trials, DISCOVER-1 and DISCOVER-2, which showed TREMFYA (guselkumab) improved fatigue in adult patients with active psoriatic arthritis (PsA) and maintained response through 52 weeks of active treatment, as measured by the Functional Assessment of Chronic Illness Therapy-Fatigue (FACIT-F) Scale.",
+          "image": null,
+          "created_at": "2020-11-06T14:23:23Z",
+          "video_url": null,
+          "source": {
+            "name": "Briefing",
+            "website": "https://www.briefing.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254833554,
+      "body": "$JNJ: Johnson &amp; Johnson to Host Virtual Medical Devices Update https://www.chartmill.com/stock/quote/JNJ/news?utm_source=stocktwits&amp;utm_medium=pressRelease&amp;utm_content=JNJ&amp;utm_campaign=social_tracking",
+      "created_at": "2020-11-06T14:07:00Z",
+      "user": {
+        "id": 47688,
+        "username": "ChartMill",
+        "name": "ChartMill",
+        "avatar_url": "https://avatars.stocktwits.com/production/47688/thumb-1363343728.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/47688/thumb-1363343728.png",
+        "join_date": "2011-01-26",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 22070,
+        "following": 891,
+        "ideas": 1099734,
+        "watchlist_stocks_count": 20,
+        "like_count": 32,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1135,
+        "title": "ChartMill",
+        "url": "http://www.chartmill.com"
+      },
+      "symbols": [
+        {
+          "id": 6011,
+          "symbol": "JNJ",
+          "title": "Johnson & Johnson",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 33446
+        }
+      ],
+      "links": [
+        {
+          "title": null,
+          "url": "https://www.chartmill.com/stock/quote/JNJ/news?utm_source=stocktwits&utm_medium=pressRelease&utm_content=JNJ&utm_campaign=social_tracking",
+          "shortened_url": "https://www.chartmill.com/stock/quote/JNJ/news?utm_source=stocktwits&utm_medium=pressRelease&utm_content=JNJ&utm_campaign=social_tracking",
+          "shortened_expanded_url": "chartmill.com/stock/quote/J...",
+          "description": null,
+          "image": null,
+          "created_at": "2020-11-06T14:07:00Z",
+          "video_url": null,
+          "source": {
+            "name": "Chartmill",
+            "website": "https://www.chartmill.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254831837,
+      "body": "$JNJ medical device did not do well as surgeries were postponded in many countries....30-40%",
+      "created_at": "2020-11-06T14:00:27Z",
+      "user": {
+        "id": 3004004,
+        "username": "Patientinvestor20",
+        "name": "Tony R",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2020-01-03",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 19,
+        "following": 0,
+        "ideas": 4311,
+        "watchlist_stocks_count": 3,
+        "like_count": 1588,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 6011,
+          "symbol": "JNJ",
+          "title": "Johnson & Johnson",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 33446
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bearish"
+        }
+      }
+    },
+    {
+      "id": 254829605,
+      "body": "$JNJ J&amp;J to host device update November 19 \n\nhttps://newsfilter.io/a/ebcadd65dca83b65765979f6c43a8816",
+      "created_at": "2020-11-06T13:51:35Z",
+      "user": {
+        "id": 2762379,
+        "username": "Newsfilter",
+        "name": "@newsfilterio",
+        "avatar_url": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "join_date": "2019-09-01",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 7570,
+        "following": 16,
+        "ideas": 612954,
+        "watchlist_stocks_count": 1,
+        "like_count": 531,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 6011,
+          "symbol": "JNJ",
+          "title": "Johnson & Johnson",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 33446
+        }
+      ],
+      "links": [
+        {
+          "title": "J&J to host device update November 19",
+          "url": "https://newsfilter.io/a/ebcadd65dca83b65765979f6c43a8816",
+          "shortened_url": "https://newsfilter.io/a/ebcadd65dca83b65765979f6c43a8816",
+          "shortened_expanded_url": "newsfilter.io/a/ebcadd65dca...",
+          "description": "Johnson & Johnson will update investors on its medical device business in a virtual event on Thursday, November 19.The agenda includes franchise exhibits, a review of the company's digital strategies and capabilities and two live Q&A sessions.Registration via jnjdupdate.virtualsession.events.",
+          "image": "https://newsfilter.io/meta-images/?url=https://storage.googleapis.com/iex/api/logos/JNJ.png",
+          "created_at": "2020-11-06T13:51:36Z",
+          "video_url": null,
+          "source": {
+            "name": "Newsfilter",
+            "website": "https://newsfilter.io"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254829146,
+      "body": "$JNJ Johnson &amp; Johnson to Host Virtual Medical Devices Update https://www.otcdynamics.com/jnj-johnson-johnson-to-host-virtual-medical-devices-update",
+      "created_at": "2020-11-06T13:49:40Z",
+      "user": {
+        "id": 253206,
+        "username": "otcdynamics",
+        "name": "otcdynamics",
+        "avatar_url": "https://avatars.stocktwits.com/production/253206/thumb-1432182723.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/253206/thumb-1432182723.png",
+        "join_date": "2013-08-16",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 401,
+        "following": 0,
+        "ideas": 57561,
+        "watchlist_stocks_count": 0,
+        "like_count": 55,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5512,
+        "title": "project_n",
+        "url": "https://www.otcdynamics.com"
+      },
+      "symbols": [
+        {
+          "id": 6011,
+          "symbol": "JNJ",
+          "title": "Johnson & Johnson",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 33446
+        }
+      ],
+      "links": [
+        {
+          "title": "$JNJ Johnson & Johnson to Host Virtual Medical Devices Update",
+          "url": "https://www.otcdynamics.com/jnj-johnson-johnson-to-host-virtual-medical-devices-update",
+          "shortened_url": "https://www.otcdynamics.com/jnj-johnson-johnson-to-host-virtual-medical-devices-update",
+          "shortened_expanded_url": "otcdynamics.com/jnj-johnson...",
+          "description": "NEW BRUNSWICK, N.J., Nov. 6, 2020 /PRNewswire/ -- Johnson & Johnson (NYSE: JNJ) will hold a virtual Medical Devices Update for the investment community on Thursday, November 19, 2020, in which leadership will focus on the Company's differentiated and competitive platforms across digital surgery and provide franchise and innovation highlights across the Johnson & Johnson Medical Devices Companies.",
+          "image": null,
+          "created_at": "2020-11-06T13:49:41Z",
+          "video_url": null,
+          "source": {
+            "name": "Otcdynamics",
+            "website": "https://www.otcdynamics.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254827222,
+      "body": "Updated correlation matrix for Johnson Johnson($JNJ),\u2026 https://www.macroaxis.com/invest/marketCorrelation?s=JNJ,HAL,CAT,JUSHF,COF,DE #canada #canadian_equities #CA",
+      "created_at": "2020-11-06T13:41:05Z",
+      "user": {
+        "id": 56948,
+        "username": "macroaxis",
+        "name": "Macroaxis",
+        "avatar_url": "https://avatars.stocktwits.com/production/56948/thumb-1361399398.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/56948/thumb-1361399398.png",
+        "join_date": "2011-03-04",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 2950,
+        "following": 4,
+        "ideas": 351984,
+        "watchlist_stocks_count": 15,
+        "like_count": 28,
+        "plus_tier": "year",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1351,
+        "title": "dlvr.it",
+        "url": "https://dlvrit.com/"
+      },
+      "symbols": [
+        {
+          "id": 6011,
+          "symbol": "JNJ",
+          "title": "Johnson & Johnson",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 33446
+        }
+      ],
+      "links": [
+        {
+          "title": "Correlation analysis for JNJ,HAL,CAT,JUSHF,COF,DE",
+          "url": "https://www.macroaxis.com/invest/marketCorrelation?s=JNJ,HAL,CAT,JUSHF,COF,DE",
+          "shortened_url": "https://www.macroaxis.com/invest/marketCorrelation?s=JNJ,HAL,CAT,JUSHF,COF,DE",
+          "shortened_expanded_url": "macroaxis.com/invest/market...",
+          "description": "An investor can reduce portfolio risk only by holding instruments that are not perfectly correlated. In other words, investors can reduce their exposure to individual asset risk by holding a diversified portfolio of assets. Diversification will allow for the same portfolio return with reduced risk.",
+          "image": "https://www.macroaxis.com/images/aboutMacroaxisGuy.png",
+          "created_at": "2020-11-06T13:41:07Z",
+          "video_url": null,
+          "source": {
+            "name": "Macroaxis",
+            "website": "https://www.macroaxis.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254824824,
+      "body": "$JNJ Johnson &amp; Johnson to Host Virtual Medical Devices Update \n\nhttps://newsfilter.io/a/8d9c2d376f7c551e754ef0ee7e33783d",
+      "created_at": "2020-11-06T13:30:35Z",
+      "user": {
+        "id": 2762379,
+        "username": "Newsfilter",
+        "name": "@newsfilterio",
+        "avatar_url": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "join_date": "2019-09-01",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 7570,
+        "following": 16,
+        "ideas": 612954,
+        "watchlist_stocks_count": 1,
+        "like_count": 531,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 6011,
+          "symbol": "JNJ",
+          "title": "Johnson & Johnson",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 33446
+        }
+      ],
+      "links": [
+        {
+          "title": "Johnson & Johnson to Host Virtual Medical Devices Update",
+          "url": "https://newsfilter.io/a/8d9c2d376f7c551e754ef0ee7e33783d",
+          "shortened_url": "https://newsfilter.io/a/8d9c2d376f7c551e754ef0ee7e33783d",
+          "shortened_expanded_url": "newsfilter.io/a/8d9c2d376f7...",
+          "description": "NEW BRUNSWICK, N.J., Nov. 6, 2020 /PRNewswire/ -- Johnson & Johnson (NYSE: JNJ) will hold a virtual Medical Devices Update for the investment community on Thursday, November 19, 2020, in which leadership will focus on the Company's differentiated and competitive platforms across digital surgery and provide franchise and innovation highlights across the Johnson & Johnson Medical Devices Companies.",
+          "image": "https://newsfilter.io/meta-images/?url=https://storage.googleapis.com/iex/api/logos/JNJ.png",
+          "created_at": "2020-11-06T13:30:36Z",
+          "video_url": null,
+          "source": {
+            "name": "Newsfilter",
+            "website": "https://newsfilter.io"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254824793,
+      "body": "$JNJ Johnson &amp; Johnson to Host Virtual Medical Devices Update\nhttps://www.stocktitan.net/news/JNJ/johnson-johnson-to-host-virtual-medical-devices-xuoalr1u5mqq.html",
+      "created_at": "2020-11-06T13:30:29Z",
+      "user": {
+        "id": 3372441,
+        "username": "Stock_Titan",
+        "name": "StockTitan",
+        "avatar_url": "https://avatars.stocktwits.com/production/3372441/thumb-1588173612.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3372441/thumb-1588173612.png",
+        "join_date": "2020-04-28",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 455,
+        "following": 0,
+        "ideas": 30238,
+        "watchlist_stocks_count": 0,
+        "like_count": 0,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5677,
+        "title": "StockTitan",
+        "url": "https://stocktitan.net"
+      },
+      "symbols": [
+        {
+          "id": 6011,
+          "symbol": "JNJ",
+          "title": "Johnson & Johnson",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 33446
+        }
+      ],
+      "links": [
+        {
+          "title": "Johnson & Johnson to Host Virtual Medical Devices Update | StockTitan.net",
+          "url": "https://www.stocktitan.net/news/JNJ/johnson-johnson-to-host-virtual-medical-devices-xuoalr1u5mqq.html",
+          "shortened_url": "https://www.stocktitan.net/news/JNJ/johnson-johnson-to-host-virtual-medical-devices-xuoalr1u5mqq.html",
+          "shortened_expanded_url": "stocktitan.net/news/JNJ/joh...",
+          "description": "NEW BRUNSWICK, N.J., Nov. 6, 2020 -- Johnson & Johnson (NYSE: JNJ) will hold a virtual Medical Devices Update for the investment community on Thursday, November 19, 2020, in which leadership will focus on the Company's differentiated and competitive platforms across digital surgery and provide franchise and innovation highlights across the Johnson & Johnson Medical Devices Companies.",
+          "image": "https://static.stocktitan.net/company-logo/jnj.png",
+          "created_at": "2020-11-06T13:30:30Z",
+          "video_url": null,
+          "source": {
+            "name": "Stocktitan",
+            "website": "https://www.stocktitan.net"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254824756,
+      "body": "Catalent Could Be A Big COVID-19 Vaccine Play: The Thing Behind The Thing\n\nRelated Tickers: $AZN $CTLT $JNJ $MRNA",
+      "created_at": "2020-11-06T13:30:21Z",
+      "user": {
+        "id": 3539670,
+        "username": "QuantData",
+        "name": "Quant Data",
+        "avatar_url": "https://avatars.stocktwits.com/production/3539670/thumb-1602473985.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3539670/thumb-1602473985.png",
+        "join_date": "2020-06-03",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 754,
+        "following": 0,
+        "ideas": 11946,
+        "watchlist_stocks_count": 0,
+        "like_count": 20,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5828,
+        "title": "QuantData",
+        "url": "https://quantdata.us"
+      },
+      "symbols": [
+        {
+          "id": 2723,
+          "symbol": "MRNA",
+          "title": "Moderna, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 55500
+        },
+        {
+          "id": 4433,
+          "symbol": "AZN",
+          "title": "AstraZeneca PLC",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 16872
+        },
+        {
+          "id": 6011,
+          "symbol": "JNJ",
+          "title": "Johnson & Johnson",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 33446
+        },
+        {
+          "id": 12144,
+          "symbol": "CTLT",
+          "title": "Catalent",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 720
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254823591,
+      "body": "Looking for a Covid19 vaccine investment and can&#39;t decide who will win, take a look at this pick that has production deals with three of the leaders $CTLT $MRNA $JNJ $AZN https://www.benzinga.com/news/earnings/20/11/18241008/catalent-could-be-a-big-covid-19-vaccine-play-the-thing-behind-the-thing",
+      "created_at": "2020-11-06T13:24:41Z",
+      "user": {
+        "id": 165264,
+        "username": "katje30",
+        "name": "Chris Katje",
+        "avatar_url": "https://avatars.stocktwits.com/production/165264/thumb-1340594941.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/165264/thumb-1340594941.png",
+        "join_date": "2012-06-25",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 7691,
+        "following": 36,
+        "ideas": 718,
+        "watchlist_stocks_count": 18,
+        "like_count": 16,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 2723,
+          "symbol": "MRNA",
+          "title": "Moderna, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 55500
+        },
+        {
+          "id": 4433,
+          "symbol": "AZN",
+          "title": "AstraZeneca PLC",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 16872
+        },
+        {
+          "id": 6011,
+          "symbol": "JNJ",
+          "title": "Johnson & Johnson",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 33446
+        },
+        {
+          "id": 12144,
+          "symbol": "CTLT",
+          "title": "Catalent",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 720
+        }
+      ],
+      "links": [
+        {
+          "title": "Catalent Could Be A Big COVID-19 Vaccine Play: The Thing Behind The Thing",
+          "url": "https://www.benzinga.com/news/earnings/20/11/18241008/catalent-could-be-a-big-covid-19-vaccine-play-the-thing-behind-the-thing",
+          "shortened_url": "https://www.benzinga.com/news/earnings/20/11/18241008/catalent-could-be-a-big-covid-19-vaccine-play-the-thing-behind-the-thing",
+          "shortened_expanded_url": "benzinga.com/news/earnings/...",
+          "description": "Each week, Benzinga will examine a stock that might be considered a little under the radar. You may have never heard of the company before, but chances are you're pretty familiar with the line of work it's in. We call these the \"things behind the thing.\"",
+          "image": "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/images/story/2012/virus-4937553_1920_1.jpg",
+          "created_at": "2020-11-06T13:24:42Z",
+          "video_url": null,
+          "source": {
+            "name": "Benzinga",
+            "website": "https://www.benzinga.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254823386,
+      "body": "Catalent Could Be A Big COVID-19 Vaccine Play: The Thing Behind The Thing  $CTLT $MRNA $AZN $JNJ \n\nhttps://newsfilter.io/a/9d0966b179dbcd7c5744d6a2c1549458",
+      "created_at": "2020-11-06T13:23:41Z",
+      "user": {
+        "id": 2762379,
+        "username": "Newsfilter",
+        "name": "@newsfilterio",
+        "avatar_url": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "join_date": "2019-09-01",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 7570,
+        "following": 16,
+        "ideas": 612954,
+        "watchlist_stocks_count": 1,
+        "like_count": 531,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 2723,
+          "symbol": "MRNA",
+          "title": "Moderna, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 55500
+        },
+        {
+          "id": 4433,
+          "symbol": "AZN",
+          "title": "AstraZeneca PLC",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 16872
+        },
+        {
+          "id": 6011,
+          "symbol": "JNJ",
+          "title": "Johnson & Johnson",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 33446
+        },
+        {
+          "id": 12144,
+          "symbol": "CTLT",
+          "title": "Catalent",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 720
+        }
+      ],
+      "links": [
+        {
+          "title": "Catalent Could Be A Big COVID-19 Vaccine Play: The Thing Behind The Thing",
+          "url": "https://newsfilter.io/a/9d0966b179dbcd7c5744d6a2c1549458",
+          "shortened_url": "https://newsfilter.io/a/9d0966b179dbcd7c5744d6a2c1549458",
+          "shortened_expanded_url": "newsfilter.io/a/9d0966b179d...",
+          "description": "Each week, Benzinga will examine a stock that might be considered a little under the radar. You may have never heard of the company before, but chances are you're pretty familiar with the line of work it's in. We call these the \"things behind the thing.\" Shares of Catalent...",
+          "image": "https://newsfilter.io/meta-images/?url=https://storage.googleapis.com/iex/api/logos/CTLT.png",
+          "created_at": "2020-11-06T13:23:42Z",
+          "video_url": null,
+          "source": {
+            "name": "Newsfilter",
+            "website": "https://newsfilter.io"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254821700,
+      "body": "Catalent Could Be A Big COVID-19 Vaccine Play: The Thing Behind The Thing $CTLT $MRNA $JNJ https://benzinga.com/z/18241008#.X6VMdtt2lXo.twitter",
+      "created_at": "2020-11-06T13:15:45Z",
+      "user": {
+        "id": 7108,
+        "username": "Benzinga",
+        "name": "Benzinga",
+        "avatar_url": "https://avatars.stocktwits.com/production/7108/thumb-1568827739.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/7108/thumb-1568827739.png",
+        "join_date": "2009-12-04",
+        "official": true,
+        "identity": "Official",
+        "classification": [
+          "suggested",
+          "official"
+        ],
+        "followers": 284178,
+        "following": 531,
+        "ideas": 118443,
+        "watchlist_stocks_count": 7,
+        "like_count": 112,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 2723,
+          "symbol": "MRNA",
+          "title": "Moderna, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 55500
+        },
+        {
+          "id": 6011,
+          "symbol": "JNJ",
+          "title": "Johnson & Johnson",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 33446
+        },
+        {
+          "id": 12144,
+          "symbol": "CTLT",
+          "title": "Catalent",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 720
+        }
+      ],
+      "links": [
+        {
+          "title": "Catalent Could Be A Big COVID-19 Vaccine Play: The Thing Behind The Thing",
+          "url": "https://benzinga.com/z/18241008#.X6VMdtt2lXo.twitter",
+          "shortened_url": "https://benzinga.com/z/18241008#.X6VMdtt2lXo.twitter",
+          "shortened_expanded_url": "benzinga.com/news/earnings/...",
+          "description": "Each week, Benzinga will examine a stock that might be considered a little under the radar. You may have never heard of the company before, but chances are you're pretty familiar with the line of work it's in. We call these the \"things behind the thing.\"",
+          "image": "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/images/story/2012/virus-4937553_1920_1.jpg",
+          "created_at": "2020-11-06T13:15:46Z",
+          "video_url": null,
+          "source": {
+            "name": "Benzinga",
+            "website": "https://www.benzinga.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254816129,
+      "body": "$JNJ J&amp;J Covid-19 Vaccine Trial Cleared to Start in South Africa \n\nhttps://newsfilter.io/a/0997934db14d2a9120b2411614a49397",
+      "created_at": "2020-11-06T12:46:39Z",
+      "user": {
+        "id": 2762379,
+        "username": "Newsfilter",
+        "name": "@newsfilterio",
+        "avatar_url": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "join_date": "2019-09-01",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 7567,
+        "following": 16,
+        "ideas": 612747,
+        "watchlist_stocks_count": 1,
+        "like_count": 531,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 6011,
+          "symbol": "JNJ",
+          "title": "Johnson & Johnson",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 33444
+        }
+      ],
+      "links": [
+        {
+          "title": "J&J Covid-19 Vaccine Trial Cleared to Start in South Africa",
+          "url": "https://newsfilter.io/a/0997934db14d2a9120b2411614a49397",
+          "shortened_url": "https://newsfilter.io/a/0997934db14d2a9120b2411614a49397",
+          "shortened_expanded_url": "newsfilter.io/a/0997934db14...",
+          "description": "Johnson &amp; Johnson will imminently start clinical trials of its Covid-19 vaccine in South Africa after getting regulatory approval, according to the co-chair of the study in the country.",
+          "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i7aGAOJ66.VQ/v0/-1x-1.jpg",
+          "created_at": "2020-11-06T12:46:40Z",
+          "video_url": null,
+          "source": {
+            "name": "Newsfilter",
+            "website": "https://newsfilter.io"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_254816129.jpg",
+          "large": "https://charts.stocktwits.com/production/large_254816129.jpg",
+          "original": "https://charts.stocktwits.com/production/original_254816129.jpg",
+          "url": "https://charts.stocktwits.com/production/original_254816129.jpg"
+        },
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254792859,
+      "body": "$JNJ June 2021 $150 calls are lookin nice rn\ud83e\udd11\ud83e\udd11\ud83e\udd11",
+      "created_at": "2020-11-06T07:21:37Z",
+      "user": {
+        "id": 3327410,
+        "username": "akaLMoney",
+        "name": "Landon Fischer",
+        "avatar_url": "https://avatars.stocktwits.com/production/3327410/thumb-1587283398.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3327410/thumb-1587283398.png",
+        "join_date": "2020-04-19",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 9,
+        "following": 6,
+        "ideas": 1685,
+        "watchlist_stocks_count": 41,
+        "like_count": 2506,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 6011,
+          "symbol": "JNJ",
+          "title": "Johnson & Johnson",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 33438
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 254773973,
+      "body": "COVID vaccine deliveries on ice as AstraZeneca awaits trial data\n\nhttps://pageone.ng/2020/11/05/covid-vaccine-deliveries-on-ice-as-astrazeneca-awaits-trial-data/\n\n$AZN $JNJ $LLY $PFE $BNTX",
+      "created_at": "2020-11-06T03:22:19Z",
+      "user": {
+        "id": 3577261,
+        "username": "vinci86",
+        "name": "Samuel Odusami",
+        "avatar_url": "https://avatars.stocktwits.com/production/3577261/thumb-1591690423.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3577261/thumb-1591690423.png",
+        "join_date": "2020-06-08",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 103,
+        "following": 6,
+        "ideas": 4785,
+        "watchlist_stocks_count": 37,
+        "like_count": 5,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2095,
+        "title": "StockTwits For Android ",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 4433,
+          "symbol": "AZN",
+          "title": "AstraZeneca PLC",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 16868
+        },
+        {
+          "id": 6011,
+          "symbol": "JNJ",
+          "title": "Johnson & Johnson",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 33439
+        },
+        {
+          "id": 6183,
+          "symbol": "LLY",
+          "title": "Eli Lilly & Co.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 7251
+        },
+        {
+          "id": 6728,
+          "symbol": "PFE",
+          "title": "Pfizer Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 37186
+        },
+        {
+          "id": 15391,
+          "symbol": "BNTX",
+          "title": "BioNTech",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 8174
+        }
+      ],
+      "links": [
+        {
+          "title": "COVID vaccine deliveries on ice as AstraZeneca awaits trial data |",
+          "url": "https://pageone.ng/2020/11/05/covid-vaccine-deliveries-on-ice-as-astrazeneca-awaits-trial-data/",
+          "shortened_url": "https://pageone.ng/2020/11/05/covid-vaccine-deliveries-on-ice-as-astrazeneca-awaits-trial-data/",
+          "shortened_expanded_url": "pageone.ng/2020/11/05/covid...",
+          "description": "(Reuters) - A summer dip in UK coronavirus infections has pushed back test results for AstraZenca's potential COVID-19 vaccine, leading the drugmaker to delay deliveries of shots to the UK government. Britain's vaccines chief said on Wednesday it would receive just 4 million doses of the potential vaccine this",
+          "image": "https://i1.wp.com/pageone.ng/wp-content/uploads/2020/08/Astrazeneca.jpg?fit=512%2C288&ssl=1",
+          "created_at": "2020-11-06T03:22:22Z",
+          "video_url": null,
+          "source": {
+            "name": "PageOne",
+            "website": "https://pageone.ng"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254716627,
+      "body": "$JNJ Johnson and Johnson is one of the best dividend stocks \ud83d\ude09! https://youtu.be/1AboWw1TAkQ",
+      "created_at": "2020-11-05T22:08:21Z",
+      "user": {
+        "id": 3630352,
+        "username": "DnD_Finance",
+        "name": "Denis Doan",
+        "avatar_url": "https://avatars.stocktwits.com/production/3630352/thumb-1604135880.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3630352/thumb-1604135880.png",
+        "join_date": "2020-06-15",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 1,
+        "following": 0,
+        "ideas": 11,
+        "watchlist_stocks_count": 8,
+        "like_count": 1,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 6011,
+          "symbol": "JNJ",
+          "title": "Johnson & Johnson",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 33442
+        }
+      ],
+      "links": [
+        {
+          "title": "Best Dividend Stocks 2020 - Best stocks to buy 2020",
+          "url": "https://youtu.be/1AboWw1TAkQ",
+          "shortened_url": "https://youtu.be/1AboWw1TAkQ",
+          "shortened_expanded_url": "youtube.com/watch?v=1AboWw1...",
+          "description": "Best dividend stocks 2020 - Best stocks to buy 2020 - Dividend stocks with high yield - Opinion - Investing for beginners - Financial education Investing cou...",
+          "image": "https://i.ytimg.com/vi/1AboWw1TAkQ/hqdefault.jpg",
+          "created_at": "2020-11-05T22:08:22Z",
+          "video_url": "//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F1AboWw1TAkQ%3Ffeature%3Doembed=YouTube=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D1AboWw1TAkQ=https%3A%2F%2Fi.ytimg.com%2Fvi%2F1AboWw1TAkQ%2Fhqdefault.jpg=799f78c4081511e084894040444cdc60=text%2Fhtml=youtube",
+          "source": {
+            "name": "YouTube",
+            "website": "https://www.youtube.com/"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254701723,
+      "body": "Your daily News digest for Johnson and Johnson $JNJ https://wsfriend.com/daily/news/JNJ/2020-11-05/",
+      "created_at": "2020-11-05T21:25:57Z",
+      "user": {
+        "id": 732840,
+        "username": "WallStreetFriend",
+        "name": "Wall Street Friend",
+        "avatar_url": "https://avatars.stocktwits.com/production/732840/thumb-1577167895.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/732840/thumb-1577167895.png",
+        "join_date": "2016-04-17",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 557,
+        "following": 39,
+        "ideas": 72622,
+        "watchlist_stocks_count": 31,
+        "like_count": 94,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5142,
+        "title": "Programmatic Alerts ",
+        "url": "https://wsfriend.com"
+      },
+      "symbols": [
+        {
+          "id": 6011,
+          "symbol": "JNJ",
+          "title": "Johnson & Johnson",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 33444
+        }
+      ],
+      "links": [
+        {
+          "title": "JNJ Trending News and Daily News Digest for on Nov 05, 2020",
+          "url": "https://wsfriend.com/daily/news/JNJ/2020-11-05/",
+          "shortened_url": "https://wsfriend.com/daily/news/JNJ/2020-11-05/",
+          "shortened_expanded_url": "wsfriend.com/daily/news/JNJ...",
+          "description": "JNJ Dail News Digest and Top trending news for",
+          "image": "https://s.yimg.com/uu/api/res/1.2/MX5_PX76rRyujBlg27G9Pw--~B/aD0xMDY4O3c9MTYwMDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/techcrunch_350/df2680fd04b89e89a723c64a79ed2330",
+          "created_at": "2020-11-05T21:25:59Z",
+          "video_url": null,
+          "source": {
+            "name": "Wsfriend",
+            "website": "https://wsfriend.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254693852,
+      "body": "AstraZeneca&#39;s drugs pipeline progresses as COVID vaccine data awaited\n\nhttps://pageone.ng/2020/11/05/astrazenecas-drugs-pipeline-progresses-as-covid-vaccine-data-awaited/\n\n$AZN $JNJ $LLY $PFE $BNTX",
+      "created_at": "2020-11-05T21:09:27Z",
+      "user": {
+        "id": 3577261,
+        "username": "vinci86",
+        "name": "Samuel Odusami",
+        "avatar_url": "https://avatars.stocktwits.com/production/3577261/thumb-1591690423.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3577261/thumb-1591690423.png",
+        "join_date": "2020-06-08",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 103,
+        "following": 6,
+        "ideas": 4743,
+        "watchlist_stocks_count": 37,
+        "like_count": 5,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2095,
+        "title": "StockTwits For Android ",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 4433,
+          "symbol": "AZN",
+          "title": "AstraZeneca PLC",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 16863
+        },
+        {
+          "id": 6011,
+          "symbol": "JNJ",
+          "title": "Johnson & Johnson",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 33444
+        },
+        {
+          "id": 6183,
+          "symbol": "LLY",
+          "title": "Eli Lilly & Co.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 7251
+        },
+        {
+          "id": 6728,
+          "symbol": "PFE",
+          "title": "Pfizer Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 37190
+        },
+        {
+          "id": 15391,
+          "symbol": "BNTX",
+          "title": "BioNTech",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 8170
+        }
+      ],
+      "links": [
+        {
+          "title": "AstraZeneca's drugs pipeline progresses as COVID vaccine data awaited",
+          "url": "https://pageone.ng/2020/11/05/astrazenecas-drugs-pipeline-progresses-as-covid-vaccine-data-awaited/",
+          "shortened_url": "https://pageone.ng/2020/11/05/astrazenecas-drugs-pipeline-progresses-as-covid-vaccine-data-awaited/",
+          "shortened_expanded_url": "pageone.ng/2020/11/05/astra...",
+          "description": "(Reuters) - AstraZeneca, the British drugmaker working on one of the world's leading COVID-19 vaccine hopefuls, reported progress in its pipeline of other medicines on Thursday as it posted a mixed set of third-quarter results. The company also echoed comments from its partners at Oxford university, who said on",
+          "image": "https://i1.wp.com/pageone.ng/wp-content/uploads/2020/08/Astrazeneca.jpg?fit=512%2C288&ssl=1",
+          "created_at": "2020-11-05T21:09:31Z",
+          "video_url": null,
+          "source": {
+            "name": "PageOne",
+            "website": "https://pageone.ng"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254692752,
+      "body": "India-made COVID-19 vaccine could be launched as early as February - government scientist\n\nhttps://pageone.ng/2020/11/05/india-made-covid-19-vaccine-could-be-launched-as-early-as-february-government-scientist/\n\n$JNJ $BNTX $MRNA $AZN $LLY",
+      "created_at": "2020-11-05T21:07:21Z",
+      "user": {
+        "id": 3577261,
+        "username": "vinci86",
+        "name": "Samuel Odusami",
+        "avatar_url": "https://avatars.stocktwits.com/production/3577261/thumb-1591690423.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3577261/thumb-1591690423.png",
+        "join_date": "2020-06-08",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 103,
+        "following": 6,
+        "ideas": 4743,
+        "watchlist_stocks_count": 37,
+        "like_count": 5,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2095,
+        "title": "StockTwits For Android ",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 2723,
+          "symbol": "MRNA",
+          "title": "Moderna, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 55506
+        },
+        {
+          "id": 4433,
+          "symbol": "AZN",
+          "title": "AstraZeneca PLC",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 16863
+        },
+        {
+          "id": 6011,
+          "symbol": "JNJ",
+          "title": "Johnson & Johnson",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 33444
+        },
+        {
+          "id": 6183,
+          "symbol": "LLY",
+          "title": "Eli Lilly & Co.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 7251
+        },
+        {
+          "id": 15391,
+          "symbol": "BNTX",
+          "title": "BioNTech",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 8170
+        }
+      ],
+      "links": [
+        {
+          "title": "India-made COVID-19 vaccine could be launched as early as February -",
+          "url": "https://pageone.ng/2020/11/05/india-made-covid-19-vaccine-could-be-launched-as-early-as-february-government-scientist/",
+          "shortened_url": "https://pageone.ng/2020/11/05/india-made-covid-19-vaccine-could-be-launched-as-early-as-february-government-scientist/",
+          "shortened_expanded_url": "pageone.ng/2020/11/05/india...",
+          "description": "(Reuters) - An Indian government-backed COVID-19 vaccine could be launched as early as February - months earlier than expected - as last-stage trials begin this month and studies have so far showed it is safe and effective, a senior government scientist told Reuters.",
+          "image": "https://i0.wp.com/pageone.ng/wp-content/uploads/2018/05/india_flag_1-500x500.jpg?fit=500%2C313&ssl=1",
+          "created_at": "2020-11-05T21:07:24Z",
+          "video_url": null,
+          "source": {
+            "name": "PageOne",
+            "website": "https://pageone.ng"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254692557,
+      "body": "Australia orders more COVID-19 vaccines for total of 135 million\n\nhttps://pageone.ng/2020/11/05/australia-orders-more-covid-19-vaccines-for-total-of-135-million/\n\n$JNJ $AZN $PFE",
+      "created_at": "2020-11-05T21:06:55Z",
+      "user": {
+        "id": 3577261,
+        "username": "vinci86",
+        "name": "Samuel Odusami",
+        "avatar_url": "https://avatars.stocktwits.com/production/3577261/thumb-1591690423.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3577261/thumb-1591690423.png",
+        "join_date": "2020-06-08",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 103,
+        "following": 6,
+        "ideas": 4822,
+        "watchlist_stocks_count": 37,
+        "like_count": 5,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2095,
+        "title": "StockTwits For Android ",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 4433,
+          "symbol": "AZN",
+          "title": "AstraZeneca PLC",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 16872
+        },
+        {
+          "id": 6011,
+          "symbol": "JNJ",
+          "title": "Johnson & Johnson",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 33441
+        },
+        {
+          "id": 6728,
+          "symbol": "PFE",
+          "title": "Pfizer Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 37187
+        }
+      ],
+      "links": [
+        {
+          "title": "Australia orders more COVID-19 vaccines for total of 135 million |",
+          "url": "https://pageone.ng/2020/11/05/australia-orders-more-covid-19-vaccines-for-total-of-135-million/",
+          "shortened_url": "https://pageone.ng/2020/11/05/australia-orders-more-covid-19-vaccines-for-total-of-135-million/",
+          "shortened_expanded_url": "pageone.ng/2020/11/05/austr...",
+          "description": "(Reuters) - The Australian government has agreed to purchase two more COVID-19 vaccines in development, beefing up the country's prospective arsenal against the pandemic to 135 million doses as it aims to complete a mass inoculation programme within months. Prime Minister Scott Morrison said on Thursday the",
+          "image": "https://i0.wp.com/pageone.ng/wp-content/uploads/2020/10/vaccine-christmas.jpg?fit=679%2C452&ssl=1",
+          "created_at": "2020-11-05T21:06:59Z",
+          "video_url": null,
+          "source": {
+            "name": "PageOne",
+            "website": "https://pageone.ng"
+          }
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          1780994
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254689236,
+      "body": "$JNJ $CMPS $MMED $FAM $WUHN \n\nRetransmission from 2020.09.23 : \n\nAnn Arbor decriminalizes magic mushrooms, psychedelic plants!\n\n2020.10.07 : Minerco, Inc., the Magic Mushroom Company searches for Domestic Home in Ann Arbor, Michigan\n\n2020.10.22 : Creates Blockchain Token SHRU for Shroom Investment\n\nMINE (ASK @ 0.0001)   ----&gt;  FKN&#39; DEAL!\n\nhttps://www.washingtontimes.com/news/2020/sep/26/ann-arbor-decriminalizes-magic-mushrooms-psychedel/\n\nhttps://www.foxnews.com/politics/michigan-city-decriminalizes-magic-mushrooms-other-psychedelic-plants\n\nhttps://finance.yahoo.com/news/minerco-inc-magic-mushroom-company-152700148.html\n\nhttps://finance.yahoo.com/quote/MINE\n\nSpread the word!! ;)\n.",
+      "created_at": "2020-11-05T20:58:43Z",
+      "user": {
+        "id": 3111514,
+        "username": "NickPking",
+        "name": "Nick Pking",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2020-02-20",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 3,
+        "following": 2,
+        "ideas": 1124,
+        "watchlist_stocks_count": 1,
+        "like_count": 6,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 4145,
+          "symbol": "WUHN",
+          "title": "Wuhan General Group (China) Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 138
+        },
+        {
+          "id": 5288,
+          "symbol": "FAM",
+          "title": "First Trust/Aberdeen Global Opportunity Income Fund",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 24
+        },
+        {
+          "id": 6011,
+          "symbol": "JNJ",
+          "title": "Johnson & Johnson",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 33440
+        },
+        {
+          "id": 15914,
+          "symbol": "CMPS",
+          "title": "COMPASS Pathways",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 2030
+        },
+        {
+          "id": 15954,
+          "symbol": "MMED",
+          "title": "Mind Medicine (MindMed) Inc",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 784
+        }
+      ],
+      "links": [
+        {
+          "title": "Ann Arbor decriminalizes magic mushrooms, psychedelic plants",
+          "url": "https://www.washingtontimes.com/news/2020/sep/26/ann-arbor-decriminalizes-magic-mushrooms-psychedel/",
+          "shortened_url": "https://www.washingtontimes.com/news/2020/sep/26/ann-arbor-decriminalizes-magic-mushrooms-psychedel/",
+          "shortened_expanded_url": "washingtontimes.com/news/20...",
+          "description": "ANN ARBOR, Mich. (AP) - The city of Ann Arbor has decriminalized psychedelic plants and fungi, including magic mushrooms, and police officers will no longer make them an enforcement focus. City Council voted unanimously Sept. 21 in favor of a resolution declaring it the city's lowest law enforcement priority, MLive.com reported.",
+          "image": "https://twt-assets.washtimes.com/img/icon-instagram.jpg",
+          "created_at": "2020-11-05T20:58:45Z",
+          "video_url": null,
+          "source": {
+            "name": "The Washington Times",
+            "website": "https://www.washingtontimes.com"
+          }
+        },
+        {
+          "title": "Michigan city decriminalizes magic mushrooms, other psychedelic plants",
+          "url": "https://www.foxnews.com/politics/michigan-city-decriminalizes-magic-mushrooms-other-psychedelic-plants",
+          "shortened_url": "https://www.foxnews.com/politics/michigan-city-decriminalizes-magic-mushrooms-other-psychedelic-plants",
+          "shortened_expanded_url": "foxnews.com/politics/michig...",
+          "description": "The Ann Arbor, Mich., City Council unanimously voted this week to essentially decriminalize a wide range of psychedelic drugs, including psilocybin mushrooms, mescaline, and ayahuasca.",
+          "image": "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/Magic-Mushrooms-Oakland-AP.jpg",
+          "created_at": "2020-11-05T20:58:45Z",
+          "video_url": null,
+          "source": {
+            "name": "Fox News",
+            "website": "https://www.foxnews.com"
+          }
+        },
+        {
+          "title": "Minerco, Inc., the Magic Mushroom Company Updates Financials to PINK Current. Searches for Domestic Home in Ann Arbor, Michigan",
+          "url": "https://finance.yahoo.com/news/minerco-inc-magic-mushroom-company-152700148.html",
+          "shortened_url": "https://finance.yahoo.com/news/minerco-inc-magic-mushroom-company-152700148.html",
+          "shortened_expanded_url": "finance.yahoo.com/news/mine...",
+          "description": "Ann Arbor, Michigan--(Newsfile Corp. - October 7, 2020) - Minerco, Inc. (OTC Pink: MINE) an emerging psilocybin or \"magic\" mushroom company focused on the research, production and distribution of psilocybin mushrooms, announced today, the Company is PINK current and looking to open facility in Ann Arbor, Michigan.",
+          "image": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png",
+          "created_at": "2020-11-05T20:58:45Z",
+          "video_url": null,
+          "source": {
+            "name": "Yahoo",
+            "website": "https://finance.yahoo.com"
+          }
+        },
+        {
+          "title": "MINERCO INC (MINE) Stock Price, News, Quote & History - Yahoo Finance",
+          "url": "https://finance.yahoo.com/quote/MINE",
+          "shortened_url": "https://finance.yahoo.com/quote/MINE",
+          "shortened_expanded_url": "finance.yahoo.com/quote/MINE/",
+          "description": "Find the latest MINERCO INC (MINE) stock quote, history, news and other vital information to help you with your stock trading and investing.",
+          "image": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png",
+          "created_at": "2020-11-05T20:58:46Z",
+          "video_url": null,
+          "source": {
+            "name": "Yahoo",
+            "website": "https://finance.yahoo.com"
+          }
+        }
+      ],
+      "likes": {
+        "total": 3,
+        "user_ids": [
+          4106947,
+          3257660,
+          3085065
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "giphy": {
+          "id": "6ieS4mWVmfZUQ",
+          "ratio": 0.6075
+        },
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 254669540,
+      "body": "Is It Time to Buy These 3 Dow Jones Stocks? Analysts Weigh In https://www.tipranks.com/news/article/is-it-time-to-buy-these-3-dow-jones-stocks-analysts-weigh-in/ $AMGN $JNJ $MRK",
+      "created_at": "2020-11-05T19:51:02Z",
+      "user": {
+        "id": 217593,
+        "username": "TipRanks",
+        "name": "TipRanks",
+        "avatar_url": "https://avatars.stocktwits.com/production/217593/thumb-1586151495.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/217593/thumb-1586151495.png",
+        "join_date": "2013-02-28",
+        "official": true,
+        "identity": "Official",
+        "classification": [
+          "official"
+        ],
+        "followers": 75919,
+        "following": 126,
+        "ideas": 54003,
+        "watchlist_stocks_count": 5,
+        "like_count": 430,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 838,
+          "symbol": "AMGN",
+          "title": "Amgen Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 11010
+        },
+        {
+          "id": 6011,
+          "symbol": "JNJ",
+          "title": "Johnson & Johnson",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 33444
+        },
+        {
+          "id": 6368,
+          "symbol": "MRK",
+          "title": "Merck & Co. Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 13177
+        }
+      ],
+      "links": [
+        {
+          "title": "Is It Time to Buy These 3 Dow Jones Stocks? Analysts Weigh In",
+          "url": "https://www.tipranks.com/news/article/is-it-time-to-buy-these-3-dow-jones-stocks-analysts-weigh-in/",
+          "shortened_url": "https://www.tipranks.com/news/article/is-it-time-to-buy-these-3-dow-jones-stocks-analysts-weigh-in/",
+          "shortened_expanded_url": "tipranks.com/news/article/i...",
+          "description": "Voting in the U.S. presidential election is over and the world eagerly waits to see whether incumbent president Donald Trump will win four more years in the White House, or whether Joe Biden will put an end to one of the most controversial presidencies in the United States' history.",
+          "image": "https://blog.tipranks.com/wp-content/uploads/2020/11/DowJones1105-750x406.jpg",
+          "created_at": "2020-11-05T19:51:04Z",
+          "video_url": null,
+          "source": {
+            "name": "TipRanks Financial",
+            "website": "https://www.tipranks.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254654866,
+      "body": "$ATNM remember annual sells for  iomab b once on the market..$800million to $1 billion per Oppenheimer.  So lets say they get a 4 billion dollar valuation with that. \n4bill= $280 a share.  And the ceiling is so much higher!!\n\nAnd thats with out any of the pipeline!!! \nBig pharma will step in at that point imo. This price is a damned gift!\n$jnj $abbc $BIIB",
+      "created_at": "2020-11-05T19:01:00Z",
+      "user": {
+        "id": 3353127,
+        "username": "bubbafox",
+        "name": "bubbafox",
+        "avatar_url": "https://avatars.stocktwits.com/production/3353127/thumb-1593721573.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3353127/thumb-1593721573.png",
+        "join_date": "2020-04-24",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 344,
+        "following": 62,
+        "ideas": 7913,
+        "watchlist_stocks_count": 9,
+        "like_count": 12672,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2095,
+        "title": "StockTwits For Android ",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 693,
+          "symbol": "ABBC",
+          "title": "Abington Bancorp Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 7
+        },
+        {
+          "id": 1075,
+          "symbol": "BIIB",
+          "title": "Biogen Idec Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 14007
+        },
+        {
+          "id": 6011,
+          "symbol": "JNJ",
+          "title": "Johnson & Johnson",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 33442
+        },
+        {
+          "id": 11996,
+          "symbol": "ATNM",
+          "title": "Actinium Pharmaceuticals",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 24090
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 254654866,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 6
+      },
+      "likes": {
+        "total": 8,
+        "user_ids": [
+          3808198,
+          3771646,
+          3769792,
+          1141018,
+          1268731,
+          851594,
+          3024866,
+          481564
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "giphy": {
+          "id": "bAlGLD0BsDpOo",
+          "ratio": 1.8113207547169812
+        },
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 254622589,
+      "body": "$JNJ whole market up big - and this lagger I swear - what gives. Might dump it!",
+      "created_at": "2020-11-05T17:04:38Z",
+      "user": {
+        "id": 1644759,
+        "username": "Abecrombie",
+        "name": "Abel",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2018-10-04",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 9,
+        "following": 41,
+        "ideas": 1033,
+        "watchlist_stocks_count": 8,
+        "like_count": 532,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 6011,
+          "symbol": "JNJ",
+          "title": "Johnson & Johnson",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 33438
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 254622589,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 2
+      },
+      "likes": {
+        "total": 2,
+        "user_ids": [
+          728706,
+          259221
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254606003,
+      "body": "$KIRK \nWHY TO BUY THIS GREAT STOCK KIRK&amp;it is still around $11?\ud83e\udd29\nHome office prevails very strongly..millions buy new furniture for their home office \nOur e-commerce is rocking like crazy, it doubled the last two Quarters. \nFree debt\nHuge cash in hand\nHundreds of renovated highly equipped stores across the country.\nUnbeatable social media with millions of active followers.in Instagram and Facebook.etc\nGreat CEO with a great history in retailers and fashion.he knows how2present his products very well. \nSince Poeple not travelling,they spend their holidays saving on improving their homes.\nHome schooling \nPeople leaves city centres&amp;move2cheaper places and they need of course new furniture \n&amp; FEW DAYS AGO OUR GREAT CEO HAS LAUNCHED K CLUB LOYALTY PROGRAM THAT WILL ATTRACT MILLIONS OF NEW CUSTOMERS.\ud83d\ude2f\n\nSo what in the hell do u need more than that?\nKirk is very hot&amp;still very cheap and undervalued.\n\nStill have the hope that these companies will release its vaccine soon $PFE $AZN $JNJ $MRNA",
+      "created_at": "2020-11-05T16:06:08Z",
+      "user": {
+        "id": 874956,
+        "username": "khaled82",
+        "name": "Khaled",
+        "avatar_url": "https://avatars.stocktwits.com/production/874956/thumb-1528294675.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/874956/thumb-1528294675.png",
+        "join_date": "2016-11-09",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 155,
+        "following": 6,
+        "ideas": 3240,
+        "watchlist_stocks_count": 13,
+        "like_count": 3219,
+        "plus_tier": "year",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2095,
+        "title": "StockTwits For Android ",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 2428,
+          "symbol": "KIRK",
+          "title": "Kirkland's Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 6416
+        },
+        {
+          "id": 2723,
+          "symbol": "MRNA",
+          "title": "Moderna, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 55500
+        },
+        {
+          "id": 4433,
+          "symbol": "AZN",
+          "title": "AstraZeneca PLC",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 16872
+        },
+        {
+          "id": 6011,
+          "symbol": "JNJ",
+          "title": "Johnson & Johnson",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 33446
+        },
+        {
+          "id": 6728,
+          "symbol": "PFE",
+          "title": "Pfizer Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 37188
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          3747603
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_254606003.jpg",
+          "large": "https://charts.stocktwits.com/production/large_254606003.jpg",
+          "original": "https://charts.stocktwits.com/production/original_254606003.jpg",
+          "url": "https://charts.stocktwits.com/production/original_254606003.jpg"
+        },
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 254593311,
+      "body": "Dump dump dump $pfe $jnj $azn  people not need vaccine ..people need new phone, new car ,new house in Covid-19 season.",
+      "created_at": "2020-11-05T15:27:50Z",
+      "user": {
+        "id": 4200449,
+        "username": "westtrader",
+        "name": "Wetrust",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2020-10-18",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 0,
+        "following": 7,
+        "ideas": 11,
+        "watchlist_stocks_count": 9,
+        "like_count": 8,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 4433,
+          "symbol": "AZN",
+          "title": "AstraZeneca PLC",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 16874
+        },
+        {
+          "id": 6011,
+          "symbol": "JNJ",
+          "title": "Johnson & Johnson",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 33445
+        },
+        {
+          "id": 6728,
+          "symbol": "PFE",
+          "title": "Pfizer Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 37182
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 254593311,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 2
+      },
+      "likes": {
+        "total": 3,
+        "user_ids": [
+          2871132,
+          1703570,
+          4269373
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254586000,
+      "body": "COVID vaccine deliveries on ice as AstraZeneca awaits trial data\n\nhttps://pageone.ng/2020/11/05/covid-vaccine-deliveries-on-ice-as-astrazeneca-awaits-trial-data/\n\n$AZN $JNJ $LLY $PFE $BNTX",
+      "created_at": "2020-11-05T15:07:28Z",
+      "user": {
+        "id": 3577261,
+        "username": "vinci86",
+        "name": "Samuel Odusami",
+        "avatar_url": "https://avatars.stocktwits.com/production/3577261/thumb-1591690423.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3577261/thumb-1591690423.png",
+        "join_date": "2020-06-08",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 103,
+        "following": 6,
+        "ideas": 4733,
+        "watchlist_stocks_count": 37,
+        "like_count": 5,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2095,
+        "title": "StockTwits For Android ",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 4433,
+          "symbol": "AZN",
+          "title": "AstraZeneca PLC",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 16874
+        },
+        {
+          "id": 6011,
+          "symbol": "JNJ",
+          "title": "Johnson & Johnson",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 33445
+        },
+        {
+          "id": 6183,
+          "symbol": "LLY",
+          "title": "Eli Lilly & Co.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 7253
+        },
+        {
+          "id": 6728,
+          "symbol": "PFE",
+          "title": "Pfizer Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 37182
+        },
+        {
+          "id": 15391,
+          "symbol": "BNTX",
+          "title": "BioNTech",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 8178
+        }
+      ],
+      "links": [
+        {
+          "title": "COVID vaccine deliveries on ice as AstraZeneca awaits trial data |",
+          "url": "https://pageone.ng/2020/11/05/covid-vaccine-deliveries-on-ice-as-astrazeneca-awaits-trial-data/",
+          "shortened_url": "https://pageone.ng/2020/11/05/covid-vaccine-deliveries-on-ice-as-astrazeneca-awaits-trial-data/",
+          "shortened_expanded_url": "pageone.ng/2020/11/05/covid...",
+          "description": "(Reuters) - A summer dip in UK coronavirus infections has pushed back test results for AstraZenca's potential COVID-19 vaccine, leading the drugmaker to delay deliveries of shots to the UK government. Britain's vaccines chief said on Wednesday it would receive just 4 million doses of the potential vaccine this",
+          "image": "https://i1.wp.com/pageone.ng/wp-content/uploads/2020/08/Astrazeneca.jpg?fit=512%2C288&ssl=1",
+          "created_at": "2020-11-05T15:07:28Z",
+          "video_url": null,
+          "source": {
+            "name": "PageOne",
+            "website": "https://pageone.ng"
+          }
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          3692430
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,1804 @@
+{
+  "response": {
+    "status": 200
+  },
+  "symbol": {
+    "id": 14003,
+    "symbol": "CARG",
+    "title": "CarGurus, Inc.",
+    "aliases": [],
+    "is_following": false,
+    "watchlist_count": 1706
+  },
+  "cursor": {
+    "more": true,
+    "since": 254913832,
+    "max": 254706133
+  },
+  "messages": [
+    {
+      "id": 254913832,
+      "body": "2020-11-06 18:17:48+00:00 $ATEC, $CARG, $CMBM, $ELAN    Moving",
+      "created_at": "2020-11-06T18:17:48Z",
+      "user": {
+        "id": 4246761,
+        "username": "Whathealert",
+        "name": "Whathealert",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2020-10-29",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 7,
+        "following": 0,
+        "ideas": 357,
+        "watchlist_stocks_count": 40,
+        "like_count": 0,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5846,
+        "title": "ConfluxBot",
+        "url": "https://app.confluxbot.com"
+      },
+      "symbols": [
+        {
+          "id": 967,
+          "symbol": "ATEC",
+          "title": "Alphatec Holdings, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 2195
+        },
+        {
+          "id": 14003,
+          "symbol": "CARG",
+          "title": "CarGurus, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1706
+        },
+        {
+          "id": 14818,
+          "symbol": "ELAN",
+          "title": "Elanco Animal Health Inc",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 826
+        },
+        {
+          "id": 15288,
+          "symbol": "CMBM",
+          "title": "Cambium Networks Corp",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 381
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254886750,
+      "body": "$CARG should be $25+",
+      "created_at": "2020-11-06T16:38:40Z",
+      "user": {
+        "id": 870606,
+        "username": "MonkeyBiznas",
+        "name": "Josh",
+        "avatar_url": "https://avatars.stocktwits.com/production/870606/thumb-1479929097.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/870606/thumb-1479929097.png",
+        "join_date": "2016-11-01",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 84,
+        "following": 157,
+        "ideas": 8798,
+        "watchlist_stocks_count": 24,
+        "like_count": 3710,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 14003,
+          "symbol": "CARG",
+          "title": "CarGurus, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1709
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 254886750,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 254839378,
+      "body": "$CARG: The Revenue has been growing by 41.59% on average over the past 5 years. This is a very strong growth! https://www.chartmill.com/stock/quote/CARG/fundamental-analysis?key=8cccf8e8-91a4-4395-a209-7cff9bdd800c&amp;utm_source=stocktwits&amp;utm_medium=FA&amp;utm_content=CARG&amp;utm_campaign=social_tracking",
+      "created_at": "2020-11-06T14:27:00Z",
+      "user": {
+        "id": 47688,
+        "username": "ChartMill",
+        "name": "ChartMill",
+        "avatar_url": "https://avatars.stocktwits.com/production/47688/thumb-1363343728.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/47688/thumb-1363343728.png",
+        "join_date": "2011-01-26",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 22070,
+        "following": 891,
+        "ideas": 1099734,
+        "watchlist_stocks_count": 20,
+        "like_count": 32,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1135,
+        "title": "ChartMill",
+        "url": "http://www.chartmill.com"
+      },
+      "symbols": [
+        {
+          "id": 14003,
+          "symbol": "CARG",
+          "title": "CarGurus, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1709
+        }
+      ],
+      "links": [
+        {
+          "title": null,
+          "url": "https://www.chartmill.com/stock/quote/CARG/fundamental-analysis?key=8cccf8e8-91a4-4395-a209-7cff9bdd800c&utm_source=stocktwits&utm_medium=FA&utm_content=CARG&utm_campaign=social_tracking",
+          "shortened_url": "https://www.chartmill.com/stock/quote/CARG/fundamental-analysis?key=8cccf8e8-91a4-4395-a209-7cff9bdd800c&utm_source=stocktwits&utm_medium=FA&utm_content=CARG&utm_campaign=social_tracking",
+          "shortened_expanded_url": "chartmill.com/stock/quote/C...",
+          "description": null,
+          "image": null,
+          "created_at": "2020-11-06T14:27:00Z",
+          "video_url": null,
+          "source": {
+            "name": "Chartmill",
+            "website": "https://www.chartmill.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254829718,
+      "body": "$CARG will waive December marketplace subscription fees for subscribing dealers on CarGurus and PistonHeads in the UK https://www.briefing.com/in-depth-analysis/Content/Article?ArticleId=IN20201106060525CARG",
+      "created_at": "2020-11-06T13:52:02Z",
+      "user": {
+        "id": 8115,
+        "username": "briefingcom",
+        "name": "Briefingcom",
+        "avatar_url": "https://avatars.stocktwits.com/production/8115/thumb-1340802633.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/8115/thumb-1340802633.png",
+        "join_date": "2010-01-25",
+        "official": true,
+        "identity": "Official",
+        "classification": [
+          "official"
+        ],
+        "followers": 85646,
+        "following": 821,
+        "ideas": 80346,
+        "watchlist_stocks_count": 8,
+        "like_count": 67,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 14003,
+          "symbol": "CARG",
+          "title": "CarGurus, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1710
+        }
+      ],
+      "links": [
+        {
+          "title": "Briefing.com",
+          "url": "https://www.briefing.com/in-depth-analysis/Content/Article?ArticleId=IN20201106060525CARG",
+          "shortened_url": "https://www.briefing.com/in-depth-analysis/Content/Article?ArticleId=IN20201106060525CARG",
+          "shortened_expanded_url": "briefing.com/in-depth-analy...",
+          "description": "CARG: CarGurus will waive December marketplace subscription fees for subscribing dealers on CarGurus and PistonHeads in the UK (22.09) The co announced it will waive December marketplace subscription fees for dealers currently on CarGurus UK and PistonHeads platforms. The company is also offering free trials of its Area Boost product to its CarGurus' customers in December.",
+          "image": null,
+          "created_at": "2020-11-06T13:52:03Z",
+          "video_url": null,
+          "source": {
+            "name": "Briefing",
+            "website": "https://www.briefing.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254824789,
+      "body": "$CARG beats by $0.15, beats on revs; guides Q4 EPS above consensus, revs above consensus https://www.briefing.com/in-depth-analysis/Content/Article?ArticleId=IN20201105165932CARG",
+      "created_at": "2020-11-06T13:30:28Z",
+      "user": {
+        "id": 8115,
+        "username": "briefingcom",
+        "name": "Briefingcom",
+        "avatar_url": "https://avatars.stocktwits.com/production/8115/thumb-1340802633.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/8115/thumb-1340802633.png",
+        "join_date": "2010-01-25",
+        "official": true,
+        "identity": "Official",
+        "classification": [
+          "official"
+        ],
+        "followers": 85647,
+        "following": 821,
+        "ideas": 80346,
+        "watchlist_stocks_count": 8,
+        "like_count": 67,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 14003,
+          "symbol": "CARG",
+          "title": "CarGurus, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1710
+        }
+      ],
+      "links": [
+        {
+          "title": "Briefing.com",
+          "url": "https://www.briefing.com/in-depth-analysis/Content/Article?ArticleId=IN20201105165932CARG",
+          "shortened_url": "https://www.briefing.com/in-depth-analysis/Content/Article?ArticleId=IN20201105165932CARG",
+          "shortened_expanded_url": "briefing.com/in-depth-analy...",
+          "description": "CARG: CarGurus beats by $0.15, beats on revs; guides Q4 EPS above consensus, revs above consensus (22.09 +0.51) Reports Q3 (Sep) earnings of $0.37 per share, excluding non-recurring items, $0.15 better than the S&P Capital IQ Consensus of $0.22; revenues fell 2.0% year/year to $147.5 mln vs the $135.93 mln S&P Capital IQ Consensus.",
+          "image": null,
+          "created_at": "2020-11-06T13:30:31Z",
+          "video_url": null,
+          "source": {
+            "name": "Briefing",
+            "website": "https://www.briefing.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254808216,
+      "body": "CarGurus, Inc. Just Filed Its Quarterly Report: 12. Earnings Per Sha... http://www.conferencecalltranscripts.org/Q/summary/?id=8527663 $CARG",
+      "created_at": "2020-11-06T11:50:30Z",
+      "user": {
+        "id": 210967,
+        "username": "cctranscripts",
+        "name": "Conference Call Transcripts",
+        "avatar_url": "https://avatars.stocktwits.com/production/210967/thumb-1363372333.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/210967/thumb-1363372333.png",
+        "join_date": "2013-01-30",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 6359,
+        "following": 10,
+        "ideas": 2371109,
+        "watchlist_stocks_count": 0,
+        "like_count": 758,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1130,
+        "title": "cctranscripts",
+        "url": "http://conferencecalltranscripts.org"
+      },
+      "symbols": [
+        {
+          "id": 14003,
+          "symbol": "CARG",
+          "title": "CarGurus, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1710
+        }
+      ],
+      "links": [
+        {
+          "title": "Conference Call Transcripts",
+          "url": "http://www.conferencecalltranscripts.org/Q/summary/?id=8527663",
+          "shortened_url": "http://www.conferencecalltranscripts.org/Q/summary/?id=8527663",
+          "shortened_expanded_url": "conferencecalltranscripts.o...",
+          "description": "Get notified next time CARG.US makes a similar move! 12. Earnings Per Share Net income per share for the three and nine months ended September 30, 2020 and 2019 is computed by dividing net income by the weighted-average number of common shares outstanding during the reporting period.",
+          "image": null,
+          "created_at": "2020-11-06T11:50:31Z",
+          "video_url": null,
+          "source": {
+            "name": "Conferencecalltranscripts",
+            "website": "http://www.conferencecalltranscripts.org"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254798471,
+      "body": "$CARG CarGurus Will Offer Free Marketplace Subscriptions in December for UK Dealers Due to Lockdowns https://www.otcdynamics.com/carg-cargurus-will-offer-free-marketplace-subscriptions-in-december-for-uk-dealers-due-to-lockdowns",
+      "created_at": "2020-11-06T09:39:05Z",
+      "user": {
+        "id": 253206,
+        "username": "otcdynamics",
+        "name": "otcdynamics",
+        "avatar_url": "https://avatars.stocktwits.com/production/253206/thumb-1432182723.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/253206/thumb-1432182723.png",
+        "join_date": "2013-08-16",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 401,
+        "following": 0,
+        "ideas": 57413,
+        "watchlist_stocks_count": 0,
+        "like_count": 55,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5512,
+        "title": "project_n",
+        "url": "https://www.otcdynamics.com"
+      },
+      "symbols": [
+        {
+          "id": 14003,
+          "symbol": "CARG",
+          "title": "CarGurus, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1710
+        }
+      ],
+      "links": [
+        {
+          "title": "$CARG CarGurus Will Offer Free Marketplace Subscriptions in December for UK Dealers Due to Lockdowns",
+          "url": "https://www.otcdynamics.com/carg-cargurus-will-offer-free-marketplace-subscriptions-in-december-for-uk-dealers-due-to-lockdowns",
+          "shortened_url": "https://www.otcdynamics.com/carg-cargurus-will-offer-free-marketplace-subscriptions-in-december-for-uk-dealers-due-to-lockdowns",
+          "shortened_expanded_url": "otcdynamics.com/carg-cargur...",
+          "description": "CarGurus will waive December marketplace subscription fees for subscribing dealers on CarGurus and PistonHeads in the UK Company will also offer free trials for Area Boost product to expand dealers' reach to buyers for vehicles available for delivery CarGurus is committed to supporting dealers during the lockdown, driving leads and enabling dealers to continue to engage with buyers through CarGurus' Contactless Services LONDON, Nov.",
+          "image": null,
+          "created_at": "2020-11-06T09:39:07Z",
+          "video_url": null,
+          "source": {
+            "name": "Otcdynamics",
+            "website": "https://www.otcdynamics.com"
+          }
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          3957795
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254798052,
+      "body": "$CARG: CarGurus Will Offer Free Marketplace Subscriptions in December for UK Dealers Due to Lockdowns https://www.chartmill.com/stock/quote/CARG/news?utm_source=stocktwits&amp;utm_medium=pressRelease&amp;utm_content=CARG&amp;utm_campaign=social_tracking",
+      "created_at": "2020-11-06T09:31:03Z",
+      "user": {
+        "id": 47688,
+        "username": "ChartMill",
+        "name": "ChartMill",
+        "avatar_url": "https://avatars.stocktwits.com/production/47688/thumb-1363343728.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/47688/thumb-1363343728.png",
+        "join_date": "2011-01-26",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 22066,
+        "following": 891,
+        "ideas": 1099461,
+        "watchlist_stocks_count": 20,
+        "like_count": 32,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1135,
+        "title": "ChartMill",
+        "url": "http://www.chartmill.com"
+      },
+      "symbols": [
+        {
+          "id": 14003,
+          "symbol": "CARG",
+          "title": "CarGurus, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1709
+        }
+      ],
+      "links": [
+        {
+          "title": null,
+          "url": "https://www.chartmill.com/stock/quote/CARG/news?utm_source=stocktwits&utm_medium=pressRelease&utm_content=CARG&utm_campaign=social_tracking",
+          "shortened_url": "https://www.chartmill.com/stock/quote/CARG/news?utm_source=stocktwits&utm_medium=pressRelease&utm_content=CARG&utm_campaign=social_tracking",
+          "shortened_expanded_url": "chartmill.com/stock/quote/C...",
+          "description": null,
+          "image": null,
+          "created_at": "2020-11-06T09:31:04Z",
+          "video_url": null,
+          "source": {
+            "name": "Chartmill",
+            "website": "https://www.chartmill.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254797403,
+      "body": "$CARG NEW ARTICLE : CarGurus Will Offer Free Marketplace Subscriptions in December for UK Dealers Due to Lockdowns https://www.stck.pro/news/CARG/8965436",
+      "created_at": "2020-11-06T09:19:05Z",
+      "user": {
+        "id": 1555408,
+        "username": "STCKPRO",
+        "name": "STCK.PRO",
+        "avatar_url": "https://avatars.stocktwits.com/production/1555408/thumb-1576077822.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1555408/thumb-1576077822.png",
+        "join_date": "2018-07-24",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 4432,
+        "following": 2,
+        "ideas": 272321,
+        "watchlist_stocks_count": 18,
+        "like_count": 52,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5011,
+        "title": "STCK.PRO",
+        "url": "https://dashboard.stck.pro"
+      },
+      "symbols": [
+        {
+          "id": 14003,
+          "symbol": "CARG",
+          "title": "CarGurus, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1709
+        }
+      ],
+      "links": [
+        {
+          "title": "CarGurus (CARG)",
+          "url": "https://www.stck.pro/news/CARG/8965436",
+          "shortened_url": "https://www.stck.pro/news/CARG/8965436",
+          "shortened_expanded_url": "stck.pro/news/CARG",
+          "description": "Never miss an important article again, stay on top of your investments and become a better investor today! Get your moat on and sync your watchlist with Stocktwits and get all the latest news for your symbols. Sync with Stocktwits",
+          "image": "https://www.stck.pro/img/imac.png",
+          "created_at": "2020-11-06T09:19:11Z",
+          "video_url": null,
+          "source": {
+            "name": "Stck",
+            "website": "https://www.stck.pro"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_254797403.jpg",
+          "large": "https://charts.stocktwits.com/production/large_254797403.jpg",
+          "original": "https://charts.stocktwits.com/production/original_254797403.jpg",
+          "url": "https://charts.stocktwits.com/production/original_254797403.jpg"
+        },
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254797307,
+      "body": "CarGurus Will Offer Free Marketplace Subscriptions in December for UK Dealers Due to Lockdowns http://www.conferencecalltranscripts.org/summary/?id=88976&amp;pr=true $CARG",
+      "created_at": "2020-11-06T09:17:01Z",
+      "user": {
+        "id": 210967,
+        "username": "cctranscripts",
+        "name": "Conference Call Transcripts",
+        "avatar_url": "https://avatars.stocktwits.com/production/210967/thumb-1363372333.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/210967/thumb-1363372333.png",
+        "join_date": "2013-01-30",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 6360,
+        "following": 10,
+        "ideas": 2371022,
+        "watchlist_stocks_count": 0,
+        "like_count": 758,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1130,
+        "title": "cctranscripts",
+        "url": "http://conferencecalltranscripts.org"
+      },
+      "symbols": [
+        {
+          "id": 14003,
+          "symbol": "CARG",
+          "title": "CarGurus, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1709
+        }
+      ],
+      "links": [
+        {
+          "title": "Conference Call Transcripts",
+          "url": "http://www.conferencecalltranscripts.org/summary/?id=88976&pr=true",
+          "shortened_url": "http://www.conferencecalltranscripts.org/summary/?id=88976&pr=true",
+          "shortened_expanded_url": "conferencecalltranscripts.o...",
+          "description": "Get notified next time CARG.US makes a similar move! LONDON, Nov. 06, 2020 (GLOBE NEWSWIRE) -- CarGurus (Nasdaq: CARG), the fastest growing online automotive marketplace in the UK1, today announced it will waive December marketplace subscription fees for dealers currently on CarGurus UK and PistonHeads platforms. The company is also offering free trials of its Area Boost product to its CarGurus' customers in December.",
+          "image": null,
+          "created_at": "2020-11-06T09:17:02Z",
+          "video_url": null,
+          "source": {
+            "name": "Conferencecalltranscripts",
+            "website": "http://www.conferencecalltranscripts.org"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254797302,
+      "body": "$CARG [15s. delayed]: Issued Press Release on November 06, 04:15:00: CarGurus Will Offer Free Marketplace Subscriptions in December for UK https://s.flashalert.me/YiV8c",
+      "created_at": "2020-11-06T09:16:55Z",
+      "user": {
+        "id": 595702,
+        "username": "fla",
+        "name": "FlashAlert_me",
+        "avatar_url": "https://avatars.stocktwits.com/production/595702/thumb-1550769466.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/595702/thumb-1550769466.png",
+        "join_date": "2015-09-09",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 2667,
+        "following": 60,
+        "ideas": 727169,
+        "watchlist_stocks_count": 0,
+        "like_count": 4,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 4622,
+        "title": "FlashAlert",
+        "url": "https://flashalert.me/"
+      },
+      "symbols": [
+        {
+          "id": 14003,
+          "symbol": "CARG",
+          "title": "CarGurus, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1709
+        }
+      ],
+      "links": [
+        {
+          "title": "Flash Alert",
+          "url": "https://s.flashalert.me/YiV8c",
+          "shortened_url": "https://s.flashalert.me/YiV8c",
+          "shortened_expanded_url": "globenewswire.com/news-rele...",
+          "description": "Real-time alerts about equities, ETFs, cryptocurrencies and more sent to any device",
+          "image": null,
+          "created_at": "2020-11-06T09:16:56Z",
+          "video_url": null,
+          "source": {
+            "name": "Flashalert",
+            "website": "https://flashalert.me"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254797218,
+      "body": "$CARG CarGurus Will Offer Free Marketplace Subscriptions in December for UK Dealers Due to Lockdowns \n\nhttps://newsfilter.io/a/2a9ee55d1411e28e5555519c6dbb58c4",
+      "created_at": "2020-11-06T09:15:30Z",
+      "user": {
+        "id": 2762379,
+        "username": "Newsfilter",
+        "name": "@newsfilterio",
+        "avatar_url": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "join_date": "2019-09-01",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 7572,
+        "following": 16,
+        "ideas": 612400,
+        "watchlist_stocks_count": 1,
+        "like_count": 531,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 14003,
+          "symbol": "CARG",
+          "title": "CarGurus, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1709
+        }
+      ],
+      "links": [
+        {
+          "title": "CarGurus Will Offer Free Marketplace Subscriptions in December for UK Dealers Due to Lockdowns",
+          "url": "https://newsfilter.io/a/2a9ee55d1411e28e5555519c6dbb58c4",
+          "shortened_url": "https://newsfilter.io/a/2a9ee55d1411e28e5555519c6dbb58c4",
+          "shortened_expanded_url": "newsfilter.io/a/2a9ee55d141...",
+          "description": "CarGurus will waive December marketplace subscription fees for subscribing dealers on CarGurus and PistonHeads in the UK Company will also offer free trials for Area Boost product to expand dealers' reach to buyers for vehicles available for delivery CarGurus is committed to supporting dealers during the lockdown, driving leads and enabling dealers to continue to engage with buyers through CarGurus' Contactless Services LONDON, Nov.",
+          "image": "https://newsfilter.io/meta-images/?url=https://storage.googleapis.com/iex/api/logos/CARG.png",
+          "created_at": "2020-11-06T09:15:31Z",
+          "video_url": null,
+          "source": {
+            "name": "Newsfilter",
+            "website": "https://newsfilter.io"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254797189,
+      "body": "$CARG CarGurus Will Offer Free Marketplace Subscriptions in December for UK Dealers Due to Lockdowns\nhttps://www.stocktitan.net/news/CARG/car-gurus-will-offer-free-marketplace-subscriptions-in-december-for-evm5ov2kbbyk.html",
+      "created_at": "2020-11-06T09:15:01Z",
+      "user": {
+        "id": 3372441,
+        "username": "Stock_Titan",
+        "name": "StockTitan",
+        "avatar_url": "https://avatars.stocktwits.com/production/3372441/thumb-1588173612.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3372441/thumb-1588173612.png",
+        "join_date": "2020-04-28",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 453,
+        "following": 0,
+        "ideas": 30120,
+        "watchlist_stocks_count": 0,
+        "like_count": 0,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5677,
+        "title": "StockTitan",
+        "url": "https://stocktitan.net"
+      },
+      "symbols": [
+        {
+          "id": 14003,
+          "symbol": "CARG",
+          "title": "CarGurus, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1709
+        }
+      ],
+      "links": [
+        {
+          "title": "CarGurus Will Offer Free Marketplace Subscriptions in December | StockTitan.net",
+          "url": "https://www.stocktitan.net/news/CARG/car-gurus-will-offer-free-marketplace-subscriptions-in-december-for-evm5ov2kbbyk.html",
+          "shortened_url": "https://www.stocktitan.net/news/CARG/car-gurus-will-offer-free-marketplace-subscriptions-in-december-for-evm5ov2kbbyk.html",
+          "shortened_expanded_url": "stocktitan.net/news/CARG/ca...",
+          "description": "CarGurus will waive December marketplace subscription fees for subscribing dealers on CarGurus and PistonHeads in the UK Company will also offer free trials for Area Boost product to expand dealers' reach to buyers for vehicles available for delivery CarGurus is committed to supporting dealers during the lockdown, driving leads and enabling dealers to continue to engage with buyers through CarGurus' Contactless Services LONDON, Nov.",
+          "image": "https://static.stocktitan.net/company-logo/carg.png",
+          "created_at": "2020-11-06T09:15:03Z",
+          "video_url": null,
+          "source": {
+            "name": "Stocktitan",
+            "website": "https://www.stocktitan.net"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254784021,
+      "body": "$DIA $CARG great numbers go long!!!!",
+      "created_at": "2020-11-06T04:58:59Z",
+      "user": {
+        "id": 1307672,
+        "username": "Fizz26",
+        "name": "Franco Fizz",
+        "avatar_url": "https://avatars.stocktwits.com/production/1307672/thumb-1534916794.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1307672/thumb-1534916794.png",
+        "join_date": "2017-12-11",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 19,
+        "following": 4,
+        "ideas": 2653,
+        "watchlist_stocks_count": 19,
+        "like_count": 738,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 4979,
+          "symbol": "DIA",
+          "title": "SPDR Dow Jones Industrial Average",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 18009
+        },
+        {
+          "id": 14003,
+          "symbol": "CARG",
+          "title": "CarGurus, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1705
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254776900,
+      "body": "$CARG  expecting some residual run tomorrow",
+      "created_at": "2020-11-06T03:46:17Z",
+      "user": {
+        "id": 893536,
+        "username": "itsallaboutheoptions",
+        "name": "It's All About The Options",
+        "avatar_url": "https://avatars.stocktwits.com/production/893536/thumb-1487145496.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/893536/thumb-1487145496.png",
+        "join_date": "2016-12-04",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 22256,
+        "following": 658,
+        "ideas": 25518,
+        "watchlist_stocks_count": 3,
+        "like_count": 5578,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 14003,
+          "symbol": "CARG",
+          "title": "CarGurus, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1708
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 254776900,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          1369038
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_254776900.png",
+          "large": "https://charts.stocktwits.com/production/large_254776900.png",
+          "original": "https://charts.stocktwits.com/production/original_254776900.png",
+          "url": "https://charts.stocktwits.com/production/original_254776900.png"
+        },
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 254775523,
+      "body": "$CARG Langley Steinert sold 25,986 shares [Very High Conviction] www.insider-analysis.com/search_transactions.php?ticker=TABLE_CARG",
+      "created_at": "2020-11-06T03:34:12Z",
+      "user": {
+        "id": 2965453,
+        "username": "Insider_Analysis",
+        "name": "Insider Analysis",
+        "avatar_url": "https://avatars.stocktwits.com/production/2965453/thumb-1583012785.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2965453/thumb-1583012785.png",
+        "join_date": "2019-12-13",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 683,
+        "following": 0,
+        "ideas": 31008,
+        "watchlist_stocks_count": 15,
+        "like_count": 22,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5476,
+        "title": "Insider Analysis",
+        "url": "http://www.insider-analysis.com/"
+      },
+      "symbols": [
+        {
+          "id": 14003,
+          "symbol": "CARG",
+          "title": "CarGurus, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1703
+        }
+      ],
+      "links": [
+        {
+          "title": "Insider Analysis",
+          "url": "www.insider-analysis.com/search_transactions.php?ticker=TABLE_CARG",
+          "shortened_url": "www.insider-analysis.com/search_transactions.php?ticker=TABLE_CARG",
+          "shortened_expanded_url": "insider-analysis.com/search...",
+          "description": "InsiderAnalysis - Trade ideas from insider activities INSIDER ANALYSIS, INC .",
+          "image": null,
+          "created_at": "2020-11-06T03:34:14Z",
+          "video_url": null,
+          "source": {
+            "name": "Insider-analysis",
+            "website": "https://insider-analysis.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254764207,
+      "body": "$CARG updates Q4 guidance to $0.26-0.28 EPS and revenue guidance to $146.1-149.1 million. https://www.marketbeat.com/g/53029",
+      "created_at": "2020-11-06T02:05:12Z",
+      "user": {
+        "id": 284541,
+        "username": "EarningsInsider",
+        "name": "MarketBeat Earnings",
+        "avatar_url": "https://avatars.stocktwits.com/production/284541/thumb-1484326078.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/284541/thumb-1484326078.png",
+        "join_date": "2013-11-25",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 52025,
+        "following": 0,
+        "ideas": 160840,
+        "watchlist_stocks_count": 0,
+        "like_count": 0,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1022,
+        "title": "Zapier",
+        "url": "https://zapier.com/"
+      },
+      "symbols": [
+        {
+          "id": 14003,
+          "symbol": "CARG",
+          "title": "CarGurus, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1703
+        }
+      ],
+      "links": [
+        {
+          "title": null,
+          "url": "https://www.marketbeat.com/g/53029",
+          "shortened_url": "https://www.marketbeat.com/g/53029",
+          "shortened_expanded_url": "marketbeat.com/g/53029/",
+          "description": null,
+          "image": null,
+          "created_at": "2020-11-06T02:05:13Z",
+          "video_url": null,
+          "source": {
+            "name": "Marketbeat",
+            "website": "https://www.marketbeat.com"
+          }
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          4124305
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254758646,
+      "body": "$CARG just filed with the SEC a Earnings Release and a Financial Exhibit https://last10k.com/sec-filings/carg/0001564590-20-051326.htm?utm_source=stocktwits&amp;utm_medium=forum&amp;utm_campaign=8K&amp;utm_term=carg",
+      "created_at": "2020-11-06T01:26:44Z",
+      "user": {
+        "id": 1409376,
+        "username": "Last10K",
+        "name": "Last10K.com",
+        "avatar_url": "https://avatars.stocktwits.com/production/1409376/thumb-1559672751.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1409376/thumb-1559672751.png",
+        "join_date": "2018-02-13",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 1267,
+        "following": 0,
+        "ideas": 232328,
+        "watchlist_stocks_count": 0,
+        "like_count": 360,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 3968,
+        "title": "Last10K",
+        "url": "https://last10k.com"
+      },
+      "symbols": [
+        {
+          "id": 14003,
+          "symbol": "CARG",
+          "title": "CarGurus, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1701
+        }
+      ],
+      "links": [
+        {
+          "title": "Cargurus, Inc. (CARG) 10K Annual Reports & 10Q SEC Filings | Last10K",
+          "url": "https://last10k.com/sec-filings/carg/0001564590-20-051326.htm?utm_source=stocktwits&utm_medium=forum&utm_campaign=8K&utm_term=carg",
+          "shortened_url": "https://last10k.com/sec-filings/carg/0001564590-20-051326.htm?utm_source=stocktwits&utm_medium=forum&utm_campaign=8K&utm_term=carg",
+          "shortened_expanded_url": "last10k.com/sec-filings/carg",
+          "description": "Exhibit 99.1 CarGurus Announces Fourth Quarter 2019 and Full-Year 2019 Results Fourth Quarter Highlights: Full-Year 2019 Highlights: CAMBRIDGE, MA: February 13, 2020 - CarGurus, Inc. (Nasdaq: CARG), a leading global automotive marketplace, today announced financial results for the fourth quarter and full-year ended December 31, 2019. \"CarGurus finished 2019 with a strong fourth quarter.",
+          "image": "https://last10k.com/wp-content/uploads/notifications.png",
+          "created_at": "2020-11-06T01:26:46Z",
+          "video_url": null,
+          "source": {
+            "name": "Last10k",
+            "website": "https://last10k.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254758542,
+      "body": "Last10K highlighted 36 positive and negative remarks in $CARG&#39;s 10-Q filed today. See them in the Quarterly Report: https://last10k.com/sec-filings/CARG/0001564590-20-051350.htm?utm_source=stocktwits&amp;utm_medium=forum&amp;utm_campaign=sentiment&amp;utm_term=carg",
+      "created_at": "2020-11-06T01:26:00Z",
+      "user": {
+        "id": 1409376,
+        "username": "Last10K",
+        "name": "Last10K.com",
+        "avatar_url": "https://avatars.stocktwits.com/production/1409376/thumb-1559672751.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1409376/thumb-1559672751.png",
+        "join_date": "2018-02-13",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 1267,
+        "following": 0,
+        "ideas": 232015,
+        "watchlist_stocks_count": 0,
+        "like_count": 360,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 3968,
+        "title": "Last10K",
+        "url": "https://last10k.com"
+      },
+      "symbols": [
+        {
+          "id": 14003,
+          "symbol": "CARG",
+          "title": "CarGurus, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1701
+        }
+      ],
+      "links": [
+        {
+          "title": "Cargurus, Inc. (CARG) 10K Annual Reports & 10Q SEC Filings | Last10K",
+          "url": "https://last10k.com/sec-filings/CARG/0001564590-20-051350.htm?utm_source=stocktwits&utm_medium=forum&utm_campaign=sentiment&utm_term=carg",
+          "shortened_url": "https://last10k.com/sec-filings/CARG/0001564590-20-051350.htm?utm_source=stocktwits&utm_medium=forum&utm_campaign=sentiment&utm_term=carg",
+          "shortened_expanded_url": "last10k.com/sec-filings/carg",
+          "description": "Exhibit 99.1 CarGurus Announces Fourth Quarter 2019 and Full-Year 2019 Results Fourth Quarter Highlights: Full-Year 2019 Highlights: CAMBRIDGE, MA: February 13, 2020 - CarGurus, Inc. (Nasdaq: CARG), a leading global automotive marketplace, today announced financial results for the fourth quarter and full-year ended December 31, 2019. \"CarGurus finished 2019 with a strong fourth quarter.",
+          "image": "https://last10k.com/wp-content/uploads/notifications.png",
+          "created_at": "2020-11-06T01:26:03Z",
+          "video_url": null,
+          "source": {
+            "name": "Last10k",
+            "website": "https://last10k.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254747947,
+      "body": "$CARG just filed a 10-Q Quarterly Report with 64 sections and 7 exhibits. Access them all or just read their earnings: https://last10k.com/sec-filings/carg/0001564590-20-051350.htm?utm_source=stocktwits&amp;utm_medium=forum&amp;utm_campaign=10KQ2040F&amp;utm_term=carg",
+      "created_at": "2020-11-06T00:27:18Z",
+      "user": {
+        "id": 1409376,
+        "username": "Last10K",
+        "name": "Last10K.com",
+        "avatar_url": "https://avatars.stocktwits.com/production/1409376/thumb-1559672751.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1409376/thumb-1559672751.png",
+        "join_date": "2018-02-13",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 1267,
+        "following": 0,
+        "ideas": 232015,
+        "watchlist_stocks_count": 0,
+        "like_count": 360,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 3968,
+        "title": "Last10K",
+        "url": "https://last10k.com"
+      },
+      "symbols": [
+        {
+          "id": 14003,
+          "symbol": "CARG",
+          "title": "CarGurus, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1701
+        }
+      ],
+      "links": [
+        {
+          "title": "Cargurus, Inc. (CARG) 10K Annual Reports & 10Q SEC Filings | Last10K",
+          "url": "https://last10k.com/sec-filings/carg/0001564590-20-051350.htm?utm_source=stocktwits&utm_medium=forum&utm_campaign=10KQ2040F&utm_term=carg",
+          "shortened_url": "https://last10k.com/sec-filings/carg/0001564590-20-051350.htm?utm_source=stocktwits&utm_medium=forum&utm_campaign=10KQ2040F&utm_term=carg",
+          "shortened_expanded_url": "last10k.com/sec-filings/carg",
+          "description": "Exhibit 99.1 CarGurus Announces Fourth Quarter 2019 and Full-Year 2019 Results Fourth Quarter Highlights: Full-Year 2019 Highlights: CAMBRIDGE, MA: February 13, 2020 - CarGurus, Inc. (Nasdaq: CARG), a leading global automotive marketplace, today announced financial results for the fourth quarter and full-year ended December 31, 2019. \"CarGurus finished 2019 with a strong fourth quarter.",
+          "image": "https://last10k.com/wp-content/uploads/notifications.png",
+          "created_at": "2020-11-06T00:27:21Z",
+          "video_url": null,
+          "source": {
+            "name": "Last10k",
+            "website": "https://last10k.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254746394,
+      "body": "$CARG updates FY 2020After-Hours guidance to 1.01-1.03 EPS and revenue guidance to $546-549 million. https://www.marketbeat.com/g/52969",
+      "created_at": "2020-11-06T00:18:54Z",
+      "user": {
+        "id": 284541,
+        "username": "EarningsInsider",
+        "name": "MarketBeat Earnings",
+        "avatar_url": "https://avatars.stocktwits.com/production/284541/thumb-1484326078.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/284541/thumb-1484326078.png",
+        "join_date": "2013-11-25",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 52028,
+        "following": 0,
+        "ideas": 160739,
+        "watchlist_stocks_count": 0,
+        "like_count": 0,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1022,
+        "title": "Zapier",
+        "url": "https://zapier.com/"
+      },
+      "symbols": [
+        {
+          "id": 14003,
+          "symbol": "CARG",
+          "title": "CarGurus, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1701
+        }
+      ],
+      "links": [
+        {
+          "title": null,
+          "url": "https://www.marketbeat.com/g/52969",
+          "shortened_url": "https://www.marketbeat.com/g/52969",
+          "shortened_expanded_url": "marketbeat.com/g/52969/",
+          "description": null,
+          "image": null,
+          "created_at": "2020-11-06T00:18:54Z",
+          "video_url": null,
+          "source": {
+            "name": "Marketbeat",
+            "website": "https://www.marketbeat.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254746381,
+      "body": "$CARG updates Q4 2020After-Hours guidance to 0.26-0.28 EPS and revenue guidance to $146.1-149.1 million. https://www.marketbeat.com/g/52972",
+      "created_at": "2020-11-06T00:18:51Z",
+      "user": {
+        "id": 284541,
+        "username": "EarningsInsider",
+        "name": "MarketBeat Earnings",
+        "avatar_url": "https://avatars.stocktwits.com/production/284541/thumb-1484326078.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/284541/thumb-1484326078.png",
+        "join_date": "2013-11-25",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 52028,
+        "following": 0,
+        "ideas": 160739,
+        "watchlist_stocks_count": 0,
+        "like_count": 0,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1022,
+        "title": "Zapier",
+        "url": "https://zapier.com/"
+      },
+      "symbols": [
+        {
+          "id": 14003,
+          "symbol": "CARG",
+          "title": "CarGurus, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1701
+        }
+      ],
+      "links": [
+        {
+          "title": null,
+          "url": "https://www.marketbeat.com/g/52972",
+          "shortened_url": "https://www.marketbeat.com/g/52972",
+          "shortened_expanded_url": "marketbeat.com/g/52972/",
+          "description": null,
+          "image": null,
+          "created_at": "2020-11-06T00:18:51Z",
+          "video_url": null,
+          "source": {
+            "name": "Marketbeat",
+            "website": "https://www.marketbeat.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254736537,
+      "body": "$CARG within the next week this stock will get way more price target upgrades on top of the ones it has. Strong buy for $30 per share!",
+      "created_at": "2020-11-05T23:29:49Z",
+      "user": {
+        "id": 4124305,
+        "username": "harrrydunne646",
+        "name": "Harry Dunne",
+        "avatar_url": "https://avatars.stocktwits.com/production/4124305/thumb-1601591463.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/4124305/thumb-1601591463.png",
+        "join_date": "2020-10-01",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 1,
+        "following": 0,
+        "ideas": 231,
+        "watchlist_stocks_count": 12,
+        "like_count": 1132,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 14003,
+          "symbol": "CARG",
+          "title": "CarGurus, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1700
+        }
+      ],
+      "likes": {
+        "total": 2,
+        "user_ids": [
+          1409130,
+          1614513
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 254736443,
+      "body": "$CARG blowout report, raised guidance...only 52k shares traded AH so far....expecting a bigger pop tomorrow....$28 target EOY",
+      "created_at": "2020-11-05T23:29:11Z",
+      "user": {
+        "id": 870606,
+        "username": "MonkeyBiznas",
+        "name": "Josh",
+        "avatar_url": "https://avatars.stocktwits.com/production/870606/thumb-1479929097.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/870606/thumb-1479929097.png",
+        "join_date": "2016-11-01",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 84,
+        "following": 157,
+        "ideas": 8779,
+        "watchlist_stocks_count": 24,
+        "like_count": 3704,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 14003,
+          "symbol": "CARG",
+          "title": "CarGurus, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1707
+        }
+      ],
+      "likes": {
+        "total": 4,
+        "user_ids": [
+          4124305,
+          1614513,
+          500827,
+          1142360
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 254729422,
+      "body": "$CARG NEW ARTICLE : CarGurus, TrueCar report sagging Q3 sales https://www.stck.pro/news/CARG/8960390",
+      "created_at": "2020-11-05T22:57:06Z",
+      "user": {
+        "id": 1555408,
+        "username": "STCKPRO",
+        "name": "STCK.PRO",
+        "avatar_url": "https://avatars.stocktwits.com/production/1555408/thumb-1576077822.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1555408/thumb-1576077822.png",
+        "join_date": "2018-07-24",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 4426,
+        "following": 2,
+        "ideas": 272108,
+        "watchlist_stocks_count": 18,
+        "like_count": 52,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5011,
+        "title": "STCK.PRO",
+        "url": "https://dashboard.stck.pro"
+      },
+      "symbols": [
+        {
+          "id": 14003,
+          "symbol": "CARG",
+          "title": "CarGurus, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1700
+        }
+      ],
+      "links": [
+        {
+          "title": null,
+          "url": "https://www.stck.pro/news/CARG/8960390",
+          "shortened_url": "https://www.stck.pro/news/CARG/8960390",
+          "shortened_expanded_url": "stck.pro/news/CARG/8960390",
+          "description": null,
+          "image": null,
+          "created_at": "2020-11-05T22:57:36Z",
+          "video_url": null,
+          "source": {
+            "name": "Stck",
+            "website": "http://www.stck.pro"
+          }
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          4124305
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_254729422.jpg",
+          "large": "https://charts.stocktwits.com/production/large_254729422.jpg",
+          "original": "https://charts.stocktwits.com/production/original_254729422.jpg",
+          "url": "https://charts.stocktwits.com/production/original_254729422.jpg"
+        },
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254726215,
+      "body": "$DIA $CARG lets goooooo",
+      "created_at": "2020-11-05T22:43:29Z",
+      "user": {
+        "id": 1307672,
+        "username": "Fizz26",
+        "name": "Franco Fizz",
+        "avatar_url": "https://avatars.stocktwits.com/production/1307672/thumb-1534916794.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1307672/thumb-1534916794.png",
+        "join_date": "2017-12-11",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 19,
+        "following": 4,
+        "ideas": 2646,
+        "watchlist_stocks_count": 19,
+        "like_count": 738,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 4979,
+          "symbol": "DIA",
+          "title": "SPDR Dow Jones Industrial Average",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 18000
+        },
+        {
+          "id": 14003,
+          "symbol": "CARG",
+          "title": "CarGurus, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1700
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254718634,
+      "body": "$CARG CarGurus EPS beats by $0.15, beats on revenue \n\nhttps://newsfilter.io/a/6c4d0cda5ad90d50e8aee5544ed10e54",
+      "created_at": "2020-11-05T22:15:26Z",
+      "user": {
+        "id": 2762379,
+        "username": "Newsfilter",
+        "name": "@newsfilterio",
+        "avatar_url": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "join_date": "2019-09-01",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 7563,
+        "following": 16,
+        "ideas": 611776,
+        "watchlist_stocks_count": 1,
+        "like_count": 531,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 14003,
+          "symbol": "CARG",
+          "title": "CarGurus, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1700
+        }
+      ],
+      "links": [
+        {
+          "title": "CarGurus EPS beats by $0.15, beats on revenue",
+          "url": "https://newsfilter.io/a/6c4d0cda5ad90d50e8aee5544ed10e54",
+          "shortened_url": "https://newsfilter.io/a/6c4d0cda5ad90d50e8aee5544ed10e54",
+          "shortened_expanded_url": "newsfilter.io/a/6c4d0cda5ad...",
+          "description": "CarGurus EPS beats by $0.15, beats on revenue: CarGurus: Q3 Non-GAAP EPS of $0.37 beats by $0.15; GAAP EPS of $0.29 beats by $0.15. Revenue of $147.5M beats by $11.57M. Shares +4.8% AH. Press Release",
+          "image": "https://newsfilter.io/meta-images/?url=https://storage.googleapis.com/iex/api/logos/CARG.png",
+          "created_at": "2020-11-05T22:15:27Z",
+          "video_url": null,
+          "source": {
+            "name": "Newsfilter",
+            "website": "https://newsfilter.io"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254713469,
+      "body": "$CARG Earnings Call Today: 5:00 PM EST \nWebcast: http://mmm.wallstreethorizon.com/u.asp?u=352288 \nStockPods BETA is now live. Visit to find Analyst Ratings, Stock Price Targets, and Phone/PIN for today&#39;s Earnings Calls: https://www.stockpods.com",
+      "created_at": "2020-11-05T21:58:22Z",
+      "user": {
+        "id": 1298079,
+        "username": "StockPods",
+        "name": "StockPods.com",
+        "avatar_url": "https://avatars.stocktwits.com/production/1298079/thumb-1547240999.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1298079/thumb-1547240999.png",
+        "join_date": "2017-12-05",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 791,
+        "following": 34,
+        "ideas": 20562,
+        "watchlist_stocks_count": 6,
+        "like_count": 204,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 14003,
+          "symbol": "CARG",
+          "title": "CarGurus, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1699
+        }
+      ],
+      "links": [
+        {
+          "title": null,
+          "url": "http://mmm.wallstreethorizon.com/u.asp?u=352288",
+          "shortened_url": "http://mmm.wallstreethorizon.com/u.asp?u=352288",
+          "shortened_expanded_url": "edge.media-server.com/mmc/p...",
+          "description": null,
+          "image": null,
+          "created_at": "2020-11-05T21:58:22Z",
+          "video_url": null,
+          "source": {
+            "name": "Media-server",
+            "website": "https://edge.media-server.com"
+          }
+        },
+        {
+          "title": null,
+          "url": "https://www.stockpods.com",
+          "shortened_url": "https://www.stockpods.com",
+          "shortened_expanded_url": "stockpods.com",
+          "description": null,
+          "image": null,
+          "created_at": "2020-11-05T21:58:23Z",
+          "video_url": null,
+          "source": {
+            "name": "Stockpods",
+            "website": "http://www.stockpods.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254709262,
+      "body": "Cargurus Announces Third Quarter 2020 Results Third Quarter Highlights:  http://www.conferencecalltranscripts.org/8/summary/?id=8523307 $CARG",
+      "created_at": "2020-11-05T21:45:09Z",
+      "user": {
+        "id": 210967,
+        "username": "cctranscripts",
+        "name": "Conference Call Transcripts",
+        "avatar_url": "https://avatars.stocktwits.com/production/210967/thumb-1363372333.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/210967/thumb-1363372333.png",
+        "join_date": "2013-01-30",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 6358,
+        "following": 10,
+        "ideas": 2369597,
+        "watchlist_stocks_count": 0,
+        "like_count": 758,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1130,
+        "title": "cctranscripts",
+        "url": "http://conferencecalltranscripts.org"
+      },
+      "symbols": [
+        {
+          "id": 14003,
+          "symbol": "CARG",
+          "title": "CarGurus, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1699
+        }
+      ],
+      "links": [
+        {
+          "title": "Conference Call Transcripts",
+          "url": "http://www.conferencecalltranscripts.org/8/summary/?id=8523307",
+          "shortened_url": "http://www.conferencecalltranscripts.org/8/summary/?id=8523307",
+          "shortened_expanded_url": "conferencecalltranscripts.o...",
+          "description": "Get notified next time CARG.US makes a similar move! The following excerpt is from the company's SEC filing . Total revenue of $147.5 million, a decrease of (2%) year-over-year GAAP operating income of $43.6 million; non-GAAP operating income of $55.1 million GAAP net income of $32.6 million; non-GAAP net income of $41.9 million Adjusted EBITDA of $57.0 million CAMBRIDGE, MA: November 5, 2020 - CarGurus, Inc.",
+          "image": null,
+          "created_at": "2020-11-05T21:45:09Z",
+          "video_url": null,
+          "source": {
+            "name": "Conferencecalltranscripts",
+            "website": "http://www.conferencecalltranscripts.org"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254706133,
+      "body": "CarGurus Sees Q4 Adj. EPS $0.26-$0.28 vs $0.09 Est., Sales $146.1M-$149.1M vs $139.33M Est.; Sees FY20 Adj. EPS $1.01-$1.03 vs $0.69 Est., Sales $546M-$549M vs $527.56M Est.\n\nRelated Tickers: $CARG",
+      "created_at": "2020-11-05T21:36:47Z",
+      "user": {
+        "id": 3539670,
+        "username": "QuantData",
+        "name": "Quant Data",
+        "avatar_url": "https://avatars.stocktwits.com/production/3539670/thumb-1602473985.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3539670/thumb-1602473985.png",
+        "join_date": "2020-06-03",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 753,
+        "following": 0,
+        "ideas": 11529,
+        "watchlist_stocks_count": 0,
+        "like_count": 20,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5828,
+        "title": "QuantData",
+        "url": "https://quantdata.us"
+      },
+      "symbols": [
+        {
+          "id": 14003,
+          "symbol": "CARG",
+          "title": "CarGurus, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1699
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          3645345
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    }
+  ]
+}

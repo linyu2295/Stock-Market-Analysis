@@ -1,0 +1,1921 @@
+{
+  "response": {
+    "status": 200
+  },
+  "symbol": {
+    "id": 3293,
+    "symbol": "QDEL",
+    "title": "Quidel Corp.",
+    "aliases": [],
+    "is_following": false,
+    "watchlist_count": 3173
+  },
+  "cursor": {
+    "more": true,
+    "since": 255692473,
+    "max": 255521364
+  },
+  "messages": [
+    {
+      "id": 255692473,
+      "body": "$FLDM $QDEL \n\nhttps://www.cnbc.com/2020/11/10/coronavirus-us-officials-warn-of-challenges-administering-eli-lillys-antibody-drug.html\n\n&quot;The Food and Drug Administration on Monday authorized the treatment, called bamlanivimab, for people newly infected with Covid-19 and who are seen as at risk of developing a severe form of the disease. Officials said the treatment shouldn\u2019t be used to treat patients who are hospitalized as there is currently no data to show the drug is helpful at that stage of the disease.\n\nThe drug will \u201clikely work best early in the disease and the goal during this [emergency use authorization] should be to treat high-risk individuals as soon as possible after they have symptoms and are diagnosed,\u201d Woodcock said. \u201cThe data we have suggests that early treatment may help people avoid disease progression and avoid hospitalization.\u201d\n\n\u201cWe\u2019re all going to need to get the word out that people at high risk have a therapeutic option now .. Because until this point, people have been told to stay at home unless they get very sick,\u201d she added.\n\nTesting is necessary.",
+      "created_at": "2020-11-10T18:28:23Z",
+      "user": {
+        "id": 3617691,
+        "username": "Catfish_Karen",
+        "name": "John Brown",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2020-06-12",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 7,
+        "following": 2,
+        "ideas": 1861,
+        "watchlist_stocks_count": 0,
+        "like_count": 907,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 1892,
+          "symbol": "FLDM",
+          "title": "Fluidigm Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 6069
+        },
+        {
+          "id": 3293,
+          "symbol": "QDEL",
+          "title": "Quidel Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 3174
+        }
+      ],
+      "links": [
+        {
+          "title": "U.S. officials warn of early challenges administering Eli Lilly's coronavirus antibody drug",
+          "url": "https://www.cnbc.com/2020/11/10/coronavirus-us-officials-warn-of-challenges-administering-eli-lillys-antibody-drug.html",
+          "shortened_url": "https://www.cnbc.com/2020/11/10/coronavirus-us-officials-warn-of-challenges-administering-eli-lillys-antibody-drug.html",
+          "shortened_expanded_url": "cnbc.com/2020/11/10/coronav...",
+          "description": "States and local health-care systems should expect to face some early challenges administering Eli Lilly's coronavirus antibody drug, senior administration officials warned Tuesday, after the FDA authorized the drug to treat patients with Covid-19.",
+          "image": "https://image.cnbcfm.com/api/v1/image/106644820-1596456299054-AP_20203621775561.jpg?v=1605029594",
+          "created_at": "2020-11-10T18:28:24Z",
+          "video_url": null,
+          "source": {
+            "name": "CNBC",
+            "website": "https://www.cnbc.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255685071,
+      "body": "$CCL $ACB $CODX $QDEL Talk about hitting the nail on the head",
+      "created_at": "2020-11-10T18:03:52Z",
+      "user": {
+        "id": 3017449,
+        "username": "da224",
+        "name": "Andy",
+        "avatar_url": "https://avatars.stocktwits.com/production/3017449/thumb-1580425752.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3017449/thumb-1580425752.png",
+        "join_date": "2020-01-09",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 2417,
+        "following": 125,
+        "ideas": 14954,
+        "watchlist_stocks_count": 48,
+        "like_count": 6006,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 3293,
+          "symbol": "QDEL",
+          "title": "Quidel Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 3174
+        },
+        {
+          "id": 4681,
+          "symbol": "CCL",
+          "title": "Carnival Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 51800
+        },
+        {
+          "id": 13657,
+          "symbol": "CODX",
+          "title": "CO Diagnostics Inc",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 36506
+        },
+        {
+          "id": 15005,
+          "symbol": "ACB",
+          "title": "Aurora Cannabis Inc",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 89810
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 255685071,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "likes": {
+        "total": 4,
+        "user_ids": [
+          1328152,
+          1814142,
+          2202592,
+          3160732
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_255685071.png",
+          "large": "https://charts.stocktwits.com/production/large_255685071.png",
+          "original": "https://charts.stocktwits.com/production/original_255685071.png",
+          "url": "https://charts.stocktwits.com/production/original_255685071.png"
+        },
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255660128,
+      "body": "$QDEL got in at 191 this morning",
+      "created_at": "2020-11-10T16:45:07Z",
+      "user": {
+        "id": 3410324,
+        "username": "Pence2024",
+        "name": "Colin Casey",
+        "avatar_url": "https://avatars.stocktwits.com/production/3410324/thumb-1588801850.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3410324/thumb-1588801850.png",
+        "join_date": "2020-05-06",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 2,
+        "following": 8,
+        "ideas": 164,
+        "watchlist_stocks_count": 42,
+        "like_count": 187,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 3293,
+          "symbol": "QDEL",
+          "title": "Quidel Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 3173
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 255660128,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 2
+      },
+      "likes": {
+        "total": 4,
+        "user_ids": [
+          2135591,
+          3407325,
+          1611275,
+          2108815
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 255655525,
+      "body": "$QDEL \nOk, fasten your seatbelts now.",
+      "created_at": "2020-11-10T16:32:10Z",
+      "user": {
+        "id": 3407325,
+        "username": "Hacko",
+        "name": "Hanno",
+        "avatar_url": "https://avatars.stocktwits.com/production/3407325/thumb-1597614420.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3407325/thumb-1597614420.png",
+        "join_date": "2020-05-05",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 10,
+        "following": 94,
+        "ideas": 1114,
+        "watchlist_stocks_count": 300,
+        "like_count": 222,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 3293,
+          "symbol": "QDEL",
+          "title": "Quidel Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 3175
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 255655014,
+      "body": "$QDEL 150/275is range and as of now putting in a higher a low.. .",
+      "created_at": "2020-11-10T16:30:39Z",
+      "user": {
+        "id": 8468,
+        "username": "JFDI",
+        "name": "JFDI",
+        "avatar_url": "https://avatars.stocktwits.com/production/8468/thumb-1587763377.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/8468/thumb-1587763377.png",
+        "join_date": "2010-02-08",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 48952,
+        "following": 28,
+        "ideas": 16637,
+        "watchlist_stocks_count": 27,
+        "like_count": 787,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1031,
+        "title": "TradingView",
+        "url": "https://www.tradingview.com"
+      },
+      "symbols": [
+        {
+          "id": 3293,
+          "symbol": "QDEL",
+          "title": "Quidel Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 3175
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_255655014.png",
+          "large": "https://charts.stocktwits.com/production/large_255655014.png",
+          "original": "https://charts.stocktwits.com/production/original_255655014.png",
+          "url": "https://charts.stocktwits.com/production/original_255655014.png"
+        },
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255649667,
+      "body": "$FLDM $QDEL\n\nFollowing the fucking market... I suppose patience is called for, which is what options are all about...",
+      "created_at": "2020-11-10T16:15:47Z",
+      "user": {
+        "id": 3617691,
+        "username": "Catfish_Karen",
+        "name": "John Brown",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2020-06-12",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 7,
+        "following": 2,
+        "ideas": 1858,
+        "watchlist_stocks_count": 0,
+        "like_count": 904,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 1892,
+          "symbol": "FLDM",
+          "title": "Fluidigm Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 6068
+        },
+        {
+          "id": 3293,
+          "symbol": "QDEL",
+          "title": "Quidel Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 3173
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 255649667,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          2135591
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255643233,
+      "body": "$QDEL Stop going down and go up, please and thank you",
+      "created_at": "2020-11-10T15:59:13Z",
+      "user": {
+        "id": 933638,
+        "username": "Minnesotastockdude",
+        "name": "George",
+        "avatar_url": "https://avatars.stocktwits.com/production/933638/thumb-1577200546.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/933638/thumb-1577200546.png",
+        "join_date": "2017-01-23",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 78,
+        "following": 61,
+        "ideas": 1730,
+        "watchlist_stocks_count": 72,
+        "like_count": 3953,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 3293,
+          "symbol": "QDEL",
+          "title": "Quidel Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 3175
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          2135591
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 255640613,
+      "body": "$QDEL \nThis is gold.",
+      "created_at": "2020-11-10T15:53:19Z",
+      "user": {
+        "id": 3407325,
+        "username": "Hacko",
+        "name": "Hanno",
+        "avatar_url": "https://avatars.stocktwits.com/production/3407325/thumb-1597614420.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3407325/thumb-1597614420.png",
+        "join_date": "2020-05-05",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 10,
+        "following": 94,
+        "ideas": 1114,
+        "watchlist_stocks_count": 300,
+        "like_count": 222,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 3293,
+          "symbol": "QDEL",
+          "title": "Quidel Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 3175
+        }
+      ],
+      "likes": {
+        "total": 2,
+        "user_ids": [
+          1671056,
+          2135591
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 255640071,
+      "body": "Quidel Corporation Triple Winner in International MarCom Awards Competition http://www.conferencecalltranscripts.org/summary/?id=91197&amp;pr=true $QDEL",
+      "created_at": "2020-11-10T15:52:08Z",
+      "user": {
+        "id": 210967,
+        "username": "cctranscripts",
+        "name": "Conference Call Transcripts",
+        "avatar_url": "https://avatars.stocktwits.com/production/210967/thumb-1363372333.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/210967/thumb-1363372333.png",
+        "join_date": "2013-01-30",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 6364,
+        "following": 10,
+        "ideas": 2375285,
+        "watchlist_stocks_count": 0,
+        "like_count": 758,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1130,
+        "title": "cctranscripts",
+        "url": "http://conferencecalltranscripts.org"
+      },
+      "symbols": [
+        {
+          "id": 3293,
+          "symbol": "QDEL",
+          "title": "Quidel Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 3175
+        }
+      ],
+      "links": [
+        {
+          "title": "Conference Call Transcripts",
+          "url": "http://www.conferencecalltranscripts.org/summary/?id=91197&pr=true",
+          "shortened_url": "http://www.conferencecalltranscripts.org/summary/?id=91197&pr=true",
+          "shortened_expanded_url": "conferencecalltranscripts.o...",
+          "description": "Get notified next time QDEL.US makes a similar move! SAN DIEGO--(BUSINESS WIRE)--#awardwinner--Quidel Corporation has been honored with three awards for creative excellence from the international MarCom Awards competition, just announced. Quidel is the diagnostic health care manufacturer behind the industry's most rapid and reliable in-office test for Lyme disease, the Sofia\u00ae 2 Lyme FIA test.",
+          "image": null,
+          "created_at": "2020-11-10T15:52:09Z",
+          "video_url": null,
+          "source": {
+            "name": "Conferencecalltranscripts",
+            "website": "http://www.conferencecalltranscripts.org"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255639508,
+      "body": "$QDEL looks like another chance for a bounce play.  Long-planned investor day on Thursday.  You think they won&#39;t have any good news to share?",
+      "created_at": "2020-11-10T15:50:58Z",
+      "user": {
+        "id": 1189779,
+        "username": "2k10",
+        "name": "S",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2017-09-14",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 10,
+        "following": 50,
+        "ideas": 1110,
+        "watchlist_stocks_count": 16,
+        "like_count": 1546,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 3293,
+          "symbol": "QDEL",
+          "title": "Quidel Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 3175
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 255639508,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          2135591
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255637878,
+      "body": "$QDEL $APT $ABIO $ICPT The addition positions of Gaming as the largest gaming media platform in North America.Anyways, there are more interesting markets here.\n---&gt;http://psce.pw/MassiveTSXcompanyList\nCheck Disclaimer on profile",
+      "created_at": "2020-11-10T15:47:26Z",
+      "user": {
+        "id": 4232065,
+        "username": "mybtoot7856",
+        "name": "mybtoot mybtoot",
+        "avatar_url": "https://avatars.stocktwits.com/production/4232065/thumb-1605015776.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/4232065/thumb-1605015776.png",
+        "join_date": "2020-10-25",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 2,
+        "following": 2,
+        "ideas": 24,
+        "watchlist_stocks_count": 10,
+        "like_count": 0,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 28,
+          "symbol": "APT",
+          "title": "Alpha Pro Tech Ltd.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 14388
+        },
+        {
+          "id": 699,
+          "symbol": "ABIO",
+          "title": "ARCA biopharma, Inc.",
+          "aliases": [
+            "NUVO"
+          ],
+          "is_following": false,
+          "watchlist_count": 20673
+        },
+        {
+          "id": 3293,
+          "symbol": "QDEL",
+          "title": "Quidel Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 3175
+        },
+        {
+          "id": 11353,
+          "symbol": "ICPT",
+          "title": "Intercept Pharmaceuticals, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 9445
+        }
+      ],
+      "links": [
+        {
+          "title": "Massive Upcoming Industry, Investors Must See This ASAP",
+          "url": "http://psce.pw/MassiveTSXcompanyList",
+          "shortened_url": "http://psce.pw/MassiveTSXcompanyList",
+          "shortened_expanded_url": "newstrendingreports.com/pos...",
+          "description": "Enthusiast Gaming Holdings Inc. USA ( ENGMF) CA ( EGLX) has built a one of a kind gaming ecosystem where millions of gamers are connecting and engaging every month.",
+          "image": "https://newstrendingreports.com/wp-content/uploads/sites/13/2020/11/cropped-2-2.jpg",
+          "created_at": "2020-11-10T15:47:26Z",
+          "video_url": null,
+          "source": {
+            "name": "News Trending Reports",
+            "website": "https://newstrendingreports.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255636547,
+      "body": "$OPK If no forst we were down !!!! lookon $QDEL",
+      "created_at": "2020-11-10T15:44:37Z",
+      "user": {
+        "id": 1298178,
+        "username": "gba",
+        "name": "gba",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2017-12-05",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 4,
+        "following": 42,
+        "ideas": 429,
+        "watchlist_stocks_count": 29,
+        "like_count": 136,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 445,
+          "symbol": "OPK",
+          "title": "Opko Health, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 29118
+        },
+        {
+          "id": 3293,
+          "symbol": "QDEL",
+          "title": "Quidel Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 3175
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          3446689
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 255631642,
+      "body": "$QDEL Well, are we going to get a rebound today, or is it set to sink lower? Nasdaq getting beat down again.",
+      "created_at": "2020-11-10T15:33:58Z",
+      "user": {
+        "id": 2135591,
+        "username": "LestatBQ",
+        "name": "Woodrow M Bell",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2019-06-12",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 3,
+        "following": 4,
+        "ideas": 507,
+        "watchlist_stocks_count": 18,
+        "like_count": 362,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 3293,
+          "symbol": "QDEL",
+          "title": "Quidel Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 3175
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255629289,
+      "body": "$QDEL Users could calculate multiple scenarios and test the viability of reshoring plastic injection molding parts without sales pressure. You better check this one before its too late http://psce.pw/GreenLeafUnlimitedUpsidePotential Check disclaimer on my profile",
+      "created_at": "2020-11-10T15:28:54Z",
+      "user": {
+        "id": 3657555,
+        "username": "aryamaisie98",
+        "name": "arya maisie",
+        "avatar_url": "https://avatars.stocktwits.com/production/3657555/thumb-1605017022.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3657555/thumb-1605017022.png",
+        "join_date": "2020-06-19",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 0,
+        "following": 9,
+        "ideas": 11,
+        "watchlist_stocks_count": 15,
+        "like_count": 25,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 3293,
+          "symbol": "QDEL",
+          "title": "Quidel Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 3175
+        }
+      ],
+      "links": [
+        {
+          "title": "Massive Upcoming Industry, Investors Must See This ASAP",
+          "url": "http://psce.pw/GreenLeafUnlimitedUpsidePotential",
+          "shortened_url": "http://psce.pw/GreenLeafUnlimitedUpsidePotential",
+          "shortened_expanded_url": "newstrendingreports.com/maj...",
+          "description": "Breaking News: SponsorsOne Management Announces It Will Be Applying to Uplist To OTCQB With the pandemic showing no signs of slowing, consumers have become far more dependent on green, creating MASSIVE opportunity for SponsorsOne Inc. ( STOCK:SPONF).(2) Even when the pandemic does die off, the boom is likely to continue.",
+          "image": "https://newstrendingreports.com/wp-content/uploads/sites/13/2020/08/cropped-3-1-1.jpg",
+          "created_at": "2020-11-10T15:28:54Z",
+          "video_url": null,
+          "source": {
+            "name": "News Trending Reports",
+            "website": "https://newstrendingreports.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 255620945,
+      "body": "$QDEL Quidel Corporation Triple Winner in International MarCom Awards Competition https://www.otcdynamics.com/qdel-quidel-corporation-triple-winner-in-international-marcom-awards-competition",
+      "created_at": "2020-11-10T15:09:51Z",
+      "user": {
+        "id": 253206,
+        "username": "otcdynamics",
+        "name": "otcdynamics",
+        "avatar_url": "https://avatars.stocktwits.com/production/253206/thumb-1432182723.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/253206/thumb-1432182723.png",
+        "join_date": "2013-08-16",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 406,
+        "following": 0,
+        "ideas": 58825,
+        "watchlist_stocks_count": 0,
+        "like_count": 55,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5512,
+        "title": "project_n",
+        "url": "https://www.otcdynamics.com"
+      },
+      "symbols": [
+        {
+          "id": 3293,
+          "symbol": "QDEL",
+          "title": "Quidel Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 3175
+        }
+      ],
+      "links": [
+        {
+          "title": "$QDEL Quidel Corporation Triple Winner in International MarCom Awards Competition",
+          "url": "https://www.otcdynamics.com/qdel-quidel-corporation-triple-winner-in-international-marcom-awards-competition",
+          "shortened_url": "https://www.otcdynamics.com/qdel-quidel-corporation-triple-winner-in-international-marcom-awards-competition",
+          "shortened_expanded_url": "otcdynamics.com/qdel-quidel...",
+          "description": "Quidel Corporation has been honored with three awards for creative excellence from the international MarCom Awards competition, just announced. Quidel is the diagnostic health care manufacturer behind the industry's most rapid and reliable in-office test for Lyme disease, the Sofia\u00ae 2 Lyme FIA test.",
+          "image": null,
+          "created_at": "2020-11-10T15:09:58Z",
+          "video_url": null,
+          "source": {
+            "name": "Otcdynamics",
+            "website": "https://www.otcdynamics.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255618946,
+      "body": "$QDEL Quidel Corporation Triple Winner in International MarCom Awards Competition\nhttps://www.stocktitan.net/news/QDEL/quidel-corporation-triple-winner-in-international-mar-com-awards-nn69s2ee5vmy.html",
+      "created_at": "2020-11-10T15:05:15Z",
+      "user": {
+        "id": 3372441,
+        "username": "Stock_Titan",
+        "name": "StockTitan",
+        "avatar_url": "https://avatars.stocktwits.com/production/3372441/thumb-1588173612.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3372441/thumb-1588173612.png",
+        "join_date": "2020-04-28",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 467,
+        "following": 0,
+        "ideas": 31641,
+        "watchlist_stocks_count": 0,
+        "like_count": 0,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5677,
+        "title": "StockTitan",
+        "url": "https://stocktitan.net"
+      },
+      "symbols": [
+        {
+          "id": 3293,
+          "symbol": "QDEL",
+          "title": "Quidel Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 3175
+        }
+      ],
+      "links": [
+        {
+          "title": "Quidel Corporation Triple Winner in International MarCom Awards | StockTitan.net",
+          "url": "https://www.stocktitan.net/news/QDEL/quidel-corporation-triple-winner-in-international-mar-com-awards-nn69s2ee5vmy.html",
+          "shortened_url": "https://www.stocktitan.net/news/QDEL/quidel-corporation-triple-winner-in-international-mar-com-awards-nn69s2ee5vmy.html",
+          "shortened_expanded_url": "stocktitan.net/news/QDEL/qu...",
+          "description": "SAN DIEGO--()--Quidel Corporation has been honored with three awards for creative excellence from the international MarCom Awards competition, just announced. Quidel is the diagnostic health care manufacturer behind the industry's most rapid and reliable in-office test for Lyme disease, the Sofia(R) 2 Lyme FIA test.",
+          "image": "https://static.stocktitan.net/company-logo/qdel.png",
+          "created_at": "2020-11-10T15:05:17Z",
+          "video_url": null,
+          "source": {
+            "name": "Stocktitan",
+            "website": "https://www.stocktitan.net"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255617131,
+      "body": "$QDEL Quidel Triple Winner in International MarCom Awards Competition \n\nhttps://newsfilter.io/a/45bb5816cd41d8fc2b9fbe679d50fa5f",
+      "created_at": "2020-11-10T15:01:13Z",
+      "user": {
+        "id": 2762379,
+        "username": "Newsfilter",
+        "name": "@newsfilterio",
+        "avatar_url": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "join_date": "2019-09-01",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 7608,
+        "following": 16,
+        "ideas": 619972,
+        "watchlist_stocks_count": 1,
+        "like_count": 531,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 3293,
+          "symbol": "QDEL",
+          "title": "Quidel Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 3175
+        }
+      ],
+      "links": [
+        {
+          "title": "Quidel Corporation Triple Winner in International MarCom Awards Competition",
+          "url": "https://newsfilter.io/a/45bb5816cd41d8fc2b9fbe679d50fa5f",
+          "shortened_url": "https://newsfilter.io/a/45bb5816cd41d8fc2b9fbe679d50fa5f",
+          "shortened_expanded_url": "newsfilter.io/a/45bb5816cd4...",
+          "description": "Quidel has been honored with three awards for creative excellence from the international MarCom Awards competition, just announced. Quidel is the diagnostic health care manufacturer behind the industry's most rapid and reliable in-office test for Lyme disease, the Sofia\u00ae 2 Lyme FIA test.",
+          "image": "https://newsfilter.io/meta-images/?url=https://storage.googleapis.com/iex/api/logos/QDEL.png",
+          "created_at": "2020-11-10T15:01:14Z",
+          "video_url": null,
+          "source": {
+            "name": "Newsfilter",
+            "website": "https://newsfilter.io"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255611213,
+      "body": "As noted before all diagnostics will get play, just like off ABT 5 buck swoon that worked great.. $HOLX $QDEL...  $FLDM at 1.63x EV/sales after yesterday is too funny after $FLGT results for micro caps",
+      "created_at": "2020-11-10T14:48:36Z",
+      "user": {
+        "id": 229619,
+        "username": "Yourpersonaltr1",
+        "name": "YourPersonalTrader",
+        "avatar_url": "https://avatars.stocktwits.com/production/229619/thumb-1445949890.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/229619/thumb-1445949890.png",
+        "join_date": "2013-04-29",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 445,
+        "following": 33,
+        "ideas": 6062,
+        "watchlist_stocks_count": 109,
+        "like_count": 55,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 1892,
+          "symbol": "FLDM",
+          "title": "Fluidigm Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 6068
+        },
+        {
+          "id": 2159,
+          "symbol": "HOLX",
+          "title": "Hologic Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1440
+        },
+        {
+          "id": 3293,
+          "symbol": "QDEL",
+          "title": "Quidel Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 3173
+        },
+        {
+          "id": 13203,
+          "symbol": "FLGT",
+          "title": "Fulgent Genetics",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 2146
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 255611213,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255594835,
+      "body": "$QDEL Vaccines that are coming out are not killing Corona virus but improving human immune response. How long will it take to wear off the effect of vaccine is not clear. We might have to take the vaccine every 2 or 6 month or a year? nobody knows.\nCorona testing will exist for many more years to come. QDEL is a innovative company, they are coming up with new spike protein test which will create additional revenue stream.\nBUY QDEL.",
+      "created_at": "2020-11-10T14:00:22Z",
+      "user": {
+        "id": 3938028,
+        "username": "DeepoptionsTrader",
+        "name": "Srini",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2020-08-11",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 1,
+        "following": 0,
+        "ideas": 25,
+        "watchlist_stocks_count": 5,
+        "like_count": 7,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 3293,
+          "symbol": "QDEL",
+          "title": "Quidel Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 3175
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          482886
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 255588788,
+      "body": "$QDEL \ud83d\udc40",
+      "created_at": "2020-11-10T13:34:23Z",
+      "user": {
+        "id": 1717498,
+        "username": "Cutlass",
+        "name": "Rachel Martens",
+        "avatar_url": "https://avatars.stocktwits.com/production/1717498/thumb-1596491532.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1717498/thumb-1596491532.png",
+        "join_date": "2018-11-16",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 714,
+        "following": 17,
+        "ideas": 4608,
+        "watchlist_stocks_count": 23,
+        "like_count": 8787,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 3293,
+          "symbol": "QDEL",
+          "title": "Quidel Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 3169
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255582372,
+      "body": "$PTON this is gonna sink faster than $QDEL sunk yesterday",
+      "created_at": "2020-11-10T13:05:08Z",
+      "user": {
+        "id": 4290764,
+        "username": "shortpton",
+        "name": "short short",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2020-11-10",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 0,
+        "following": 0,
+        "ideas": 11,
+        "watchlist_stocks_count": 0,
+        "like_count": 0,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 3293,
+          "symbol": "QDEL",
+          "title": "Quidel Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 3169
+        },
+        {
+          "id": 15382,
+          "symbol": "PTON",
+          "title": "Peloton",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 27093
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 255582372,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          922579
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bearish"
+        }
+      }
+    },
+    {
+      "id": 255553593,
+      "body": "$QDEL $CODX\nRemember when\u2019s Abbott\u2019s crappy 5-min test came out and the likes of Jim Cramer and Michael Mina pumped that crap? The other covid tests crashed to only surge again and gain the losses.\nHere we are again with this Pfizer vaccine that no one has any clue how it will work yet...",
+      "created_at": "2020-11-10T07:14:07Z",
+      "user": {
+        "id": 3407325,
+        "username": "Hacko",
+        "name": "Hanno",
+        "avatar_url": "https://avatars.stocktwits.com/production/3407325/thumb-1597614420.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3407325/thumb-1597614420.png",
+        "join_date": "2020-05-05",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 10,
+        "following": 94,
+        "ideas": 1114,
+        "watchlist_stocks_count": 300,
+        "like_count": 222,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 3293,
+          "symbol": "QDEL",
+          "title": "Quidel Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 3169
+        },
+        {
+          "id": 13657,
+          "symbol": "CODX",
+          "title": "CO Diagnostics Inc",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 36516
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 255553593,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "likes": {
+        "total": 8,
+        "user_ids": [
+          3367994,
+          3483778,
+          922579,
+          3770108,
+          2135591,
+          3892819,
+          4024985,
+          4062670
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 255550674,
+      "body": "$CODX $APT $LAKE $QDEL",
+      "created_at": "2020-11-10T06:09:13Z",
+      "user": {
+        "id": 3407325,
+        "username": "Hacko",
+        "name": "Hanno",
+        "avatar_url": "https://avatars.stocktwits.com/production/3407325/thumb-1597614420.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3407325/thumb-1597614420.png",
+        "join_date": "2020-05-05",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 10,
+        "following": 94,
+        "ideas": 1114,
+        "watchlist_stocks_count": 300,
+        "like_count": 222,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 28,
+          "symbol": "APT",
+          "title": "Alpha Pro Tech Ltd.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 14388
+        },
+        {
+          "id": 2460,
+          "symbol": "LAKE",
+          "title": "Lakeland Industries Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 5891
+        },
+        {
+          "id": 3293,
+          "symbol": "QDEL",
+          "title": "Quidel Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 3169
+        },
+        {
+          "id": 13657,
+          "symbol": "CODX",
+          "title": "CO Diagnostics Inc",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 36516
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 255550674,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "likes": {
+        "total": 7,
+        "user_ids": [
+          3367994,
+          3133698,
+          3053725,
+          2135591,
+          3173691,
+          3333983,
+          4062670
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_255550674.png",
+          "large": "https://charts.stocktwits.com/production/large_255550674.png",
+          "original": "https://charts.stocktwits.com/production/original_255550674.png",
+          "url": "https://charts.stocktwits.com/production/original_255550674.png"
+        },
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 255549036,
+      "body": "\ud83d\udcc9 \u2668\ufe0f  11/9 Top Decliners Part 2 \u2668\ufe0f \ud83d\udcc9\n\n$LPTX - Healthcare Sector\n$BIIB - Healthcare Sector\n$QDEL - Healthcare Sector\n$APT - Industrials Sector\n$W - Consumer Cyclical Sector\n\n\ud83c\uddfa\ud83c\uddf8 Congrats Bulls  \ud83e\udd73\ud83c\uddfa\ud83c\uddf8 \n \ud83d\udc8e74%+ Swing\ud83d\udea8 For the week \ud83d\ude4c\ud83c\udffb \ud83d\udc8e\n\ud83d\udd25Check out our profile for more info \ud83e\udd1d\n\n\ud83c\udfc6\ud83d\udcdaCongrats everyone \ud83d\udcda\ud83c\udfc6 \n PRTY (26%)  BYFC (5%) FSR (30%+) AYX (4%) QD (9%+)",
+      "created_at": "2020-11-10T05:40:57Z",
+      "user": {
+        "id": 1199940,
+        "username": "Stocks_and_Stacks",
+        "name": "JP",
+        "avatar_url": "https://avatars.stocktwits.com/production/1199940/thumb-1596947168.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1199940/thumb-1596947168.png",
+        "join_date": "2017-09-22",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 5085,
+        "following": 1279,
+        "ideas": 4553,
+        "watchlist_stocks_count": 111,
+        "like_count": 60547,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 28,
+          "symbol": "APT",
+          "title": "Alpha Pro Tech Ltd.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 14390
+        },
+        {
+          "id": 1075,
+          "symbol": "BIIB",
+          "title": "Biogen Idec Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 14437
+        },
+        {
+          "id": 3293,
+          "symbol": "QDEL",
+          "title": "Quidel Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 3166
+        },
+        {
+          "id": 12116,
+          "symbol": "LPTX",
+          "title": "Leap Therapeutics, INC.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 8348
+        },
+        {
+          "id": 12175,
+          "symbol": "W",
+          "title": "Wayfair",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 13403
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          2883769
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "giphy": {
+          "id": "IQ9KefLJHfJPq"
+        },
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255544526,
+      "body": "$CODX $QDEL \nTesting to continue for years to come to see how the vaccines are doing...",
+      "created_at": "2020-11-10T04:39:46Z",
+      "user": {
+        "id": 3407325,
+        "username": "Hacko",
+        "name": "Hanno",
+        "avatar_url": "https://avatars.stocktwits.com/production/3407325/thumb-1597614420.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3407325/thumb-1597614420.png",
+        "join_date": "2020-05-05",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 10,
+        "following": 94,
+        "ideas": 1114,
+        "watchlist_stocks_count": 300,
+        "like_count": 222,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 3293,
+          "symbol": "QDEL",
+          "title": "Quidel Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 3173
+        },
+        {
+          "id": 13657,
+          "symbol": "CODX",
+          "title": "CO Diagnostics Inc",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 36511
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 255544526,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "likes": {
+        "total": 15,
+        "user_ids": [
+          3192301,
+          3160732,
+          384510,
+          593571,
+          3367994,
+          4256959,
+          3159765,
+          1625263,
+          3304982,
+          1589399,
+          648053,
+          3366456,
+          1961934,
+          2135591,
+          203613
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_255544526.png",
+          "large": "https://charts.stocktwits.com/production/large_255544526.png",
+          "original": "https://charts.stocktwits.com/production/original_255544526.png",
+          "url": "https://charts.stocktwits.com/production/original_255544526.png"
+        },
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 255543251,
+      "body": "$QDEL: The EPS has grown by an impressive 277.08% over the past year. https://www.chartmill.com/stock/quote/QDEL/fundamental-analysis?key=6e31cc65-9121-44e7-964c-f994420416c7&amp;utm_source=stocktwits&amp;utm_medium=FA&amp;utm_content=QDEL&amp;utm_campaign=social_tracking",
+      "created_at": "2020-11-10T04:26:00Z",
+      "user": {
+        "id": 47688,
+        "username": "ChartMill",
+        "name": "ChartMill",
+        "avatar_url": "https://avatars.stocktwits.com/production/47688/thumb-1363343728.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/47688/thumb-1363343728.png",
+        "join_date": "2011-01-26",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 22117,
+        "following": 891,
+        "ideas": 1103602,
+        "watchlist_stocks_count": 20,
+        "like_count": 32,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1135,
+        "title": "ChartMill",
+        "url": "http://www.chartmill.com"
+      },
+      "symbols": [
+        {
+          "id": 3293,
+          "symbol": "QDEL",
+          "title": "Quidel Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 3156
+        }
+      ],
+      "links": [
+        {
+          "title": null,
+          "url": "https://www.chartmill.com/stock/quote/QDEL/fundamental-analysis?key=6e31cc65-9121-44e7-964c-f994420416c7&utm_source=stocktwits&utm_medium=FA&utm_content=QDEL&utm_campaign=social_tracking",
+          "shortened_url": "https://www.chartmill.com/stock/quote/QDEL/fundamental-analysis?key=6e31cc65-9121-44e7-964c-f994420416c7&utm_source=stocktwits&utm_medium=FA&utm_content=QDEL&utm_campaign=social_tracking",
+          "shortened_expanded_url": "chartmill.com/stock/quote/Q...",
+          "description": null,
+          "image": null,
+          "created_at": "2020-11-10T04:26:01Z",
+          "video_url": null,
+          "source": {
+            "name": "Chartmill",
+            "website": "https://www.chartmill.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255538535,
+      "body": "$QDEL no doubt qdel is a turd \ud83d\udca9",
+      "created_at": "2020-11-10T03:42:28Z",
+      "user": {
+        "id": 4011302,
+        "username": "Bronxb",
+        "name": "C F I",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2020-08-27",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 1,
+        "following": 0,
+        "ideas": 504,
+        "watchlist_stocks_count": 0,
+        "like_count": 38,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 3293,
+          "symbol": "QDEL",
+          "title": "Quidel Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 3156
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          3109050
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255527485,
+      "body": "$QDEL What a scam. Few months ago went from 250 to 150 and now same 283-175. If that isnt vacuuming your money away dont know what is. Bought 170 calls this AM so recoup some losses on my 260 calls. Both for 2023. Want to stick it to these mothers",
+      "created_at": "2020-11-10T02:13:58Z",
+      "user": {
+        "id": 508739,
+        "username": "rubin1dds",
+        "name": "Jeffrey Rubin",
+        "avatar_url": "https://avatars.stocktwits.com/production/508739/thumb-1588942620.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/508739/thumb-1588942620.png",
+        "join_date": "2015-04-28",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 19,
+        "following": 61,
+        "ideas": 187,
+        "watchlist_stocks_count": 3,
+        "like_count": 1,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 3293,
+          "symbol": "QDEL",
+          "title": "Quidel Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 3156
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 255527485,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "likes": {
+        "total": 5,
+        "user_ids": [
+          3407325,
+          3603464,
+          2928044,
+          2135591,
+          2108815
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255522486,
+      "body": "$QDEL what indexes does this follow?",
+      "created_at": "2020-11-10T01:38:14Z",
+      "user": {
+        "id": 1734702,
+        "username": "ITM_Monte",
+        "name": "SEAN MONTE",
+        "avatar_url": "https://avatars.stocktwits.com/production/1734702/thumb-1552874417.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1734702/thumb-1552874417.png",
+        "join_date": "2018-11-28",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 96,
+        "following": 100,
+        "ideas": 3664,
+        "watchlist_stocks_count": 104,
+        "like_count": 6478,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 3293,
+          "symbol": "QDEL",
+          "title": "Quidel Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 3152
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 255522486,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          811974
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255521364,
+      "body": "Mon Nov 9th\nLosing stocks today:\n\nARCT: -45.4%\nALT: -37.1%\nHGEN: -32.0%\nVXRT: -31.6%\nBIIB: -28.2%\n$QDEL: -28.1%\n$AVIR: -22.9%\n$PRTS: -23.2%\n$FLGT: -22.5%\n$W: -21.9%\n\nclick here for a visual version:\nhttps://thebubbleboard.com/?tickers=ARCT,ALT,HGEN,VXRT,BIIB,QDEL,AVIR,PRTS,FLGT,W&amp;name=Nov%209th%20losers&amp;utm_medium=bot-post",
+      "created_at": "2020-11-10T01:30:33Z",
+      "user": {
+        "id": 3628389,
+        "username": "BubbleBoard",
+        "name": "The Bubble Board",
+        "avatar_url": "https://avatars.stocktwits.com/production/3628389/thumb-1593179485.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3628389/thumb-1593179485.png",
+        "join_date": "2020-06-15",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 2648,
+        "following": 0,
+        "ideas": 2872,
+        "watchlist_stocks_count": 10,
+        "like_count": 46,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5596,
+        "title": "Test App",
+        "url": "https://torchlabs.io"
+      },
+      "symbols": [
+        {
+          "id": 3233,
+          "symbol": "PRTS",
+          "title": "CarParts.com, Inc",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 2174
+        },
+        {
+          "id": 3293,
+          "symbol": "QDEL",
+          "title": "Quidel Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 3152
+        },
+        {
+          "id": 11736,
+          "symbol": "VXRT",
+          "title": "Vaxart Inc",
+          "aliases": [
+            "AVIR"
+          ],
+          "is_following": false,
+          "watchlist_count": 48981
+        },
+        {
+          "id": 12175,
+          "symbol": "W",
+          "title": "Wayfair",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 13393
+        },
+        {
+          "id": 13203,
+          "symbol": "FLGT",
+          "title": "Fulgent Genetics",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 2117
+        }
+      ],
+      "links": [
+        {
+          "title": "The Bubble Board",
+          "url": "https://thebubbleboard.com/?tickers=ARCT,ALT,HGEN,VXRT,BIIB,QDEL,AVIR,PRTS,FLGT,W&name=Nov%209th%20losers&utm_medium=bot-post",
+          "shortened_url": "https://thebubbleboard.com/?tickers=ARCT,ALT,HGEN,VXRT,BIIB,QDEL,AVIR,PRTS,FLGT,W&name=Nov%209th%20losers&utm_medium=bot-post",
+          "shortened_expanded_url": "thebubbleboard.com/?tickers...",
+          "description": "A visual take on watchlists. See what your stocks are doing without hunting through a list of tickers. A better way to follow the stock market.",
+          "image": "https://thebubbleboard.com/images/twitter-card-2.png",
+          "created_at": "2020-11-10T01:30:34Z",
+          "video_url": null,
+          "source": {
+            "name": "Thebubbleboard",
+            "website": "https://thebubbleboard.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_255521364.",
+          "large": "https://charts.stocktwits.com/production/large_255521364.",
+          "original": "https://charts.stocktwits.com/production/original_255521364.",
+          "url": "https://charts.stocktwits.com/production/original_255521364."
+        },
+        "sentiment": null
+      }
+    }
+  ]
+}

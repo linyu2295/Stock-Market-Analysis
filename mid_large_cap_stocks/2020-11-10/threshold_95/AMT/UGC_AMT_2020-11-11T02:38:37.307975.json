@@ -1,0 +1,1906 @@
+{
+  "response": {
+    "status": 200
+  },
+  "symbol": {
+    "id": 4337,
+    "symbol": "AMT",
+    "title": "American Tower Corp.",
+    "aliases": [],
+    "is_following": false,
+    "watchlist_count": 4538
+  },
+  "cursor": {
+    "more": true,
+    "since": 255688449,
+    "max": 254557264
+  },
+  "messages": [
+    {
+      "id": 255688449,
+      "body": "CNBC Halftime Report Final Trades: American Tower, Jumia, Valley National, Disney, CVS\n\nRelated Tickers: $AMT $CVS $DIS $JMIA $VLY",
+      "created_at": "2020-11-10T18:14:57Z",
+      "user": {
+        "id": 3539670,
+        "username": "QuantData",
+        "name": "Quant Data",
+        "avatar_url": "https://avatars.stocktwits.com/production/3539670/thumb-1602473985.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3539670/thumb-1602473985.png",
+        "join_date": "2020-06-03",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 776,
+        "following": 0,
+        "ideas": 12565,
+        "watchlist_stocks_count": 0,
+        "like_count": 20,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5828,
+        "title": "QuantData",
+        "url": "https://quantdata.us"
+      },
+      "symbols": [
+        {
+          "id": 4337,
+          "symbol": "AMT",
+          "title": "American Tower Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 4538
+        },
+        {
+          "id": 4873,
+          "symbol": "CVS",
+          "title": "CVS Caremark Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 19905
+        },
+        {
+          "id": 4983,
+          "symbol": "DIS",
+          "title": "Walt Disney Co.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 178872
+        },
+        {
+          "id": 7650,
+          "symbol": "VLY",
+          "title": "Valley National Bancorp",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 301
+        },
+        {
+          "id": 15152,
+          "symbol": "JMIA",
+          "title": "Jumia Technologies AG",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 18092
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255669386,
+      "body": "$AMT added 235 calls on top of the 240s i already bought last week.  Sold 250 12/11. Thinking we will hear of infrastructure plans from DC by then.",
+      "created_at": "2020-11-10T17:12:50Z",
+      "user": {
+        "id": 631520,
+        "username": "drew72rich",
+        "name": "Drew",
+        "avatar_url": "https://avatars.stocktwits.com/production/631520/thumb-1478473336.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/631520/thumb-1478473336.png",
+        "join_date": "2015-11-11",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 87,
+        "following": 154,
+        "ideas": 5049,
+        "watchlist_stocks_count": 35,
+        "like_count": 5178,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2095,
+        "title": "StockTwits For Android ",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 4337,
+          "symbol": "AMT",
+          "title": "American Tower Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 4538
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 255536156,
+      "body": "Earnings this week: \n\n$LYFT Tue after close \n\n$DIS Thu after close \n\n$AMT Thu after close \n\n$DDOG Thu after close \n\n$DKNG Fri before open",
+      "created_at": "2020-11-10T03:21:27Z",
+      "user": {
+        "id": 382363,
+        "username": "m1chae1",
+        "name": "Options Trader",
+        "avatar_url": "https://avatars.stocktwits.com/production/382363/thumb-1591326992.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/382363/thumb-1591326992.png",
+        "join_date": "2014-07-31",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 2443,
+        "following": 0,
+        "ideas": 9302,
+        "watchlist_stocks_count": 48,
+        "like_count": 9926,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 4337,
+          "symbol": "AMT",
+          "title": "American Tower Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 4538
+        },
+        {
+          "id": 4983,
+          "symbol": "DIS",
+          "title": "Walt Disney Co.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 178818
+        },
+        {
+          "id": 12535,
+          "symbol": "LYFT",
+          "title": "Lyft, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 29972
+        },
+        {
+          "id": 15399,
+          "symbol": "DDOG",
+          "title": "DATADOG, INC.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 11351
+        },
+        {
+          "id": 15497,
+          "symbol": "DKNG",
+          "title": "DraftKings",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 49129
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 255536156,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 2
+      },
+      "likes": {
+        "total": 7,
+        "user_ids": [
+          3064337,
+          3323622,
+          3154027,
+          1411969,
+          1451956,
+          3980893,
+          3933265
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255471035,
+      "body": "Your daily News digest for American Tower Corporation $AMT https://wsfriend.com/daily/news/AMT/2020-11-09/",
+      "created_at": "2020-11-09T21:54:05Z",
+      "user": {
+        "id": 732840,
+        "username": "WallStreetFriend",
+        "name": "Wall Street Friend",
+        "avatar_url": "https://avatars.stocktwits.com/production/732840/thumb-1577167895.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/732840/thumb-1577167895.png",
+        "join_date": "2016-04-17",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 563,
+        "following": 39,
+        "ideas": 73666,
+        "watchlist_stocks_count": 31,
+        "like_count": 94,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5142,
+        "title": "Programmatic Alerts ",
+        "url": "https://wsfriend.com"
+      },
+      "symbols": [
+        {
+          "id": 4337,
+          "symbol": "AMT",
+          "title": "American Tower Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 4533
+        }
+      ],
+      "links": [
+        {
+          "title": "AMT Trending News and Daily News Digest for on Nov 09, 2020",
+          "url": "https://wsfriend.com/daily/news/AMT/2020-11-09/",
+          "shortened_url": "https://wsfriend.com/daily/news/AMT/2020-11-09/",
+          "shortened_expanded_url": "wsfriend.com/daily/news/AMT...",
+          "description": "AMT Dail News Digest and Top trending news for",
+          "image": null,
+          "created_at": "2020-11-09T21:54:06Z",
+          "video_url": null,
+          "source": {
+            "name": "Wsfriend",
+            "website": "https://wsfriend.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255444432,
+      "body": "$AMT Bloody hell. What happened? 17pt drop over the course of the day when all other REITS are going crazy??",
+      "created_at": "2020-11-09T20:56:24Z",
+      "user": {
+        "id": 3397966,
+        "username": "xtremdelt8",
+        "name": "Randall P. Floyd",
+        "avatar_url": "https://avatars.stocktwits.com/production/3397966/thumb-1592842910.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3397966/thumb-1592842910.png",
+        "join_date": "2020-05-03",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 10,
+        "following": 13,
+        "ideas": 1305,
+        "watchlist_stocks_count": 26,
+        "like_count": 417,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2095,
+        "title": "StockTwits For Android ",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 4337,
+          "symbol": "AMT",
+          "title": "American Tower Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 4533
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 255444432,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255443591,
+      "body": "2020-11-09 20:54:29+00:00 $ABCM, $ALNY, $AMT, $BHVN, $CDNS, $DGX    Bearish Move",
+      "created_at": "2020-11-09T20:54:29Z",
+      "user": {
+        "id": 4246761,
+        "username": "Whathealert",
+        "name": "Whathealert",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2020-10-29",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 26,
+        "following": 0,
+        "ideas": 1173,
+        "watchlist_stocks_count": 40,
+        "like_count": 0,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5846,
+        "title": "ConfluxBot",
+        "url": "https://app.confluxbot.com"
+      },
+      "symbols": [
+        {
+          "id": 808,
+          "symbol": "ALNY",
+          "title": "Alnylam Pharmaceuticals, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 3614
+        },
+        {
+          "id": 1249,
+          "symbol": "CDNS",
+          "title": "Cadence Design Systems Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1674
+        },
+        {
+          "id": 4337,
+          "symbol": "AMT",
+          "title": "American Tower Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 4533
+        },
+        {
+          "id": 4969,
+          "symbol": "DGX",
+          "title": "Quest Diagnostics Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 2448
+        },
+        {
+          "id": 13572,
+          "symbol": "BHVN",
+          "title": "Biohaven Pharmaceutical Holding Co Ltd",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1410
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255416823,
+      "body": "@Mini_Tradez you are the MAN I&#39;ve made $450 on $AMT since I got your alert!!",
+      "created_at": "2020-11-09T19:38:40Z",
+      "user": {
+        "id": 3339204,
+        "username": "Viewpoint54",
+        "name": "Matt Pope",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2020-04-21",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 0,
+        "following": 7,
+        "ideas": 59,
+        "watchlist_stocks_count": 0,
+        "like_count": 47,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 4337,
+          "symbol": "AMT",
+          "title": "American Tower Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 4533
+        }
+      ],
+      "mentioned_users": [
+        "@Mini_Tradez"
+      ],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255376586,
+      "body": "$AMT $KLAC $LRCX all benefit from Biden-Xi good relation",
+      "created_at": "2020-11-09T17:43:31Z",
+      "user": {
+        "id": 18027,
+        "username": "lara",
+        "name": "lara",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2010-06-30",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 84,
+        "following": 251,
+        "ideas": 3614,
+        "watchlist_stocks_count": 49,
+        "like_count": 4174,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 2429,
+          "symbol": "KLAC",
+          "title": "KLA-Tencor Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1859
+        },
+        {
+          "id": 2548,
+          "symbol": "LRCX",
+          "title": "Lam Research Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 10482
+        },
+        {
+          "id": 4337,
+          "symbol": "AMT",
+          "title": "American Tower Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 4533
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 255376586,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 255355200,
+      "body": "NYC-Exposed Stocks Soar as Vaccine Promises an Eventual Recovery  $JPM $BAC $AMH $AMT $EQIX \n\nhttps://newsfilter.io/a/92e3db230bdf83253d67864f57b24748",
+      "created_at": "2020-11-09T16:45:09Z",
+      "user": {
+        "id": 2762379,
+        "username": "Newsfilter",
+        "name": "@newsfilterio",
+        "avatar_url": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "join_date": "2019-09-01",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 7606,
+        "following": 16,
+        "ideas": 620114,
+        "watchlist_stocks_count": 1,
+        "like_count": 531,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 1759,
+          "symbol": "EQIX",
+          "title": "Equinix, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1994
+        },
+        {
+          "id": 4337,
+          "symbol": "AMT",
+          "title": "American Tower Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 4538
+        },
+        {
+          "id": 4438,
+          "symbol": "BAC",
+          "title": "Bank of America Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 106706
+        },
+        {
+          "id": 6020,
+          "symbol": "JPM",
+          "title": "JPMorgan Chase & Co.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 58695
+        },
+        {
+          "id": 11772,
+          "symbol": "AMH",
+          "title": "American Homes 4 Rent",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 315
+        }
+      ],
+      "links": [
+        {
+          "title": "NYC-Exposed Stocks Soar as Vaccine Promises an Eventual Recovery",
+          "url": "https://newsfilter.io/a/92e3db230bdf83253d67864f57b24748",
+          "shortened_url": "https://newsfilter.io/a/92e3db230bdf83253d67864f57b24748",
+          "shortened_expanded_url": "newsfilter.io/a/92e3db230bd...",
+          "description": "Beaten-down stocks with the most direct exposure to New York City rallied on hopeful Covid-19 vaccine news and as President-elect Joe Biden moved ahead with plans for his incoming administration.",
+          "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i_g3IbEP.Ktc/v1/-1x-1.jpg",
+          "created_at": "2020-11-09T16:45:10Z",
+          "video_url": null,
+          "source": {
+            "name": "Newsfilter",
+            "website": "https://newsfilter.io"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_255355200.jpg",
+          "large": "https://charts.stocktwits.com/production/large_255355200.jpg",
+          "original": "https://charts.stocktwits.com/production/original_255355200.jpg",
+          "url": "https://charts.stocktwits.com/production/original_255355200.jpg"
+        },
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255252046,
+      "body": "$AMT NEW ARTICLE : How Big Can a REIT Get? https://www.stck.pro/news/AMT/9007981",
+      "created_at": "2020-11-09T12:44:20Z",
+      "user": {
+        "id": 1555408,
+        "username": "STCKPRO",
+        "name": "STCK.PRO",
+        "avatar_url": "https://avatars.stocktwits.com/production/1555408/thumb-1576077822.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1555408/thumb-1576077822.png",
+        "join_date": "2018-07-24",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 4465,
+        "following": 2,
+        "ideas": 275496,
+        "watchlist_stocks_count": 18,
+        "like_count": 52,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5011,
+        "title": "STCK.PRO",
+        "url": "https://dashboard.stck.pro"
+      },
+      "symbols": [
+        {
+          "id": 4337,
+          "symbol": "AMT",
+          "title": "American Tower Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 4537
+        }
+      ],
+      "links": [
+        {
+          "title": "American Tower (REIT) (AMT)",
+          "url": "https://www.stck.pro/news/AMT/9007981",
+          "shortened_url": "https://www.stck.pro/news/AMT/9007981",
+          "shortened_expanded_url": "stck.pro/news/AMT",
+          "description": "Never miss an important article again, stay on top of your investments and become a better investor today! Get your moat on and sync your watchlist with Stocktwits and get all the latest news for your symbols. Sync with Stocktwits",
+          "image": "https://www.stck.pro/img/imac.png",
+          "created_at": "2020-11-09T12:44:22Z",
+          "video_url": null,
+          "source": {
+            "name": "Stck",
+            "website": "https://www.stck.pro"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_255252046.jpg",
+          "large": "https://charts.stocktwits.com/production/large_255252046.jpg",
+          "original": "https://charts.stocktwits.com/production/original_255252046.jpg",
+          "url": "https://charts.stocktwits.com/production/original_255252046.jpg"
+        },
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255170035,
+      "body": "Your daily News digest for American Tower Corporation $AMT https://wsfriend.com/daily/news/AMT/2020-11-08/",
+      "created_at": "2020-11-08T21:51:52Z",
+      "user": {
+        "id": 732840,
+        "username": "WallStreetFriend",
+        "name": "Wall Street Friend",
+        "avatar_url": "https://avatars.stocktwits.com/production/732840/thumb-1577167895.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/732840/thumb-1577167895.png",
+        "join_date": "2016-04-17",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 563,
+        "following": 39,
+        "ideas": 73666,
+        "watchlist_stocks_count": 31,
+        "like_count": 94,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5142,
+        "title": "Programmatic Alerts ",
+        "url": "https://wsfriend.com"
+      },
+      "symbols": [
+        {
+          "id": 4337,
+          "symbol": "AMT",
+          "title": "American Tower Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 4533
+        }
+      ],
+      "links": [
+        {
+          "title": "AMT Trending News and Daily News Digest for on Nov 08, 2020",
+          "url": "https://wsfriend.com/daily/news/AMT/2020-11-08/",
+          "shortened_url": "https://wsfriend.com/daily/news/AMT/2020-11-08/",
+          "shortened_expanded_url": "wsfriend.com/daily/news/AMT...",
+          "description": "AMT Dail News Digest and Top trending news for",
+          "image": null,
+          "created_at": "2020-11-08T21:51:52Z",
+          "video_url": null,
+          "source": {
+            "name": "Wsfriend",
+            "website": "https://wsfriend.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255078908,
+      "body": "Your daily News digest for American Tower Corporation $AMT https://wsfriend.com/daily/news/AMT/2020-11-07/",
+      "created_at": "2020-11-07T21:51:49Z",
+      "user": {
+        "id": 732840,
+        "username": "WallStreetFriend",
+        "name": "Wall Street Friend",
+        "avatar_url": "https://avatars.stocktwits.com/production/732840/thumb-1577167895.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/732840/thumb-1577167895.png",
+        "join_date": "2016-04-17",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 563,
+        "following": 39,
+        "ideas": 73666,
+        "watchlist_stocks_count": 31,
+        "like_count": 94,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5142,
+        "title": "Programmatic Alerts ",
+        "url": "https://wsfriend.com"
+      },
+      "symbols": [
+        {
+          "id": 4337,
+          "symbol": "AMT",
+          "title": "American Tower Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 4533
+        }
+      ],
+      "links": [
+        {
+          "title": "AMT Trending News and Daily News Digest for on Nov 07, 2020",
+          "url": "https://wsfriend.com/daily/news/AMT/2020-11-07/",
+          "shortened_url": "https://wsfriend.com/daily/news/AMT/2020-11-07/",
+          "shortened_expanded_url": "wsfriend.com/daily/news/AMT...",
+          "description": "AMT Dail News Digest and Top trending news for",
+          "image": null,
+          "created_at": "2020-11-07T21:51:50Z",
+          "video_url": null,
+          "source": {
+            "name": "Wsfriend",
+            "website": "https://wsfriend.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255026887,
+      "body": "AmericanTower $AMT BidaskScore is Downgraded to Sold https://bidaskclub.com/news/company/2020-11-06/AMT",
+      "created_at": "2020-11-07T10:36:04Z",
+      "user": {
+        "id": 1177001,
+        "username": "BidaskBot",
+        "name": "BidaskBot",
+        "avatar_url": "https://avatars.stocktwits.com/production/1177001/thumb-1504377126.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1177001/thumb-1504377126.png",
+        "join_date": "2017-09-02",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 1089,
+        "following": 21,
+        "ideas": 69691,
+        "watchlist_stocks_count": 20,
+        "like_count": 1009,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 3725,
+        "title": "BidaskBot",
+        "url": "https://bidaskclub.com"
+      },
+      "symbols": [
+        {
+          "id": 4337,
+          "symbol": "AMT",
+          "title": "American Tower Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 4535
+        }
+      ],
+      "links": [
+        {
+          "title": "BidaskClub.com - See where people invest",
+          "url": "https://bidaskclub.com/news/company/2020-11-06/AMT",
+          "shortened_url": "https://bidaskclub.com/news/company/2020-11-06/AMT",
+          "shortened_expanded_url": "bidaskclub.com/news/company...",
+          "description": "Use the proprietary BidaskScore to see where people invest. Use the market heatmap and market screener to explore the US equity stock market",
+          "image": null,
+          "created_at": "2020-11-07T10:36:05Z",
+          "video_url": null,
+          "source": {
+            "name": "Bidaskclub",
+            "website": "https://bidaskclub.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_255026887.png",
+          "large": "https://charts.stocktwits.com/production/large_255026887.png",
+          "original": "https://charts.stocktwits.com/production/original_255026887.png",
+          "url": "https://charts.stocktwits.com/production/original_255026887.png"
+        },
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255001469,
+      "body": "$MRVL and $AMT will crush the next 5-15 years",
+      "created_at": "2020-11-07T01:33:08Z",
+      "user": {
+        "id": 3436998,
+        "username": "NarraInvestments",
+        "name": "DSR",
+        "avatar_url": "https://avatars.stocktwits.com/production/3436998/thumb-1589548291.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3436998/thumb-1589548291.png",
+        "join_date": "2020-05-11",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 61,
+        "following": 61,
+        "ideas": 1933,
+        "watchlist_stocks_count": 41,
+        "like_count": 3349,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 2728,
+          "symbol": "MRVL",
+          "title": "Marvell Technology Group Ltd.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 11071
+        },
+        {
+          "id": 4337,
+          "symbol": "AMT",
+          "title": "American Tower Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 4533
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 255001469,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 2
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255000592,
+      "body": "$AMT Monthly. Nice longterm entry.",
+      "created_at": "2020-11-07T01:24:50Z",
+      "user": {
+        "id": 1212677,
+        "username": "s2convt",
+        "name": "S2convt",
+        "avatar_url": "https://avatars.stocktwits.com/production/1212677/thumb-1561030757.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1212677/thumb-1561030757.png",
+        "join_date": "2017-10-04",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 81,
+        "following": 9,
+        "ideas": 2787,
+        "watchlist_stocks_count": 22,
+        "like_count": 188,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 4337,
+          "symbol": "AMT",
+          "title": "American Tower Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 4533
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_255000592.png",
+          "large": "https://charts.stocktwits.com/production/large_255000592.png",
+          "original": "https://charts.stocktwits.com/production/original_255000592.png",
+          "url": "https://charts.stocktwits.com/production/original_255000592.png"
+        },
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 254970292,
+      "body": "Your daily News digest for American Tower Corporation $AMT https://wsfriend.com/daily/news/AMT/2020-11-06/",
+      "created_at": "2020-11-06T21:52:42Z",
+      "user": {
+        "id": 732840,
+        "username": "WallStreetFriend",
+        "name": "Wall Street Friend",
+        "avatar_url": "https://avatars.stocktwits.com/production/732840/thumb-1577167895.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/732840/thumb-1577167895.png",
+        "join_date": "2016-04-17",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 563,
+        "following": 39,
+        "ideas": 73666,
+        "watchlist_stocks_count": 31,
+        "like_count": 94,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5142,
+        "title": "Programmatic Alerts ",
+        "url": "https://wsfriend.com"
+      },
+      "symbols": [
+        {
+          "id": 4337,
+          "symbol": "AMT",
+          "title": "American Tower Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 4533
+        }
+      ],
+      "links": [
+        {
+          "title": "AMT Trending News and Daily News Digest for on Nov 06, 2020",
+          "url": "https://wsfriend.com/daily/news/AMT/2020-11-06/",
+          "shortened_url": "https://wsfriend.com/daily/news/AMT/2020-11-06/",
+          "shortened_expanded_url": "wsfriend.com/daily/news/AMT...",
+          "description": "AMT Dail News Digest and Top trending news for",
+          "image": null,
+          "created_at": "2020-11-06T21:52:42Z",
+          "video_url": null,
+          "source": {
+            "name": "Wsfriend",
+            "website": "https://wsfriend.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254967558,
+      "body": "How does this affect your portfolio? $AMT MACD Histogram just turned positive. View odds of uptrend. https://srnk.us/go/2289410",
+      "created_at": "2020-11-06T21:38:58Z",
+      "user": {
+        "id": 967528,
+        "username": "tickeron",
+        "name": "Tickeron",
+        "avatar_url": "https://avatars.stocktwits.com/production/967528/thumb-1492026736.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/967528/thumb-1492026736.png",
+        "join_date": "2017-02-23",
+        "official": true,
+        "identity": "Official",
+        "classification": [
+          "official"
+        ],
+        "followers": 3948,
+        "following": 108,
+        "ideas": 437092,
+        "watchlist_stocks_count": 0,
+        "like_count": 0,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5810,
+        "title": "Tickeron",
+        "url": "https://tickeron.com"
+      },
+      "symbols": [
+        {
+          "id": 4337,
+          "symbol": "AMT",
+          "title": "American Tower Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 4533
+        }
+      ],
+      "links": [
+        {
+          "title": "Tickeron - A.I. Trading With Odds of Success",
+          "url": "https://srnk.us/go/2289410",
+          "shortened_url": "https://srnk.us/go/2289410",
+          "shortened_expanded_url": "tickeron.com/news/7798172-a...",
+          "description": "Our A.I.-powered algorithms generate and verify trade ideas. Invest in trends, trade with patterns, and analyze Stocks, ETFs, Mutual Funds, FOREX, Cryptos.",
+          "image": "https://tickeron.com/Img/Seo/main.png",
+          "created_at": "2020-11-06T21:38:59Z",
+          "video_url": null,
+          "source": {
+            "name": "Tickeron Inc.",
+            "website": "https://tickeron.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_254967558.",
+          "large": "https://charts.stocktwits.com/production/large_254967558.",
+          "original": "https://charts.stocktwits.com/production/original_254967558.",
+          "url": "https://charts.stocktwits.com/production/original_254967558."
+        },
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 254948616,
+      "body": "2020-11-06 20:30:54+00:00 $AMT, $ASML, $CMBM, $DMYD, $KMB, $NUAN    Bullish Move",
+      "created_at": "2020-11-06T20:30:54Z",
+      "user": {
+        "id": 4246761,
+        "username": "Whathealert",
+        "name": "Whathealert",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2020-10-29",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 26,
+        "following": 0,
+        "ideas": 1116,
+        "watchlist_stocks_count": 40,
+        "like_count": 0,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5846,
+        "title": "ConfluxBot",
+        "url": "https://app.confluxbot.com"
+      },
+      "symbols": [
+        {
+          "id": 946,
+          "symbol": "ASML",
+          "title": "ASML Holding NV",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 2677
+        },
+        {
+          "id": 2917,
+          "symbol": "NUAN",
+          "title": "Nuance Communications, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 2601
+        },
+        {
+          "id": 4337,
+          "symbol": "AMT",
+          "title": "American Tower Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 4533
+        },
+        {
+          "id": 6089,
+          "symbol": "KMB",
+          "title": "Kimberly-Clark Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 2726
+        },
+        {
+          "id": 15288,
+          "symbol": "CMBM",
+          "title": "Cambium Networks Corp",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 389
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254946930,
+      "body": "$TMUS $AMT $CCI $FIVG  #5G",
+      "created_at": "2020-11-06T20:24:24Z",
+      "user": {
+        "id": 349618,
+        "username": "InItToWinIt100",
+        "name": "InItToWinIt",
+        "avatar_url": "https://avatars.stocktwits.com/production/349618/thumb-1477664093.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/349618/thumb-1477664093.png",
+        "join_date": "2014-05-02",
+        "official": false,
+        "identity": "User",
+        "classification": [
+          "suggested"
+        ],
+        "followers": 2382,
+        "following": 72,
+        "ideas": 15688,
+        "watchlist_stocks_count": 90,
+        "like_count": 3769,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1554,
+        "title": "eSignal Desktop",
+        "url": "http://www.esignal.com/"
+      },
+      "symbols": [
+        {
+          "id": 4337,
+          "symbol": "AMT",
+          "title": "American Tower Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 4533
+        },
+        {
+          "id": 4678,
+          "symbol": "CCI",
+          "title": "Crown Castle International Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 3255
+        },
+        {
+          "id": 11451,
+          "symbol": "TMUS",
+          "title": "T-Mobile US, Inc. ",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 13975
+        },
+        {
+          "id": 15157,
+          "symbol": "FIVG",
+          "title": "Defiance Next Gen Connectivity ETF ",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1168
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_254946930.png",
+          "large": "https://charts.stocktwits.com/production/large_254946930.png",
+          "original": "https://charts.stocktwits.com/production/original_254946930.png",
+          "url": "https://charts.stocktwits.com/production/original_254946930.png"
+        },
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254932022,
+      "body": "2020-11-06 19:28:00+00:00 $AMT, $AMWL, $KMB    Moving",
+      "created_at": "2020-11-06T19:28:00Z",
+      "user": {
+        "id": 4246761,
+        "username": "Whathealert",
+        "name": "Whathealert",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2020-10-29",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 26,
+        "following": 0,
+        "ideas": 1060,
+        "watchlist_stocks_count": 40,
+        "like_count": 0,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5846,
+        "title": "ConfluxBot",
+        "url": "https://app.confluxbot.com"
+      },
+      "symbols": [
+        {
+          "id": 4337,
+          "symbol": "AMT",
+          "title": "American Tower Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 4533
+        },
+        {
+          "id": 6089,
+          "symbol": "KMB",
+          "title": "Kimberly-Clark Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 2726
+        },
+        {
+          "id": 15902,
+          "symbol": "AMWL",
+          "title": "American Well Corp ",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 2447
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254870431,
+      "body": "$AMT NEW ARTICLE : Got $3,000? Here&#39;s 3 Top 5G Stocks to Buy in November https://www.stck.pro/news/AMT/8972441",
+      "created_at": "2020-11-06T15:50:45Z",
+      "user": {
+        "id": 1555408,
+        "username": "STCKPRO",
+        "name": "STCK.PRO",
+        "avatar_url": "https://avatars.stocktwits.com/production/1555408/thumb-1576077822.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1555408/thumb-1576077822.png",
+        "join_date": "2018-07-24",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 4477,
+        "following": 2,
+        "ideas": 275910,
+        "watchlist_stocks_count": 18,
+        "like_count": 52,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5011,
+        "title": "STCK.PRO",
+        "url": "https://dashboard.stck.pro"
+      },
+      "symbols": [
+        {
+          "id": 4337,
+          "symbol": "AMT",
+          "title": "American Tower Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 4538
+        }
+      ],
+      "links": [
+        {
+          "title": null,
+          "url": "https://www.stck.pro/news/AMT/8972441",
+          "shortened_url": "https://www.stck.pro/news/AMT/8972441",
+          "shortened_expanded_url": "stck.pro/news/AMT/8972441",
+          "description": null,
+          "image": null,
+          "created_at": "2020-11-06T15:50:59Z",
+          "video_url": null,
+          "source": {
+            "name": "Stck",
+            "website": "http://www.stck.pro"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_254870431.jpg",
+          "large": "https://charts.stocktwits.com/production/large_254870431.jpg",
+          "original": "https://charts.stocktwits.com/production/original_254870431.jpg",
+          "url": "https://charts.stocktwits.com/production/original_254870431.jpg"
+        },
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254820129,
+      "body": "$AMT Form 8-K: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers. On November 2, 2020, Amit Sharma commu.. https://newsfilter.io/a/17e40e6084cc6c3bb3eeca69f0e3ef9d",
+      "created_at": "2020-11-06T13:08:19Z",
+      "user": {
+        "id": 2762379,
+        "username": "Newsfilter",
+        "name": "@newsfilterio",
+        "avatar_url": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "join_date": "2019-09-01",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 7601,
+        "following": 16,
+        "ideas": 619495,
+        "watchlist_stocks_count": 1,
+        "like_count": 531,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 4337,
+          "symbol": "AMT",
+          "title": "American Tower Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 4538
+        }
+      ],
+      "links": [
+        {
+          "title": "8-K Form - Current report, item 5.02 - AMERICAN TOWER CORP /MA/ (0001053507) (Filer)",
+          "url": "https://newsfilter.io/a/17e40e6084cc6c3bb3eeca69f0e3ef9d",
+          "shortened_url": "https://newsfilter.io/a/17e40e6084cc6c3bb3eeca69f0e3ef9d",
+          "shortened_expanded_url": "newsfilter.io/a/17e40e6084c...",
+          "description": "amt-20201102 SECURITIES AND EXCHANGE COMMISSION TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 Date of Report (Date of Earliest Event Reported): November 2, 2020 AMERICAN TOWER CORPORATION (Exact Name of Registrant as Specified in Charter) (Address of Principal Executive Offices) (Zip Code) (Registrant's telephone number, including area code) (Former name or former address, if changed since last report.)",
+          "image": "https://newsfilter.io/meta-images/?url=https://storage.googleapis.com/iex/api/logos/AMT.png",
+          "created_at": "2020-11-06T13:08:20Z",
+          "video_url": null,
+          "source": {
+            "name": "Newsfilter",
+            "website": "https://newsfilter.io"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254819980,
+      "body": "Departure of Directors or Certain  http://www.conferencecalltranscripts.org/8/summary/?id=8528118 $AMT",
+      "created_at": "2020-11-06T13:07:40Z",
+      "user": {
+        "id": 210967,
+        "username": "cctranscripts",
+        "name": "Conference Call Transcripts",
+        "avatar_url": "https://avatars.stocktwits.com/production/210967/thumb-1363372333.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/210967/thumb-1363372333.png",
+        "join_date": "2013-01-30",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 6362,
+        "following": 10,
+        "ideas": 2375285,
+        "watchlist_stocks_count": 0,
+        "like_count": 758,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1130,
+        "title": "cctranscripts",
+        "url": "http://conferencecalltranscripts.org"
+      },
+      "symbols": [
+        {
+          "id": 4337,
+          "symbol": "AMT",
+          "title": "American Tower Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 4538
+        }
+      ],
+      "links": [
+        {
+          "title": "Conference Call Transcripts",
+          "url": "http://www.conferencecalltranscripts.org/8/summary/?id=8528118",
+          "shortened_url": "http://www.conferencecalltranscripts.org/8/summary/?id=8528118",
+          "shortened_expanded_url": "conferencecalltranscripts.o...",
+          "description": "Get notified next time AMT.US makes a similar move! (b)On November 2, 2020, Amit Sharma communicated his intention to resign from his role as American Tower Corporations (the Company) Executive Vice President and President of the Asia region, effective February 28, 2021 and, thereafter, serve as Special Advisor to the Companys Asia region, and retire on July 1, 2021.",
+          "image": null,
+          "created_at": "2020-11-06T13:07:40Z",
+          "video_url": null,
+          "source": {
+            "name": "Conferencecalltranscripts",
+            "website": "http://www.conferencecalltranscripts.org"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254819673,
+      "body": "$AMT just filed with the SEC a Event for Officers https://last10k.com/sec-filings/amt/0001053507-20-000165.htm?utm_source=stocktwits&amp;utm_medium=forum&amp;utm_campaign=8K&amp;utm_term=amt",
+      "created_at": "2020-11-06T13:06:20Z",
+      "user": {
+        "id": 1409376,
+        "username": "Last10K",
+        "name": "Last10K.com",
+        "avatar_url": "https://avatars.stocktwits.com/production/1409376/thumb-1559672751.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1409376/thumb-1559672751.png",
+        "join_date": "2018-02-13",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 1286,
+        "following": 0,
+        "ideas": 235094,
+        "watchlist_stocks_count": 0,
+        "like_count": 362,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 3968,
+        "title": "Last10K",
+        "url": "https://last10k.com"
+      },
+      "symbols": [
+        {
+          "id": 4337,
+          "symbol": "AMT",
+          "title": "American Tower Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 4538
+        }
+      ],
+      "links": [
+        {
+          "title": "American Tower Corp (AMT) 10K Annual Reports & 10Q SEC Filings | Last10K",
+          "url": "https://last10k.com/sec-filings/amt/0001053507-20-000165.htm?utm_source=stocktwits&utm_medium=forum&utm_campaign=8K&utm_term=amt",
+          "shortened_url": "https://last10k.com/sec-filings/amt/0001053507-20-000165.htm?utm_source=stocktwits&utm_medium=forum&utm_campaign=8K&utm_term=amt",
+          "shortened_expanded_url": "last10k.com/sec-filings/amt",
+          "description": "Vice President, Investor Relations Telephone: (617) 375-7500 AMERICAN TOWER CORPORATION REPORTS FOURTH QUARTER AND FULL YEAR 2019 FINANCIAL RESULTS Q4 2019 and full year 2019 growth rates were impacted by the nonrecurrence of the Company's settlement with Tata Teleservices Limited and related entities (collectively, \"Tata\"), which resulted in a net positive impact of $334 million to property revenue, $327 million to Adjusted EBITDA and $313 million to Consolidated AFFO in Q4 2018.",
+          "image": "https://last10k.com/sec-filings/report/1053507/000105350720000025/atclogoa47.jpg",
+          "created_at": "2020-11-06T13:06:23Z",
+          "video_url": null,
+          "source": {
+            "name": "Last10k",
+            "website": "https://last10k.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254819137,
+      "body": "$AMT [15s. delayed] filed form 8-K on November 06, 08:02:31: Item5.02: Departure of Election 0f Officers or Compensatory Arrangements https://s.flashalert.me/mmEBf",
+      "created_at": "2020-11-06T13:03:40Z",
+      "user": {
+        "id": 595702,
+        "username": "fla",
+        "name": "FlashAlert_me",
+        "avatar_url": "https://avatars.stocktwits.com/production/595702/thumb-1550769466.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/595702/thumb-1550769466.png",
+        "join_date": "2015-09-09",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 2680,
+        "following": 60,
+        "ideas": 732896,
+        "watchlist_stocks_count": 0,
+        "like_count": 4,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 4622,
+        "title": "FlashAlert",
+        "url": "https://flashalert.me/"
+      },
+      "symbols": [
+        {
+          "id": 4337,
+          "symbol": "AMT",
+          "title": "American Tower Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 4538
+        }
+      ],
+      "links": [
+        {
+          "title": "Flash Alert",
+          "url": "https://s.flashalert.me/mmEBf",
+          "shortened_url": "https://s.flashalert.me/mmEBf",
+          "shortened_expanded_url": "sec.gov/Archives/edgar/data...",
+          "description": "Real-time alerts about equities, ETFs, cryptocurrencies and more sent to any device",
+          "image": null,
+          "created_at": "2020-11-06T13:03:41Z",
+          "video_url": null,
+          "source": {
+            "name": "Flashalert",
+            "website": "https://flashalert.me"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254712203,
+      "body": "Your daily News digest for American Tower Corporation $AMT https://wsfriend.com/daily/news/AMT/2020-11-05/",
+      "created_at": "2020-11-05T21:54:24Z",
+      "user": {
+        "id": 732840,
+        "username": "WallStreetFriend",
+        "name": "Wall Street Friend",
+        "avatar_url": "https://avatars.stocktwits.com/production/732840/thumb-1577167895.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/732840/thumb-1577167895.png",
+        "join_date": "2016-04-17",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 563,
+        "following": 39,
+        "ideas": 73666,
+        "watchlist_stocks_count": 31,
+        "like_count": 94,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5142,
+        "title": "Programmatic Alerts ",
+        "url": "https://wsfriend.com"
+      },
+      "symbols": [
+        {
+          "id": 4337,
+          "symbol": "AMT",
+          "title": "American Tower Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 4533
+        }
+      ],
+      "links": [
+        {
+          "title": "AMT Trending News and Daily News Digest for on Nov 05, 2020",
+          "url": "https://wsfriend.com/daily/news/AMT/2020-11-05/",
+          "shortened_url": "https://wsfriend.com/daily/news/AMT/2020-11-05/",
+          "shortened_expanded_url": "wsfriend.com/daily/news/AMT...",
+          "description": "AMT Dail News Digest and Top trending news for",
+          "image": "https://static.seekingalpha.com/uploads/2020/11/3/51440321-16043958876385162_origin.png",
+          "created_at": "2020-11-05T21:54:25Z",
+          "video_url": null,
+          "source": {
+            "name": "Wsfriend",
+            "website": "https://wsfriend.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254704246,
+      "body": "$AMT Has been my top growth stock for a while, and not getting the attention it deserves.",
+      "created_at": "2020-11-05T21:32:09Z",
+      "user": {
+        "id": 1419037,
+        "username": "lukathius",
+        "name": "Luke Gentil",
+        "avatar_url": "https://avatars.stocktwits.com/production/1419037/thumb-1519914398.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1419037/thumb-1519914398.png",
+        "join_date": "2018-02-21",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 32,
+        "following": 17,
+        "ideas": 631,
+        "watchlist_stocks_count": 3,
+        "like_count": 643,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 4337,
+          "symbol": "AMT",
+          "title": "American Tower Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 4533
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 254572051,
+      "body": "$AMT Steven O Vondran sold 1,500 shares [Very Low Conviction] www.insider-analysis.com/search_transactions.php?ticker=TABLE_AMT",
+      "created_at": "2020-11-05T14:29:32Z",
+      "user": {
+        "id": 2965453,
+        "username": "Insider_Analysis",
+        "name": "Insider Analysis",
+        "avatar_url": "https://avatars.stocktwits.com/production/2965453/thumb-1583012785.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2965453/thumb-1583012785.png",
+        "join_date": "2019-12-13",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 691,
+        "following": 0,
+        "ideas": 31707,
+        "watchlist_stocks_count": 15,
+        "like_count": 22,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5476,
+        "title": "Insider Analysis",
+        "url": "http://www.insider-analysis.com/"
+      },
+      "symbols": [
+        {
+          "id": 4337,
+          "symbol": "AMT",
+          "title": "American Tower Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 4538
+        }
+      ],
+      "links": [
+        {
+          "title": "Insider Analysis",
+          "url": "www.insider-analysis.com/search_transactions.php?ticker=TABLE_AMT",
+          "shortened_url": "www.insider-analysis.com/search_transactions.php?ticker=TABLE_AMT",
+          "shortened_expanded_url": "insider-analysis.com/search...",
+          "description": "InsiderAnalysis - Trade ideas from insider activities INSIDER ANALYSIS, INC .",
+          "image": null,
+          "created_at": "2020-11-05T14:29:33Z",
+          "video_url": null,
+          "source": {
+            "name": "Insider-analysis",
+            "website": "https://insider-analysis.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254567544,
+      "body": "$AMT NEW ARTICLE : American Tower enters Canada, gears up for 5G with $3.5B InSite acquisition https://www.stck.pro/news/AMT/8949846",
+      "created_at": "2020-11-05T14:12:24Z",
+      "user": {
+        "id": 1555408,
+        "username": "STCKPRO",
+        "name": "STCK.PRO",
+        "avatar_url": "https://avatars.stocktwits.com/production/1555408/thumb-1576077822.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1555408/thumb-1576077822.png",
+        "join_date": "2018-07-24",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 4471,
+        "following": 2,
+        "ideas": 275786,
+        "watchlist_stocks_count": 18,
+        "like_count": 52,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5011,
+        "title": "STCK.PRO",
+        "url": "https://dashboard.stck.pro"
+      },
+      "symbols": [
+        {
+          "id": 4337,
+          "symbol": "AMT",
+          "title": "American Tower Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 4538
+        }
+      ],
+      "links": [
+        {
+          "title": "American Tower (REIT) (AMT)",
+          "url": "https://www.stck.pro/news/AMT/8949846",
+          "shortened_url": "https://www.stck.pro/news/AMT/8949846",
+          "shortened_expanded_url": "stck.pro/news/AMT",
+          "description": "Never miss an important article again, stay on top of your investments and become a better investor today! Get your moat on and sync your watchlist with Stocktwits and get all the latest news for your symbols. Sync with Stocktwits",
+          "image": "https://www.stck.pro/img/imac.png",
+          "created_at": "2020-11-05T14:12:25Z",
+          "video_url": null,
+          "source": {
+            "name": "Stck",
+            "website": "https://www.stck.pro"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254557264,
+      "body": "$AMT NEW ARTICLE : American Tower REIT enters Canada market with $3.5 billion deal to buy InSite Wireless https://www.stck.pro/news/AMT/8949718",
+      "created_at": "2020-11-05T13:29:23Z",
+      "user": {
+        "id": 1555408,
+        "username": "STCKPRO",
+        "name": "STCK.PRO",
+        "avatar_url": "https://avatars.stocktwits.com/production/1555408/thumb-1576077822.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1555408/thumb-1576077822.png",
+        "join_date": "2018-07-24",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 4466,
+        "following": 2,
+        "ideas": 275619,
+        "watchlist_stocks_count": 18,
+        "like_count": 52,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5011,
+        "title": "STCK.PRO",
+        "url": "https://dashboard.stck.pro"
+      },
+      "symbols": [
+        {
+          "id": 4337,
+          "symbol": "AMT",
+          "title": "American Tower Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 4538
+        }
+      ],
+      "links": [
+        {
+          "title": null,
+          "url": "https://www.stck.pro/news/AMT/8949718",
+          "shortened_url": "https://www.stck.pro/news/AMT/8949718",
+          "shortened_expanded_url": "stck.pro/news/AMT/8949718",
+          "description": null,
+          "image": null,
+          "created_at": "2020-11-05T13:29:32Z",
+          "video_url": null,
+          "source": {
+            "name": "Stck",
+            "website": "http://www.stck.pro"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_254557264.jpg",
+          "large": "https://charts.stocktwits.com/production/large_254557264.jpg",
+          "original": "https://charts.stocktwits.com/production/original_254557264.jpg",
+          "url": "https://charts.stocktwits.com/production/original_254557264.jpg"
+        },
+        "sentiment": null
+      }
+    }
+  ]
+}

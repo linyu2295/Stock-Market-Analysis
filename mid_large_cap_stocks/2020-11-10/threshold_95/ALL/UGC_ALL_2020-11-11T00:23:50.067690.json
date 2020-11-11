@@ -1,0 +1,1999 @@
+{
+  "response": {
+    "status": 200
+  },
+  "symbol": {
+    "id": 4321,
+    "symbol": "ALL",
+    "title": "The Allstate Corporation",
+    "aliases": [],
+    "is_following": false,
+    "watchlist_count": 1370
+  },
+  "cursor": {
+    "more": true,
+    "since": 255646352,
+    "max": 254531496
+  },
+  "messages": [
+    {
+      "id": 255646352,
+      "body": "Reasonable portfolio: Nasdaq($NDAQ), Allstate($ALL),\u2026 https://www.macroaxis.com/invest/marketRiskAndReturn?s=NDAQ,ALL,BLL,PSA,RSG,AIG,JBLU,ANF,ACB,NUE,NKE,PPL #insidertrading #stocks #fintechnews",
+      "created_at": "2020-11-10T16:07:02Z",
+      "user": {
+        "id": 56948,
+        "username": "macroaxis",
+        "name": "Macroaxis",
+        "avatar_url": "https://avatars.stocktwits.com/production/56948/thumb-1361399398.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/56948/thumb-1361399398.png",
+        "join_date": "2011-03-04",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 2962,
+        "following": 4,
+        "ideas": 353325,
+        "watchlist_stocks_count": 15,
+        "like_count": 28,
+        "plus_tier": "year",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1351,
+        "title": "dlvr.it",
+        "url": "https://dlvrit.com/"
+      },
+      "symbols": [
+        {
+          "id": 2815,
+          "symbol": "NDAQ",
+          "title": "Nasdaq OMX Group Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 2426
+        },
+        {
+          "id": 4321,
+          "symbol": "ALL",
+          "title": "The Allstate Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1370
+        }
+      ],
+      "links": [
+        {
+          "title": "Stock Volatility",
+          "url": "https://www.macroaxis.com/invest/marketRiskAndReturn?s=NDAQ,ALL,BLL,PSA,RSG,AIG,JBLU,ANF,ACB,NUE,NKE,PPL",
+          "shortened_url": "https://www.macroaxis.com/invest/marketRiskAndReturn?s=NDAQ,ALL,BLL,PSA,RSG,AIG,JBLU,ANF,ACB,NUE,NKE,PPL",
+          "shortened_expanded_url": "macroaxis.com/invest/market...",
+          "description": "Stock volatility is calculated from the historical prices of equity instruments and shows the degree of variability in the returns. In the context of Modern Portfolio Theory, the risk-return relationship is the theoretical association between the performance expected from investment and the amount of risk assumed in that investment.",
+          "image": "https://www.macroaxis.com/images/aboutMacroaxisGuy.png",
+          "created_at": "2020-11-10T16:07:04Z",
+          "video_url": null,
+          "source": {
+            "name": "Macroaxis",
+            "website": "https://www.macroaxis.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255642008,
+      "body": "$ALL Maybe this market sounds amazing to the Bulls!",
+      "created_at": "2020-11-10T15:56:13Z",
+      "user": {
+        "id": 4291297,
+        "username": "pawayac245",
+        "name": "pawayac245",
+        "avatar_url": "https://avatars.stocktwits.com/production/4291297/thumb-1605021892.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/4291297/thumb-1605021892.png",
+        "join_date": "2020-11-10",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 0,
+        "following": 14,
+        "ideas": 6,
+        "watchlist_stocks_count": 0,
+        "like_count": 0,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 4321,
+          "symbol": "ALL",
+          "title": "The Allstate Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1370
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 255589845,
+      "body": "$ALL Maybe this market sounds amazing to the Bulls!",
+      "created_at": "2020-11-10T13:38:47Z",
+      "user": {
+        "id": 4248155,
+        "username": "goxinag815",
+        "name": "goxinag815",
+        "avatar_url": "https://avatars.stocktwits.com/production/4248155/thumb-1603972368.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/4248155/thumb-1603972368.png",
+        "join_date": "2020-10-29",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 1,
+        "following": 0,
+        "ideas": 14,
+        "watchlist_stocks_count": 0,
+        "like_count": 0,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 4321,
+          "symbol": "ALL",
+          "title": "The Allstate Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1370
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 255515504,
+      "body": "$ALL [Nov-20 95.00 Calls] Option volume Up +202.17 % |  Volume: 139 vs 46 https://www.sleekoptions.com/sleekscan.aspx?sub1=dscan",
+      "created_at": "2020-11-10T00:55:14Z",
+      "user": {
+        "id": 1553598,
+        "username": "sleekoptions_twits",
+        "name": "sleekOptions Signals",
+        "avatar_url": "https://avatars.stocktwits.com/production/1553598/thumb-1600048561.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1553598/thumb-1600048561.png",
+        "join_date": "2018-07-22",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 1796,
+        "following": 29,
+        "ideas": 25758,
+        "watchlist_stocks_count": 3,
+        "like_count": 264,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 4255,
+        "title": "Sleekoptions Daytrade",
+        "url": "http://www.sleekoptions.com"
+      },
+      "symbols": [
+        {
+          "id": 4321,
+          "symbol": "ALL",
+          "title": "The Allstate Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1368
+        }
+      ],
+      "links": [
+        {
+          "title": "SleekOptions.com - Algo based option trading Alerts",
+          "url": "https://www.sleekoptions.com/sleekscan.aspx?sub1=dscan",
+          "shortened_url": "https://www.sleekoptions.com/sleekscan.aspx?sub1=dscan",
+          "shortened_expanded_url": "sleekoptions.com/sleekscan....",
+          "description": "SleekOptions.com - Algo based option trading alerts gives you near real time alerts of good setups for option trading. Option trading alerts are triggered by the system using proprietary algo , historical data analysis, technical analysis and price action analysis. The alerts are posted in both the website and also in chat platform for push and email notifications.",
+          "image": null,
+          "created_at": "2020-11-10T00:55:15Z",
+          "video_url": null,
+          "source": {
+            "name": "Sleekoptions",
+            "website": "https://www.sleekoptions.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255490872,
+      "body": "$ALL Scanner says PT $306.86\nMOS: 69.04%\nRating: 17/20 \ud83d\udc40\n\nIf you want the same scanner that I use, the first 14 days are free, no credit card needed!\n\ntykr.pro/?via=austin",
+      "created_at": "2020-11-09T22:56:40Z",
+      "user": {
+        "id": 2829364,
+        "username": "ThatTraderBlack",
+        "name": "Dobby",
+        "avatar_url": "https://avatars.stocktwits.com/production/2829364/thumb-1591214379.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2829364/thumb-1591214379.png",
+        "join_date": "2019-09-26",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 24,
+        "following": 63,
+        "ideas": 1048,
+        "watchlist_stocks_count": 5,
+        "like_count": 461,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 4321,
+          "symbol": "ALL",
+          "title": "The Allstate Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1368
+        }
+      ],
+      "links": [
+        {
+          "title": "TYKR | Top Stock Investing Advice Picks Screening News Ideas",
+          "url": "tykr.pro/?via=austin",
+          "shortened_url": "tykr.pro/?via=austin",
+          "shortened_expanded_url": "tykr.pro/?via=austin",
+          "description": "TYKR has been back-tested from 1999 - 2019. Even through the Dot-com bubble bust in 2001 and the Great Recession of 2008, if you would have used TYKR, you could have been profitable every year. Here is an annual performance summary of the S&P 500 compared to TYKR.",
+          "image": "https://tykr.pro/assets/front/images/TYKR_FEATURED_IMAGE.jpg",
+          "created_at": "2020-11-09T22:56:40Z",
+          "video_url": null,
+          "source": {
+            "name": "TYKR",
+            "website": "https://tykr.pro"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 255414214,
+      "body": "$PTON $MSFT $AAPL $TWTR  $ALL Tech\n\nis anyone buying the dip?",
+      "created_at": "2020-11-09T19:31:21Z",
+      "user": {
+        "id": 1564186,
+        "username": "Techs10x10days",
+        "name": "TC",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2018-08-02",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 141,
+        "following": 3,
+        "ideas": 8258,
+        "watchlist_stocks_count": 14,
+        "like_count": 919,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 686,
+          "symbol": "AAPL",
+          "title": "Apple Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 528250
+        },
+        {
+          "id": 2735,
+          "symbol": "MSFT",
+          "title": "Microsoft Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 269819
+        },
+        {
+          "id": 4321,
+          "symbol": "ALL",
+          "title": "The Allstate Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1368
+        },
+        {
+          "id": 7872,
+          "symbol": "TWTR",
+          "title": "Twitter",
+          "aliases": [
+            "TWIT"
+          ],
+          "is_following": false,
+          "watchlist_count": 213322
+        },
+        {
+          "id": 15382,
+          "symbol": "PTON",
+          "title": "Peloton",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 26984
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 255414214,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          4287091
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255364819,
+      "body": "2020-11-09 17:11:39+00:00 $AERI, $ALL, $BKR, $BNL, $BRMK    Bullish Move",
+      "created_at": "2020-11-09T17:11:40Z",
+      "user": {
+        "id": 4246761,
+        "username": "Whathealert",
+        "name": "Whathealert",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2020-10-29",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 25,
+        "following": 0,
+        "ideas": 887,
+        "watchlist_stocks_count": 40,
+        "like_count": 0,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5846,
+        "title": "ConfluxBot",
+        "url": "https://app.confluxbot.com"
+      },
+      "symbols": [
+        {
+          "id": 57,
+          "symbol": "BKR",
+          "title": "Baker Hughes Co.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 668
+        },
+        {
+          "id": 4321,
+          "symbol": "ALL",
+          "title": "The Allstate Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1368
+        },
+        {
+          "id": 11605,
+          "symbol": "AERI",
+          "title": "Aerie Pharmaceuticals",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 3123
+        },
+        {
+          "id": 15573,
+          "symbol": "BRMK",
+          "title": "Broadmark Realty Capital Inc",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 128
+        },
+        {
+          "id": 15952,
+          "symbol": "BNL",
+          "title": "Broadstone Net Lease Inc - Ordinary Shares - Class A",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 15
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255267167,
+      "body": "$ALL $LUV $UAL $DAL Imagine what the price of airlines, which has been heavily blocked so long, by shorters will do today. When the market opens, a huge number of stop loss orders will be activated. Shorters will be forced to buy shares. As a result, the price will fall apart in the short term, and then we have a clear path to gain another 20%. I wish you a pleasant ride on the green wave.",
+      "created_at": "2020-11-09T13:28:47Z",
+      "user": {
+        "id": 1607403,
+        "username": "Georgefor",
+        "name": "Jiri Mlejnek",
+        "avatar_url": "https://avatars.stocktwits.com/production/1607403/thumb-1537468827.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1607403/thumb-1537468827.png",
+        "join_date": "2018-09-12",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 6,
+        "following": 4,
+        "ideas": 275,
+        "watchlist_stocks_count": 15,
+        "like_count": 324,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2095,
+        "title": "StockTwits For Android ",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 4321,
+          "symbol": "ALL",
+          "title": "The Allstate Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1370
+        },
+        {
+          "id": 4904,
+          "symbol": "DAL",
+          "title": "Delta Air Lines Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 60166
+        },
+        {
+          "id": 6214,
+          "symbol": "LUV",
+          "title": "Southwest Airlines Co.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 32432
+        },
+        {
+          "id": 9280,
+          "symbol": "UAL",
+          "title": "United Continental Holdings, Inc.",
+          "aliases": [
+            "UAUA"
+          ],
+          "is_following": false,
+          "watchlist_count": 31142
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 255267167,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 2
+      },
+      "likes": {
+        "total": 4,
+        "user_ids": [
+          1455625,
+          1602464,
+          4120173,
+          3770832
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 255231012,
+      "body": "$all cannabis stocks are up as predicted! \nWe will allow our followers to get in our discord soon and we will be calling our plays on there give us a follow to not miss out!   For tips on trading and how to stop losing give us a follow.   Follow and subscribe as our room is almost complete.    Hey, check out thefreezephyrsociety, a room on Stocktwits that I think you would like to join. Check it out: stocktwits.com:443/r/thefreezephyrsociety       You don\u2019t need to pay thousands of dollars to learn from Tim Skyes, Jim Cramer, and Twitter/discord pumpers. Education on stock trading should not cost you thousand s of dollars that you should be putting into the stock market instead. Join us and you will see just that for yourself. We have an established  team of individuals and bots. This team gives information and opportunities for you to make a difference in your trading strategy. Our team we give information on short plays, puts, calls,options, long terms investments, pre-ipos.",
+      "created_at": "2020-11-09T10:39:41Z",
+      "user": {
+        "id": 4162327,
+        "username": "THEFREEZEPHYRSOCIETY",
+        "name": "\u201cAn Investment Research Group\u201d",
+        "avatar_url": "https://avatars.stocktwits.com/production/4162327/thumb-1602186874.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/4162327/thumb-1602186874.png",
+        "join_date": "2020-10-08",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 332,
+        "following": 0,
+        "ideas": 909,
+        "watchlist_stocks_count": 0,
+        "like_count": 9,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 4321,
+          "symbol": "ALL",
+          "title": "The Allstate Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1369
+        }
+      ],
+      "links": [
+        {
+          "title": null,
+          "url": "stocktwits.com:443/r/thefreezephyrsociety",
+          "shortened_url": "stocktwits.com:443/r/thefreezephyrsociety",
+          "shortened_expanded_url": "stocktwits.com:443/r/thefre...",
+          "description": null,
+          "image": null,
+          "created_at": "2020-11-09T10:39:41Z",
+          "video_url": null,
+          "source": {
+            "name": "Stocktwits",
+            "website": "http://stocktwits.com:443"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255082378,
+      "body": "Updated correlation matrix for Allstate($ALL), Abbott\u2026 https://www.macroaxis.com/invest/marketCorrelation?s=ALL,ABT,AA,ADP,FFBC,LEG,AIG,SBUX,ACN,AMT,XRAY,COG #canada #canadian_equities #CA",
+      "created_at": "2020-11-07T22:30:01Z",
+      "user": {
+        "id": 56948,
+        "username": "macroaxis",
+        "name": "Macroaxis",
+        "avatar_url": "https://avatars.stocktwits.com/production/56948/thumb-1361399398.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/56948/thumb-1361399398.png",
+        "join_date": "2011-03-04",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 2959,
+        "following": 4,
+        "ideas": 353100,
+        "watchlist_stocks_count": 15,
+        "like_count": 28,
+        "plus_tier": "year",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1351,
+        "title": "dlvr.it",
+        "url": "https://dlvrit.com/"
+      },
+      "symbols": [
+        {
+          "id": 4321,
+          "symbol": "ALL",
+          "title": "The Allstate Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1368
+        }
+      ],
+      "links": [
+        {
+          "title": "Correlation analysis for ALL,ABT,AA,ADP,FFBC,LEG,AIG,SBUX,ACN,AMT,XRAY,COG",
+          "url": "https://www.macroaxis.com/invest/marketCorrelation?s=ALL,ABT,AA,ADP,FFBC,LEG,AIG,SBUX,ACN,AMT,XRAY,COG",
+          "shortened_url": "https://www.macroaxis.com/invest/marketCorrelation?s=ALL,ABT,AA,ADP,FFBC,LEG,AIG,SBUX,ACN,AMT,XRAY,COG",
+          "shortened_expanded_url": "macroaxis.com/invest/market...",
+          "description": "To execute equity pricing pattern simulations, real time valuations, recommendations, instant reporting, and portfolio analytics such as mean-variance optimization takes huge amount of computing resources. Since we are a small company we cannot afford to have hundreds of servers in our cluster.",
+          "image": "https://www.macroaxis.com/images/aboutMacroaxisGuy.png",
+          "created_at": "2020-11-07T22:30:02Z",
+          "video_url": null,
+          "source": {
+            "name": "Macroaxis",
+            "website": "https://www.macroaxis.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255027923,
+      "body": "Although the technical rating is bad, $ALL does present a nice setup opportunity. https://www.chartmill.com/stock/quote/ALL/technical-analysis?key=c8faaec0-9da7-4533-b751-713b92f51e2c&amp;utm_source=stocktwits&amp;utm_medium=TA&amp;utm_content=ALL&amp;utm_campaign=social_tracking",
+      "created_at": "2020-11-07T11:31:00Z",
+      "user": {
+        "id": 47688,
+        "username": "ChartMill",
+        "name": "ChartMill",
+        "avatar_url": "https://avatars.stocktwits.com/production/47688/thumb-1363343728.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/47688/thumb-1363343728.png",
+        "join_date": "2011-01-26",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 22126,
+        "following": 891,
+        "ideas": 1103844,
+        "watchlist_stocks_count": 20,
+        "like_count": 32,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1135,
+        "title": "ChartMill",
+        "url": "http://www.chartmill.com"
+      },
+      "symbols": [
+        {
+          "id": 4321,
+          "symbol": "ALL",
+          "title": "The Allstate Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1369
+        }
+      ],
+      "links": [
+        {
+          "title": null,
+          "url": "https://www.chartmill.com/stock/quote/ALL/technical-analysis?key=c8faaec0-9da7-4533-b751-713b92f51e2c&utm_source=stocktwits&utm_medium=TA&utm_content=ALL&utm_campaign=social_tracking",
+          "shortened_url": "https://www.chartmill.com/stock/quote/ALL/technical-analysis?key=c8faaec0-9da7-4533-b751-713b92f51e2c&utm_source=stocktwits&utm_medium=TA&utm_content=ALL&utm_campaign=social_tracking",
+          "shortened_expanded_url": "chartmill.com/stock/quote/A...",
+          "description": null,
+          "image": null,
+          "created_at": "2020-11-07T11:31:00Z",
+          "video_url": null,
+          "source": {
+            "name": "Chartmill",
+            "website": "https://www.chartmill.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255026129,
+      "body": "$ALL, $PHM and $LPX, all having great fundamentals while not too expensive. https://www.chartmill.com/stock/stock-screener?sid=204&amp;f=v1_50b500,p_pg20,sl_gr_4_X,sl_val_7_X,sl_he_5_X,sl_pr_5_X,exch_us&amp;s=val&amp;v=16&amp;utm_source=stocktwits&amp;utm_medium=screener&amp;utm_content=Stock_Screener:_Decent_Value_Stocks&amp;utm_campaign=social_tracking",
+      "created_at": "2020-11-07T09:47:00Z",
+      "user": {
+        "id": 47688,
+        "username": "ChartMill",
+        "name": "ChartMill",
+        "avatar_url": "https://avatars.stocktwits.com/production/47688/thumb-1363343728.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/47688/thumb-1363343728.png",
+        "join_date": "2011-01-26",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 22120,
+        "following": 891,
+        "ideas": 1103757,
+        "watchlist_stocks_count": 20,
+        "like_count": 32,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1135,
+        "title": "ChartMill",
+        "url": "http://www.chartmill.com"
+      },
+      "symbols": [
+        {
+          "id": 4321,
+          "symbol": "ALL",
+          "title": "The Allstate Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1369
+        },
+        {
+          "id": 6198,
+          "symbol": "LPX",
+          "title": "Louisiana-Pacific Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 500
+        },
+        {
+          "id": 6762,
+          "symbol": "PHM",
+          "title": "PulteGroup, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1842
+        }
+      ],
+      "links": [
+        {
+          "title": null,
+          "url": "https://www.chartmill.com/stock/stock-screener?sid=204&f=v1_50b500,p_pg20,sl_gr_4_X,sl_val_7_X,sl_he_5_X,sl_pr_5_X,exch_us&s=val&v=16&utm_source=stocktwits&utm_medium=screener&utm_content=Stock_Screener:_Decent_Value_Stocks&utm_campaign=social_tracking",
+          "shortened_url": "https://www.chartmill.com/stock/stock-screener?sid=204&f=v1_50b500,p_pg20,sl_gr_4_X,sl_val_7_X,sl_he_5_X,sl_pr_5_X,exch_us&s=val&v=16&utm_source=stocktwits&utm_medium=screener&utm_content=Stock_Screener:_Decent_Value_Stocks&utm_campaign=social_tracking",
+          "shortened_expanded_url": "chartmill.com/stock/stock-s...",
+          "description": null,
+          "image": null,
+          "created_at": "2020-11-07T09:47:00Z",
+          "video_url": null,
+          "source": {
+            "name": "Chartmill",
+            "website": "https://www.chartmill.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255005959,
+      "body": "Although the technical rating is bad, $ALL does present a nice setup opportunity. https://www.chartmill.com/stock/quote/ALL/technical-analysis?key=c8faaec0-9da7-4533-b751-713b92f51e2c&amp;utm_source=stocktwits&amp;utm_medium=TA&amp;utm_content=ALL&amp;utm_campaign=social_tracking",
+      "created_at": "2020-11-07T02:24:00Z",
+      "user": {
+        "id": 47688,
+        "username": "ChartMill",
+        "name": "ChartMill",
+        "avatar_url": "https://avatars.stocktwits.com/production/47688/thumb-1363343728.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/47688/thumb-1363343728.png",
+        "join_date": "2011-01-26",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 22113,
+        "following": 891,
+        "ideas": 1103497,
+        "watchlist_stocks_count": 20,
+        "like_count": 32,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1135,
+        "title": "ChartMill",
+        "url": "http://www.chartmill.com"
+      },
+      "symbols": [
+        {
+          "id": 4321,
+          "symbol": "ALL",
+          "title": "The Allstate Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1368
+        }
+      ],
+      "links": [
+        {
+          "title": null,
+          "url": "https://www.chartmill.com/stock/quote/ALL/technical-analysis?key=c8faaec0-9da7-4533-b751-713b92f51e2c&utm_source=stocktwits&utm_medium=TA&utm_content=ALL&utm_campaign=social_tracking",
+          "shortened_url": "https://www.chartmill.com/stock/quote/ALL/technical-analysis?key=c8faaec0-9da7-4533-b751-713b92f51e2c&utm_source=stocktwits&utm_medium=TA&utm_content=ALL&utm_campaign=social_tracking",
+          "shortened_expanded_url": "chartmill.com/stock/quote/A...",
+          "description": null,
+          "image": null,
+          "created_at": "2020-11-07T02:24:00Z",
+          "video_url": null,
+          "source": {
+            "name": "Chartmill",
+            "website": "https://www.chartmill.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254948418,
+      "body": "$ALL, $KGC and $VST have an excellent Piotroski F-score while undervalued. https://www.chartmill.com/stock/stock-screener?sid=227&amp;f=sl_pio_7_X,v1_50b200,sl_pb_X_2,sl_val_6_X,exch_us&amp;v=14&amp;type=CANDLES&amp;o1=3&amp;op1=200,16711680&amp;timeframe=DAILY&amp;months=0&amp;o2=3&amp;op2=50,255&amp;width=720&amp;o3=1&amp;ia3=on&amp;cl=F&amp;nw=on&amp;utm_source=stocktwits&amp;utm_medium=screener&amp;utm_content=Stock_Screener:_High_Piotroski_F-score_and_good_valuation&amp;utm_campaign=social_tracking",
+      "created_at": "2020-11-06T20:30:13Z",
+      "user": {
+        "id": 47688,
+        "username": "ChartMill",
+        "name": "ChartMill",
+        "avatar_url": "https://avatars.stocktwits.com/production/47688/thumb-1363343728.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/47688/thumb-1363343728.png",
+        "join_date": "2011-01-26",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 22111,
+        "following": 891,
+        "ideas": 1103017,
+        "watchlist_stocks_count": 20,
+        "like_count": 32,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1135,
+        "title": "ChartMill",
+        "url": "http://www.chartmill.com"
+      },
+      "symbols": [
+        {
+          "id": 4321,
+          "symbol": "ALL",
+          "title": "The Allstate Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1368
+        },
+        {
+          "id": 6080,
+          "symbol": "KGC",
+          "title": "Kinross Gold Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 5774
+        },
+        {
+          "id": 13613,
+          "symbol": "VST",
+          "title": "Vistra Energy Corp",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 501
+        }
+      ],
+      "links": [
+        {
+          "title": null,
+          "url": "https://www.chartmill.com/stock/stock-screener?sid=227&f=sl_pio_7_X,v1_50b200,sl_pb_X_2,sl_val_6_X,exch_us&v=14&type=CANDLES&o1=3&op1=200,16711680&timeframe=DAILY&months=0&o2=3&op2=50,255&width=720&o3=1&ia3=on&cl=F&nw=on&utm_source=stocktwits&utm_medium=screener&utm_content=Stock_Screener:_High_Piotroski_F-score_and_good_valuation&utm_campaign=social_tracking",
+          "shortened_url": "https://www.chartmill.com/stock/stock-screener?sid=227&f=sl_pio_7_X,v1_50b200,sl_pb_X_2,sl_val_6_X,exch_us&v=14&type=CANDLES&o1=3&op1=200,16711680&timeframe=DAILY&months=0&o2=3&op2=50,255&width=720&o3=1&ia3=on&cl=F&nw=on&utm_source=stocktwits&utm_medium=screener&utm_content=Stock_Screener:_High_Piotroski_F-score_and_good_valuation&utm_campaign=social_tracking",
+          "shortened_expanded_url": "chartmill.com/stock/stock-s...",
+          "description": null,
+          "image": null,
+          "created_at": "2020-11-06T20:30:13Z",
+          "video_url": null,
+          "source": {
+            "name": "Chartmill",
+            "website": "https://www.chartmill.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254813349,
+      "body": "Wall Street\u2019s Key Stock Analysts Research Report, All Buys\n\n#stocks #bullish #buys #analysts #research #WallStreet\n\n$ALL $CECO $QCOM $WEN\n\nThese are all Buys if you can manage the risk.\n\nDaily HeffX-LTN reviews dozens of Wall Street\u2019s Key analysts research reports to ID new trading and investing ideas for HeffX-LTN readers. These reports cover stocks to buy\n\nBelow are our Buy calls for Friday, 6 November...\n\nhttps://www.livetradingnews.com/wall-streets-key-stock-analysts-research-report-all-buys-142-200559.html",
+      "created_at": "2020-11-06T12:28:11Z",
+      "user": {
+        "id": 655752,
+        "username": "PaulEbeling",
+        "name": "Paul Ebeling",
+        "avatar_url": "https://avatars.stocktwits.com/production/655752/thumb-1514027547.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/655752/thumb-1514027547.png",
+        "join_date": "2015-12-21",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 18272,
+        "following": 95,
+        "ideas": 37807,
+        "watchlist_stocks_count": 0,
+        "like_count": 15,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 1256,
+          "symbol": "CECO",
+          "title": "Career Education Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 409
+        },
+        {
+          "id": 3290,
+          "symbol": "QCOM",
+          "title": "QUALCOMM Incorporated",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 40240
+        },
+        {
+          "id": 4321,
+          "symbol": "ALL",
+          "title": "The Allstate Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1369
+        },
+        {
+          "id": 7715,
+          "symbol": "WEN",
+          "title": "The Wendy's Company",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 4798
+        }
+      ],
+      "links": [
+        {
+          "title": "Wall Street's Key Stock Analysts Research Report, All Buys - Live Trading News",
+          "url": "https://www.livetradingnews.com/wall-streets-key-stock-analysts-research-report-all-buys-142-200559.html",
+          "shortened_url": "https://www.livetradingnews.com/wall-streets-key-stock-analysts-research-report-all-buys-142-200559.html",
+          "shortened_expanded_url": "livetradingnews.com/wall-st...",
+          "description": "stocks #bullish #buys #analysts #research #WallStreet $ALL $CECO $QCOM $WEN These are all Buys if you can manage the risk. Daily HeffX-LTN reviews dozens of Wall Street's Key analysts research reports to ID new trading and investing ideas for HeffX-LTN readers.",
+          "image": "https://www.livetradingnews.com/wp-content/uploads/2020/09/office_people_chart_analysis_shutterstock_361845191-1-1-2.jpg",
+          "created_at": "2020-11-06T12:28:14Z",
+          "video_url": null,
+          "source": {
+            "name": "Live Trading News",
+            "website": "https://www.livetradingnews.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_254813349.jpg",
+          "large": "https://charts.stocktwits.com/production/large_254813349.jpg",
+          "original": "https://charts.stocktwits.com/production/original_254813349.jpg",
+          "url": "https://charts.stocktwits.com/production/original_254813349.jpg"
+        },
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 254803232,
+      "body": "Berkshire to Show Investors If Adventurous Moves Lifted Profit  $KHC $ALL $BAC $WFC $AAPL \n\nhttps://newsfilter.io/a/1618d9ed16ce5e4e6cf8c2c7b693ff72",
+      "created_at": "2020-11-06T11:00:38Z",
+      "user": {
+        "id": 2762379,
+        "username": "Newsfilter",
+        "name": "@newsfilterio",
+        "avatar_url": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "join_date": "2019-09-01",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 7598,
+        "following": 16,
+        "ideas": 618788,
+        "watchlist_stocks_count": 1,
+        "like_count": 531,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 686,
+          "symbol": "AAPL",
+          "title": "Apple Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 528562
+        },
+        {
+          "id": 4321,
+          "symbol": "ALL",
+          "title": "The Allstate Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1369
+        },
+        {
+          "id": 4438,
+          "symbol": "BAC",
+          "title": "Bank of America Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 106684
+        },
+        {
+          "id": 7718,
+          "symbol": "WFC",
+          "title": "Wells Fargo & Company",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 45330
+        },
+        {
+          "id": 12741,
+          "symbol": "KHC",
+          "title": "The Kraft Heinz Company",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 11534
+        }
+      ],
+      "links": [
+        {
+          "title": "Berkshire to Show Investors If Adventurous Moves Lifted Profit",
+          "url": "https://newsfilter.io/a/1618d9ed16ce5e4e6cf8c2c7b693ff72",
+          "shortened_url": "https://newsfilter.io/a/1618d9ed16ce5e4e6cf8c2c7b693ff72",
+          "shortened_expanded_url": "newsfilter.io/a/1618d9ed16c...",
+          "description": "Berkshire to Show Investors If Adventurous Moves Lifted Profit: Please sign in to read this article.",
+          "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iZ3JMnYLMRo8/v2/-1x-1.png",
+          "created_at": "2020-11-06T11:00:39Z",
+          "video_url": null,
+          "source": {
+            "name": "Newsfilter",
+            "website": "https://newsfilter.io"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_254803232.png",
+          "large": "https://charts.stocktwits.com/production/large_254803232.png",
+          "original": "https://charts.stocktwits.com/production/original_254803232.png",
+          "url": "https://charts.stocktwits.com/production/original_254803232.png"
+        },
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254795027,
+      "body": "$ALL was analyzed by 13 analysts. The buy consensus is at 83%. So analysts seem to be very confident about $ALL. https://www.chartmill.com/stock/quote/ALL/analyst-ratings?utm_source=stocktwits&amp;utm_medium=ANALYST&amp;utm_content=ALL&amp;utm_campaign=social_tracking",
+      "created_at": "2020-11-06T08:16:00Z",
+      "user": {
+        "id": 47688,
+        "username": "ChartMill",
+        "name": "ChartMill",
+        "avatar_url": "https://avatars.stocktwits.com/production/47688/thumb-1363343728.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/47688/thumb-1363343728.png",
+        "join_date": "2011-01-26",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 22119,
+        "following": 891,
+        "ideas": 1103720,
+        "watchlist_stocks_count": 20,
+        "like_count": 32,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1135,
+        "title": "ChartMill",
+        "url": "http://www.chartmill.com"
+      },
+      "symbols": [
+        {
+          "id": 4321,
+          "symbol": "ALL",
+          "title": "The Allstate Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1369
+        }
+      ],
+      "links": [
+        {
+          "title": null,
+          "url": "https://www.chartmill.com/stock/quote/ALL/analyst-ratings?utm_source=stocktwits&utm_medium=ANALYST&utm_content=ALL&utm_campaign=social_tracking",
+          "shortened_url": "https://www.chartmill.com/stock/quote/ALL/analyst-ratings?utm_source=stocktwits&utm_medium=ANALYST&utm_content=ALL&utm_campaign=social_tracking",
+          "shortened_expanded_url": "chartmill.com/stock/quote/A...",
+          "description": null,
+          "image": null,
+          "created_at": "2020-11-06T08:16:01Z",
+          "video_url": null,
+          "source": {
+            "name": "Chartmill",
+            "website": "https://www.chartmill.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_254795027.png",
+          "large": "https://charts.stocktwits.com/production/large_254795027.png",
+          "original": "https://charts.stocktwits.com/production/original_254795027.png",
+          "url": "https://charts.stocktwits.com/production/original_254795027.png"
+        },
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254794322,
+      "body": "$ALL and $FHI, all having great fundamentals while not too expensive. https://www.chartmill.com/stock/stock-screener?sid=204&amp;f=v1_50b500,p_pg20,sl_gr_4_X,sl_val_7_X,sl_he_5_X,sl_pr_5_X,exch_us&amp;s=val&amp;v=16&amp;utm_source=stocktwits&amp;utm_medium=screener&amp;utm_content=Stock_Screener:_Decent_Value_Stocks&amp;utm_campaign=social_tracking",
+      "created_at": "2020-11-06T07:58:00Z",
+      "user": {
+        "id": 47688,
+        "username": "ChartMill",
+        "name": "ChartMill",
+        "avatar_url": "https://avatars.stocktwits.com/production/47688/thumb-1363343728.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/47688/thumb-1363343728.png",
+        "join_date": "2011-01-26",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 22118,
+        "following": 891,
+        "ideas": 1103684,
+        "watchlist_stocks_count": 20,
+        "like_count": 32,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1135,
+        "title": "ChartMill",
+        "url": "http://www.chartmill.com"
+      },
+      "symbols": [
+        {
+          "id": 4321,
+          "symbol": "ALL",
+          "title": "The Allstate Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1369
+        },
+        {
+          "id": 5343,
+          "symbol": "FHI",
+          "title": "Federated Hermes, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 21
+        }
+      ],
+      "links": [
+        {
+          "title": null,
+          "url": "https://www.chartmill.com/stock/stock-screener?sid=204&f=v1_50b500,p_pg20,sl_gr_4_X,sl_val_7_X,sl_he_5_X,sl_pr_5_X,exch_us&s=val&v=16&utm_source=stocktwits&utm_medium=screener&utm_content=Stock_Screener:_Decent_Value_Stocks&utm_campaign=social_tracking",
+          "shortened_url": "https://www.chartmill.com/stock/stock-screener?sid=204&f=v1_50b500,p_pg20,sl_gr_4_X,sl_val_7_X,sl_he_5_X,sl_pr_5_X,exch_us&s=val&v=16&utm_source=stocktwits&utm_medium=screener&utm_content=Stock_Screener:_Decent_Value_Stocks&utm_campaign=social_tracking",
+          "shortened_expanded_url": "chartmill.com/stock/stock-s...",
+          "description": null,
+          "image": null,
+          "created_at": "2020-11-06T07:58:00Z",
+          "video_url": null,
+          "source": {
+            "name": "Chartmill",
+            "website": "https://www.chartmill.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254776717,
+      "body": "Dems gonna take the Senate too. $ALL   \nWe&#39;re goin to venezuela boys! $SPY",
+      "created_at": "2020-11-06T03:44:33Z",
+      "user": {
+        "id": 1278618,
+        "username": "WidowPuppy",
+        "name": "WidowPuppy",
+        "avatar_url": "https://avatars.stocktwits.com/production/1278618/thumb-1602765193.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1278618/thumb-1602765193.png",
+        "join_date": "2017-11-22",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 294,
+        "following": 11,
+        "ideas": 32198,
+        "watchlist_stocks_count": 3,
+        "like_count": 23246,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 4321,
+          "symbol": "ALL",
+          "title": "The Allstate Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1368
+        },
+        {
+          "id": 7271,
+          "symbol": "SPY",
+          "title": "SPDR S&P 500",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 270000
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254751347,
+      "body": "Comprehensive non-correlated Allstate $ALL Trading Report https://tinyurl.com/y4td4bo3",
+      "created_at": "2020-11-06T00:45:05Z",
+      "user": {
+        "id": 456768,
+        "username": "stocktradersdaily",
+        "name": "Stock Traders Daily",
+        "avatar_url": "https://avatars.stocktwits.com/production/456768/thumb-1422538105.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/456768/thumb-1422538105.png",
+        "join_date": "2015-01-29",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 523,
+        "following": 0,
+        "ideas": 56679,
+        "watchlist_stocks_count": 0,
+        "like_count": 0,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 4326,
+        "title": "Stock Traders Daily",
+        "url": "https://www.stocktradersdaily.com"
+      },
+      "symbols": [
+        {
+          "id": 4321,
+          "symbol": "ALL",
+          "title": "The Allstate Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1368
+        }
+      ],
+      "links": [
+        {
+          "title": "Comprehensive non-correlated Allstate $ALL Trading Report",
+          "url": "https://tinyurl.com/y4td4bo3",
+          "shortened_url": "https://tinyurl.com/y4td4bo3",
+          "shortened_expanded_url": "news.stocktradersdaily.com/...",
+          "description": "Celebrating 20 years, Stock Traders Daily provides the tools that help you develop investment strategies, and this is a good example. When we couple this with out market based analysis, the probabilities of going with the flow increases, and that is material over time.",
+          "image": "https://news.stocktradersdaily.com/images/STD-banner-336x280-v1r2.jpg",
+          "created_at": "2020-11-06T00:45:09Z",
+          "video_url": null,
+          "source": {
+            "name": "Stocktradersdaily",
+            "website": "https://news.stocktradersdaily.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_254751347.png",
+          "large": "https://charts.stocktwits.com/production/large_254751347.png",
+          "original": "https://charts.stocktwits.com/production/original_254751347.png",
+          "url": "https://charts.stocktwits.com/production/original_254751347.png"
+        },
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254749269,
+      "body": "$ALL earnings move  -1.8% vs an expected \u00b15.0% move  https://tinyurl.com/y7qmhn5j",
+      "created_at": "2020-11-06T00:34:22Z",
+      "user": {
+        "id": 800154,
+        "username": "marketchameleonwins",
+        "name": "marketchameleon",
+        "avatar_url": "https://avatars.stocktwits.com/production/800154/thumb-1470414114.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/800154/thumb-1470414114.png",
+        "join_date": "2016-07-21",
+        "official": true,
+        "identity": "Official",
+        "classification": [
+          "official"
+        ],
+        "followers": 14490,
+        "following": 350,
+        "ideas": 215338,
+        "watchlist_stocks_count": 1,
+        "like_count": 304,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2931,
+        "title": "MarketChameleon.com",
+        "url": "https://marketchameleon.com"
+      },
+      "symbols": [
+        {
+          "id": 4321,
+          "symbol": "ALL",
+          "title": "The Allstate Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1368
+        }
+      ],
+      "links": [
+        {
+          "title": "Market Chameleon",
+          "url": "https://tinyurl.com/y7qmhn5j",
+          "shortened_url": "https://tinyurl.com/y7qmhn5j",
+          "shortened_expanded_url": "marketchameleon.com/Overvie...",
+          "description": "Possible reasons for receiving this error Corrective action(s) Accessing from a virtual machine and/or managed hosting environment Use a physical, local machine Using a VPN or other security product Disable it Using web automation or a non-standard web browser such as a crawler This is prohibited under MarketChameleon's Terms of Use Opening excessive windows and/or tabs Close all MarketChameleon windows/tabs and launch just one If you feel that you've received this message in error, please email the details that appear below to support@marketchameleon.com URL: https://marketchameleon.com/Overview/ALL/Earnings/ Reference Number: 18.87e13217.1604622863.1f405fbe",
+          "image": null,
+          "created_at": "2020-11-06T00:34:23Z",
+          "video_url": null,
+          "source": {
+            "name": "Marketchameleon",
+            "website": "https://marketchameleon.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254708452,
+      "body": "$ALL have an excellent Piotroski F-score while undervalued. https://www.chartmill.com/stock/stock-screener?sid=227&amp;f=sl_pio_7_X,v1_50b200,sl_pb_X_2,sl_val_6_X,exch_us&amp;v=14&amp;type=CANDLES&amp;o1=3&amp;op1=200,16711680&amp;timeframe=DAILY&amp;months=0&amp;o2=3&amp;op2=50,255&amp;width=720&amp;o3=1&amp;ia3=on&amp;cl=F&amp;nw=on&amp;utm_source=stocktwits&amp;utm_medium=screener&amp;utm_content=Stock_Screener:_High_Piotroski_F-score_and_good_valuation&amp;utm_campaign=social_tracking",
+      "created_at": "2020-11-05T21:43:01Z",
+      "user": {
+        "id": 47688,
+        "username": "ChartMill",
+        "name": "ChartMill",
+        "avatar_url": "https://avatars.stocktwits.com/production/47688/thumb-1363343728.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/47688/thumb-1363343728.png",
+        "join_date": "2011-01-26",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 22116,
+        "following": 891,
+        "ideas": 1103080,
+        "watchlist_stocks_count": 20,
+        "like_count": 32,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1135,
+        "title": "ChartMill",
+        "url": "http://www.chartmill.com"
+      },
+      "symbols": [
+        {
+          "id": 4321,
+          "symbol": "ALL",
+          "title": "The Allstate Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1368
+        }
+      ],
+      "links": [
+        {
+          "title": null,
+          "url": "https://www.chartmill.com/stock/stock-screener?sid=227&f=sl_pio_7_X,v1_50b200,sl_pb_X_2,sl_val_6_X,exch_us&v=14&type=CANDLES&o1=3&op1=200,16711680&timeframe=DAILY&months=0&o2=3&op2=50,255&width=720&o3=1&ia3=on&cl=F&nw=on&utm_source=stocktwits&utm_medium=screener&utm_content=Stock_Screener:_High_Piotroski_F-score_and_good_valuation&utm_campaign=social_tracking",
+          "shortened_url": "https://www.chartmill.com/stock/stock-screener?sid=227&f=sl_pio_7_X,v1_50b200,sl_pb_X_2,sl_val_6_X,exch_us&v=14&type=CANDLES&o1=3&op1=200,16711680&timeframe=DAILY&months=0&o2=3&op2=50,255&width=720&o3=1&ia3=on&cl=F&nw=on&utm_source=stocktwits&utm_medium=screener&utm_content=Stock_Screener:_High_Piotroski_F-score_and_good_valuation&utm_campaign=social_tracking",
+          "shortened_expanded_url": "chartmill.com/stock/stock-s...",
+          "description": null,
+          "image": null,
+          "created_at": "2020-11-05T21:43:01Z",
+          "video_url": null,
+          "source": {
+            "name": "Chartmill",
+            "website": "https://www.chartmill.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254653561,
+      "body": "Current S&amp;P 500 Earnings Ratings for Financial Services: $AIG $BRK.B $AIG $ALL $CME\nhttps://www.finscreener.com/earnings/earnings-ratings/sp500",
+      "created_at": "2020-11-05T18:56:31Z",
+      "user": {
+        "id": 1550174,
+        "username": "Finscreener",
+        "name": "Finscreener",
+        "avatar_url": "https://avatars.stocktwits.com/production/1550174/thumb-1531918007.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1550174/thumb-1531918007.png",
+        "join_date": "2018-07-18",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 561,
+        "following": 28,
+        "ideas": 6868,
+        "watchlist_stocks_count": 0,
+        "like_count": 13,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 1350,
+          "symbol": "CME",
+          "title": "CME Group Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 2674
+        },
+        {
+          "id": 4296,
+          "symbol": "AIG",
+          "title": "American International Group, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 5075
+        },
+        {
+          "id": 4321,
+          "symbol": "ALL",
+          "title": "The Allstate Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1368
+        },
+        {
+          "id": 8132,
+          "symbol": "BRK.B",
+          "title": "Berkshire Hathaway Inc.",
+          "aliases": [
+            "BRKB"
+          ],
+          "is_following": false,
+          "watchlist_count": 27530
+        }
+      ],
+      "links": [
+        {
+          "title": "Earnings Ratings S&P 500 | Finscreener",
+          "url": "https://www.finscreener.com/earnings/earnings-ratings/sp500",
+          "shortened_url": "https://www.finscreener.com/earnings/earnings-ratings/sp500",
+          "shortened_expanded_url": "finscreener.com/earnings/ea...",
+          "description": "Earnings Ratings is counted from actual period earnings estimates revision (80% weight) and previous period earnings surprise % (20% weight).",
+          "image": "https://www.finscreener.com/system_images/logo300x300button.png",
+          "created_at": "2020-11-05T18:56:33Z",
+          "video_url": null,
+          "source": {
+            "name": "Finscreener",
+            "website": "https://www.finscreener.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_254653561.png",
+          "large": "https://charts.stocktwits.com/production/large_254653561.png",
+          "original": "https://charts.stocktwits.com/production/original_254653561.png",
+          "url": "https://charts.stocktwits.com/production/original_254653561.png"
+        },
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254611472,
+      "body": "Compared to an average Enterprise Value to EBITDA ratio of 9.56, $ALL is valued rather cheaply. https://www.chartmill.com/stock/quote/ALL/fundamental-analysis?key=c8faaec0-9da7-4533-b751-713b92f51e2c&amp;utm_source=stocktwits&amp;utm_medium=FA&amp;utm_content=ALL&amp;utm_campaign=social_tracking",
+      "created_at": "2020-11-05T16:25:00Z",
+      "user": {
+        "id": 47688,
+        "username": "ChartMill",
+        "name": "ChartMill",
+        "avatar_url": "https://avatars.stocktwits.com/production/47688/thumb-1363343728.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/47688/thumb-1363343728.png",
+        "join_date": "2011-01-26",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 22106,
+        "following": 891,
+        "ideas": 1102792,
+        "watchlist_stocks_count": 20,
+        "like_count": 32,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1135,
+        "title": "ChartMill",
+        "url": "http://www.chartmill.com"
+      },
+      "symbols": [
+        {
+          "id": 4321,
+          "symbol": "ALL",
+          "title": "The Allstate Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1369
+        }
+      ],
+      "links": [
+        {
+          "title": null,
+          "url": "https://www.chartmill.com/stock/quote/ALL/fundamental-analysis?key=c8faaec0-9da7-4533-b751-713b92f51e2c&utm_source=stocktwits&utm_medium=FA&utm_content=ALL&utm_campaign=social_tracking",
+          "shortened_url": "https://www.chartmill.com/stock/quote/ALL/fundamental-analysis?key=c8faaec0-9da7-4533-b751-713b92f51e2c&utm_source=stocktwits&utm_medium=FA&utm_content=ALL&utm_campaign=social_tracking",
+          "shortened_expanded_url": "chartmill.com/stock/quote/A...",
+          "description": null,
+          "image": null,
+          "created_at": "2020-11-05T16:25:00Z",
+          "video_url": null,
+          "source": {
+            "name": "Chartmill",
+            "website": "https://www.chartmill.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254601934,
+      "body": "$ALL Was CC that bad ,///",
+      "created_at": "2020-11-05T15:53:47Z",
+      "user": {
+        "id": 3768104,
+        "username": "jamesdavid143",
+        "name": "james",
+        "avatar_url": "https://avatars.stocktwits.com/production/3768104/thumb-1599489990.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3768104/thumb-1599489990.png",
+        "join_date": "2020-07-10",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 4,
+        "following": 1,
+        "ideas": 238,
+        "watchlist_stocks_count": 9,
+        "like_count": 45,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 4321,
+          "symbol": "ALL",
+          "title": "The Allstate Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1370
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254589471,
+      "body": "Allstate (ALL) announces earnings. $2.94 EPS. Beats estimates. 552.8M earnings. $ALL https://www.tipranks.com/stocks/ALL/earnings-calendar?ref=TREarnings",
+      "created_at": "2020-11-05T15:17:01Z",
+      "user": {
+        "id": 1108143,
+        "username": "TREarnings",
+        "name": "TREarnings",
+        "avatar_url": "https://avatars.stocktwits.com/production/1108143/thumb-1499090044.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1108143/thumb-1499090044.png",
+        "join_date": "2017-06-28",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 265,
+        "following": 0,
+        "ideas": 16506,
+        "watchlist_stocks_count": 0,
+        "like_count": 3,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 3444,
+        "title": "TREarnings",
+        "url": "https://www.tipranks.com"
+      },
+      "symbols": [
+        {
+          "id": 4321,
+          "symbol": "ALL",
+          "title": "The Allstate Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1370
+        }
+      ],
+      "links": [
+        {
+          "title": null,
+          "url": "https://www.tipranks.com/stocks/ALL/earnings-calendar?ref=TREarnings",
+          "shortened_url": "https://www.tipranks.com/stocks/ALL/earnings-calendar?ref=TREarnings",
+          "shortened_expanded_url": "tipranks.com/stocks/all/ear...",
+          "description": null,
+          "image": null,
+          "created_at": "2020-11-05T15:17:12Z",
+          "video_url": null,
+          "source": {
+            "name": "Tipranks",
+            "website": "https://www.tipranks.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254556445,
+      "body": "$ALL Earnings Call Today: 9:00 AM EST \nWebcast: http://mmm.wallstreethorizon.com/u.asp?u=345573 \nStockPods BETA is now live. Visit to find Analyst Ratings, Stock Price Targets, and Phone/PIN for today&#39;s Earnings Calls: https://www.stockpods.com",
+      "created_at": "2020-11-05T13:25:24Z",
+      "user": {
+        "id": 1298079,
+        "username": "StockPods",
+        "name": "StockPods.com",
+        "avatar_url": "https://avatars.stocktwits.com/production/1298079/thumb-1547240999.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1298079/thumb-1547240999.png",
+        "join_date": "2017-12-05",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 795,
+        "following": 34,
+        "ideas": 21008,
+        "watchlist_stocks_count": 6,
+        "like_count": 204,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 4321,
+          "symbol": "ALL",
+          "title": "The Allstate Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1370
+        }
+      ],
+      "links": [
+        {
+          "title": null,
+          "url": "http://mmm.wallstreethorizon.com/u.asp?u=345573",
+          "shortened_url": "http://mmm.wallstreethorizon.com/u.asp?u=345573",
+          "shortened_expanded_url": "edge.media-server.com/mmc/p...",
+          "description": null,
+          "image": null,
+          "created_at": "2020-11-05T13:25:25Z",
+          "video_url": null,
+          "source": {
+            "name": "Media-server",
+            "website": "https://edge.media-server.com"
+          }
+        },
+        {
+          "title": "Home - StockPods",
+          "url": "https://www.stockpods.com",
+          "shortened_url": "https://www.stockpods.com",
+          "shortened_expanded_url": "stockpods.com",
+          "description": "Mobile Device Detected Stockpods mobile app is on the way. Bringing the functionality of Stockpods.com to your fingertips. For now, please enjoy our offering on a desktop or laptop. Subscribe for the latest updated, news and features. contact@stockpods.com Kirkland, WA USA",
+          "image": null,
+          "created_at": "2020-11-05T13:25:25Z",
+          "video_url": null,
+          "source": {
+            "name": "Stockpods",
+            "website": "https://www.stockpods.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254547109,
+      "body": "$ALL (+1.9% pre) Allstate EPS beats by $1.18, beats on revenue - SA\n\nhttp://ooc.bz/l/63349",
+      "created_at": "2020-11-05T12:36:22Z",
+      "user": {
+        "id": 348830,
+        "username": "OpenOutcrier",
+        "name": "Open Outcrier",
+        "avatar_url": "https://avatars.stocktwits.com/production/348830/thumb-1423676197.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/348830/thumb-1423676197.png",
+        "join_date": "2014-04-30",
+        "official": false,
+        "identity": "User",
+        "classification": [
+          "suggested"
+        ],
+        "followers": 193521,
+        "following": 139,
+        "ideas": 120002,
+        "watchlist_stocks_count": 0,
+        "like_count": 976,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2384,
+        "title": "Open Outcrier",
+        "url": "http://openoutcrier.com"
+      },
+      "symbols": [
+        {
+          "id": 4321,
+          "symbol": "ALL",
+          "title": "The Allstate Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1370
+        }
+      ],
+      "links": [
+        {
+          "title": "Allstate EPS beats by $1.18, beats on revenue (NYSE:ALL)",
+          "url": "http://ooc.bz/l/63349",
+          "shortened_url": "http://ooc.bz/l/63349",
+          "shortened_expanded_url": "seekingalpha.com/news/36315...",
+          "description": "Allstate (NYSE:ALL): Q3 Non-GAAP EPS of $2.94 beats by $1.18; GAAP EPS of $3.58 beats by $2.88. Revenue of $11.5B (+3.9% Y/Y) beats by $2.06B. Press Releas",
+          "image": "https://static3.seekingalpha.com/assets/og_image_192-59bfd51c9fe6af025b2f9f96c807e46f8e2f06c5ae787b15bf1423e6c676d4db.png",
+          "created_at": "2020-11-05T12:36:23Z",
+          "video_url": null,
+          "source": {
+            "name": "Seeking Alpha",
+            "website": "https://seekingalpha.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254545851,
+      "body": "$ALL B of A Securities Maintains to Buy : PT $149.00 https://stockhoot.com/ExtSymbol.aspx?from=AnalystRatingTweet&amp;symbol=ALL&amp;t=640&amp;Social=StockTwits",
+      "created_at": "2020-11-05T12:29:20Z",
+      "user": {
+        "id": 835250,
+        "username": "Stockhoot",
+        "name": "Stockhoot",
+        "avatar_url": "https://avatars.stocktwits.com/production/835250/thumb-1510088734.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/835250/thumb-1510088734.png",
+        "join_date": "2016-09-06",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 1943,
+        "following": 103,
+        "ideas": 68487,
+        "watchlist_stocks_count": 8,
+        "like_count": 33,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 3360,
+        "title": "StockHoot",
+        "url": "https://stockhoot.com"
+      },
+      "symbols": [
+        {
+          "id": 4321,
+          "symbol": "ALL",
+          "title": "The Allstate Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1370
+        }
+      ],
+      "links": [
+        {
+          "title": "ALL - Allstate Corpor Charts, Trade Ideas, Earnings, Ratings",
+          "url": "https://stockhoot.com/ExtSymbol.aspx?from=AnalystRatingTweet&symbol=ALL&t=640&Social=StockTwits",
+          "shortened_url": "https://stockhoot.com/ExtSymbol.aspx?from=AnalystRatingTweet&symbol=ALL&t=640&Social=StockTwits",
+          "shortened_expanded_url": "stockhoot.com/ExtSymbol.asp...",
+          "description": "ALL : Get free stock charts, earnings, analyst ratings and stock market tips from independent traders who track ALL. Follow their trades and see their report card",
+          "image": "https://storage.googleapis.com/iex/api/logos/ALL.png",
+          "created_at": "2020-11-05T12:29:22Z",
+          "video_url": null,
+          "source": {
+            "name": "Stockhoot",
+            "website": "https://stockhoot.com"
+          }
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          3819490
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254531496,
+      "body": "$ALL NEW ARTICLE : Allstate: Q3 EPS Strong Beat As Predicted, Shares Significantly Undervalued https://www.stck.pro/news/ALL/8945651",
+      "created_at": "2020-11-05T10:02:06Z",
+      "user": {
+        "id": 1555408,
+        "username": "STCKPRO",
+        "name": "STCK.PRO",
+        "avatar_url": "https://avatars.stocktwits.com/production/1555408/thumb-1576077822.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1555408/thumb-1576077822.png",
+        "join_date": "2018-07-24",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 4466,
+        "following": 2,
+        "ideas": 275312,
+        "watchlist_stocks_count": 18,
+        "like_count": 52,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5011,
+        "title": "STCK.PRO",
+        "url": "https://dashboard.stck.pro"
+      },
+      "symbols": [
+        {
+          "id": 4321,
+          "symbol": "ALL",
+          "title": "The Allstate Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1369
+        }
+      ],
+      "links": [
+        {
+          "title": "The Allstate (ALL)",
+          "url": "https://www.stck.pro/news/ALL/8945651",
+          "shortened_url": "https://www.stck.pro/news/ALL/8945651",
+          "shortened_expanded_url": "stck.pro/news/ALL",
+          "description": "Never miss an important article again, stay on top of your investments and become a better investor today! Get your moat on and sync your watchlist with Stocktwits and get all the latest news for your symbols. Sync with Stocktwits",
+          "image": "https://www.stck.pro/img/imac.png",
+          "created_at": "2020-11-05T10:02:08Z",
+          "video_url": null,
+          "source": {
+            "name": "Stck",
+            "website": "https://www.stck.pro"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    }
+  ]
+}

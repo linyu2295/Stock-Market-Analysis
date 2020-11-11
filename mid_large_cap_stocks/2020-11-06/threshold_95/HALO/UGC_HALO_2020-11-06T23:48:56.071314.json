@@ -1,0 +1,2172 @@
+{
+  "response": {
+    "status": 200
+  },
+  "symbol": {
+    "id": 2087,
+    "symbol": "HALO",
+    "title": "Halozyme Therapeutics, Inc.",
+    "aliases": [],
+    "is_following": false,
+    "watchlist_count": 4091
+  },
+  "cursor": {
+    "more": true,
+    "since": 254842571,
+    "max": 254108956
+  },
+  "messages": [
+    {
+      "id": 254842571,
+      "body": "$HALO @dennismccain 300% on the calls I bought off your recommendation. Unreal call",
+      "created_at": "2020-11-06T14:36:30Z",
+      "user": {
+        "id": 1406213,
+        "username": "Chenghiskhan",
+        "name": "Scott Eaton",
+        "avatar_url": "https://avatars.stocktwits.com/production/1406213/thumb-1594787174.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1406213/thumb-1594787174.png",
+        "join_date": "2018-02-09",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 142,
+        "following": 18,
+        "ideas": 5220,
+        "watchlist_stocks_count": 35,
+        "like_count": 1657,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 2087,
+          "symbol": "HALO",
+          "title": "Halozyme Therapeutics, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 4089
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 254842571,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "mentioned_users": [
+        "@dennismccain"
+      ],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254826331,
+      "body": "$HALO +7.8% \n\nto be added to S&amp;P MidCap 400\n\nSee Full Analysis: https://www.investorsobserver.com/symbols/halo",
+      "created_at": "2020-11-06T13:37:13Z",
+      "user": {
+        "id": 977068,
+        "username": "InvestorsObserver",
+        "name": "InvestorsObserver",
+        "avatar_url": "https://avatars.stocktwits.com/production/977068/thumb-1579620603.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/977068/thumb-1579620603.png",
+        "join_date": "2017-03-01",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 322,
+        "following": 4,
+        "ideas": 4770,
+        "watchlist_stocks_count": 0,
+        "like_count": 2,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 2087,
+          "symbol": "HALO",
+          "title": "Halozyme Therapeutics, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 4089
+        }
+      ],
+      "links": [
+        {
+          "title": "HALO Stock Analysis: Price, Forecast, and News",
+          "url": "https://www.investorsobserver.com/symbols/halo",
+          "shortened_url": "https://www.investorsobserver.com/symbols/halo",
+          "shortened_expanded_url": "investorsobserver.com/symbo...",
+          "description": "Thinking about buying or selling stock in HALO? See the latest Halozyme Therapeutic (HALO) stock analysis, price, forecast, news and more.",
+          "image": null,
+          "created_at": "2020-11-06T13:37:22Z",
+          "video_url": null,
+          "source": {
+            "name": "Investorsobserver",
+            "website": "https://www.investorsobserver.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254621008,
+      "body": "Closed up with unusually high vol today \n$RIDE $OUT $W $OLN $HALO  \n \nSort results by Time, Chg, %, Vol and more. \nstockbeep.com/uvg-nov3e",
+      "created_at": "2020-11-05T16:58:44Z",
+      "user": {
+        "id": 1572122,
+        "username": "Stockbeep_Scanner",
+        "name": "stockbeep.com",
+        "avatar_url": "https://avatars.stocktwits.com/production/1572122/thumb-1543837039.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1572122/thumb-1543837039.png",
+        "join_date": "2018-08-10",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 4311,
+        "following": 11,
+        "ideas": 7855,
+        "watchlist_stocks_count": 0,
+        "like_count": 43,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1022,
+        "title": "Zapier",
+        "url": "https://zapier.com/"
+      },
+      "symbols": [
+        {
+          "id": 2087,
+          "symbol": "HALO",
+          "title": "Halozyme Therapeutics, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 4090
+        },
+        {
+          "id": 6641,
+          "symbol": "OLN",
+          "title": "Olin Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1821
+        },
+        {
+          "id": 11894,
+          "symbol": "OUT",
+          "title": "Outfront Media Inc",
+          "aliases": [
+            "CBSO"
+          ],
+          "is_following": false,
+          "watchlist_count": 1249
+        },
+        {
+          "id": 12175,
+          "symbol": "W",
+          "title": "Wayfair",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 13351
+        },
+        {
+          "id": 15778,
+          "symbol": "RIDE",
+          "title": "Lordstown Motors Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 20279
+        }
+      ],
+      "links": [
+        {
+          "title": "Unusual Volume Stocks Today - Up On High Relative Volume (RVol) | NYSE, NASDAQ and AMEX",
+          "url": "stockbeep.com/uvg-nov3e",
+          "shortened_url": "stockbeep.com/uvg-nov3e",
+          "shortened_expanded_url": "stockbeep.com/unusual-volum...",
+          "description": "Traders watch for unusual volume stocks because they are often accompanied by large price movements. Increased volume flows are correlated with volatility. A heightened volume indicates something is going on today and that the stock is \"in play\". A stock moving up on unusually high volume typically signifies an outsized demand to own the stock.",
+          "image": "https://stockbeep.com/images/markets/us.png",
+          "created_at": "2020-11-05T16:58:44Z",
+          "video_url": null,
+          "source": {
+            "name": "StockBeep",
+            "website": "https://stockbeep.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254620907,
+      "body": "Unusual vol gainers in the afternoon \n$RIDE $W $HALO $WWR $BLNK  \n \n+5 more results \nstockbeep.com/uvg-nov3p",
+      "created_at": "2020-11-05T16:58:30Z",
+      "user": {
+        "id": 1572122,
+        "username": "Stockbeep_Scanner",
+        "name": "stockbeep.com",
+        "avatar_url": "https://avatars.stocktwits.com/production/1572122/thumb-1543837039.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1572122/thumb-1543837039.png",
+        "join_date": "2018-08-10",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 4327,
+        "following": 11,
+        "ideas": 7908,
+        "watchlist_stocks_count": 0,
+        "like_count": 43,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1022,
+        "title": "Zapier",
+        "url": "https://zapier.com/"
+      },
+      "symbols": [
+        {
+          "id": 2087,
+          "symbol": "HALO",
+          "title": "Halozyme Therapeutics, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 4091
+        },
+        {
+          "id": 3964,
+          "symbol": "WWR",
+          "title": "Westwater Resources Inc",
+          "aliases": [
+            "URRE"
+          ],
+          "is_following": false,
+          "watchlist_count": 22695
+        },
+        {
+          "id": 12175,
+          "symbol": "W",
+          "title": "Wayfair",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 13347
+        },
+        {
+          "id": 14582,
+          "symbol": "BLNK",
+          "title": "Blink Charging Co",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 24646
+        },
+        {
+          "id": 15778,
+          "symbol": "RIDE",
+          "title": "Lordstown Motors Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 20281
+        }
+      ],
+      "links": [
+        {
+          "title": "Unusual Volume Stocks Today - Up On High Relative Volume (RVol) | NYSE, NASDAQ and AMEX",
+          "url": "stockbeep.com/uvg-nov3p",
+          "shortened_url": "stockbeep.com/uvg-nov3p",
+          "shortened_expanded_url": "stockbeep.com/unusual-volum...",
+          "description": "Traders watch for unusual volume stocks because they are often accompanied by large price movements. Increased volume flows are correlated with volatility. A heightened volume indicates something is going on today and that the stock is \"in play\". A stock moving up on unusually high volume typically signifies an outsized demand to own the stock.",
+          "image": "https://stockbeep.com/images/markets/us.png",
+          "created_at": "2020-11-05T16:58:31Z",
+          "video_url": null,
+          "source": {
+            "name": "StockBeep",
+            "website": "https://stockbeep.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254574239,
+      "body": "Are the daytraders watching this? $HALO price may drop as it breaks higher Bollinger Band. View odds of downtrend. https://srnk.us/go/2284402",
+      "created_at": "2020-11-05T14:36:33Z",
+      "user": {
+        "id": 967528,
+        "username": "tickeron",
+        "name": "Tickeron",
+        "avatar_url": "https://avatars.stocktwits.com/production/967528/thumb-1492026736.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/967528/thumb-1492026736.png",
+        "join_date": "2017-02-23",
+        "official": true,
+        "identity": "Official",
+        "classification": [
+          "official"
+        ],
+        "followers": 3892,
+        "following": 108,
+        "ideas": 433990,
+        "watchlist_stocks_count": 0,
+        "like_count": 0,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5810,
+        "title": "Tickeron",
+        "url": "https://tickeron.com"
+      },
+      "symbols": [
+        {
+          "id": 2087,
+          "symbol": "HALO",
+          "title": "Halozyme Therapeutics, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 4089
+        }
+      ],
+      "links": [
+        {
+          "title": "Tickeron - A.I. Trading With Odds of Success",
+          "url": "https://srnk.us/go/2284402",
+          "shortened_url": "https://srnk.us/go/2284402",
+          "shortened_expanded_url": "tickeron.com/news/7784784-h...",
+          "description": "Our A.I.-powered algorithms generate and verify trade ideas. Invest in trends, trade with patterns, and analyze Stocks, ETFs, Mutual Funds, FOREX, Cryptos.",
+          "image": "https://tickeron.com/Img/Seo/main.png",
+          "created_at": "2020-11-05T14:36:34Z",
+          "video_url": null,
+          "source": {
+            "name": "Tickeron Inc.",
+            "website": "https://tickeron.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_254574239.",
+          "large": "https://charts.stocktwits.com/production/large_254574239.",
+          "original": "https://charts.stocktwits.com/production/original_254574239.",
+          "url": "https://charts.stocktwits.com/production/original_254574239."
+        },
+        "sentiment": {
+          "basic": "Bearish"
+        }
+      }
+    },
+    {
+      "id": 254570680,
+      "body": "Are the daytraders watching this? $HALO MACD Histogram just turned positive. View odds of uptrend. https://srnk.us/go/2284351",
+      "created_at": "2020-11-05T14:24:39Z",
+      "user": {
+        "id": 967528,
+        "username": "tickeron",
+        "name": "Tickeron",
+        "avatar_url": "https://avatars.stocktwits.com/production/967528/thumb-1492026736.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/967528/thumb-1492026736.png",
+        "join_date": "2017-02-23",
+        "official": true,
+        "identity": "Official",
+        "classification": [
+          "official"
+        ],
+        "followers": 3892,
+        "following": 108,
+        "ideas": 433990,
+        "watchlist_stocks_count": 0,
+        "like_count": 0,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5810,
+        "title": "Tickeron",
+        "url": "https://tickeron.com"
+      },
+      "symbols": [
+        {
+          "id": 2087,
+          "symbol": "HALO",
+          "title": "Halozyme Therapeutics, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 4089
+        }
+      ],
+      "links": [
+        {
+          "title": "Tickeron - A.I. Trading With Odds of Success",
+          "url": "https://srnk.us/go/2284351",
+          "shortened_url": "https://srnk.us/go/2284351",
+          "shortened_expanded_url": "tickeron.com/news/7784786-h...",
+          "description": "Our A.I.-powered algorithms generate and verify trade ideas. Invest in trends, trade with patterns, and analyze Stocks, ETFs, Mutual Funds, FOREX, Cryptos.",
+          "image": "https://tickeron.com/Img/Seo/main.png",
+          "created_at": "2020-11-05T14:24:40Z",
+          "video_url": null,
+          "source": {
+            "name": "Tickeron Inc.",
+            "website": "https://tickeron.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_254570680.",
+          "large": "https://charts.stocktwits.com/production/large_254570680.",
+          "original": "https://charts.stocktwits.com/production/original_254570680.",
+          "url": "https://charts.stocktwits.com/production/original_254570680."
+        },
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 254561893,
+      "body": "Are the daytraders watching this? $HALO RSI Indicator left the overbought zone. View odds of downtrend. https://srnk.us/go/2284227",
+      "created_at": "2020-11-05T13:50:18Z",
+      "user": {
+        "id": 967528,
+        "username": "tickeron",
+        "name": "Tickeron",
+        "avatar_url": "https://avatars.stocktwits.com/production/967528/thumb-1492026736.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/967528/thumb-1492026736.png",
+        "join_date": "2017-02-23",
+        "official": true,
+        "identity": "Official",
+        "classification": [
+          "official"
+        ],
+        "followers": 3892,
+        "following": 108,
+        "ideas": 433944,
+        "watchlist_stocks_count": 0,
+        "like_count": 0,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5810,
+        "title": "Tickeron",
+        "url": "https://tickeron.com"
+      },
+      "symbols": [
+        {
+          "id": 2087,
+          "symbol": "HALO",
+          "title": "Halozyme Therapeutics, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 4089
+        }
+      ],
+      "links": [
+        {
+          "title": "Tickeron - A.I. Trading With Odds of Success",
+          "url": "https://srnk.us/go/2284227",
+          "shortened_url": "https://srnk.us/go/2284227",
+          "shortened_expanded_url": "tickeron.com/news/7784785-h...",
+          "description": "Our A.I.-powered algorithms generate and verify trade ideas. Invest in trends, trade with patterns, and analyze Stocks, ETFs, Mutual Funds, FOREX, Cryptos.",
+          "image": "https://tickeron.com/Img/Seo/main.png",
+          "created_at": "2020-11-05T13:50:19Z",
+          "video_url": null,
+          "source": {
+            "name": "Tickeron Inc.",
+            "website": "https://tickeron.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_254561893.",
+          "large": "https://charts.stocktwits.com/production/large_254561893.",
+          "original": "https://charts.stocktwits.com/production/original_254561893.",
+          "url": "https://charts.stocktwits.com/production/original_254561893."
+        },
+        "sentiment": {
+          "basic": "Bearish"
+        }
+      }
+    },
+    {
+      "id": 254561372,
+      "body": "$HALO: Halozyme Announces Upcoming Data Presentations at American Society of Hematology Annual Meeting For APOLLO ... https://www.chartmill.com/news/HALO/prnews-2020-11-5-halozyme-announces-upcoming-data-presentations-at-american-society-of-hematology-annual-meeting-for-apollo-and-andromeda-phase-3-studies-by-janssen-evaluating-subcutaneous-daratumumab-utilizing-enhanze?utm_source=stocktwits&amp;utm_medium=pressRelease&amp;utm_content=HALO&amp;utm_campaign=social_tracking",
+      "created_at": "2020-11-05T13:48:00Z",
+      "user": {
+        "id": 47688,
+        "username": "ChartMill",
+        "name": "ChartMill",
+        "avatar_url": "https://avatars.stocktwits.com/production/47688/thumb-1363343728.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/47688/thumb-1363343728.png",
+        "join_date": "2011-01-26",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 22069,
+        "following": 891,
+        "ideas": 1099665,
+        "watchlist_stocks_count": 20,
+        "like_count": 32,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1135,
+        "title": "ChartMill",
+        "url": "http://www.chartmill.com"
+      },
+      "symbols": [
+        {
+          "id": 2087,
+          "symbol": "HALO",
+          "title": "Halozyme Therapeutics, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 4089
+        }
+      ],
+      "links": [
+        {
+          "title": null,
+          "url": "https://www.chartmill.com/news/HALO/prnews-2020-11-5-halozyme-announces-upcoming-data-presentations-at-american-society-of-hematology-annual-meeting-for-apollo-and-andromeda-phase-3-studies-by-janssen-evaluating-subcutaneous-daratumumab-utilizing-enhanze?utm_source=stocktwits&utm_medium=pressRelease&utm_content=HALO&utm_campaign=social_tracking",
+          "shortened_url": "https://www.chartmill.com/news/HALO/prnews-2020-11-5-halozyme-announces-upcoming-data-presentations-at-american-society-of-hematology-annual-meeting-for-apollo-and-andromeda-phase-3-studies-by-janssen-evaluating-subcutaneous-daratumumab-utilizing-enhanze?utm_source=stocktwits&utm_medium=pressRelease&utm_content=HALO&utm_campaign=social_tracking",
+          "shortened_expanded_url": "chartmill.com/news/HALO/prn...",
+          "description": null,
+          "image": null,
+          "created_at": "2020-11-05T13:48:00Z",
+          "video_url": null,
+          "source": {
+            "name": "Chartmill",
+            "website": "https://www.chartmill.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254558199,
+      "body": "$HALO NEW ARTICLE : Halozyme Announces Upcoming Data Presentations at American Society of Hematology Annual Meeting For APOLLO and ANDROMEDA Phase 3 Studies By Janssen Evaluating Subcutaneous Daratumumab Utilizing ENHANZE\u00ae https://www.stck.pro/news/HALO/8949915",
+      "created_at": "2020-11-05T13:33:18Z",
+      "user": {
+        "id": 1555408,
+        "username": "STCKPRO",
+        "name": "STCK.PRO",
+        "avatar_url": "https://avatars.stocktwits.com/production/1555408/thumb-1576077822.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1555408/thumb-1576077822.png",
+        "join_date": "2018-07-24",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 4432,
+        "following": 2,
+        "ideas": 272736,
+        "watchlist_stocks_count": 18,
+        "like_count": 52,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5011,
+        "title": "STCK.PRO",
+        "url": "https://dashboard.stck.pro"
+      },
+      "symbols": [
+        {
+          "id": 2087,
+          "symbol": "HALO",
+          "title": "Halozyme Therapeutics, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 4089
+        }
+      ],
+      "links": [
+        {
+          "title": "Halozyme Therapeutics (HALO)",
+          "url": "https://www.stck.pro/news/HALO/8949915",
+          "shortened_url": "https://www.stck.pro/news/HALO/8949915",
+          "shortened_expanded_url": "stck.pro/news/HALO",
+          "description": "Never miss an important article again, stay on top of your investments and become a better investor today! Get your moat on and sync your watchlist with Stocktwits and get all the latest news for your symbols. Sync with Stocktwits",
+          "image": "https://www.stck.pro/img/imac.png",
+          "created_at": "2020-11-05T13:33:24Z",
+          "video_url": null,
+          "source": {
+            "name": "Stck",
+            "website": "https://www.stck.pro"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_254558199.jpg",
+          "large": "https://charts.stocktwits.com/production/large_254558199.jpg",
+          "original": "https://charts.stocktwits.com/production/original_254558199.jpg",
+          "url": "https://charts.stocktwits.com/production/original_254558199.jpg"
+        },
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254556590,
+      "body": "$HALO [15s. delayed]: Issued Press Release on November 05, 08:15:00: Halozyme Announces Upcoming Data Presentations at American Society of https://s.flashalert.me/4QkPS",
+      "created_at": "2020-11-05T13:26:01Z",
+      "user": {
+        "id": 595702,
+        "username": "fla",
+        "name": "FlashAlert_me",
+        "avatar_url": "https://avatars.stocktwits.com/production/595702/thumb-1550769466.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/595702/thumb-1550769466.png",
+        "join_date": "2015-09-09",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 2667,
+        "following": 60,
+        "ideas": 727584,
+        "watchlist_stocks_count": 0,
+        "like_count": 4,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 4622,
+        "title": "FlashAlert",
+        "url": "https://flashalert.me/"
+      },
+      "symbols": [
+        {
+          "id": 2087,
+          "symbol": "HALO",
+          "title": "Halozyme Therapeutics, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 4089
+        }
+      ],
+      "links": [
+        {
+          "title": "Flash Alert",
+          "url": "https://s.flashalert.me/4QkPS",
+          "shortened_url": "https://s.flashalert.me/4QkPS",
+          "shortened_expanded_url": "prnewswire.com:443/news-rel...",
+          "description": "Real-time alerts about equities, ETFs, cryptocurrencies and more sent to any device",
+          "image": null,
+          "created_at": "2020-11-05T13:26:01Z",
+          "video_url": null,
+          "source": {
+            "name": "Flashalert",
+            "website": "https://flashalert.me"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254554227,
+      "body": "$HALO Halozyme Announces Upcoming Data Presentations at American Society of Hematology Annual Meeting For APOLLO and ANDROMEDA Phase 3 Studies By Janssen Evaluating Subcutaneous Daratumumab Utilizing .. \n\nhttps://newsfilter.io/a/8ab503df21e190c37f6f10bfb51fe059",
+      "created_at": "2020-11-05T13:15:32Z",
+      "user": {
+        "id": 2762379,
+        "username": "Newsfilter",
+        "name": "@newsfilterio",
+        "avatar_url": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "join_date": "2019-09-01",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 7567,
+        "following": 16,
+        "ideas": 612954,
+        "watchlist_stocks_count": 1,
+        "like_count": 531,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 2087,
+          "symbol": "HALO",
+          "title": "Halozyme Therapeutics, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 4089
+        }
+      ],
+      "links": [
+        {
+          "title": "Halozyme Announces Upcoming Data Presentations at American Society of Hematology Annual Meeting For APOLLO and ANDROMEDA Phase 3 Studies By Janssen Evaluating Subcutaneous Daratumumab Utilizing ENHANZE\u00ae",
+          "url": "https://newsfilter.io/a/8ab503df21e190c37f6f10bfb51fe059",
+          "shortened_url": "https://newsfilter.io/a/8ab503df21e190c37f6f10bfb51fe059",
+          "shortened_expanded_url": "newsfilter.io/a/8ab503df21e...",
+          "description": "SAN DIEGO, Nov. 5, 2020 /PRNewswire/ -- Halozyme Therapeutics, Inc. (NASDAQ: HALO) today announced that studies sponsored by Janssen Research & Development, LLC (Janssen) evaluating subcutaneous (SC) daratumumab utilizing ENHANZE \u00ae will be the subject of presentations at the upcoming American Society of Hematology (ASH) Annual Meeting and Exposition taking place virtually December 5-8, 2020.",
+          "image": "https://newsfilter.io/meta-images/?url=https://storage.googleapis.com/iex/api/logos/HALO.png",
+          "created_at": "2020-11-05T13:15:33Z",
+          "video_url": null,
+          "source": {
+            "name": "Newsfilter",
+            "website": "https://newsfilter.io"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254554218,
+      "body": "$HALO Halozyme Announces Upcoming Data Presentations at American Society of Hematology Annual Meeting For APOLLO and ANDROMEDA Phase 3 Studies By Janssen Evaluating Subcutaneous Daratumumab Utilizing ENHANZE\u00ae\nhttps://www.stocktitan.net/news/HALO/halozyme-announces-upcoming-data-presentations-at-american-society-83yryd00blj6.html",
+      "created_at": "2020-11-05T13:15:30Z",
+      "user": {
+        "id": 3372441,
+        "username": "Stock_Titan",
+        "name": "StockTitan",
+        "avatar_url": "https://avatars.stocktwits.com/production/3372441/thumb-1588173612.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3372441/thumb-1588173612.png",
+        "join_date": "2020-04-28",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 455,
+        "following": 0,
+        "ideas": 30238,
+        "watchlist_stocks_count": 0,
+        "like_count": 0,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5677,
+        "title": "StockTitan",
+        "url": "https://stocktitan.net"
+      },
+      "symbols": [
+        {
+          "id": 2087,
+          "symbol": "HALO",
+          "title": "Halozyme Therapeutics, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 4089
+        }
+      ],
+      "links": [
+        {
+          "title": null,
+          "url": "https://www.stocktitan.net/news/HALO/halozyme-announces-upcoming-data-presentations-at-american-society-83yryd00blj6.html",
+          "shortened_url": "https://www.stocktitan.net/news/HALO/halozyme-announces-upcoming-data-presentations-at-american-society-83yryd00blj6.html",
+          "shortened_expanded_url": "stocktitan.net/news/HALO/ha...",
+          "description": null,
+          "image": null,
+          "created_at": "2020-11-05T13:16:01Z",
+          "video_url": null,
+          "source": {
+            "name": "Stocktitan",
+            "website": "http://www.stocktitan.net"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254552551,
+      "body": "2020-11-04 MA5-MA15 Bull Crossover Stock: $CIM, $CTLT, $GNTX, $HALO, $IOVA",
+      "created_at": "2020-11-05T13:06:48Z",
+      "user": {
+        "id": 190867,
+        "username": "stoxlineinvestment",
+        "name": "msilcpom",
+        "avatar_url": "https://avatars.stocktwits.com/production/190867/thumb-1351089533.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/190867/thumb-1351089533.png",
+        "join_date": "2012-10-24",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 1831,
+        "following": 224,
+        "ideas": 12432,
+        "watchlist_stocks_count": 1,
+        "like_count": 1,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 2036,
+          "symbol": "GNTX",
+          "title": "Gentex Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 838
+        },
+        {
+          "id": 2087,
+          "symbol": "HALO",
+          "title": "Halozyme Therapeutics, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 4089
+        },
+        {
+          "id": 4740,
+          "symbol": "CIM",
+          "title": "Chimera Investment Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 2847
+        },
+        {
+          "id": 12144,
+          "symbol": "CTLT",
+          "title": "Catalent",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 720
+        },
+        {
+          "id": 13643,
+          "symbol": "IOVA",
+          "title": "Iovance Biotherapeutics Inc",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 3483
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254512622,
+      "body": "I\u2019ve been building positions in $LPRO and $HALO for a while now. $UBER is on my watch list. These are three companies whose earnings are expected to grow at a rate greater than 50% over the next few years and earnings increases are the number one reason stock prices trend higher. All three offer options. All three are worth researching. \n\ud83c\udf34\u2b50\ufe0f\ud83c\udf34",
+      "created_at": "2020-11-05T04:00:39Z",
+      "user": {
+        "id": 315406,
+        "username": "dennismccain",
+        "name": "Dennis McCain",
+        "avatar_url": "https://avatars.stocktwits.com/production/315406/thumb-1599084882.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/315406/thumb-1599084882.png",
+        "join_date": "2014-02-16",
+        "official": false,
+        "identity": "User",
+        "classification": [
+          "suggested"
+        ],
+        "followers": 5415,
+        "following": 57,
+        "ideas": 18144,
+        "watchlist_stocks_count": 118,
+        "like_count": 1656,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 2087,
+          "symbol": "HALO",
+          "title": "Halozyme Therapeutics, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 4089
+        },
+        {
+          "id": 11554,
+          "symbol": "UBER",
+          "title": "Uber",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 68509
+        },
+        {
+          "id": 15722,
+          "symbol": "LPRO",
+          "title": "Open Lending Corp - Ordinary Shares - Class A",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 169
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 254512622,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 7
+      },
+      "likes": {
+        "total": 6,
+        "user_ids": [
+          2866364,
+          3350782,
+          1001240,
+          2851258,
+          3472018,
+          4090862
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_254512622.png",
+          "large": "https://charts.stocktwits.com/production/large_254512622.png",
+          "original": "https://charts.stocktwits.com/production/original_254512622.png",
+          "url": "https://charts.stocktwits.com/production/original_254512622.png"
+        },
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254442977,
+      "body": "Updated Q3\u201920 post earnings drift watchlist. Some new additions include: $INSP $CLCT $HALO $FRPT https://finviz.com/screener.ashx?v=211&amp;t=CALX,SNAP,LOGI,TER,ALGN,SAM,SAFE,EXAS,FSLR,PINS,EGOV,TRUP,ZEN,GSHD,OIIM,BL,FIVN,GNMK,HZO,W,INSP,HALO,AMRC,CTLT,FRPT,CLCT",
+      "created_at": "2020-11-04T20:56:58Z",
+      "user": {
+        "id": 313014,
+        "username": "HatchingGains",
+        "name": "Luke Hatch",
+        "avatar_url": "https://avatars.stocktwits.com/production/313014/thumb-1543563036.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/313014/thumb-1543563036.png",
+        "join_date": "2014-02-12",
+        "official": true,
+        "identity": "Official",
+        "classification": [
+          "suggested",
+          "official"
+        ],
+        "followers": 4024,
+        "following": 121,
+        "ideas": 10352,
+        "watchlist_stocks_count": 6,
+        "like_count": 5805,
+        "plus_tier": "",
+        "premium_room": "TrendTradingBreakouts",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 1329,
+          "symbol": "CLCT",
+          "title": "Collectors Universe Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 647
+        },
+        {
+          "id": 1941,
+          "symbol": "FRPT",
+          "title": "Freshpet",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 881
+        },
+        {
+          "id": 2087,
+          "symbol": "HALO",
+          "title": "Halozyme Therapeutics, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 4090
+        },
+        {
+          "id": 2307,
+          "symbol": "INSP",
+          "title": "Inspire Medical Systems, Inc ",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 841
+        }
+      ],
+      "links": [
+        {
+          "title": "Stock Screener - Charts CALX,SNAP,LOGI,TER,ALGN,SAM,SAFE,EXAS,FSLR,PINS,EGOV,TRUP,ZEN,GSHD,OIIM,BL,FIVN,GNMK,HZO,W,INSP,HALO,AMRC,CTLT,FRPT,CLCT",
+          "url": "https://finviz.com/screener.ashx?v=211&t=CALX,SNAP,LOGI,TER,ALGN,SAM,SAFE,EXAS,FSLR,PINS,EGOV,TRUP,ZEN,GSHD,OIIM,BL,FIVN,GNMK,HZO,W,INSP,HALO,AMRC,CTLT,FRPT,CLCT",
+          "shortened_url": "https://finviz.com/screener.ashx?v=211&t=CALX,SNAP,LOGI,TER,ALGN,SAM,SAFE,EXAS,FSLR,PINS,EGOV,TRUP,ZEN,GSHD,OIIM,BL,FIVN,GNMK,HZO,W,INSP,HALO,AMRC,CTLT,FRPT,CLCT",
+          "shortened_expanded_url": "finviz.com/screener.ashx?v=...",
+          "description": "Stock screener for investors and traders, financial visualizations.",
+          "image": "https://charts2.finviz.com/chart.ashx?t=EGOV&ta=1&p=d&s=m",
+          "created_at": "2020-11-04T20:56:59Z",
+          "video_url": null,
+          "source": {
+            "name": "Finviz",
+            "website": "https://finviz.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 254341900,
+      "body": "$HALO - http://www.trade-ideas.com/ticky/ticky.html?symbol=HALO - BOOM! There Goes The Dynamite!  Watch this Sector - Up 5% for the day.",
+      "created_at": "2020-11-04T14:32:13Z",
+      "user": {
+        "id": 116462,
+        "username": "TradeIdeasQuant",
+        "name": "Trade-Ideas Quant",
+        "avatar_url": "https://avatars.stocktwits.com/production/116462/thumb-1458241309.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/116462/thumb-1458241309.png",
+        "join_date": "2011-11-07",
+        "official": true,
+        "identity": "Official",
+        "classification": [
+          "official"
+        ],
+        "followers": 43755,
+        "following": 5,
+        "ideas": 238563,
+        "watchlist_stocks_count": 0,
+        "like_count": 0,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1008,
+        "title": "TI Pro Collaboration",
+        "url": "http://trade-ideas.com"
+      },
+      "symbols": [
+        {
+          "id": 2087,
+          "symbol": "HALO",
+          "title": "Halozyme Therapeutics, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 4089
+        }
+      ],
+      "links": [
+        {
+          "title": "HALO",
+          "url": "http://www.trade-ideas.com/ticky/ticky.html?symbol=HALO",
+          "shortened_url": "http://www.trade-ideas.com/ticky/ticky.html?symbol=HALO",
+          "shortened_expanded_url": "trade-ideas.com/ticky/ticky...",
+          "description": "Trade Ideas Finds Your Next Trade in Halozyme Therapeutics, Inc LAST PRICE - 09:08am HALO is trading DOWN -$-0.11 or -0.3% from yesterday's close of $31.62.",
+          "image": null,
+          "created_at": "2020-11-04T14:32:15Z",
+          "video_url": null,
+          "source": {
+            "name": "Trade-ideas",
+            "website": "https://www.trade-ideas.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254341782,
+      "body": "$HALO - http://www.trade-ideas.com/ticky/ticky.html?symbol=HALO - Significant Breakout with Unusual Social Activity - Up 5% for the day.",
+      "created_at": "2020-11-04T14:31:45Z",
+      "user": {
+        "id": 116462,
+        "username": "TradeIdeasQuant",
+        "name": "Trade-Ideas Quant",
+        "avatar_url": "https://avatars.stocktwits.com/production/116462/thumb-1458241309.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/116462/thumb-1458241309.png",
+        "join_date": "2011-11-07",
+        "official": true,
+        "identity": "Official",
+        "classification": [
+          "official"
+        ],
+        "followers": 43755,
+        "following": 5,
+        "ideas": 238563,
+        "watchlist_stocks_count": 0,
+        "like_count": 0,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1008,
+        "title": "TI Pro Collaboration",
+        "url": "http://trade-ideas.com"
+      },
+      "symbols": [
+        {
+          "id": 2087,
+          "symbol": "HALO",
+          "title": "Halozyme Therapeutics, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 4089
+        }
+      ],
+      "links": [
+        {
+          "title": "HALO",
+          "url": "http://www.trade-ideas.com/ticky/ticky.html?symbol=HALO",
+          "shortened_url": "http://www.trade-ideas.com/ticky/ticky.html?symbol=HALO",
+          "shortened_expanded_url": "trade-ideas.com/ticky/ticky...",
+          "description": "Trade Ideas Finds Your Next Trade in Halozyme Therapeutics, Inc LAST PRICE - 09:08am HALO is trading DOWN -$-0.11 or -0.3% from yesterday's close of $31.62.",
+          "image": null,
+          "created_at": "2020-11-04T14:31:47Z",
+          "video_url": null,
+          "source": {
+            "name": "Trade-ideas",
+            "website": "https://www.trade-ideas.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254329823,
+      "body": "The Daily Biotech Pulse: Alzheimer&#39;s Conference Underway, Biogen&#39;s Aducanumab Briefing Doc, Supernus Earnings  $BIO $BHVN $BLFS $BLRX $HALO \n\nhttps://newsfilter.io/a/f59e9d65da4e4b2730e8d316070bcfe4",
+      "created_at": "2020-11-04T13:35:17Z",
+      "user": {
+        "id": 2762379,
+        "username": "Newsfilter",
+        "name": "@newsfilterio",
+        "avatar_url": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "join_date": "2019-09-01",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 7570,
+        "following": 16,
+        "ideas": 612954,
+        "watchlist_stocks_count": 1,
+        "like_count": 531,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 2087,
+          "symbol": "HALO",
+          "title": "Halozyme Therapeutics, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 4089
+        },
+        {
+          "id": 4522,
+          "symbol": "BIO",
+          "title": "Bio-Rad Laboratories, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 543
+        },
+        {
+          "id": 11338,
+          "symbol": "BLRX",
+          "title": "BioLineRx, Ltd.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 9916
+        },
+        {
+          "id": 11939,
+          "symbol": "BLFS",
+          "title": "BioLife Solutions Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 2868
+        },
+        {
+          "id": 13572,
+          "symbol": "BHVN",
+          "title": "Biohaven Pharmaceutical Holding Co Ltd",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1411
+        }
+      ],
+      "links": [
+        {
+          "title": "The Daily Biotech Pulse: Alzheimer's Conference Underway, Biogen's Aducanumab Briefing Doc, Supernus Earnings",
+          "url": "https://newsfilter.io/a/f59e9d65da4e4b2730e8d316070bcfe4",
+          "shortened_url": "https://newsfilter.io/a/f59e9d65da4e4b2730e8d316070bcfe4",
+          "shortened_expanded_url": "newsfilter.io/a/f59e9d65da4...",
+          "description": "Here's a roundup of top developments in the biotech space over the last 24 hours. (Biotech Stocks Hitting 52-week Highs Nov. 3) Bio-Rad Laboratories, Inc. (NYSE: BIO) Biohaven Pharmaceutical Holding Co Ltd (NYSE: BHVN) BioLife Solutions Inc (NASDAQ: BLFS) BioLineRx ADR Representing 15 Ord Shs (NASDAQ: BLRX)(reacted to positive readout for its stem cell therapy to treat cancer) Halozyme Therapeutics, Inc.",
+          "image": "https://newsfilter.io/meta-images/?url=https://storage.googleapis.com/iex/api/logos/BIO.png",
+          "created_at": "2020-11-04T13:35:18Z",
+          "video_url": null,
+          "source": {
+            "name": "Newsfilter",
+            "website": "https://newsfilter.io"
+          }
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          3546853
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254316342,
+      "body": "$HALO has a Current Ratio of 18.49, so it is financially healthy and has no problem in meeting its obligations. https://www.chartmill.com/stock/quote/HALO/fundamental-analysis?key=1bee611e-cf8c-4d02-b610-2dcf822944b1&amp;utm_source=stocktwits&amp;utm_medium=FA&amp;utm_content=HALO&amp;utm_campaign=social_tracking",
+      "created_at": "2020-11-04T12:02:01Z",
+      "user": {
+        "id": 47688,
+        "username": "ChartMill",
+        "name": "ChartMill",
+        "avatar_url": "https://avatars.stocktwits.com/production/47688/thumb-1363343728.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/47688/thumb-1363343728.png",
+        "join_date": "2011-01-26",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 22069,
+        "following": 891,
+        "ideas": 1099568,
+        "watchlist_stocks_count": 20,
+        "like_count": 32,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1135,
+        "title": "ChartMill",
+        "url": "http://www.chartmill.com"
+      },
+      "symbols": [
+        {
+          "id": 2087,
+          "symbol": "HALO",
+          "title": "Halozyme Therapeutics, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 4089
+        }
+      ],
+      "links": [
+        {
+          "title": null,
+          "url": "https://www.chartmill.com/stock/quote/HALO/fundamental-analysis?key=1bee611e-cf8c-4d02-b610-2dcf822944b1&utm_source=stocktwits&utm_medium=FA&utm_content=HALO&utm_campaign=social_tracking",
+          "shortened_url": "https://www.chartmill.com/stock/quote/HALO/fundamental-analysis?key=1bee611e-cf8c-4d02-b610-2dcf822944b1&utm_source=stocktwits&utm_medium=FA&utm_content=HALO&utm_campaign=social_tracking",
+          "shortened_expanded_url": "chartmill.com/stock/quote/H...",
+          "description": null,
+          "image": null,
+          "created_at": "2020-11-04T12:02:01Z",
+          "video_url": null,
+          "source": {
+            "name": "Chartmill",
+            "website": "https://www.chartmill.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254306563,
+      "body": "$WKHS, $APPS and $HALO are the top gainers in the Russel 2000 for the day. https://www.chartmill.com/stock/stock-screener?v=3&amp;f=ind_18&amp;s=pt&amp;utm_source=stocktwits&amp;utm_medium=screener&amp;utm_content=Stock_Screener:_top_Russel_2000_gainers&amp;utm_campaign=social_tracking",
+      "created_at": "2020-11-04T09:22:00Z",
+      "user": {
+        "id": 47688,
+        "username": "ChartMill",
+        "name": "ChartMill",
+        "avatar_url": "https://avatars.stocktwits.com/production/47688/thumb-1363343728.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/47688/thumb-1363343728.png",
+        "join_date": "2011-01-26",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 22066,
+        "following": 891,
+        "ideas": 1099461,
+        "watchlist_stocks_count": 20,
+        "like_count": 32,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1135,
+        "title": "ChartMill",
+        "url": "http://www.chartmill.com"
+      },
+      "symbols": [
+        {
+          "id": 2087,
+          "symbol": "HALO",
+          "title": "Halozyme Therapeutics, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 4089
+        },
+        {
+          "id": 11700,
+          "symbol": "APPS",
+          "title": "Digital Turbine, Inc.",
+          "aliases": [
+            "MNDL"
+          ],
+          "is_following": false,
+          "watchlist_count": 12209
+        },
+        {
+          "id": 12960,
+          "symbol": "WKHS",
+          "title": "Workhorse Group ",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 72016
+        }
+      ],
+      "links": [
+        {
+          "title": null,
+          "url": "https://www.chartmill.com/stock/stock-screener?v=3&f=ind_18&s=pt&utm_source=stocktwits&utm_medium=screener&utm_content=Stock_Screener:_top_Russel_2000_gainers&utm_campaign=social_tracking",
+          "shortened_url": "https://www.chartmill.com/stock/stock-screener?v=3&f=ind_18&s=pt&utm_source=stocktwits&utm_medium=screener&utm_content=Stock_Screener:_top_Russel_2000_gainers&utm_campaign=social_tracking",
+          "shortened_expanded_url": "chartmill.com/stock/stock-s...",
+          "description": null,
+          "image": null,
+          "created_at": "2020-11-04T09:22:00Z",
+          "video_url": null,
+          "source": {
+            "name": "Chartmill",
+            "website": "https://www.chartmill.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254276785,
+      "body": "$HALO Had to average the calls down I bought two weeks ago, worth it as of today....",
+      "created_at": "2020-11-04T03:37:45Z",
+      "user": {
+        "id": 2127464,
+        "username": "Dogstocks12",
+        "name": "Dave",
+        "avatar_url": "https://avatars.stocktwits.com/production/2127464/thumb-1561765890.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2127464/thumb-1561765890.png",
+        "join_date": "2019-06-07",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 68,
+        "following": 45,
+        "ideas": 4074,
+        "watchlist_stocks_count": 135,
+        "like_count": 3291,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2095,
+        "title": "StockTwits For Android ",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 2087,
+          "symbol": "HALO",
+          "title": "Halozyme Therapeutics, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 4091
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 254268326,
+      "body": "Dan Nathan, Ross Gerber \ud83d\udc76?  In 2020  all the \ud83d\udc11 been $spot.  The \ud83e\udde0 must be protected n the $fate of the YO still wears its $halo.   \ud83d\udc12\ud83c\udf4c\ud83e\udde0",
+      "created_at": "2020-11-04T02:46:42Z",
+      "user": {
+        "id": 91181,
+        "username": "Doozio",
+        "name": "J",
+        "avatar_url": "https://avatars.stocktwits.com/production/91181/thumb-1543511825.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/91181/thumb-1543511825.png",
+        "join_date": "2011-07-07",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 36992,
+        "following": 420,
+        "ideas": 54877,
+        "watchlist_stocks_count": 279,
+        "like_count": 12966,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 2087,
+          "symbol": "HALO",
+          "title": "Halozyme Therapeutics, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 4090
+        },
+        {
+          "id": 9076,
+          "symbol": "SPOT",
+          "title": "Spotify Technology S.A.",
+          "aliases": [
+            "SPTF",
+            "SPOTIFY"
+          ],
+          "is_following": false,
+          "watchlist_count": 26758
+        },
+        {
+          "id": 11589,
+          "symbol": "FATE",
+          "title": "Fate Therapeutics Inc",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 4538
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 254268326,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 2
+      },
+      "likes": {
+        "total": 3,
+        "user_ids": [
+          1174719,
+          3421657,
+          3264603
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_254268326.png",
+          "large": "https://charts.stocktwits.com/production/large_254268326.png",
+          "original": "https://charts.stocktwits.com/production/original_254268326.png",
+          "url": "https://charts.stocktwits.com/production/original_254268326.png"
+        },
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 254237797,
+      "body": "WATCH LIST FOR 11-4-2020 \n \n&quot;GAPPERS WITH MORE ROOM&quot; \n \n$APVO $IEA $JAKK $ANET $HALO",
+      "created_at": "2020-11-03T23:03:40Z",
+      "user": {
+        "id": 388147,
+        "username": "AC_TRADER",
+        "name": "WE DRAW LINES",
+        "avatar_url": "https://avatars.stocktwits.com/production/388147/thumb-1599935901.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/388147/thumb-1599935901.png",
+        "join_date": "2014-08-15",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 8826,
+        "following": 20,
+        "ideas": 17696,
+        "watchlist_stocks_count": 0,
+        "like_count": 8582,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 2087,
+          "symbol": "HALO",
+          "title": "Halozyme Therapeutics, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 4089
+        },
+        {
+          "id": 2378,
+          "symbol": "JAKK",
+          "title": "JAKKS Pacific, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 6555
+        },
+        {
+          "id": 11951,
+          "symbol": "ANET",
+          "title": "Arista Networks",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 7158
+        },
+        {
+          "id": 13164,
+          "symbol": "APVO",
+          "title": "Aptevo Therapeutics ",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 6241
+        },
+        {
+          "id": 15328,
+          "symbol": "IEA",
+          "title": "INFRASTRUCTURE AND ENERGY ALTE COM",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 2210
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 254237797,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          1688250
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_254237797.png",
+          "large": "https://charts.stocktwits.com/production/large_254237797.png",
+          "original": "https://charts.stocktwits.com/production/original_254237797.png",
+          "url": "https://charts.stocktwits.com/production/original_254237797.png"
+        },
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 254195676,
+      "body": "Bigger-than-usual #earnings moves today from $INSP $GWPH $ESPR $SEDG $HALO \n\nhttp://eps.sh/r",
+      "created_at": "2020-11-03T20:01:41Z",
+      "user": {
+        "id": 13621,
+        "username": "eWhispers",
+        "name": "Earnings Whispers",
+        "avatar_url": "https://avatars.stocktwits.com/production/13621/thumb-1428413900.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/13621/thumb-1428413900.png",
+        "join_date": "2010-04-23",
+        "official": true,
+        "identity": "Official",
+        "classification": [
+          "suggested",
+          "official"
+        ],
+        "followers": 121653,
+        "following": 65,
+        "ideas": 2708,
+        "watchlist_stocks_count": 0,
+        "like_count": 285,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 2087,
+          "symbol": "HALO",
+          "title": "Halozyme Therapeutics, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 4091
+        },
+        {
+          "id": 2307,
+          "symbol": "INSP",
+          "title": "Inspire Medical Systems, Inc ",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 841
+        },
+        {
+          "id": 11601,
+          "symbol": "GWPH",
+          "title": "GW Pharmaceuticals plc",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 15991
+        },
+        {
+          "id": 12243,
+          "symbol": "ESPR",
+          "title": "Esperion Therapeutics Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 5575
+        },
+        {
+          "id": 12491,
+          "symbol": "SEDG",
+          "title": "SolarEdge Technologies",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 9587
+        }
+      ],
+      "links": [
+        {
+          "title": "Earnings Whispers Top News for Tuesday, November 03, 2020",
+          "url": "http://eps.sh/r",
+          "shortened_url": "http://eps.sh/r",
+          "shortened_expanded_url": "earningswhispers.com/results",
+          "description": "Recent earnings news for Sysco (SYY), Spirit Aerosystems (SPR), Catalent (CTLT), Bmc Stock (BMCH), Mckesson (MCK), Wayfair (W), Wisconsin Energy (WEC), Bausch Health Companies (BHC), Ferrari N.V. (RACE), Humana (HUM) Recent earnings news for",
+          "image": "https://www.earningswhispers.com/images/og-more.gif",
+          "created_at": "2020-11-03T20:01:44Z",
+          "video_url": null,
+          "source": {
+            "name": "Earnings Whispers",
+            "website": "https://www.earningswhispers.com"
+          }
+        }
+      ],
+      "likes": {
+        "total": 2,
+        "user_ids": [
+          4261992,
+          3887701
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_254195676.png",
+          "large": "https://charts.stocktwits.com/production/large_254195676.png",
+          "original": "https://charts.stocktwits.com/production/original_254195676.png",
+          "url": "https://charts.stocktwits.com/production/original_254195676.png"
+        },
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254190952,
+      "body": "$HALO NEW ARTICLE : Halozyme Therapeutics Deals With Drug Giants Spark Stock To New High https://www.stck.pro/news/HALO/8914042",
+      "created_at": "2020-11-03T19:43:06Z",
+      "user": {
+        "id": 1555408,
+        "username": "STCKPRO",
+        "name": "STCK.PRO",
+        "avatar_url": "https://avatars.stocktwits.com/production/1555408/thumb-1576077822.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1555408/thumb-1576077822.png",
+        "join_date": "2018-07-24",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 4421,
+        "following": 2,
+        "ideas": 271479,
+        "watchlist_stocks_count": 18,
+        "like_count": 52,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5011,
+        "title": "STCK.PRO",
+        "url": "https://dashboard.stck.pro"
+      },
+      "symbols": [
+        {
+          "id": 2087,
+          "symbol": "HALO",
+          "title": "Halozyme Therapeutics, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 4090
+        }
+      ],
+      "links": [
+        {
+          "title": "Halozyme Therapeutics (HALO)",
+          "url": "https://www.stck.pro/news/HALO/8914042",
+          "shortened_url": "https://www.stck.pro/news/HALO/8914042",
+          "shortened_expanded_url": "stck.pro/news/HALO",
+          "description": "Never miss an important article again, stay on top of your investments and become a better investor today! Get your moat on and sync your watchlist with Stocktwits and get all the latest news for your symbols. Sync with Stocktwits",
+          "image": "https://www.stck.pro/img/imac.png",
+          "created_at": "2020-11-03T19:43:10Z",
+          "video_url": null,
+          "source": {
+            "name": "Stck",
+            "website": "https://www.stck.pro"
+          }
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          3421657
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_254190952.jpg",
+          "large": "https://charts.stocktwits.com/production/large_254190952.jpg",
+          "original": "https://charts.stocktwits.com/production/original_254190952.jpg",
+          "url": "https://charts.stocktwits.com/production/original_254190952.jpg"
+        },
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254168696,
+      "body": "Da Jabronis think it\u2019s all tawk.  But it IS whut it IS!  N da $fate of da YO is still protected by its $halo.  Continue to $repl da \ud83d\udc11 n YO eventually will $morf into da \ud83e\udde0.  Barring a faatch  \ud83d\udca3     But YO gotta WUTCH.  Obviously.  \n\nhttps://youtu.be/e00VktEfDOU\n\n\ud83d\udc12\ud83c\udf4c\ud83e\udde0",
+      "created_at": "2020-11-03T18:12:14Z",
+      "user": {
+        "id": 91181,
+        "username": "Doozio",
+        "name": "J",
+        "avatar_url": "https://avatars.stocktwits.com/production/91181/thumb-1543511825.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/91181/thumb-1543511825.png",
+        "join_date": "2011-07-07",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 36993,
+        "following": 420,
+        "ideas": 54845,
+        "watchlist_stocks_count": 279,
+        "like_count": 12954,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 2087,
+          "symbol": "HALO",
+          "title": "Halozyme Therapeutics, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 4091
+        },
+        {
+          "id": 11589,
+          "symbol": "FATE",
+          "title": "Fate Therapeutics Inc",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 4537
+        },
+        {
+          "id": 14749,
+          "symbol": "REPL",
+          "title": "Replimune Group, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 487
+        },
+        {
+          "id": 15304,
+          "symbol": "MORF",
+          "title": "Morphic Holding",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 128
+        }
+      ],
+      "links": [
+        {
+          "title": "I Back It Up - Conor McGregor",
+          "url": "https://youtu.be/e00VktEfDOU",
+          "shortened_url": "https://youtu.be/e00VktEfDOU",
+          "shortened_expanded_url": "youtube.com/watch?v=e00VktE...",
+          "description": "http://www.themcgregoreffect.com/ Conor McGregor -- I Back It Up I do not own anything, all rights goes to the owner. UFC www.themgregoreffet.com",
+          "image": "https://i.ytimg.com/vi/e00VktEfDOU/hqdefault.jpg",
+          "created_at": "2020-11-03T18:12:15Z",
+          "video_url": "//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2Fe00VktEfDOU%3Ffeature%3Doembed=YouTube=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3De00VktEfDOU=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fe00VktEfDOU%2Fhqdefault.jpg=799f78c4081511e084894040444cdc60=text%2Fhtml=youtube",
+          "source": {
+            "name": "YouTube",
+            "website": "https://www.youtube.com/"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "giphy": {
+          "id": "1r8SMj9uswgjFHFNmx"
+        },
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 254144136,
+      "body": "$HALO grab yourself some $HALO before you can&#39;t",
+      "created_at": "2020-11-03T16:39:42Z",
+      "user": {
+        "id": 1063368,
+        "username": "Makena2017",
+        "name": "Lou",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2017-05-15",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 4,
+        "following": 0,
+        "ideas": 554,
+        "watchlist_stocks_count": 189,
+        "like_count": 3,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 2087,
+          "symbol": "HALO",
+          "title": "Halozyme Therapeutics, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 4091
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          4095763
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 254143647,
+      "body": "$PDD, $A and $HALO making a new 52 week high. https://www.chartmill.com/stock/stock-screener?f=p_pg10,v1_50b500,s_nh,exch_us&amp;v=3&amp;utm_source=stocktwits&amp;utm_medium=screener&amp;utm_content=Stock_Screener:_New_52_week_high_today&amp;utm_campaign=social_tracking",
+      "created_at": "2020-11-03T16:38:00Z",
+      "user": {
+        "id": 47688,
+        "username": "ChartMill",
+        "name": "ChartMill",
+        "avatar_url": "https://avatars.stocktwits.com/production/47688/thumb-1363343728.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/47688/thumb-1363343728.png",
+        "join_date": "2011-01-26",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 22055,
+        "following": 891,
+        "ideas": 1098660,
+        "watchlist_stocks_count": 20,
+        "like_count": 32,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1135,
+        "title": "ChartMill",
+        "url": "http://www.chartmill.com"
+      },
+      "symbols": [
+        {
+          "id": 2087,
+          "symbol": "HALO",
+          "title": "Halozyme Therapeutics, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 4091
+        },
+        {
+          "id": 4201,
+          "symbol": "A",
+          "title": "Agilent Technologies Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1850
+        },
+        {
+          "id": 14783,
+          "symbol": "PDD",
+          "title": "Pinduoduo Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 6778
+        }
+      ],
+      "links": [
+        {
+          "title": null,
+          "url": "https://www.chartmill.com/stock/stock-screener?f=p_pg10,v1_50b500,s_nh,exch_us&v=3&utm_source=stocktwits&utm_medium=screener&utm_content=Stock_Screener:_New_52_week_high_today&utm_campaign=social_tracking",
+          "shortened_url": "https://www.chartmill.com/stock/stock-screener?f=p_pg10,v1_50b500,s_nh,exch_us&v=3&utm_source=stocktwits&utm_medium=screener&utm_content=Stock_Screener:_New_52_week_high_today&utm_campaign=social_tracking",
+          "shortened_expanded_url": "chartmill.com/stock/stock-s...",
+          "description": null,
+          "image": null,
+          "created_at": "2020-11-03T16:38:00Z",
+          "video_url": null,
+          "source": {
+            "name": "Chartmill",
+            "website": "https://www.chartmill.com"
+          }
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          4095763
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254129490,
+      "body": "$DBVT $GWPH $HALO working their way up into today\u2019s top biotech winners! Good work bulls \ud83d\udcaa\nIf you need any fresh ideas be sure to drop a follow!",
+      "created_at": "2020-11-03T15:51:38Z",
+      "user": {
+        "id": 1582078,
+        "username": "MS_Money_Moves",
+        "name": "M's",
+        "avatar_url": "https://avatars.stocktwits.com/production/1582078/thumb-1579192536.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1582078/thumb-1579192536.png",
+        "join_date": "2018-08-21",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 3340,
+        "following": 279,
+        "ideas": 8051,
+        "watchlist_stocks_count": 100,
+        "like_count": 6885,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 2087,
+          "symbol": "HALO",
+          "title": "Halozyme Therapeutics, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 4088
+        },
+        {
+          "id": 11601,
+          "symbol": "GWPH",
+          "title": "GW Pharmaceuticals plc",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 15987
+        },
+        {
+          "id": 12233,
+          "symbol": "DBVT",
+          "title": "DBV Technologies",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 2167
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 254129490,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 2
+      },
+      "likes": {
+        "total": 3,
+        "user_ids": [
+          2961171,
+          1723429,
+          3163827
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 254108956,
+      "body": "$HALO can the LT holders and buyers keep control",
+      "created_at": "2020-11-03T14:52:03Z",
+      "user": {
+        "id": 1063368,
+        "username": "Makena2017",
+        "name": "Lou",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2017-05-15",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 4,
+        "following": 0,
+        "ideas": 554,
+        "watchlist_stocks_count": 189,
+        "like_count": 3,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 2087,
+          "symbol": "HALO",
+          "title": "Halozyme Therapeutics, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 4090
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          824852
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    }
+  ]
+}
