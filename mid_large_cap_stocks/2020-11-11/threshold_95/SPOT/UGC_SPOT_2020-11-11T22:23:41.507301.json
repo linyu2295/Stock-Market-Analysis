@@ -1,0 +1,1944 @@
+{
+  "response": {
+    "status": 200
+  },
+  "symbol": {
+    "id": 9076,
+    "symbol": "SPOT",
+    "title": "Spotify Technology S.A.",
+    "aliases": [
+      "SPTF",
+      "SPOTIFY"
+    ],
+    "is_following": false,
+    "watchlist_count": 26811
+  },
+  "cursor": {
+    "more": true,
+    "since": 255870224,
+    "max": 255659937
+  },
+  "messages": [
+    {
+      "id": 255870224,
+      "body": "$TME is the $SPOT of china.. think about that for a second..",
+      "created_at": "2020-11-11T13:52:16Z",
+      "user": {
+        "id": 4097826,
+        "username": "silversx",
+        "name": "Jane Smith",
+        "avatar_url": "https://avatars.stocktwits.com/production/4097826/thumb-1600843188.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/4097826/thumb-1600843188.png",
+        "join_date": "2020-09-23",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 3,
+        "following": 8,
+        "ideas": 47,
+        "watchlist_stocks_count": 95,
+        "like_count": 7,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 9076,
+          "symbol": "SPOT",
+          "title": "Spotify Technology S.A.",
+          "aliases": [
+            "SPTF",
+            "SPOTIFY"
+          ],
+          "is_following": false,
+          "watchlist_count": 26811
+        },
+        {
+          "id": 14990,
+          "symbol": "TME",
+          "title": "Tencent Music Entertainment Group",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 3349
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 255869895,
+      "body": "$SPOT bizarre that it sold off yesterday on what appears to be a very strategic and complimentary acquisition",
+      "created_at": "2020-11-11T13:50:41Z",
+      "user": {
+        "id": 812064,
+        "username": "chanewald",
+        "name": "Chris",
+        "avatar_url": "https://avatars.stocktwits.com/production/812064/thumb-1539109679.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/812064/thumb-1539109679.png",
+        "join_date": "2016-08-04",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 31,
+        "following": 26,
+        "ideas": 1887,
+        "watchlist_stocks_count": 104,
+        "like_count": 3377,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 9076,
+          "symbol": "SPOT",
+          "title": "Spotify Technology S.A.",
+          "aliases": [
+            "SPTF",
+            "SPOTIFY"
+          ],
+          "is_following": false,
+          "watchlist_count": 26811
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 255869895,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          3880370
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 255854546,
+      "body": "$SPOT NEW ARTICLE : Spotify Just Made Its Most Important Podcast Acquisition of 2020 https://www.stck.pro/news/SPOT/9050630",
+      "created_at": "2020-11-11T12:31:19Z",
+      "user": {
+        "id": 1555408,
+        "username": "STCKPRO",
+        "name": "STCK.PRO",
+        "avatar_url": "https://avatars.stocktwits.com/production/1555408/thumb-1576077822.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1555408/thumb-1576077822.png",
+        "join_date": "2018-07-24",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 4484,
+        "following": 2,
+        "ideas": 276950,
+        "watchlist_stocks_count": 18,
+        "like_count": 52,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5011,
+        "title": "STCK.PRO",
+        "url": "https://dashboard.stck.pro"
+      },
+      "symbols": [
+        {
+          "id": 9076,
+          "symbol": "SPOT",
+          "title": "Spotify Technology S.A.",
+          "aliases": [
+            "SPTF",
+            "SPOTIFY"
+          ],
+          "is_following": false,
+          "watchlist_count": 26809
+        }
+      ],
+      "links": [
+        {
+          "title": "Spotify Technology S.A. (SPOT)",
+          "url": "https://www.stck.pro/news/SPOT/9050630",
+          "shortened_url": "https://www.stck.pro/news/SPOT/9050630",
+          "shortened_expanded_url": "stck.pro/news/SPOT",
+          "description": "Never miss an important article again, stay on top of your investments and become a better investor today! Get your moat on and sync your watchlist with Stocktwits and get all the latest news for your symbols. Sync with Stocktwits",
+          "image": "https://www.stck.pro/img/imac.png",
+          "created_at": "2020-11-11T12:31:27Z",
+          "video_url": null,
+          "source": {
+            "name": "Stck",
+            "website": "https://www.stck.pro"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_255854546.jpg",
+          "large": "https://charts.stocktwits.com/production/large_255854546.jpg",
+          "original": "https://charts.stocktwits.com/production/original_255854546.jpg",
+          "url": "https://charts.stocktwits.com/production/original_255854546.jpg"
+        },
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255831829,
+      "body": "This is amazing! What do you think? $SPOT&#39;s 10-day Moving Average crossed above its 50-day Moving Average on October 16, 2020. View odds for this and other indicators: https://srnk.us/go/2305471",
+      "created_at": "2020-11-11T06:09:56Z",
+      "user": {
+        "id": 967528,
+        "username": "tickeron",
+        "name": "Tickeron",
+        "avatar_url": "https://avatars.stocktwits.com/production/967528/thumb-1492026736.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/967528/thumb-1492026736.png",
+        "join_date": "2017-02-23",
+        "official": true,
+        "identity": "Official",
+        "classification": [
+          "official"
+        ],
+        "followers": 3971,
+        "following": 108,
+        "ideas": 438328,
+        "watchlist_stocks_count": 0,
+        "like_count": 0,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5810,
+        "title": "Tickeron",
+        "url": "https://tickeron.com"
+      },
+      "symbols": [
+        {
+          "id": 9076,
+          "symbol": "SPOT",
+          "title": "Spotify Technology S.A.",
+          "aliases": [
+            "SPTF",
+            "SPOTIFY"
+          ],
+          "is_following": false,
+          "watchlist_count": 26809
+        }
+      ],
+      "links": [
+        {
+          "title": "Tickeron - A.I. Trading With Odds of Success",
+          "url": "https://srnk.us/go/2305471",
+          "shortened_url": "https://srnk.us/go/2305471",
+          "shortened_expanded_url": "tickeron.com/ticker/SPOT/?u...",
+          "description": "Our A.I.-powered algorithms generate and verify trade ideas. Invest in trends, trade with patterns, and analyze Stocks, ETFs, Mutual Funds, FOREX, Cryptos.",
+          "image": "https://tickeron.com/Img/Seo/main.png",
+          "created_at": "2020-11-11T06:09:58Z",
+          "video_url": null,
+          "source": {
+            "name": "Tickeron Inc.",
+            "website": "https://tickeron.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_255831829.",
+          "large": "https://charts.stocktwits.com/production/large_255831829.",
+          "original": "https://charts.stocktwits.com/production/original_255831829.",
+          "url": "https://charts.stocktwits.com/production/original_255831829."
+        },
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255831604,
+      "body": "$SPOT Probably going to pick up this in this week , depend on my other stock performance..",
+      "created_at": "2020-11-11T06:04:41Z",
+      "user": {
+        "id": 1240338,
+        "username": "SongSong1",
+        "name": "Song",
+        "avatar_url": "https://avatars.stocktwits.com/production/1240338/thumb-1510817129.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1240338/thumb-1510817129.png",
+        "join_date": "2017-10-25",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 281,
+        "following": 50,
+        "ideas": 21234,
+        "watchlist_stocks_count": 48,
+        "like_count": 7400,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 9076,
+          "symbol": "SPOT",
+          "title": "Spotify Technology S.A.",
+          "aliases": [
+            "SPTF",
+            "SPOTIFY"
+          ],
+          "is_following": false,
+          "watchlist_count": 26809
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 255817336,
+      "body": "Spotify to buy ad tech firm Megaphone to monetize podcasts\n\nhttps://pageone.ng/2020/11/10/spotify-to-buy-ad-tech-firm-megaphone-to-monetize-podcasts/\n\n$AAPL $SPOT",
+      "created_at": "2020-11-11T03:17:04Z",
+      "user": {
+        "id": 3577261,
+        "username": "vinci86",
+        "name": "Samuel Odusami",
+        "avatar_url": "https://avatars.stocktwits.com/production/3577261/thumb-1591690423.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3577261/thumb-1591690423.png",
+        "join_date": "2020-06-08",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 125,
+        "following": 6,
+        "ideas": 5448,
+        "watchlist_stocks_count": 41,
+        "like_count": 5,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2095,
+        "title": "StockTwits For Android ",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 686,
+          "symbol": "AAPL",
+          "title": "Apple Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 528955
+        },
+        {
+          "id": 9076,
+          "symbol": "SPOT",
+          "title": "Spotify Technology S.A.",
+          "aliases": [
+            "SPTF",
+            "SPOTIFY"
+          ],
+          "is_following": false,
+          "watchlist_count": 26804
+        }
+      ],
+      "links": [
+        {
+          "title": "Spotify to buy ad tech firm Megaphone to monetize podcasts | PageOne",
+          "url": "https://pageone.ng/2020/11/10/spotify-to-buy-ad-tech-firm-megaphone-to-monetize-podcasts/",
+          "shortened_url": "https://pageone.ng/2020/11/10/spotify-to-buy-ad-tech-firm-megaphone-to-monetize-podcasts/",
+          "shortened_expanded_url": "pageone.ng/2020/11/10/spoti...",
+          "description": "(Reuters) - Sweden-based Spotify Technology SA SPOT.N has agreed to buy podcast advertising and publishing platform Megaphone, it said on Tuesday, the latest in a series of a deals to boost its podcast platform. The deal is worth $235 million, a Spotify spokesman said.",
+          "image": "https://i2.wp.com/pageone.ng/wp-content/uploads/2020/09/daneil-Ek-Spotify.jpg?fit=740%2C416&ssl=1",
+          "created_at": "2020-11-11T03:17:04Z",
+          "video_url": null,
+          "source": {
+            "name": "PageOne",
+            "website": "https://pageone.ng"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255804479,
+      "body": "This album is underrated, just like $SPOT",
+      "created_at": "2020-11-11T01:40:30Z",
+      "user": {
+        "id": 1437228,
+        "username": "OMW2Money",
+        "name": "Sam",
+        "avatar_url": "https://avatars.stocktwits.com/production/1437228/thumb-1558763715.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1437228/thumb-1558763715.png",
+        "join_date": "2018-03-08",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 192,
+        "following": 77,
+        "ideas": 6424,
+        "watchlist_stocks_count": 285,
+        "like_count": 12843,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 9076,
+          "symbol": "SPOT",
+          "title": "Spotify Technology S.A.",
+          "aliases": [
+            "SPTF",
+            "SPOTIFY"
+          ],
+          "is_following": false,
+          "watchlist_count": 26805
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_255804479.png",
+          "large": "https://charts.stocktwits.com/production/large_255804479.png",
+          "original": "https://charts.stocktwits.com/production/original_255804479.png",
+          "url": "https://charts.stocktwits.com/production/original_255804479.png"
+        },
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 255790023,
+      "body": "$SPOT buy this now",
+      "created_at": "2020-11-11T00:15:02Z",
+      "user": {
+        "id": 4257715,
+        "username": "RemakeKing",
+        "name": "Remake King",
+        "avatar_url": "https://avatars.stocktwits.com/production/4257715/thumb-1604202674.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/4257715/thumb-1604202674.png",
+        "join_date": "2020-11-01",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 0,
+        "following": 2,
+        "ideas": 42,
+        "watchlist_stocks_count": 13,
+        "like_count": 9,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 9076,
+          "symbol": "SPOT",
+          "title": "Spotify Technology S.A.",
+          "aliases": [
+            "SPTF",
+            "SPOTIFY"
+          ],
+          "is_following": false,
+          "watchlist_count": 26805
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255764504,
+      "body": "$LYFT didn\u2019t really move after ER! $UBER $SPOT $TTD \n\nhttps://youtu.be/wUoxch0U7Qw",
+      "created_at": "2020-11-10T22:09:22Z",
+      "user": {
+        "id": 802715,
+        "username": "MiamiOptions",
+        "name": "David",
+        "avatar_url": "https://avatars.stocktwits.com/production/802715/thumb-1513605929.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/802715/thumb-1513605929.png",
+        "join_date": "2016-07-25",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 17,
+        "following": 64,
+        "ideas": 864,
+        "watchlist_stocks_count": 1,
+        "like_count": 841,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 9076,
+          "symbol": "SPOT",
+          "title": "Spotify Technology S.A.",
+          "aliases": [
+            "SPTF",
+            "SPOTIFY"
+          ],
+          "is_following": false,
+          "watchlist_count": 26801
+        },
+        {
+          "id": 11554,
+          "symbol": "UBER",
+          "title": "Uber",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 68847
+        },
+        {
+          "id": 12535,
+          "symbol": "LYFT",
+          "title": "Lyft, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 30051
+        },
+        {
+          "id": 13168,
+          "symbol": "TTD",
+          "title": "The Trade Desk Inc",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 20334
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 255764504,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "links": [
+        {
+          "title": "Stock Market Recap for Tuesday 11/10/2020 $SPY $JMIA $SQ $AMZN",
+          "url": "https://youtu.be/wUoxch0U7Qw",
+          "shortened_url": "https://youtu.be/wUoxch0U7Qw",
+          "shortened_expanded_url": "youtube.com/watch?v=wUoxch0...",
+          "description": "StockMarket #OptionTrading #Slow&Steady",
+          "image": "https://i.ytimg.com/vi/wUoxch0U7Qw/hqdefault.jpg",
+          "created_at": "2020-11-10T22:09:22Z",
+          "video_url": "//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FwUoxch0U7Qw%3Ffeature%3Doembed=YouTube=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DwUoxch0U7Qw=https%3A%2F%2Fi.ytimg.com%2Fvi%2FwUoxch0U7Qw%2Fhqdefault.jpg=38dd9af069fe4432a0efe5550d2ea231=text%2Fhtml=youtube",
+          "source": {
+            "name": "YouTube",
+            "website": "https://www.youtube.com/"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255759410,
+      "body": "$SPOT Spotify to Buy Podcast-Ad Platform Megaphone for $235 Million\n\nhttps://www.thestreet.com/investing/spotify-to-acquire-podcast-ad-platform-megaphone-for-235-million",
+      "created_at": "2020-11-10T21:50:50Z",
+      "user": {
+        "id": 962572,
+        "username": "topstockalerts",
+        "name": "Top Stock Alerts",
+        "avatar_url": "https://avatars.stocktwits.com/production/962572/thumb-1506783043.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/962572/thumb-1506783043.png",
+        "join_date": "2017-02-19",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 55556,
+        "following": 52,
+        "ideas": 118783,
+        "watchlist_stocks_count": 9,
+        "like_count": 2228,
+        "plus_tier": "life",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2095,
+        "title": "StockTwits For Android ",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 9076,
+          "symbol": "SPOT",
+          "title": "Spotify Technology S.A.",
+          "aliases": [
+            "SPTF",
+            "SPOTIFY"
+          ],
+          "is_following": false,
+          "watchlist_count": 26805
+        }
+      ],
+      "links": [
+        {
+          "title": "Spotify To Acquire Megaphone For $235 Million",
+          "url": "https://www.thestreet.com/investing/spotify-to-acquire-podcast-ad-platform-megaphone-for-235-million",
+          "shortened_url": "https://www.thestreet.com/investing/spotify-to-acquire-podcast-ad-platform-megaphone-for-235-million",
+          "shortened_expanded_url": "thestreet.com/investing/spo...",
+          "description": "Audio streaming service Spotify definitively agreed to buy podcast advertising platform Megaphone for $235 million, the latest in a series of podcast-related deals in recent months. Shares of the New York company at last check were down 6% to $257.77. The closing of the transaction is subject to regulatory clearances.",
+          "image": "https://www.thestreet.com/.image/t_share/MTY4NTE3MTg0MDg2MTU3MDc4/5-key-spotify-user-statistics-to-keep-on-replay.jpg",
+          "created_at": "2020-11-10T21:50:51Z",
+          "video_url": null,
+          "source": {
+            "name": "TheStreet",
+            "website": "https://www.thestreet.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255752323,
+      "body": "$SPOT [15s. delayed]: Issued Press Release on November 10, 16:23:00: Spotify og\u0142asza strategiczne przej\u0119cie Megaphone - lidera technologii https://s.flashalert.me/MbaArt",
+      "created_at": "2020-11-10T21:28:53Z",
+      "user": {
+        "id": 595702,
+        "username": "fla",
+        "name": "FlashAlert_me",
+        "avatar_url": "https://avatars.stocktwits.com/production/595702/thumb-1550769466.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/595702/thumb-1550769466.png",
+        "join_date": "2015-09-09",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 2680,
+        "following": 60,
+        "ideas": 733808,
+        "watchlist_stocks_count": 0,
+        "like_count": 4,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 4622,
+        "title": "FlashAlert",
+        "url": "https://flashalert.me/"
+      },
+      "symbols": [
+        {
+          "id": 9076,
+          "symbol": "SPOT",
+          "title": "Spotify Technology S.A.",
+          "aliases": [
+            "SPTF",
+            "SPOTIFY"
+          ],
+          "is_following": false,
+          "watchlist_count": 26805
+        }
+      ],
+      "links": [
+        {
+          "title": "Flash Alert",
+          "url": "https://s.flashalert.me/MbaArt",
+          "shortened_url": "https://s.flashalert.me/MbaArt",
+          "shortened_expanded_url": "businesswire.com/news/home/...",
+          "description": "Real-time alerts about equities, ETFs, cryptocurrencies and more sent to any device",
+          "image": null,
+          "created_at": "2020-11-10T21:28:53Z",
+          "video_url": null,
+          "source": {
+            "name": "Flashalert",
+            "website": "https://flashalert.me"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255752209,
+      "body": "Smart move by $spot buying megaphone. Locks in more podcasting media companies",
+      "created_at": "2020-11-10T21:28:31Z",
+      "user": {
+        "id": 5,
+        "username": "howardlindzon",
+        "name": "Howard Lindzon",
+        "avatar_url": "https://avatars.stocktwits.com/production/5/thumb-1503096790.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/5/thumb-1503096790.png",
+        "join_date": "2009-07-11",
+        "official": true,
+        "identity": "Official",
+        "classification": [
+          "suggested",
+          "official"
+        ],
+        "followers": 227659,
+        "following": 1819,
+        "ideas": 169561,
+        "watchlist_stocks_count": 173,
+        "like_count": 81997,
+        "plus_tier": "year",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 9076,
+          "symbol": "SPOT",
+          "title": "Spotify Technology S.A.",
+          "aliases": [
+            "SPTF",
+            "SPOTIFY"
+          ],
+          "is_following": false,
+          "watchlist_count": 26811
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 255752209,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "likes": {
+        "total": 10,
+        "user_ids": [
+          1512574,
+          1441018,
+          258353,
+          31814,
+          114581,
+          748375,
+          643268,
+          564017,
+          1001240,
+          812064
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255748585,
+      "body": "$SPOT [15s. delayed]: Issued Press Release on November 10, 16:15:00: Spotify kondigt strategische overname aan van leider in podcasttechno https://s.flashalert.me/yRBZu4",
+      "created_at": "2020-11-10T21:18:56Z",
+      "user": {
+        "id": 595702,
+        "username": "fla",
+        "name": "FlashAlert_me",
+        "avatar_url": "https://avatars.stocktwits.com/production/595702/thumb-1550769466.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/595702/thumb-1550769466.png",
+        "join_date": "2015-09-09",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 2681,
+        "following": 60,
+        "ideas": 733808,
+        "watchlist_stocks_count": 0,
+        "like_count": 4,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 4622,
+        "title": "FlashAlert",
+        "url": "https://flashalert.me/"
+      },
+      "symbols": [
+        {
+          "id": 9076,
+          "symbol": "SPOT",
+          "title": "Spotify Technology S.A.",
+          "aliases": [
+            "SPTF",
+            "SPOTIFY"
+          ],
+          "is_following": false,
+          "watchlist_count": 26802
+        }
+      ],
+      "links": [
+        {
+          "title": "Flash Alert",
+          "url": "https://s.flashalert.me/yRBZu4",
+          "shortened_url": "https://s.flashalert.me/yRBZu4",
+          "shortened_expanded_url": "businesswire.com/news/home/...",
+          "description": "Real-time alerts about equities, ETFs, cryptocurrencies and more sent to any device",
+          "image": null,
+          "created_at": "2020-11-10T21:18:56Z",
+          "video_url": null,
+          "source": {
+            "name": "Flashalert",
+            "website": "https://flashalert.me"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255726624,
+      "body": "$SPOT [15s. delayed]: Issued Press Release on November 10, 15:17:00: Spotify k\u00fcndigt strategische \u00dcbernahme des f\u00fchrenden Podcast-Technolo https://s.flashalert.me/W9mv6",
+      "created_at": "2020-11-10T20:21:24Z",
+      "user": {
+        "id": 595702,
+        "username": "fla",
+        "name": "FlashAlert_me",
+        "avatar_url": "https://avatars.stocktwits.com/production/595702/thumb-1550769466.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/595702/thumb-1550769466.png",
+        "join_date": "2015-09-09",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 2683,
+        "following": 60,
+        "ideas": 733645,
+        "watchlist_stocks_count": 0,
+        "like_count": 4,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 4622,
+        "title": "FlashAlert",
+        "url": "https://flashalert.me/"
+      },
+      "symbols": [
+        {
+          "id": 9076,
+          "symbol": "SPOT",
+          "title": "Spotify Technology S.A.",
+          "aliases": [
+            "SPTF",
+            "SPOTIFY"
+          ],
+          "is_following": false,
+          "watchlist_count": 26802
+        }
+      ],
+      "links": [
+        {
+          "title": "Flash Alert",
+          "url": "https://s.flashalert.me/W9mv6",
+          "shortened_url": "https://s.flashalert.me/W9mv6",
+          "shortened_expanded_url": "businesswire.com/news/home/...",
+          "description": "Real-time alerts about equities, ETFs, cryptocurrencies and more sent to any device",
+          "image": null,
+          "created_at": "2020-11-10T20:21:25Z",
+          "video_url": null,
+          "source": {
+            "name": "Flashalert",
+            "website": "https://flashalert.me"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255726210,
+      "body": "Spotify to buy ad tech firm Megaphone to monetize podcasts\n\nhttps://pageone.ng/2020/11/10/spotify-to-buy-ad-tech-firm-megaphone-to-monetize-podcasts/\n\n$AAPL $SPOT",
+      "created_at": "2020-11-10T20:20:14Z",
+      "user": {
+        "id": 3577261,
+        "username": "vinci86",
+        "name": "Samuel Odusami",
+        "avatar_url": "https://avatars.stocktwits.com/production/3577261/thumb-1591690423.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3577261/thumb-1591690423.png",
+        "join_date": "2020-06-08",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 124,
+        "following": 6,
+        "ideas": 5397,
+        "watchlist_stocks_count": 41,
+        "like_count": 5,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2095,
+        "title": "StockTwits For Android ",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 686,
+          "symbol": "AAPL",
+          "title": "Apple Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 528837
+        },
+        {
+          "id": 9076,
+          "symbol": "SPOT",
+          "title": "Spotify Technology S.A.",
+          "aliases": [
+            "SPTF",
+            "SPOTIFY"
+          ],
+          "is_following": false,
+          "watchlist_count": 26802
+        }
+      ],
+      "links": [
+        {
+          "title": "Spotify to buy ad tech firm Megaphone to monetize podcasts | PageOne",
+          "url": "https://pageone.ng/2020/11/10/spotify-to-buy-ad-tech-firm-megaphone-to-monetize-podcasts/",
+          "shortened_url": "https://pageone.ng/2020/11/10/spotify-to-buy-ad-tech-firm-megaphone-to-monetize-podcasts/",
+          "shortened_expanded_url": "pageone.ng/2020/11/10/spoti...",
+          "description": "(Reuters) - Sweden-based Spotify Technology SA SPOT.N has agreed to buy podcast advertising and publishing platform Megaphone, it said on Tuesday, the latest in a series of a deals to boost its podcast platform. The deal is worth $235 million, a Spotify spokesman said.",
+          "image": "https://i2.wp.com/pageone.ng/wp-content/uploads/2020/09/daneil-Ek-Spotify.jpg?fit=740%2C416&ssl=1",
+          "created_at": "2020-11-10T20:20:18Z",
+          "video_url": null,
+          "source": {
+            "name": "PageOne",
+            "website": "https://pageone.ng"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255725743,
+      "body": "$SPOT nice move bulls",
+      "created_at": "2020-11-10T20:18:50Z",
+      "user": {
+        "id": 4292127,
+        "username": "Yotex",
+        "name": "Yotex",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2020-11-10",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 0,
+        "following": 1,
+        "ideas": 1,
+        "watchlist_stocks_count": 0,
+        "like_count": 2,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 9076,
+          "symbol": "SPOT",
+          "title": "Spotify Technology S.A.",
+          "aliases": [
+            "SPTF",
+            "SPOTIFY"
+          ],
+          "is_following": false,
+          "watchlist_count": 26802
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 255724584,
+      "body": "$SPOT 4 of the past 9 trading sessions have had a ~10% drawdown?",
+      "created_at": "2020-11-10T20:15:04Z",
+      "user": {
+        "id": 114581,
+        "username": "commonking",
+        "name": "Kyle",
+        "avatar_url": "https://avatars.stocktwits.com/production/114581/thumb-1598185681.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/114581/thumb-1598185681.png",
+        "join_date": "2011-10-28",
+        "official": true,
+        "identity": "Official",
+        "classification": [
+          "suggested",
+          "official"
+        ],
+        "followers": 59989,
+        "following": 302,
+        "ideas": 24246,
+        "watchlist_stocks_count": 157,
+        "like_count": 15207,
+        "plus_tier": "life",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 9076,
+          "symbol": "SPOT",
+          "title": "Spotify Technology S.A.",
+          "aliases": [
+            "SPTF",
+            "SPOTIFY"
+          ],
+          "is_following": false,
+          "watchlist_count": 26805
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 255724584,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "likes": {
+        "total": 7,
+        "user_ids": [
+          3025654,
+          1512574,
+          1437228,
+          911312,
+          748375,
+          1581730,
+          643268
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255722975,
+      "body": "$SPOT [15s. delayed]: Issued Press Release on November 10, 15:05:00: Spotify Anuncia Aquisi\u00e7\u00e3o Estrat\u00e9gica de L\u00edder em Tecnologia de Podca https://s.flashalert.me/jFX6f",
+      "created_at": "2020-11-10T20:09:44Z",
+      "user": {
+        "id": 595702,
+        "username": "fla",
+        "name": "FlashAlert_me",
+        "avatar_url": "https://avatars.stocktwits.com/production/595702/thumb-1550769466.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/595702/thumb-1550769466.png",
+        "join_date": "2015-09-09",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 2681,
+        "following": 60,
+        "ideas": 733645,
+        "watchlist_stocks_count": 0,
+        "like_count": 4,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 4622,
+        "title": "FlashAlert",
+        "url": "https://flashalert.me/"
+      },
+      "symbols": [
+        {
+          "id": 9076,
+          "symbol": "SPOT",
+          "title": "Spotify Technology S.A.",
+          "aliases": [
+            "SPTF",
+            "SPOTIFY"
+          ],
+          "is_following": false,
+          "watchlist_count": 26802
+        }
+      ],
+      "links": [
+        {
+          "title": "Flash Alert",
+          "url": "https://s.flashalert.me/jFX6f",
+          "shortened_url": "https://s.flashalert.me/jFX6f",
+          "shortened_expanded_url": "businesswire.com/news/home/...",
+          "description": "Real-time alerts about equities, ETFs, cryptocurrencies and more sent to any device",
+          "image": null,
+          "created_at": "2020-11-10T20:09:44Z",
+          "video_url": null,
+          "source": {
+            "name": "Flashalert",
+            "website": "https://flashalert.me"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255722944,
+      "body": "$SPOT [15s. delayed]: Issued Press Release on November 10, 15:05:00: Spotify annuncia l&amp;apos;acquisizione strategica di Megaphone, leader  https://s.flashalert.me/HINgzA",
+      "created_at": "2020-11-10T20:09:36Z",
+      "user": {
+        "id": 595702,
+        "username": "fla",
+        "name": "FlashAlert_me",
+        "avatar_url": "https://avatars.stocktwits.com/production/595702/thumb-1550769466.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/595702/thumb-1550769466.png",
+        "join_date": "2015-09-09",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 2681,
+        "following": 60,
+        "ideas": 733645,
+        "watchlist_stocks_count": 0,
+        "like_count": 4,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 4622,
+        "title": "FlashAlert",
+        "url": "https://flashalert.me/"
+      },
+      "symbols": [
+        {
+          "id": 9076,
+          "symbol": "SPOT",
+          "title": "Spotify Technology S.A.",
+          "aliases": [
+            "SPTF",
+            "SPOTIFY"
+          ],
+          "is_following": false,
+          "watchlist_count": 26802
+        }
+      ],
+      "links": [
+        {
+          "title": "Flash Alert",
+          "url": "https://s.flashalert.me/HINgzA",
+          "shortened_url": "https://s.flashalert.me/HINgzA",
+          "shortened_expanded_url": "businesswire.com/news/home/...",
+          "description": "Real-time alerts about equities, ETFs, cryptocurrencies and more sent to any device",
+          "image": null,
+          "created_at": "2020-11-10T20:09:37Z",
+          "video_url": null,
+          "source": {
+            "name": "Flashalert",
+            "website": "https://flashalert.me"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255721725,
+      "body": "$SPOT [15s. delayed]: Issued Press Release on November 10, 15:04:00: Spotify annonce l&amp;apos;acquisition strat\u00e9gique du chef de file de la  https://s.flashalert.me/RS0jR",
+      "created_at": "2020-11-10T20:05:56Z",
+      "user": {
+        "id": 595702,
+        "username": "fla",
+        "name": "FlashAlert_me",
+        "avatar_url": "https://avatars.stocktwits.com/production/595702/thumb-1550769466.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/595702/thumb-1550769466.png",
+        "join_date": "2015-09-09",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 2681,
+        "following": 60,
+        "ideas": 733645,
+        "watchlist_stocks_count": 0,
+        "like_count": 4,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 4622,
+        "title": "FlashAlert",
+        "url": "https://flashalert.me/"
+      },
+      "symbols": [
+        {
+          "id": 9076,
+          "symbol": "SPOT",
+          "title": "Spotify Technology S.A.",
+          "aliases": [
+            "SPTF",
+            "SPOTIFY"
+          ],
+          "is_following": false,
+          "watchlist_count": 26802
+        }
+      ],
+      "links": [
+        {
+          "title": "Flash Alert",
+          "url": "https://s.flashalert.me/RS0jR",
+          "shortened_url": "https://s.flashalert.me/RS0jR",
+          "shortened_expanded_url": "businesswire.com/news/home/...",
+          "description": "Real-time alerts about equities, ETFs, cryptocurrencies and more sent to any device",
+          "image": null,
+          "created_at": "2020-11-10T20:06:02Z",
+          "video_url": null,
+          "source": {
+            "name": "Flashalert",
+            "website": "https://flashalert.me"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255721708,
+      "body": "$SPOT [15s. delayed]: Issued Press Release on November 10, 15:04:00: Spotify anuncia adquisici\u00f3n estrat\u00e9gica de Megaphone, l\u00edder en tecnol https://s.flashalert.me/H47DaW",
+      "created_at": "2020-11-10T20:05:53Z",
+      "user": {
+        "id": 595702,
+        "username": "fla",
+        "name": "FlashAlert_me",
+        "avatar_url": "https://avatars.stocktwits.com/production/595702/thumb-1550769466.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/595702/thumb-1550769466.png",
+        "join_date": "2015-09-09",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 2681,
+        "following": 60,
+        "ideas": 733645,
+        "watchlist_stocks_count": 0,
+        "like_count": 4,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 4622,
+        "title": "FlashAlert",
+        "url": "https://flashalert.me/"
+      },
+      "symbols": [
+        {
+          "id": 9076,
+          "symbol": "SPOT",
+          "title": "Spotify Technology S.A.",
+          "aliases": [
+            "SPTF",
+            "SPOTIFY"
+          ],
+          "is_following": false,
+          "watchlist_count": 26802
+        }
+      ],
+      "links": [
+        {
+          "title": "Flash Alert",
+          "url": "https://s.flashalert.me/H47DaW",
+          "shortened_url": "https://s.flashalert.me/H47DaW",
+          "shortened_expanded_url": "businesswire.com/news/home/...",
+          "description": "Real-time alerts about equities, ETFs, cryptocurrencies and more sent to any device",
+          "image": null,
+          "created_at": "2020-11-10T20:05:54Z",
+          "video_url": null,
+          "source": {
+            "name": "Flashalert",
+            "website": "https://flashalert.me"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255690444,
+      "body": "$IHRT building a 100k shares position.  At 81.5k right now $ETM $CMLS $SPOT $SIRI.",
+      "created_at": "2020-11-10T18:21:21Z",
+      "user": {
+        "id": 210126,
+        "username": "Torpedo",
+        "name": "Torpedo",
+        "avatar_url": "https://avatars.stocktwits.com/production/210126/thumb-1390225914.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/210126/thumb-1390225914.png",
+        "join_date": "2013-01-27",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 91,
+        "following": 296,
+        "ideas": 2748,
+        "watchlist_stocks_count": 91,
+        "like_count": 490,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 1354,
+          "symbol": "CMLS",
+          "title": "Cumulus Media Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 2846
+        },
+        {
+          "id": 3543,
+          "symbol": "SIRI",
+          "title": "SIRIUS XM Radio Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 17421
+        },
+        {
+          "id": 5226,
+          "symbol": "ETM",
+          "title": "Entercom Communications Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1569
+        },
+        {
+          "id": 9076,
+          "symbol": "SPOT",
+          "title": "Spotify Technology S.A.",
+          "aliases": [
+            "SPTF",
+            "SPOTIFY"
+          ],
+          "is_following": false,
+          "watchlist_count": 26806
+        },
+        {
+          "id": 15366,
+          "symbol": "IHRT",
+          "title": "iHeartMedia",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 559
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          1075879
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255689582,
+      "body": "$SPOT more pod acquisitions... love to see it",
+      "created_at": "2020-11-10T18:18:35Z",
+      "user": {
+        "id": 643268,
+        "username": "____cat____",
+        "name": "tr0llz",
+        "avatar_url": "https://avatars.stocktwits.com/production/643268/thumb-1589314874.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/643268/thumb-1589314874.png",
+        "join_date": "2015-11-30",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 228,
+        "following": 120,
+        "ideas": 12064,
+        "watchlist_stocks_count": 294,
+        "like_count": 10316,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 9076,
+          "symbol": "SPOT",
+          "title": "Spotify Technology S.A.",
+          "aliases": [
+            "SPTF",
+            "SPOTIFY"
+          ],
+          "is_following": false,
+          "watchlist_count": 26801
+        }
+      ],
+      "likes": {
+        "total": 3,
+        "user_ids": [
+          114581,
+          1512574,
+          3577069
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 255687602,
+      "body": "4-star analyst Matthew Thornton from Truist Financial maintained a Buy on $SPOT.  https://www.tipranks.com/analysts/matthew-thornton",
+      "created_at": "2020-11-10T18:12:00Z",
+      "user": {
+        "id": 217593,
+        "username": "TipRanks",
+        "name": "TipRanks",
+        "avatar_url": "https://avatars.stocktwits.com/production/217593/thumb-1586151495.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/217593/thumb-1586151495.png",
+        "join_date": "2013-02-28",
+        "official": true,
+        "identity": "Official",
+        "classification": [
+          "official"
+        ],
+        "followers": 75936,
+        "following": 126,
+        "ideas": 54143,
+        "watchlist_stocks_count": 5,
+        "like_count": 430,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 3247,
+        "title": "TipRanks Live Feed",
+        "url": "https://www.tipranks.com"
+      },
+      "symbols": [
+        {
+          "id": 9076,
+          "symbol": "SPOT",
+          "title": "Spotify Technology S.A.",
+          "aliases": [
+            "SPTF",
+            "SPOTIFY"
+          ],
+          "is_following": false,
+          "watchlist_count": 26803
+        }
+      ],
+      "links": [
+        {
+          "title": null,
+          "url": "https://www.tipranks.com/analysts/matthew-thornton",
+          "shortened_url": "https://www.tipranks.com/analysts/matthew-thornton",
+          "shortened_expanded_url": "tipranks.com/analysts/matth...",
+          "description": null,
+          "image": null,
+          "created_at": "2020-11-10T18:12:01Z",
+          "video_url": null,
+          "source": {
+            "name": "Tipranks",
+            "website": "https://www.tipranks.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255684602,
+      "body": "Spotify To Acquire Podcast Hosting Company Megaphone For $235M $SPOT https://benzinga.com/z/18303596#.X6rVogZhpqc.twitter",
+      "created_at": "2020-11-10T18:02:22Z",
+      "user": {
+        "id": 7108,
+        "username": "Benzinga",
+        "name": "Benzinga",
+        "avatar_url": "https://avatars.stocktwits.com/production/7108/thumb-1568827739.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/7108/thumb-1568827739.png",
+        "join_date": "2009-12-04",
+        "official": true,
+        "identity": "Official",
+        "classification": [
+          "suggested",
+          "official"
+        ],
+        "followers": 284206,
+        "following": 531,
+        "ideas": 118533,
+        "watchlist_stocks_count": 7,
+        "like_count": 112,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 9076,
+          "symbol": "SPOT",
+          "title": "Spotify Technology S.A.",
+          "aliases": [
+            "SPTF",
+            "SPOTIFY"
+          ],
+          "is_following": false,
+          "watchlist_count": 26803
+        }
+      ],
+      "links": [
+        {
+          "title": "Spotify To Acquire Podcast Hosting Company Megaphone For $235M",
+          "url": "https://benzinga.com/z/18303596#.X6rVogZhpqc.twitter",
+          "shortened_url": "https://benzinga.com/z/18303596#.X6rVogZhpqc.twitter",
+          "shortened_expanded_url": "benzinga.com/m-a/20/11/1830...",
+          "description": "Spotify Technology (NYSE: SPOT) shares were trading lower Tuesday after the company announced it will acquire Megaphone for $235 million. In recent years, Spotify has beefed up its podcast streaming library. Earlier this year, Joe Rogan announced he would take his popular \"Joe Rogan Experience\" podcast exclusively to Spotify starting Sept.",
+          "image": "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/images/story/2012/headphone-1868612_1920_1_1.jpg",
+          "created_at": "2020-11-10T18:02:22Z",
+          "video_url": null,
+          "source": {
+            "name": "Benzinga",
+            "website": "https://www.benzinga.com"
+          }
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          4165689
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255679925,
+      "body": "$SPOT NEW ARTICLE : Spotify To Acquire Podcast Hosting Company Megaphone For $235M https://www.stck.pro/news/SPOT/9036348",
+      "created_at": "2020-11-10T17:47:21Z",
+      "user": {
+        "id": 1555408,
+        "username": "STCKPRO",
+        "name": "STCK.PRO",
+        "avatar_url": "https://avatars.stocktwits.com/production/1555408/thumb-1576077822.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1555408/thumb-1576077822.png",
+        "join_date": "2018-07-24",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 4473,
+        "following": 2,
+        "ideas": 276085,
+        "watchlist_stocks_count": 18,
+        "like_count": 52,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5011,
+        "title": "STCK.PRO",
+        "url": "https://dashboard.stck.pro"
+      },
+      "symbols": [
+        {
+          "id": 9076,
+          "symbol": "SPOT",
+          "title": "Spotify Technology S.A.",
+          "aliases": [
+            "SPTF",
+            "SPOTIFY"
+          ],
+          "is_following": false,
+          "watchlist_count": 26803
+        }
+      ],
+      "links": [
+        {
+          "title": "Spotify Technology S.A. (SPOT)",
+          "url": "https://www.stck.pro/news/SPOT/9036348",
+          "shortened_url": "https://www.stck.pro/news/SPOT/9036348",
+          "shortened_expanded_url": "stck.pro/news/SPOT",
+          "description": "Never miss an important article again, stay on top of your investments and become a better investor today! Get your moat on and sync your watchlist with Stocktwits and get all the latest news for your symbols. Sync with Stocktwits",
+          "image": "https://www.stck.pro/img/imac.png",
+          "created_at": "2020-11-10T17:47:23Z",
+          "video_url": null,
+          "source": {
+            "name": "Stck",
+            "website": "https://www.stck.pro"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_255679925.jpg",
+          "large": "https://charts.stocktwits.com/production/large_255679925.jpg",
+          "original": "https://charts.stocktwits.com/production/original_255679925.jpg",
+          "url": "https://charts.stocktwits.com/production/original_255679925.jpg"
+        },
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255677694,
+      "body": "$SPOT Spotify To Acquire Podcast Hosting Company Megaphone For $235M \n\nhttps://newsfilter.io/a/767efe437addb92cde81680b5e1f4b04",
+      "created_at": "2020-11-10T17:40:17Z",
+      "user": {
+        "id": 2762379,
+        "username": "Newsfilter",
+        "name": "@newsfilterio",
+        "avatar_url": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "join_date": "2019-09-01",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 7611,
+        "following": 16,
+        "ideas": 620313,
+        "watchlist_stocks_count": 1,
+        "like_count": 531,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 9076,
+          "symbol": "SPOT",
+          "title": "Spotify Technology S.A.",
+          "aliases": [
+            "SPTF",
+            "SPOTIFY"
+          ],
+          "is_following": false,
+          "watchlist_count": 26803
+        }
+      ],
+      "links": [
+        {
+          "title": "Spotify To Acquire Podcast Hosting Company Megaphone For $235M",
+          "url": "https://newsfilter.io/a/767efe437addb92cde81680b5e1f4b04",
+          "shortened_url": "https://newsfilter.io/a/767efe437addb92cde81680b5e1f4b04",
+          "shortened_expanded_url": "newsfilter.io/a/767efe437ad...",
+          "description": "Spotify Technology (NYSE: SPOT) shares were trading lower Tuesday after the company announced it will acquire Megaphone for $235 million. In recent years, Spotify has beefed up its podcast streaming library. Earlier this year, Joe Rogan announced he would take his popular \"Joe Rogan Experience\" podcast exclusively to Spotify starting Sept.",
+          "image": "https://newsfilter.io/meta-images/?url=https://storage.googleapis.com/iex/api/logos/SPOT.png",
+          "created_at": "2020-11-10T17:40:17Z",
+          "video_url": null,
+          "source": {
+            "name": "Newsfilter",
+            "website": "https://newsfilter.io"
+          }
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          1512574
+        ]
+      },
+      "reshares": {
+        "reshared_count": 1,
+        "user_ids": [
+          1512574
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255673126,
+      "body": "Good to see \ud83d\udc51\ud83d\udc11 thinking this is a Dow prop!  All da \ud83d\udc11 been $spot. Every one of them bums!   \ud83d\udc12\ud83c\udf4c\ud83e\udde0",
+      "created_at": "2020-11-10T17:24:46Z",
+      "user": {
+        "id": 91181,
+        "username": "Doozio",
+        "name": "J",
+        "avatar_url": "https://avatars.stocktwits.com/production/91181/thumb-1543511825.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/91181/thumb-1543511825.png",
+        "join_date": "2011-07-07",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 36992,
+        "following": 420,
+        "ideas": 55072,
+        "watchlist_stocks_count": 280,
+        "like_count": 13037,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 9076,
+          "symbol": "SPOT",
+          "title": "Spotify Technology S.A.",
+          "aliases": [
+            "SPTF",
+            "SPOTIFY"
+          ],
+          "is_following": false,
+          "watchlist_count": 26803
+        }
+      ],
+      "likes": {
+        "total": 5,
+        "user_ids": [
+          1557204,
+          1110916,
+          748375,
+          3030827,
+          1512574
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "giphy": {
+          "id": "3oriOhQyxEDAme8td6"
+        },
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 255669587,
+      "body": "$SFIX $DKNG $FB $SPOT added to positions this morning. Love love SFIX",
+      "created_at": "2020-11-10T17:13:28Z",
+      "user": {
+        "id": 3052642,
+        "username": "MartingaleFund",
+        "name": "Martingale Fund",
+        "avatar_url": "https://avatars.stocktwits.com/production/3052642/thumb-1602614454.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3052642/thumb-1602614454.png",
+        "join_date": "2020-01-24",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 6,
+        "following": 24,
+        "ideas": 297,
+        "watchlist_stocks_count": 25,
+        "like_count": 108,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 7871,
+          "symbol": "FB",
+          "title": "Facebook",
+          "aliases": [
+            "FBOOK"
+          ],
+          "is_following": false,
+          "watchlist_count": 327822
+        },
+        {
+          "id": 9076,
+          "symbol": "SPOT",
+          "title": "Spotify Technology S.A.",
+          "aliases": [
+            "SPTF",
+            "SPOTIFY"
+          ],
+          "is_following": false,
+          "watchlist_count": 26803
+        },
+        {
+          "id": 14100,
+          "symbol": "SFIX",
+          "title": "Stitch Fix, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 11760
+        },
+        {
+          "id": 15497,
+          "symbol": "DKNG",
+          "title": "DraftKings",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 49182
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 255659937,
+      "body": "$SPY fwiw - i just sold $SPOT 12/18 250/220p Credit Spread -",
+      "created_at": "2020-11-10T16:44:36Z",
+      "user": {
+        "id": 2086511,
+        "username": "30AMoney",
+        "name": "J G",
+        "avatar_url": "https://avatars.stocktwits.com/production/2086511/thumb-1560973665.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2086511/thumb-1560973665.png",
+        "join_date": "2019-05-16",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 177,
+        "following": 208,
+        "ideas": 10144,
+        "watchlist_stocks_count": 59,
+        "like_count": 4236,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 7271,
+          "symbol": "SPY",
+          "title": "SPDR S&P 500",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 270185
+        },
+        {
+          "id": 9076,
+          "symbol": "SPOT",
+          "title": "Spotify Technology S.A.",
+          "aliases": [
+            "SPTF",
+            "SPOTIFY"
+          ],
+          "is_following": false,
+          "watchlist_count": 26800
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    }
+  ]
+}

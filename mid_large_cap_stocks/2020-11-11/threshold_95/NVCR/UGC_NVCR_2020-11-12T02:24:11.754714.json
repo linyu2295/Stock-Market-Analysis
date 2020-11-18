@@ -1,0 +1,1726 @@
+{
+  "response": {
+    "status": 200
+  },
+  "symbol": {
+    "id": 12802,
+    "symbol": "NVCR",
+    "title": "NovoCure",
+    "aliases": [],
+    "is_following": false,
+    "watchlist_count": 5420
+  },
+  "cursor": {
+    "more": true,
+    "since": 255937588,
+    "max": 255737741
+  },
+  "messages": [
+    {
+      "id": 255937588,
+      "body": "$NVCR Tee&#39;ing up off 10 wk SMA. On the $100 roll to 2",
+      "created_at": "2020-11-11T17:02:56Z",
+      "user": {
+        "id": 748375,
+        "username": "FlynancialAnalyst",
+        "name": "Logan McNulty",
+        "avatar_url": "https://avatars.stocktwits.com/production/748375/thumb-1571430750.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/748375/thumb-1571430750.png",
+        "join_date": "2016-05-09",
+        "official": false,
+        "identity": "User",
+        "classification": [
+          "suggested"
+        ],
+        "followers": 7014,
+        "following": 230,
+        "ideas": 38136,
+        "watchlist_stocks_count": 18,
+        "like_count": 38728,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 12802,
+          "symbol": "NVCR",
+          "title": "NovoCure",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 5420
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          2133920
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_255937588.png",
+          "large": "https://charts.stocktwits.com/production/large_255937588.png",
+          "original": "https://charts.stocktwits.com/production/original_255937588.png",
+          "url": "https://charts.stocktwits.com/production/original_255937588.png"
+        },
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 255926315,
+      "body": "$NVCR @Chazdaq phone free walk kind of morning or something?",
+      "created_at": "2020-11-11T16:28:16Z",
+      "user": {
+        "id": 707246,
+        "username": "CCmoney7",
+        "name": "C Marcus",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2016-03-15",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 17,
+        "following": 68,
+        "ideas": 4168,
+        "watchlist_stocks_count": 89,
+        "like_count": 1016,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 12802,
+          "symbol": "NVCR",
+          "title": "NovoCure",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 5420
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 255926315,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 2
+      },
+      "likes": {
+        "total": 2,
+        "user_ids": [
+          1419594,
+          623810
+        ]
+      },
+      "mentioned_users": [
+        "@Chazdaq"
+      ],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255907350,
+      "body": "$NVCR $ZLAB Zai is catching up we better do something big at R&amp;D day",
+      "created_at": "2020-11-11T15:33:08Z",
+      "user": {
+        "id": 1559609,
+        "username": "blackjack17",
+        "name": "Blackjack Capital",
+        "avatar_url": "https://avatars.stocktwits.com/production/1559609/thumb-1535587923.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1559609/thumb-1535587923.png",
+        "join_date": "2018-07-28",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 51,
+        "following": 48,
+        "ideas": 5939,
+        "watchlist_stocks_count": 69,
+        "like_count": 3078,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 12802,
+          "symbol": "NVCR",
+          "title": "NovoCure",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 5420
+        },
+        {
+          "id": 13944,
+          "symbol": "ZLAB",
+          "title": "Zai Lab Ltd",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 544
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 255907350,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "likes": {
+        "total": 4,
+        "user_ids": [
+          2133920,
+          707246,
+          1798946,
+          1604062
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 255905911,
+      "body": "$NVCR Simmering pot...feels like the calm before the........",
+      "created_at": "2020-11-11T15:29:29Z",
+      "user": {
+        "id": 623810,
+        "username": "tdorsey",
+        "name": "Tom Dorsey",
+        "avatar_url": "https://avatars.stocktwits.com/production/623810/thumb-1450378629.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/623810/thumb-1450378629.png",
+        "join_date": "2015-10-29",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 233,
+        "following": 37,
+        "ideas": 9063,
+        "watchlist_stocks_count": 15,
+        "like_count": 2688,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 12802,
+          "symbol": "NVCR",
+          "title": "NovoCure",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 5420
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 255905911,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 6
+      },
+      "likes": {
+        "total": 3,
+        "user_ids": [
+          2133920,
+          1419594,
+          1604062
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255905135,
+      "body": "$NVCR added 20 dec 110 calls at $15.20. Ready to be wowed tomorrow",
+      "created_at": "2020-11-11T15:27:26Z",
+      "user": {
+        "id": 707246,
+        "username": "CCmoney7",
+        "name": "C Marcus",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2016-03-15",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 17,
+        "following": 68,
+        "ideas": 4167,
+        "watchlist_stocks_count": 89,
+        "like_count": 1016,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 12802,
+          "symbol": "NVCR",
+          "title": "NovoCure",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 5420
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 255905135,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 5
+      },
+      "likes": {
+        "total": 5,
+        "user_ids": [
+          623810,
+          2133920,
+          1419594,
+          1604062,
+          1396153
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255904940,
+      "body": "$NVCR new HOD",
+      "created_at": "2020-11-11T15:26:57Z",
+      "user": {
+        "id": 2133920,
+        "username": "SodApOp_PIMPski",
+        "name": "Mike D",
+        "avatar_url": "https://avatars.stocktwits.com/production/2133920/thumb-1597291570.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2133920/thumb-1597291570.png",
+        "join_date": "2019-06-11",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 80,
+        "following": 33,
+        "ideas": 10899,
+        "watchlist_stocks_count": 53,
+        "like_count": 8872,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2095,
+        "title": "StockTwits For Android ",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 12802,
+          "symbol": "NVCR",
+          "title": "NovoCure",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 5419
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 255885136,
+      "body": "$NVCR back to $140 we go!",
+      "created_at": "2020-11-11T14:40:52Z",
+      "user": {
+        "id": 4263524,
+        "username": "Vkallday",
+        "name": "Vitaliy K",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2020-11-03",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 0,
+        "following": 0,
+        "ideas": 5,
+        "watchlist_stocks_count": 0,
+        "like_count": 7,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 12802,
+          "symbol": "NVCR",
+          "title": "NovoCure",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 5419
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          1419594
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255877520,
+      "body": "$NVCR $ZLAB Dream Team",
+      "created_at": "2020-11-11T14:18:32Z",
+      "user": {
+        "id": 1559609,
+        "username": "blackjack17",
+        "name": "Blackjack Capital",
+        "avatar_url": "https://avatars.stocktwits.com/production/1559609/thumb-1535587923.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1559609/thumb-1535587923.png",
+        "join_date": "2018-07-28",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 50,
+        "following": 48,
+        "ideas": 5935,
+        "watchlist_stocks_count": 69,
+        "like_count": 3077,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 12802,
+          "symbol": "NVCR",
+          "title": "NovoCure",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 5420
+        },
+        {
+          "id": 13944,
+          "symbol": "ZLAB",
+          "title": "Zai Lab Ltd",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 542
+        }
+      ],
+      "likes": {
+        "total": 8,
+        "user_ids": [
+          1798946,
+          1531906,
+          1304262,
+          623810,
+          1271837,
+          2133920,
+          1241988,
+          1604062
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 255876911,
+      "body": "$NVCR Great day for Novocure and partner $ZLAB as well!",
+      "created_at": "2020-11-11T14:16:34Z",
+      "user": {
+        "id": 1798946,
+        "username": "DoctorInvestor45",
+        "name": "Phil",
+        "avatar_url": "https://avatars.stocktwits.com/production/1798946/thumb-1547010029.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1798946/thumb-1547010029.png",
+        "join_date": "2019-01-08",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 130,
+        "following": 8,
+        "ideas": 1529,
+        "watchlist_stocks_count": 53,
+        "like_count": 1177,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 12802,
+          "symbol": "NVCR",
+          "title": "NovoCure",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 5420
+        },
+        {
+          "id": 13944,
+          "symbol": "ZLAB",
+          "title": "Zai Lab Ltd",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 544
+        }
+      ],
+      "likes": {
+        "total": 6,
+        "user_ids": [
+          1559609,
+          1304262,
+          623810,
+          2133920,
+          4263524,
+          1518510
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 255876755,
+      "body": "$NVCR Congratulations, longs! Wonderful news!",
+      "created_at": "2020-11-11T14:15:59Z",
+      "user": {
+        "id": 744798,
+        "username": "datajunky",
+        "name": "datajunky",
+        "avatar_url": "https://avatars.stocktwits.com/production/744798/thumb-1599067718.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/744798/thumb-1599067718.png",
+        "join_date": "2016-05-04",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 23,
+        "following": 83,
+        "ideas": 514,
+        "watchlist_stocks_count": 83,
+        "like_count": 2271,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2095,
+        "title": "StockTwits For Android ",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 12802,
+          "symbol": "NVCR",
+          "title": "NovoCure",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 5419
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          1531906
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255875346,
+      "body": "$NVCR Wow fabulous news. Big day ahead and conference tomorrow where they will be unveiling new data. $140 coming",
+      "created_at": "2020-11-11T14:11:01Z",
+      "user": {
+        "id": 4266751,
+        "username": "zakmo",
+        "name": "Mohammed Zakir",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2020-11-03",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 0,
+        "following": 0,
+        "ideas": 6,
+        "watchlist_stocks_count": 1,
+        "like_count": 16,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2095,
+        "title": "StockTwits For Android ",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 12802,
+          "symbol": "NVCR",
+          "title": "NovoCure",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 5419
+        }
+      ],
+      "likes": {
+        "total": 2,
+        "user_ids": [
+          1798946,
+          1531906
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 255872066,
+      "body": "Novocure $NVCR announced that it has received the CE Mark for the NovoTTF-100L system from the Notified Body. The application of the CE mark enables Novocure to commercialize the device as a first-line treatment in combination with pemetrexed and platinum-based chemotherapy...",
+      "created_at": "2020-11-11T13:59:31Z",
+      "user": {
+        "id": 977068,
+        "username": "InvestorsObserver",
+        "name": "InvestorsObserver",
+        "avatar_url": "https://avatars.stocktwits.com/production/977068/thumb-1579620603.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/977068/thumb-1579620603.png",
+        "join_date": "2017-03-01",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 328,
+        "following": 4,
+        "ideas": 4905,
+        "watchlist_stocks_count": 0,
+        "like_count": 2,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 12802,
+          "symbol": "NVCR",
+          "title": "NovoCure",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 5419
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255870245,
+      "body": "$NVCR Novocure&#39;s non-invasive cancer device Ok&#39;d in Europe for mesothelioma \n\nhttps://newsfilter.io/a/149ac0d88874baa80a993b0ea8de1447",
+      "created_at": "2020-11-11T13:52:23Z",
+      "user": {
+        "id": 2762379,
+        "username": "Newsfilter",
+        "name": "@newsfilterio",
+        "avatar_url": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "join_date": "2019-09-01",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 7620,
+        "following": 16,
+        "ideas": 622260,
+        "watchlist_stocks_count": 1,
+        "like_count": 531,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 12802,
+          "symbol": "NVCR",
+          "title": "NovoCure",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 5419
+        }
+      ],
+      "links": [
+        {
+          "title": "Novocure's non-invasive cancer device Ok'd in Europe for mesothelioma",
+          "url": "https://newsfilter.io/a/149ac0d88874baa80a993b0ea8de1447",
+          "shortened_url": "https://newsfilter.io/a/149ac0d88874baa80a993b0ea8de1447",
+          "shortened_expanded_url": "newsfilter.io/a/149ac0d8887...",
+          "description": "Novocure has received the CE Mark for the NovoTTF-100L system, for the commercialization of the device as a first-line treatment in combination with Eli Lilly's Alimta and platinum-based chemotherapy for malignant pleural mesothelioma, in the European Union and Switzerland.The FDA approved the NovoTTF-100L System for MPM in May 2019 under the Humanitarian Device Exemption pathway.NovoTTF-100L is a noninvasive, antimitotic cancer treatment for MPM, and delivers Tumor Treating Fields using electric fields to disrupt cell division.",
+          "image": "https://newsfilter.io/meta-images/?url=https://storage.googleapis.com/iex/api/logos/NVCR.png",
+          "created_at": "2020-11-11T13:52:24Z",
+          "video_url": null,
+          "source": {
+            "name": "Newsfilter",
+            "website": "https://newsfilter.io"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255868337,
+      "body": "$NVCR \ud83d\udd25",
+      "created_at": "2020-11-11T13:43:41Z",
+      "user": {
+        "id": 1604062,
+        "username": "SMDMNM",
+        "name": "Matt",
+        "avatar_url": "https://avatars.stocktwits.com/production/1604062/thumb-1601940480.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1604062/thumb-1601940480.png",
+        "join_date": "2018-09-09",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 26,
+        "following": 41,
+        "ideas": 1946,
+        "watchlist_stocks_count": 12,
+        "like_count": 3632,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 12802,
+          "symbol": "NVCR",
+          "title": "NovoCure",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 5419
+        }
+      ],
+      "likes": {
+        "total": 2,
+        "user_ids": [
+          1531906,
+          2133920
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255864590,
+      "body": "$NVCR another building block",
+      "created_at": "2020-11-11T13:27:00Z",
+      "user": {
+        "id": 1518510,
+        "username": "traderjoze",
+        "name": "TJ",
+        "avatar_url": "https://avatars.stocktwits.com/production/1518510/thumb-1567694088.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1518510/thumb-1567694088.png",
+        "join_date": "2018-06-12",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 100,
+        "following": 13,
+        "ideas": 15930,
+        "watchlist_stocks_count": 41,
+        "like_count": 2078,
+        "plus_tier": "year",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 12802,
+          "symbol": "NVCR",
+          "title": "NovoCure",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 5419
+        }
+      ],
+      "likes": {
+        "total": 3,
+        "user_ids": [
+          4263524,
+          1604062,
+          4266751
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 255859952,
+      "body": "$NVCR Novocure Receives CE Mark for NovoTTF-100L\u2122 System https://www.otcdynamics.com/nvcr-novocure-receives-ce-mark-for-novottf-100l-system",
+      "created_at": "2020-11-11T13:04:13Z",
+      "user": {
+        "id": 253206,
+        "username": "otcdynamics",
+        "name": "otcdynamics",
+        "avatar_url": "https://avatars.stocktwits.com/production/253206/thumb-1432182723.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/253206/thumb-1432182723.png",
+        "join_date": "2013-08-16",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 407,
+        "following": 0,
+        "ideas": 59227,
+        "watchlist_stocks_count": 0,
+        "like_count": 55,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5512,
+        "title": "project_n",
+        "url": "https://www.otcdynamics.com"
+      },
+      "symbols": [
+        {
+          "id": 12802,
+          "symbol": "NVCR",
+          "title": "NovoCure",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 5419
+        }
+      ],
+      "links": [
+        {
+          "title": "$NVCR Novocure Receives CE Mark for NovoTTF-100L\u2122 System",
+          "url": "https://www.otcdynamics.com/nvcr-novocure-receives-ce-mark-for-novottf-100l-system",
+          "shortened_url": "https://www.otcdynamics.com/nvcr-novocure-receives-ce-mark-for-novottf-100l-system",
+          "shortened_expanded_url": "otcdynamics.com/nvcr-novocu...",
+          "description": "Novocure (NASDAQ: NVCR), a global oncology company working to extend survival in some of the most aggressive forms of cancer, today announced that it has received the CE Mark for the NovoTTF-100L system from the Notified Body (T\u00dcV).",
+          "image": null,
+          "created_at": "2020-11-11T13:04:14Z",
+          "video_url": null,
+          "source": {
+            "name": "Otcdynamics",
+            "website": "https://www.otcdynamics.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255857913,
+      "body": "$NVCR welcome to Europe \ud83d\udc4d",
+      "created_at": "2020-11-11T12:52:59Z",
+      "user": {
+        "id": 2133920,
+        "username": "SodApOp_PIMPski",
+        "name": "Mike D",
+        "avatar_url": "https://avatars.stocktwits.com/production/2133920/thumb-1597291570.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2133920/thumb-1597291570.png",
+        "join_date": "2019-06-11",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 80,
+        "following": 33,
+        "ideas": 10904,
+        "watchlist_stocks_count": 53,
+        "like_count": 8876,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2095,
+        "title": "StockTwits For Android ",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 12802,
+          "symbol": "NVCR",
+          "title": "NovoCure",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 5420
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 255857913,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "likes": {
+        "total": 7,
+        "user_ids": [
+          1798946,
+          282175,
+          473304,
+          1604062,
+          3281228,
+          246797,
+          4266751
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255857055,
+      "body": "Novocure Receives CE Mark For NovoTTF-100L System\n\nRelated Tickers: $NVCR",
+      "created_at": "2020-11-11T12:47:09Z",
+      "user": {
+        "id": 3539670,
+        "username": "QuantData",
+        "name": "Quant Data",
+        "avatar_url": "https://avatars.stocktwits.com/production/3539670/thumb-1602473985.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3539670/thumb-1602473985.png",
+        "join_date": "2020-06-03",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 788,
+        "following": 0,
+        "ideas": 12838,
+        "watchlist_stocks_count": 0,
+        "like_count": 20,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5828,
+        "title": "QuantData",
+        "url": "https://quantdata.us"
+      },
+      "symbols": [
+        {
+          "id": 12802,
+          "symbol": "NVCR",
+          "title": "NovoCure",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 5419
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          4266751
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255855261,
+      "body": "$NVCR [15s. delayed]: Issued Press Release on November 11, 07:30:00: Novocure Receives CE Mark for NovoTTF-100L\u2122 System https://s.flashalert.me/kV95LW",
+      "created_at": "2020-11-11T12:35:31Z",
+      "user": {
+        "id": 595702,
+        "username": "fla",
+        "name": "FlashAlert_me",
+        "avatar_url": "https://avatars.stocktwits.com/production/595702/thumb-1550769466.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/595702/thumb-1550769466.png",
+        "join_date": "2015-09-09",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 2690,
+        "following": 60,
+        "ideas": 735256,
+        "watchlist_stocks_count": 0,
+        "like_count": 4,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 4622,
+        "title": "FlashAlert",
+        "url": "https://flashalert.me/"
+      },
+      "symbols": [
+        {
+          "id": 12802,
+          "symbol": "NVCR",
+          "title": "NovoCure",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 5419
+        }
+      ],
+      "links": [
+        {
+          "title": "Flash Alert",
+          "url": "https://s.flashalert.me/kV95LW",
+          "shortened_url": "https://s.flashalert.me/kV95LW",
+          "shortened_expanded_url": "businesswire.com/news/home/...",
+          "description": "Real-time alerts about equities, ETFs, cryptocurrencies and more sent to any device",
+          "image": null,
+          "created_at": "2020-11-11T12:35:31Z",
+          "video_url": null,
+          "source": {
+            "name": "Flashalert",
+            "website": "https://flashalert.me"
+          }
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          1798946
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255854575,
+      "body": "$NVCR Novocure Receives CE Mark for NovoTTF-100L\u2122 System\nhttps://www.stocktitan.net/news/NVCR/novocure-receives-ce-mark-for-novo-ttf-100l-88wemvv71nio.html",
+      "created_at": "2020-11-11T12:31:28Z",
+      "user": {
+        "id": 3372441,
+        "username": "Stock_Titan",
+        "name": "StockTitan",
+        "avatar_url": "https://avatars.stocktwits.com/production/3372441/thumb-1588173612.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3372441/thumb-1588173612.png",
+        "join_date": "2020-04-28",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 474,
+        "following": 0,
+        "ideas": 32073,
+        "watchlist_stocks_count": 0,
+        "like_count": 0,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5677,
+        "title": "StockTitan",
+        "url": "https://stocktitan.net"
+      },
+      "symbols": [
+        {
+          "id": 12802,
+          "symbol": "NVCR",
+          "title": "NovoCure",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 5419
+        }
+      ],
+      "links": [
+        {
+          "title": "Novocure Receives CE Mark for NovoTTF-100L(TM) System | StockTitan.net",
+          "url": "https://www.stocktitan.net/news/NVCR/novocure-receives-ce-mark-for-novo-ttf-100l-88wemvv71nio.html",
+          "shortened_url": "https://www.stocktitan.net/news/NVCR/novocure-receives-ce-mark-for-novo-ttf-100l-88wemvv71nio.html",
+          "shortened_expanded_url": "stocktitan.net/news/NVCR/no...",
+          "description": "ST. HELIER, Jersey--()--Novocure (NASDAQ: NVCR), a global oncology company working to extend survival in some of the most aggressive forms of cancer, today announced that it has received the CE Mark for the NovoTTF-100L system from the Notified Body (TUV).",
+          "image": "https://static.stocktitan.net/company-logo/nvcr.png",
+          "created_at": "2020-11-11T12:31:30Z",
+          "video_url": null,
+          "source": {
+            "name": "Stocktitan",
+            "website": "https://www.stocktitan.net"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255854504,
+      "body": "$NVCR Novocure Receives CE Mark for NovoTTF-100L\u2122 System \n\nhttps://newsfilter.io/a/7ee9f7791a159843ac57414f4ed6ebe1",
+      "created_at": "2020-11-11T12:31:03Z",
+      "user": {
+        "id": 2762379,
+        "username": "Newsfilter",
+        "name": "@newsfilterio",
+        "avatar_url": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "join_date": "2019-09-01",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 7620,
+        "following": 16,
+        "ideas": 621988,
+        "watchlist_stocks_count": 1,
+        "like_count": 531,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 12802,
+          "symbol": "NVCR",
+          "title": "NovoCure",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 5419
+        }
+      ],
+      "links": [
+        {
+          "title": "Novocure Receives CE Mark for NovoTTF-100L\u2122 System",
+          "url": "https://newsfilter.io/a/7ee9f7791a159843ac57414f4ed6ebe1",
+          "shortened_url": "https://newsfilter.io/a/7ee9f7791a159843ac57414f4ed6ebe1",
+          "shortened_expanded_url": "newsfilter.io/a/7ee9f7791a1...",
+          "description": "Novocure announced that it has received the CE Mark for the NovoTTF-100L system from the Notified Body. The application of the CE mark enables Novocure to commercialize the device as a first-line treatment in combination with pemetrexed and platinum-based chemotherapy for unresectable, locally advanced or metastatic, malignant pleural mesothelioma in the European Union and Switzerland.",
+          "image": "https://newsfilter.io/meta-images/?url=https://storage.googleapis.com/iex/api/logos/NVCR.png",
+          "created_at": "2020-11-11T12:31:04Z",
+          "video_url": null,
+          "source": {
+            "name": "Newsfilter",
+            "website": "https://newsfilter.io"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255852057,
+      "body": "$NVCR 150M revolving credit facility from Chase and my understanding could go to a quarter Billion facility. Is that in addition to the 575Mil? This is all in anticipation of the readouts but what do you think this money will be needed for come readouts?",
+      "created_at": "2020-11-11T12:12:54Z",
+      "user": {
+        "id": 3137019,
+        "username": "DoctorCurious",
+        "name": "DoctorCurious",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2020-02-29",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 2,
+        "following": 0,
+        "ideas": 100,
+        "watchlist_stocks_count": 32,
+        "like_count": 40,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 12802,
+          "symbol": "NVCR",
+          "title": "NovoCure",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 5419
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 255852057,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          4266751
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 255835974,
+      "body": "$GBT MMs I told you from day one.  Find the buyers and sell the company.  Learn from Dr. Hung at $NVCR did with Medieval and now with nvcr did.  htf you let good company and good drug sp dropped to a 52 week low?",
+      "created_at": "2020-11-11T07:43:35Z",
+      "user": {
+        "id": 54489,
+        "username": "Secret_Stocks",
+        "name": "J J",
+        "avatar_url": "https://avatars.stocktwits.com/production/54489/thumb-1397441912.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/54489/thumb-1397441912.png",
+        "join_date": "2011-02-23",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 667,
+        "following": 101,
+        "ideas": 12542,
+        "watchlist_stocks_count": 165,
+        "like_count": 493,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 12761,
+          "symbol": "GBT",
+          "title": "Global Blood Therapeutics",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 4726
+        },
+        {
+          "id": 12802,
+          "symbol": "NVCR",
+          "title": "NovoCure",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 5419
+        }
+      ],
+      "likes": {
+        "total": 2,
+        "user_ids": [
+          3094956,
+          4266751
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255825164,
+      "body": "$NVCR https://www.fiercepharma.com/marketing/merck-scraps-keytruda-lung-cancer-trial-adding-bristol-myers-yervoy-what-about-opdivo",
+      "created_at": "2020-11-11T04:29:59Z",
+      "user": {
+        "id": 1518510,
+        "username": "traderjoze",
+        "name": "TJ",
+        "avatar_url": "https://avatars.stocktwits.com/production/1518510/thumb-1567694088.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1518510/thumb-1567694088.png",
+        "join_date": "2018-06-12",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 101,
+        "following": 13,
+        "ideas": 15929,
+        "watchlist_stocks_count": 41,
+        "like_count": 2078,
+        "plus_tier": "year",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 12802,
+          "symbol": "NVCR",
+          "title": "NovoCure",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 5419
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 255825164,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "links": [
+        {
+          "title": "Merck scraps Keytruda lung cancer trial adding Bristol Myers' Yervoy. What about the Opdivo combo?",
+          "url": "https://www.fiercepharma.com/marketing/merck-scraps-keytruda-lung-cancer-trial-adding-bristol-myers-yervoy-what-about-opdivo",
+          "shortened_url": "https://www.fiercepharma.com/marketing/merck-scraps-keytruda-lung-cancer-trial-adding-bristol-myers-yervoy-what-about-opdivo",
+          "shortened_expanded_url": "fiercepharma.com/marketing/...",
+          "description": "Merck's Keytruda is without doubt the king in previously untreated non-small cell lung cancer, but the company wanted to see whether adding another immuno-oncology agent from rival Bristol Myers Squibb would offer additional benefit. Turns out, doing that adds more harm and no good.",
+          "image": "https://qtxasset.com/fiercepharma/1605024656/KeytrudaNew.jpg/KeytrudaNew.jpg?YMFKleVceiHUe8mdylP41_FPigdbVvV6",
+          "created_at": "2020-11-11T04:29:59Z",
+          "video_url": null,
+          "source": {
+            "name": "FiercePharma",
+            "website": "https://www.fiercepharma.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255820313,
+      "body": "$NVCR Republican Secretary of Defense under President Bill Clinton is outraged at the disrespect the Trump is showing for this Country. Trump is loosing the respect of well Respected Republicans! Something to know why Character matters. Cohen tonight is outraged at his parties lack of responsibility to do what is right for The Republic!!!",
+      "created_at": "2020-11-11T03:42:44Z",
+      "user": {
+        "id": 1345391,
+        "username": "jimbarb",
+        "name": "James Borowski",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2018-01-02",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 14,
+        "following": 0,
+        "ideas": 1646,
+        "watchlist_stocks_count": 1,
+        "like_count": 4042,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 12802,
+          "symbol": "NVCR",
+          "title": "NovoCure",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 5419
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 255820313,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255805150,
+      "body": "$NVCR over the next 10+ years what will give me better annual returns...$NVCR or spy/qqq/etc??",
+      "created_at": "2020-11-11T01:45:31Z",
+      "user": {
+        "id": 1396153,
+        "username": "NeuroRad",
+        "name": "MG",
+        "avatar_url": "https://avatars.stocktwits.com/production/1396153/thumb-1574739599.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1396153/thumb-1574739599.png",
+        "join_date": "2018-02-02",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 27,
+        "following": 3,
+        "ideas": 1068,
+        "watchlist_stocks_count": 54,
+        "like_count": 1444,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2095,
+        "title": "StockTwits For Android ",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 12802,
+          "symbol": "NVCR",
+          "title": "NovoCure",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 5419
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 255805150,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255794908,
+      "body": "$NVCR Last night on FI. Amazing",
+      "created_at": "2020-11-11T00:42:25Z",
+      "user": {
+        "id": 623810,
+        "username": "tdorsey",
+        "name": "Tom Dorsey",
+        "avatar_url": "https://avatars.stocktwits.com/production/623810/thumb-1450378629.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/623810/thumb-1450378629.png",
+        "join_date": "2015-10-29",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 233,
+        "following": 37,
+        "ideas": 9057,
+        "watchlist_stocks_count": 15,
+        "like_count": 2681,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2095,
+        "title": "StockTwits For Android ",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 12802,
+          "symbol": "NVCR",
+          "title": "NovoCure",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 5419
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 255794908,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 9
+      },
+      "likes": {
+        "total": 6,
+        "user_ids": [
+          707246,
+          2133920,
+          1396153,
+          702677,
+          1419594,
+          1531906
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_255794908.jpg",
+          "large": "https://charts.stocktwits.com/production/large_255794908.jpg",
+          "original": "https://charts.stocktwits.com/production/original_255794908.jpg",
+          "url": "https://charts.stocktwits.com/production/original_255794908.jpg"
+        },
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255789351,
+      "body": "$NVCR If it breaks 113 is double digits in play???? 81?",
+      "created_at": "2020-11-11T00:11:20Z",
+      "user": {
+        "id": 1345391,
+        "username": "jimbarb",
+        "name": "James Borowski",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2018-01-02",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 14,
+        "following": 0,
+        "ideas": 1642,
+        "watchlist_stocks_count": 1,
+        "like_count": 4042,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 12802,
+          "symbol": "NVCR",
+          "title": "NovoCure",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 5419
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 255789351,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255781400,
+      "body": "$NVCR https://www.businesswire.com/news/home/20201110005358/en/Novocure-Announces-Agenda-for-Virtual-Research-and-Development-Day",
+      "created_at": "2020-11-10T23:26:06Z",
+      "user": {
+        "id": 473304,
+        "username": "Salayafarang",
+        "name": "Salayafarang",
+        "avatar_url": "https://avatars.stocktwits.com/production/473304/thumb-1489593853.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/473304/thumb-1489593853.png",
+        "join_date": "2015-02-23",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 2,
+        "following": 115,
+        "ideas": 76,
+        "watchlist_stocks_count": 76,
+        "like_count": 176,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2095,
+        "title": "StockTwits For Android ",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 12802,
+          "symbol": "NVCR",
+          "title": "NovoCure",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 5419
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 255781400,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "links": [
+        {
+          "title": "Novocure Announces Agenda for Virtual Research and Development Day",
+          "url": "https://www.businesswire.com/news/home/20201110005358/en/Novocure-Announces-Agenda-for-Virtual-Research-and-Development-Day",
+          "shortened_url": "https://www.businesswire.com/news/home/20201110005358/en/Novocure-Announces-Agenda-for-Virtual-Research-and-Development-Day",
+          "shortened_expanded_url": "businesswire.com/news/home/...",
+          "description": "ST. HELIER, Jersey--()--Novocure (NASDAQ: NVCR) today announced the agenda for the company's virtual Research and Development Day for analysts and investors from 7:30 a.m. to 9:30 a.m. EST on Thursday, November 12, 2020. The event will review two decades of Tumor Treating Fields research on and introduce exciting new directions of ongoing research and development across the global scientific community.",
+          "image": "https://mms.businesswire.com/media/20201110005358/en/721126/23/novocure_main%405x.jpg",
+          "created_at": "2020-11-10T23:26:06Z",
+          "video_url": null,
+          "source": {
+            "name": "Businesswire",
+            "website": "https://www.businesswire.com"
+          }
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          623810
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255737741,
+      "body": "$NVCR enough of this growth to value rotation crap, I expect to see inflows tomorrow before R&amp;D day after today\u2019s move.",
+      "created_at": "2020-11-10T20:54:38Z",
+      "user": {
+        "id": 707246,
+        "username": "CCmoney7",
+        "name": "C Marcus",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2016-03-15",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 17,
+        "following": 68,
+        "ideas": 4154,
+        "watchlist_stocks_count": 89,
+        "like_count": 1011,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 12802,
+          "symbol": "NVCR",
+          "title": "NovoCure",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 5419
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 255737741,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "likes": {
+        "total": 5,
+        "user_ids": [
+          1271837,
+          1531906,
+          2133920,
+          1396153,
+          1419594
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    }
+  ]
+}

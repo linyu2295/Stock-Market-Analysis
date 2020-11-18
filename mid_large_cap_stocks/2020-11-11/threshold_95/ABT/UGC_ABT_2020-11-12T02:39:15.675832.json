@@ -1,0 +1,2225 @@
+{
+  "response": {
+    "status": 200
+  },
+  "symbol": {
+    "id": 4218,
+    "symbol": "ABT",
+    "title": "Abbott Laboratories",
+    "aliases": [],
+    "is_following": false,
+    "watchlist_count": 15964
+  },
+  "cursor": {
+    "more": true,
+    "since": 255909254,
+    "max": 255538382
+  },
+  "messages": [
+    {
+      "id": 255909254,
+      "body": "$FLDM testing stocks leading the way $NVAX $CODX $SRNE $ABT",
+      "created_at": "2020-11-11T15:38:04Z",
+      "user": {
+        "id": 4213307,
+        "username": "Alexprezlimo",
+        "name": "Aj park",
+        "avatar_url": "https://avatars.stocktwits.com/production/4213307/thumb-1604593084.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/4213307/thumb-1604593084.png",
+        "join_date": "2020-10-20",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 1,
+        "following": 0,
+        "ideas": 292,
+        "watchlist_stocks_count": 10,
+        "like_count": 122,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 1892,
+          "symbol": "FLDM",
+          "title": "Fluidigm Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 6093
+        },
+        {
+          "id": 2924,
+          "symbol": "NVAX",
+          "title": "Novavax, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 68330
+        },
+        {
+          "id": 4218,
+          "symbol": "ABT",
+          "title": "Abbott Laboratories",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 15966
+        },
+        {
+          "id": 11709,
+          "symbol": "SRNE",
+          "title": "Sorrento Therapeutics Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 60031
+        },
+        {
+          "id": 13657,
+          "symbol": "CODX",
+          "title": "CO Diagnostics Inc",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 36539
+        }
+      ],
+      "likes": {
+        "total": 2,
+        "user_ids": [
+          3431095,
+          621713
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255895135,
+      "body": "$IHI $ABT $TMO $MDT\nCOUNTRIES COULD FACE VACCINE ACCESS CHALLENGES DESPITE PFIZER\u2019S BREAKTHROUGH\n\nhttps://theinvesting.online/countries-could-face-vaccine-access-challenges/",
+      "created_at": "2020-11-11T15:03:13Z",
+      "user": {
+        "id": 4272113,
+        "username": "The_InvestingOnline",
+        "name": "The Investing Online",
+        "avatar_url": "https://avatars.stocktwits.com/production/4272113/thumb-1604566028.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/4272113/thumb-1604566028.png",
+        "join_date": "2020-11-05",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 0,
+        "following": 0,
+        "ideas": 9,
+        "watchlist_stocks_count": 0,
+        "like_count": 4,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 4218,
+          "symbol": "ABT",
+          "title": "Abbott Laboratories",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 15964
+        },
+        {
+          "id": 5831,
+          "symbol": "IHI",
+          "title": "iShares Dow Jones US Medical Devices",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 953
+        },
+        {
+          "id": 6260,
+          "symbol": "MDT",
+          "title": "Medtronic, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 7198
+        },
+        {
+          "id": 7434,
+          "symbol": "TMO",
+          "title": "Thermo Fisher Scientific, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 3821
+        }
+      ],
+      "links": [
+        {
+          "title": "Countries Could Face Vaccine Access Challenges despite Pfizer's Breakthrough",
+          "url": "https://theinvesting.online/countries-could-face-vaccine-access-challenges/",
+          "shortened_url": "https://theinvesting.online/countries-could-face-vaccine-access-challenges/",
+          "shortened_expanded_url": "theinvesting.online/countri...",
+          "description": "The much-awaited Pfizer Inc. and BioNTech SE's COVID-19 vaccine rolls could pose a challenge to countries as they will be required to ramp up a cold-chain infrastructure for storage, according to Bloomberg. Vaccine shots must be stored at -70 degrees Celsius and must be injected within five days, or it goes bad.",
+          "image": "https://theinvesting.online/wp-content/uploads/2020/11/VACCINE.jpg",
+          "created_at": "2020-11-11T15:03:20Z",
+          "video_url": null,
+          "source": {
+            "name": "theinvesting.online",
+            "website": "https://theinvesting.online"
+          }
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          386841
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255893770,
+      "body": "$PFE after CEO dumps shares on vaccine news , testing stocks are on fire \ud83d\udd25a lesson to be learned from this hectic week.  $SRNE $CODX $FLDM $ABT",
+      "created_at": "2020-11-11T15:00:17Z",
+      "user": {
+        "id": 4213307,
+        "username": "Alexprezlimo",
+        "name": "Aj park",
+        "avatar_url": "https://avatars.stocktwits.com/production/4213307/thumb-1604593084.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/4213307/thumb-1604593084.png",
+        "join_date": "2020-10-20",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 1,
+        "following": 0,
+        "ideas": 296,
+        "watchlist_stocks_count": 10,
+        "like_count": 122,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 1892,
+          "symbol": "FLDM",
+          "title": "Fluidigm Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 6095
+        },
+        {
+          "id": 4218,
+          "symbol": "ABT",
+          "title": "Abbott Laboratories",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 15966
+        },
+        {
+          "id": 6728,
+          "symbol": "PFE",
+          "title": "Pfizer Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 42394
+        },
+        {
+          "id": 11709,
+          "symbol": "SRNE",
+          "title": "Sorrento Therapeutics Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 60061
+        },
+        {
+          "id": 13657,
+          "symbol": "CODX",
+          "title": "CO Diagnostics Inc",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 36543
+        }
+      ],
+      "likes": {
+        "total": 15,
+        "user_ids": [
+          3989536,
+          3154722,
+          3366456,
+          3133698,
+          3986348,
+          3367994,
+          3179171,
+          3883255,
+          3431095,
+          4284098,
+          3829529,
+          2727024,
+          4149667,
+          3734320,
+          828644
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255890706,
+      "body": "$VCNX could moon anytime now! Time to load the boat\n\n$ABT $MRNA $PFE $AZN",
+      "created_at": "2020-11-11T14:53:10Z",
+      "user": {
+        "id": 3153800,
+        "username": "Lizabeth_Sanderson",
+        "name": "Lizabeth",
+        "avatar_url": "https://avatars.stocktwits.com/production/3153800/thumb-1597421877.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3153800/thumb-1597421877.png",
+        "join_date": "2020-03-05",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 146,
+        "following": 31,
+        "ideas": 1228,
+        "watchlist_stocks_count": 8,
+        "like_count": 277,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 2723,
+          "symbol": "MRNA",
+          "title": "Moderna, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 55695
+        },
+        {
+          "id": 4218,
+          "symbol": "ABT",
+          "title": "Abbott Laboratories",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 15969
+        },
+        {
+          "id": 4433,
+          "symbol": "AZN",
+          "title": "AstraZeneca PLC",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 16866
+        },
+        {
+          "id": 6728,
+          "symbol": "PFE",
+          "title": "Pfizer Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 42291
+        },
+        {
+          "id": 14772,
+          "symbol": "VCNX",
+          "title": "Vaccinex, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 2100
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 255890706,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255884821,
+      "body": "$FLDM this is so ridiculous ! Needs to be Investigated $PFE $SRNE $CODX $ABT",
+      "created_at": "2020-11-11T14:40:13Z",
+      "user": {
+        "id": 4213307,
+        "username": "Alexprezlimo",
+        "name": "Aj park",
+        "avatar_url": "https://avatars.stocktwits.com/production/4213307/thumb-1604593084.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/4213307/thumb-1604593084.png",
+        "join_date": "2020-10-20",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 1,
+        "following": 0,
+        "ideas": 275,
+        "watchlist_stocks_count": 10,
+        "like_count": 121,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 1892,
+          "symbol": "FLDM",
+          "title": "Fluidigm Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 6096
+        },
+        {
+          "id": 4218,
+          "symbol": "ABT",
+          "title": "Abbott Laboratories",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 15969
+        },
+        {
+          "id": 6728,
+          "symbol": "PFE",
+          "title": "Pfizer Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 42338
+        },
+        {
+          "id": 11709,
+          "symbol": "SRNE",
+          "title": "Sorrento Therapeutics Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 59958
+        },
+        {
+          "id": 13657,
+          "symbol": "CODX",
+          "title": "CO Diagnostics Inc",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 36522
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 255884821,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 9
+      },
+      "likes": {
+        "total": 9,
+        "user_ids": [
+          553884,
+          3768618,
+          3709620,
+          3367994,
+          3542452,
+          3432925,
+          4149667,
+          3653289,
+          3001544
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_255884821.png",
+          "large": "https://charts.stocktwits.com/production/large_255884821.png",
+          "original": "https://charts.stocktwits.com/production/original_255884821.png",
+          "url": "https://charts.stocktwits.com/production/original_255884821.png"
+        },
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255839885,
+      "body": "$PFE  Vaccine Goes Bad after 5 days if not used. - Bloomberg\n\nWhen Pfizer Inc. and BioNTech SE\u2019s Covid-19 vaccine rolls off production lines, Shanghai Fosun Pharmaceutical Group Co. will be waiting to distribute it through a complex and costly system of deep-freeze airport warehouses, refrigerated vehicles and inoculation points across China.\n\nLets look what medical equipment sector thinks about it: \n$IHI $ABT  $TMO",
+      "created_at": "2020-11-11T09:24:40Z",
+      "user": {
+        "id": 4272091,
+        "username": "fxaudit",
+        "name": "FX Audit",
+        "avatar_url": "https://avatars.stocktwits.com/production/4272091/thumb-1604565776.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/4272091/thumb-1604565776.png",
+        "join_date": "2020-11-05",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 3,
+        "following": 15,
+        "ideas": 29,
+        "watchlist_stocks_count": 1,
+        "like_count": 94,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 4218,
+          "symbol": "ABT",
+          "title": "Abbott Laboratories",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 15964
+        },
+        {
+          "id": 5831,
+          "symbol": "IHI",
+          "title": "iShares Dow Jones US Medical Devices",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 953
+        },
+        {
+          "id": 6728,
+          "symbol": "PFE",
+          "title": "Pfizer Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 42431
+        },
+        {
+          "id": 7434,
+          "symbol": "TMO",
+          "title": "Thermo Fisher Scientific, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 3821
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 255839885,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 5
+      },
+      "likes": {
+        "total": 3,
+        "user_ids": [
+          1516771,
+          1269355,
+          386841
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255839422,
+      "body": "3 Stocks That Should Be Big Winners Under Joe Biden&#39;s Coronavirus Plan $ABT $PFE $OMI https://bit.ly/36qVvqA",
+      "created_at": "2020-11-11T09:14:30Z",
+      "user": {
+        "id": 257806,
+        "username": "JorelLaraKalel",
+        "name": "Clark Joseph Kent",
+        "avatar_url": "https://avatars.stocktwits.com/production/257806/thumb-1401848522.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/257806/thumb-1401848522.png",
+        "join_date": "2013-09-03",
+        "official": false,
+        "identity": "User",
+        "classification": [
+          "suggested"
+        ],
+        "followers": 83658,
+        "following": 100,
+        "ideas": 50113,
+        "watchlist_stocks_count": 293,
+        "like_count": 6968,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 4218,
+          "symbol": "ABT",
+          "title": "Abbott Laboratories",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 15972
+        },
+        {
+          "id": 6647,
+          "symbol": "OMI",
+          "title": "Owens & Minor Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 2628
+        },
+        {
+          "id": 6728,
+          "symbol": "PFE",
+          "title": "Pfizer Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 42169
+        }
+      ],
+      "links": [
+        {
+          "title": "3 Stocks That Should Be Big Winners Under Joe Biden's Coronavirus Plan | The Motley Fool",
+          "url": "https://bit.ly/36qVvqA",
+          "shortened_url": "https://bit.ly/36qVvqA",
+          "shortened_expanded_url": "fool.com/investing/2020/11/...",
+          "description": "Many Americans ranked the COVID-19 pandemic among the top factors in determining their vote for president. Now, President-elect Joe Biden appears to be hitting the ground running in his effort to fight COVID-19. On Monday, Biden announced a Transition COVID-19 Advisory Board.",
+          "image": "https://g.foolcdn.com/editorial/images/599776/joe-biden-whitehousegov.jpg",
+          "created_at": "2020-11-11T09:14:31Z",
+          "video_url": null,
+          "source": {
+            "name": "The Motley Fool",
+            "website": "https://www.fool.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255833914,
+      "body": "Moderate risk portfolio: Abbott Laboratories($ABT), Flowserve($FLS),\u2026 https://www.macroaxis.com/invest/marketRiskAndReturn?s=ABT,FLS,FE,MDT,DOW,GCI,RRC,VTR,GM,RSG,ACGL,C #stocks #earnings",
+      "created_at": "2020-11-11T06:53:02Z",
+      "user": {
+        "id": 56948,
+        "username": "macroaxis",
+        "name": "Macroaxis",
+        "avatar_url": "https://avatars.stocktwits.com/production/56948/thumb-1361399398.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/56948/thumb-1361399398.png",
+        "join_date": "2011-03-04",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 2959,
+        "following": 4,
+        "ideas": 353565,
+        "watchlist_stocks_count": 15,
+        "like_count": 28,
+        "plus_tier": "year",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1351,
+        "title": "dlvr.it",
+        "url": "https://dlvrit.com/"
+      },
+      "symbols": [
+        {
+          "id": 4218,
+          "symbol": "ABT",
+          "title": "Abbott Laboratories",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 15971
+        },
+        {
+          "id": 5361,
+          "symbol": "FLS",
+          "title": "Flowserve Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 440
+        }
+      ],
+      "links": [
+        {
+          "title": "Stock Volatility",
+          "url": "https://www.macroaxis.com/invest/marketRiskAndReturn?s=ABT,FLS,FE,MDT,DOW,GCI,RRC,VTR,GM,RSG,ACGL,C",
+          "shortened_url": "https://www.macroaxis.com/invest/marketRiskAndReturn?s=ABT,FLS,FE,MDT,DOW,GCI,RRC,VTR,GM,RSG,ACGL,C",
+          "shortened_expanded_url": "macroaxis.com/invest/market...",
+          "description": "To execute equity pricing pattern simulations, real time valuations, recommendations, instant reporting, and portfolio analytics such as mean-variance optimization takes huge amount of computing resources. Since we are a small company we cannot afford to have hundreds of servers in our cluster.",
+          "image": "https://www.macroaxis.com/images/aboutMacroaxisGuy.png",
+          "created_at": "2020-11-11T06:53:03Z",
+          "video_url": null,
+          "source": {
+            "name": "Macroaxis",
+            "website": "https://www.macroaxis.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255831551,
+      "body": "ENSURE COMPLETE trademark filing with USPTO. Filed by Abbott Laboratories https://uspto.report/TM/90303992 #ENSURECOMPLETE $ABT #ENSURE #COMPLETE",
+      "created_at": "2020-11-11T06:03:40Z",
+      "user": {
+        "id": 2831538,
+        "username": "uspto",
+        "name": "Trademarkbot",
+        "avatar_url": "https://avatars.stocktwits.com/production/2831538/thumb-1569611907.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2831538/thumb-1569611907.png",
+        "join_date": "2019-09-27",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 86,
+        "following": 0,
+        "ideas": 3809,
+        "watchlist_stocks_count": 0,
+        "like_count": 132,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5681,
+        "title": "Trademark Reporter",
+        "url": "https://uspto.report"
+      },
+      "symbols": [
+        {
+          "id": 4218,
+          "symbol": "ABT",
+          "title": "Abbott Laboratories",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 15971
+        }
+      ],
+      "links": [
+        {
+          "title": "ENSURE COMPLETE - Abbott Laboratories Trademark Registration",
+          "url": "https://uspto.report/TM/90303992",
+          "shortened_url": "https://uspto.report/TM/90303992",
+          "shortened_expanded_url": "uspto.report/TM/90303992",
+          "description": "Trademark registration by Abbott Laboratories for the trademark ENSURE COMPLETE.",
+          "image": "https://uspto.report/TM/90303992/mark.png",
+          "created_at": "2020-11-11T06:03:41Z",
+          "video_url": null,
+          "source": {
+            "name": "USPTO.report",
+            "website": "https://uspto.report"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_255831551.",
+          "large": "https://charts.stocktwits.com/production/large_255831551.",
+          "original": "https://charts.stocktwits.com/production/original_255831551.",
+          "url": "https://charts.stocktwits.com/production/original_255831551."
+        },
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255824504,
+      "body": "According to the technical breakouts screen, $ABT, $CDAY and $FB are showing a decent breakout pattern for today. https://www.chartmill.com/stock/stock-screener?sid=202&amp;f=v1_50b500,atrpct_a_1,sl_ta_7_X,sl_se_7_X,p_pg20,exch_us&amp;s=se&amp;v=3&amp;utm_source=stocktwits&amp;utm_medium=screener&amp;utm_content=Stock_Screener:_Technical_Breakout_Setups&amp;utm_campaign=social_tracking",
+      "created_at": "2020-11-11T04:23:00Z",
+      "user": {
+        "id": 47688,
+        "username": "ChartMill",
+        "name": "ChartMill",
+        "avatar_url": "https://avatars.stocktwits.com/production/47688/thumb-1363343728.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/47688/thumb-1363343728.png",
+        "join_date": "2011-01-26",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 22148,
+        "following": 891,
+        "ideas": 1104833,
+        "watchlist_stocks_count": 20,
+        "like_count": 32,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1135,
+        "title": "ChartMill",
+        "url": "http://www.chartmill.com"
+      },
+      "symbols": [
+        {
+          "id": 4218,
+          "symbol": "ABT",
+          "title": "Abbott Laboratories",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 15970
+        },
+        {
+          "id": 7871,
+          "symbol": "FB",
+          "title": "Facebook",
+          "aliases": [
+            "FBOOK"
+          ],
+          "is_following": false,
+          "watchlist_count": 327964
+        },
+        {
+          "id": 14533,
+          "symbol": "CDAY",
+          "title": "CERIDIAN HCM HOLDING INC.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 346
+        }
+      ],
+      "links": [
+        {
+          "title": null,
+          "url": "https://www.chartmill.com/stock/stock-screener?sid=202&f=v1_50b500,atrpct_a_1,sl_ta_7_X,sl_se_7_X,p_pg20,exch_us&s=se&v=3&utm_source=stocktwits&utm_medium=screener&utm_content=Stock_Screener:_Technical_Breakout_Setups&utm_campaign=social_tracking",
+          "shortened_url": "https://www.chartmill.com/stock/stock-screener?sid=202&f=v1_50b500,atrpct_a_1,sl_ta_7_X,sl_se_7_X,p_pg20,exch_us&s=se&v=3&utm_source=stocktwits&utm_medium=screener&utm_content=Stock_Screener:_Technical_Breakout_Setups&utm_campaign=social_tracking",
+          "shortened_expanded_url": "chartmill.com/stock/stock-s...",
+          "description": null,
+          "image": null,
+          "created_at": "2020-11-11T04:23:00Z",
+          "video_url": null,
+          "source": {
+            "name": "Chartmill",
+            "website": "https://www.chartmill.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255785984,
+      "body": "$OPK, $MRO, $SLV, $ABT, $GLUU Happy Birthday the the Jarhead Clan....US Marines!",
+      "created_at": "2020-11-10T23:52:07Z",
+      "user": {
+        "id": 222248,
+        "username": "StockFreedom",
+        "name": "gman",
+        "avatar_url": "https://avatars.stocktwits.com/production/222248/thumb-1383178032.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/222248/thumb-1383178032.png",
+        "join_date": "2013-03-22",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 70,
+        "following": 13,
+        "ideas": 9369,
+        "watchlist_stocks_count": 43,
+        "like_count": 1924,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 445,
+          "symbol": "OPK",
+          "title": "Opko Health, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 29149
+        },
+        {
+          "id": 2024,
+          "symbol": "GLUU",
+          "title": "Glu Mobile, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 16026
+        },
+        {
+          "id": 4218,
+          "symbol": "ABT",
+          "title": "Abbott Laboratories",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 15971
+        },
+        {
+          "id": 6369,
+          "symbol": "MRO",
+          "title": "Marathon Oil Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 18525
+        },
+        {
+          "id": 7233,
+          "symbol": "SLV",
+          "title": "iShares Silver Trust",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 24230
+        }
+      ],
+      "likes": {
+        "total": 16,
+        "user_ids": [
+          901878,
+          186957,
+          1776471,
+          612077,
+          367663,
+          4043686,
+          3578451,
+          223848,
+          1530562,
+          396702,
+          390024,
+          4122673,
+          1564013,
+          3719119,
+          3375780,
+          3573673
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 255740501,
+      "body": "Your daily News digest for Abbott Laboratories $ABT https://wsfriend.com/daily/news/ABT/2020-11-10/",
+      "created_at": "2020-11-10T21:01:38Z",
+      "user": {
+        "id": 732840,
+        "username": "WallStreetFriend",
+        "name": "Wall Street Friend",
+        "avatar_url": "https://avatars.stocktwits.com/production/732840/thumb-1577167895.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/732840/thumb-1577167895.png",
+        "join_date": "2016-04-17",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 566,
+        "following": 39,
+        "ideas": 73807,
+        "watchlist_stocks_count": 31,
+        "like_count": 94,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5142,
+        "title": "Programmatic Alerts ",
+        "url": "https://wsfriend.com"
+      },
+      "symbols": [
+        {
+          "id": 4218,
+          "symbol": "ABT",
+          "title": "Abbott Laboratories",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 15974
+        }
+      ],
+      "links": [
+        {
+          "title": "ABT Trending News and Daily News Digest for on Nov 10, 2020",
+          "url": "https://wsfriend.com/daily/news/ABT/2020-11-10/",
+          "shortened_url": "https://wsfriend.com/daily/news/ABT/2020-11-10/",
+          "shortened_expanded_url": "wsfriend.com/daily/news/ABT...",
+          "description": "ABT Dail News Digest and Top trending news for",
+          "image": "https://images.thestar.com/K_aAFA27E9QcoyHsDX-GgKnQmE4=/1200x800/smart/filters:cb(1605034772051)/https://www.thestar.com/content/dam/thestar/business/2020/11/10/canada-to-buy-76-million-becton-dickinson-rapid-covid-19-tests/canada.jpg",
+          "created_at": "2020-11-10T21:01:40Z",
+          "video_url": null,
+          "source": {
+            "name": "Wsfriend",
+            "website": "https://wsfriend.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255723151,
+      "body": "$ABT still have a short term PT if 120",
+      "created_at": "2020-11-10T20:10:19Z",
+      "user": {
+        "id": 1845223,
+        "username": "newbullbull",
+        "name": "Kyle",
+        "avatar_url": "https://avatars.stocktwits.com/production/1845223/thumb-1556346155.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1845223/thumb-1556346155.png",
+        "join_date": "2019-02-02",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 9,
+        "following": 97,
+        "ideas": 972,
+        "watchlist_stocks_count": 58,
+        "like_count": 951,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 4218,
+          "symbol": "ABT",
+          "title": "Abbott Laboratories",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 15975
+        }
+      ],
+      "likes": {
+        "total": 2,
+        "user_ids": [
+          3655144,
+          621713
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 255716569,
+      "body": "$ABT Abbott Laboratories was awarded a new government contract &quot;6515506 - BILL ONLY BI-V DEFIB PROCEDURE ON 11-5-20 - PT IEN# 210940 - IEN# 990543&quot;, total contract value: $32,064 \n\nhttps://newsfilter.io/a/06e2ac2adda715b08dabc8370b78c779",
+      "created_at": "2020-11-10T19:50:15Z",
+      "user": {
+        "id": 2762379,
+        "username": "Newsfilter",
+        "name": "@newsfilterio",
+        "avatar_url": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "join_date": "2019-09-01",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 7611,
+        "following": 16,
+        "ideas": 620292,
+        "watchlist_stocks_count": 1,
+        "like_count": 531,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 4218,
+          "symbol": "ABT",
+          "title": "Abbott Laboratories",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 15974
+        }
+      ],
+      "links": [
+        {
+          "title": "Abbott Laboratories was awarded a new government contract \"6515--506 - BILL ONLY BI-V DEFIB PROCEDURE ON 11-5-20 - PT IEN# 210940 - IEN# 990543 (VA-21-00015521)\", total contract value: $32,064",
+          "url": "https://newsfilter.io/a/06e2ac2adda715b08dabc8370b78c779",
+          "shortened_url": "https://newsfilter.io/a/06e2ac2adda715b08dabc8370b78c779",
+          "shortened_expanded_url": "newsfilter.io/a/06e2ac2adda...",
+          "description": "Abbott Laboratories was awarded a new government contract \"6515506 - BILL ONLY BI-V DEFIB PROCEDURE ON 11-5-20 - PT IEN# 210940 - IEN# 990543\", total contract value: $32,064: Abbott Laboratories was a..",
+          "image": "https://newsfilter.io/meta-images/?url=https://storage.googleapis.com/iex/api/logos/ABT.png",
+          "created_at": "2020-11-10T19:50:16Z",
+          "video_url": null,
+          "source": {
+            "name": "Newsfilter",
+            "website": "https://newsfilter.io"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255668513,
+      "body": "2020-11-10 17:10:03+00:00 $ABT, $APLE, $BLMN, $CAE    Bullish Move",
+      "created_at": "2020-11-10T17:10:07Z",
+      "user": {
+        "id": 4246761,
+        "username": "Whathealert",
+        "name": "Whathealert",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2020-10-29",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 39,
+        "following": 0,
+        "ideas": 1654,
+        "watchlist_stocks_count": 40,
+        "like_count": 2,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5846,
+        "title": "ConfluxBot",
+        "url": "https://app.confluxbot.com"
+      },
+      "symbols": [
+        {
+          "id": 4218,
+          "symbol": "ABT",
+          "title": "Abbott Laboratories",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 15969
+        },
+        {
+          "id": 4644,
+          "symbol": "CAE",
+          "title": "CAE Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 606
+        },
+        {
+          "id": 11297,
+          "symbol": "BLMN",
+          "title": "Bloomin' Brands",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1793
+        },
+        {
+          "id": 12660,
+          "symbol": "APLE",
+          "title": "Apple Hospitality REIT",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 3005
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          3958108
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255668489,
+      "body": "2020-11-10 17:10:04+00:00 $ABT, $APLE, $BLMN, $CAE    Bullish Move",
+      "created_at": "2020-11-10T17:10:04Z",
+      "user": {
+        "id": 4246761,
+        "username": "Whathealert",
+        "name": "Whathealert",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2020-10-29",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 39,
+        "following": 0,
+        "ideas": 1654,
+        "watchlist_stocks_count": 40,
+        "like_count": 2,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5846,
+        "title": "ConfluxBot",
+        "url": "https://app.confluxbot.com"
+      },
+      "symbols": [
+        {
+          "id": 4218,
+          "symbol": "ABT",
+          "title": "Abbott Laboratories",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 15969
+        },
+        {
+          "id": 4644,
+          "symbol": "CAE",
+          "title": "CAE Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 606
+        },
+        {
+          "id": 11297,
+          "symbol": "BLMN",
+          "title": "Bloomin' Brands",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1793
+        },
+        {
+          "id": 12660,
+          "symbol": "APLE",
+          "title": "Apple Hospitality REIT",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 3005
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          3958108
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255658555,
+      "body": "$ABT I even eat GREEN apples instead of RED!!!!",
+      "created_at": "2020-11-10T16:40:43Z",
+      "user": {
+        "id": 4213124,
+        "username": "mejadal234999",
+        "name": "mejadal234999",
+        "avatar_url": "https://avatars.stocktwits.com/production/4213124/thumb-1603228057.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/4213124/thumb-1603228057.png",
+        "join_date": "2020-10-20",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 3,
+        "following": 10,
+        "ideas": 132,
+        "watchlist_stocks_count": 15,
+        "like_count": 0,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 4218,
+          "symbol": "ABT",
+          "title": "Abbott Laboratories",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 15969
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          3958108
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 255651700,
+      "body": "$AZN $LAKE $BKD $ABT They want to own the ways in which the fans interact.Keep learning news things here.---&gt; http://psce.pw/MassiveTSXcompanyList Check disclaimer on profile",
+      "created_at": "2020-11-10T16:21:17Z",
+      "user": {
+        "id": 4232065,
+        "username": "mybtoot7856",
+        "name": "mybtoot mybtoot",
+        "avatar_url": "https://avatars.stocktwits.com/production/4232065/thumb-1605015776.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/4232065/thumb-1605015776.png",
+        "join_date": "2020-10-25",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 3,
+        "following": 20,
+        "ideas": 144,
+        "watchlist_stocks_count": 10,
+        "like_count": 1,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 2460,
+          "symbol": "LAKE",
+          "title": "Lakeland Industries Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 5887
+        },
+        {
+          "id": 4218,
+          "symbol": "ABT",
+          "title": "Abbott Laboratories",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 15964
+        },
+        {
+          "id": 4433,
+          "symbol": "AZN",
+          "title": "AstraZeneca PLC",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 16868
+        },
+        {
+          "id": 4532,
+          "symbol": "BKD",
+          "title": "Brookdale Senior Living Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 949
+        }
+      ],
+      "links": [
+        {
+          "title": "Massive Upcoming Industry, Investors Must See This ASAP",
+          "url": "http://psce.pw/MassiveTSXcompanyList",
+          "shortened_url": "http://psce.pw/MassiveTSXcompanyList",
+          "shortened_expanded_url": "newstrendingreports.com/pos...",
+          "description": "Enthusiast Gaming Holdings Inc. USA ( ENGMF) CA ( EGLX) has built a one of a kind gaming ecosystem where millions of gamers are connecting and engaging every month.",
+          "image": "https://newstrendingreports.com/wp-content/uploads/sites/13/2020/11/cropped-2-2.jpg",
+          "created_at": "2020-11-10T16:21:17Z",
+          "video_url": null,
+          "source": {
+            "name": "News Trending Reports",
+            "website": "https://newstrendingreports.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255648623,
+      "body": "$ABT launches IonicRF Generator in the US https://www.briefing.com/in-depth-analysis/Content/Article?ArticleId=IN20201110091023ABT",
+      "created_at": "2020-11-10T16:13:05Z",
+      "user": {
+        "id": 8115,
+        "username": "briefingcom",
+        "name": "Briefingcom",
+        "avatar_url": "https://avatars.stocktwits.com/production/8115/thumb-1340802633.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/8115/thumb-1340802633.png",
+        "join_date": "2010-01-25",
+        "official": true,
+        "identity": "Official",
+        "classification": [
+          "official"
+        ],
+        "followers": 85646,
+        "following": 821,
+        "ideas": 80876,
+        "watchlist_stocks_count": 8,
+        "like_count": 67,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 4218,
+          "symbol": "ABT",
+          "title": "Abbott Laboratories",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 15966
+        }
+      ],
+      "links": [
+        {
+          "title": null,
+          "url": "https://www.briefing.com/in-depth-analysis/Content/Article?ArticleId=IN20201110091023ABT",
+          "shortened_url": "https://www.briefing.com/in-depth-analysis/Content/Article?ArticleId=IN20201110091023ABT",
+          "shortened_expanded_url": "briefing.com/in-depth-analy...",
+          "description": null,
+          "image": null,
+          "created_at": "2020-11-10T16:13:35Z",
+          "video_url": null,
+          "source": {
+            "name": "Briefing",
+            "website": "http://www.briefing.com"
+          }
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          3958108
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255645995,
+      "body": "$ASMB $INF $ABT $CYH These Gaming has made waves with their acquisition for approx. $44 million.Awesome right? Let&#39;s see related topics here.---&gt;http://psce.pw/MassiveTSXcompanyList\nCheck Disclaimer in profile.",
+      "created_at": "2020-11-10T16:06:06Z",
+      "user": {
+        "id": 4232065,
+        "username": "mybtoot7856",
+        "name": "mybtoot mybtoot",
+        "avatar_url": "https://avatars.stocktwits.com/production/4232065/thumb-1605015776.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/4232065/thumb-1605015776.png",
+        "join_date": "2020-10-25",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 3,
+        "following": 14,
+        "ideas": 116,
+        "watchlist_stocks_count": 10,
+        "like_count": 0,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 4218,
+          "symbol": "ABT",
+          "title": "Abbott Laboratories",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 15966
+        },
+        {
+          "id": 4894,
+          "symbol": "CYH",
+          "title": "Community Health Systems, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 3592
+        },
+        {
+          "id": 9486,
+          "symbol": "ASMB",
+          "title": "Assembly Biosciences",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1841
+        },
+        {
+          "id": 11009,
+          "symbol": "INF",
+          "title": "Brookfield Global Listed Infrastructure Income Fd",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 57
+        }
+      ],
+      "links": [
+        {
+          "title": "Massive Upcoming Industry, Investors Must See This ASAP",
+          "url": "http://psce.pw/MassiveTSXcompanyList",
+          "shortened_url": "http://psce.pw/MassiveTSXcompanyList",
+          "shortened_expanded_url": "newstrendingreports.com/pos...",
+          "description": "Enthusiast Gaming Holdings Inc. USA ( ENGMF) CA ( EGLX) has built a one of a kind gaming ecosystem where millions of gamers are connecting and engaging every month.",
+          "image": "https://newstrendingreports.com/wp-content/uploads/sites/13/2020/11/cropped-2-2.jpg",
+          "created_at": "2020-11-10T16:06:06Z",
+          "video_url": null,
+          "source": {
+            "name": "News Trending Reports",
+            "website": "https://newstrendingreports.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255617147,
+      "body": "$ABT NEW ARTICLE : Boeing Surge Goes Viral https://www.stck.pro/news/ABT/9032479",
+      "created_at": "2020-11-10T15:01:15Z",
+      "user": {
+        "id": 1555408,
+        "username": "STCKPRO",
+        "name": "STCK.PRO",
+        "avatar_url": "https://avatars.stocktwits.com/production/1555408/thumb-1576077822.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1555408/thumb-1576077822.png",
+        "join_date": "2018-07-24",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 4510,
+        "following": 2,
+        "ideas": 277420,
+        "watchlist_stocks_count": 18,
+        "like_count": 52,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5011,
+        "title": "STCK.PRO",
+        "url": "https://dashboard.stck.pro"
+      },
+      "symbols": [
+        {
+          "id": 4218,
+          "symbol": "ABT",
+          "title": "Abbott Laboratories",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 15966
+        }
+      ],
+      "links": [
+        {
+          "title": "Abbott Laboratories (ABT)",
+          "url": "https://www.stck.pro/news/ABT/9032479",
+          "shortened_url": "https://www.stck.pro/news/ABT/9032479",
+          "shortened_expanded_url": "stck.pro/news/ABT",
+          "description": "Never miss an important article again, stay on top of your investments and become a better investor today! Get your moat on and sync your watchlist with Stocktwits and get all the latest news for your symbols. Sync with Stocktwits",
+          "image": "https://www.stck.pro/img/imac.png",
+          "created_at": "2020-11-10T15:01:16Z",
+          "video_url": null,
+          "source": {
+            "name": "Stck",
+            "website": "https://www.stck.pro"
+          }
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          3958108
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255600541,
+      "body": "$AAL yesterday was the PUMP, today will be the DUMP.  $HTZ $CCL $FSR $ABT",
+      "created_at": "2020-11-10T14:21:10Z",
+      "user": {
+        "id": 3636774,
+        "username": "Memphis10",
+        "name": "Jake Ross",
+        "avatar_url": "https://avatars.stocktwits.com/production/3636774/thumb-1592331802.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3636774/thumb-1592331802.png",
+        "join_date": "2020-06-16",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 6,
+        "following": 0,
+        "ideas": 334,
+        "watchlist_stocks_count": 13,
+        "like_count": 81,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 4218,
+          "symbol": "ABT",
+          "title": "Abbott Laboratories",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 15969
+        },
+        {
+          "id": 4681,
+          "symbol": "CCL",
+          "title": "Carnival Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 51894
+        },
+        {
+          "id": 5747,
+          "symbol": "HTZ",
+          "title": "Hertz Global Holdings, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 31461
+        },
+        {
+          "id": 11711,
+          "symbol": "AAL",
+          "title": "American Airlines Group",
+          "aliases": [
+            "LCC",
+            "AAMRQ"
+          ],
+          "is_following": false,
+          "watchlist_count": 71100
+        },
+        {
+          "id": 15684,
+          "symbol": "FSR",
+          "title": "Fisker Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 41047
+        }
+      ],
+      "likes": {
+        "total": 5,
+        "user_ids": [
+          3042536,
+          2854218,
+          812105,
+          3125987,
+          1328152
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255600278,
+      "body": "$ABT Abbott launches new device for chronic pain \n\nhttps://newsfilter.io/a/f505592cfad275292d055f1ec0c57395",
+      "created_at": "2020-11-10T14:20:13Z",
+      "user": {
+        "id": 2762379,
+        "username": "Newsfilter",
+        "name": "@newsfilterio",
+        "avatar_url": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "join_date": "2019-09-01",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 7650,
+        "following": 16,
+        "ideas": 622465,
+        "watchlist_stocks_count": 1,
+        "like_count": 531,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 4218,
+          "symbol": "ABT",
+          "title": "Abbott Laboratories",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 15966
+        }
+      ],
+      "links": [
+        {
+          "title": "Abbott launches new device for chronic pain",
+          "url": "https://newsfilter.io/a/f505592cfad275292d055f1ec0c57395",
+          "shortened_url": "https://newsfilter.io/a/f505592cfad275292d055f1ec0c57395",
+          "shortened_expanded_url": "newsfilter.io/a/f505592cfad...",
+          "description": "Abbott commences the commercial launch of IonicRF Generator, its first radiofrequency ablation device, that uses heat to target specific nerves and block pain signals from reaching the brain. It says studies have shown that a single treatment can relieve pain for six to 12 months.RF ablation has been used to treat pain in the lower back and sacroiliac joint.Shares down 1% premarket on light volume.",
+          "image": "https://newsfilter.io/meta-images/?url=https://storage.googleapis.com/iex/api/logos/ABT.png",
+          "created_at": "2020-11-10T14:20:13Z",
+          "video_url": null,
+          "source": {
+            "name": "Newsfilter",
+            "website": "https://newsfilter.io"
+          }
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          3958108
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255600275,
+      "body": "$ABT NEW ARTICLE : Abbott launches new device for chronic pain https://www.stck.pro/news/ABT/9032144",
+      "created_at": "2020-11-10T14:20:12Z",
+      "user": {
+        "id": 1555408,
+        "username": "STCKPRO",
+        "name": "STCK.PRO",
+        "avatar_url": "https://avatars.stocktwits.com/production/1555408/thumb-1576077822.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1555408/thumb-1576077822.png",
+        "join_date": "2018-07-24",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 4510,
+        "following": 2,
+        "ideas": 277420,
+        "watchlist_stocks_count": 18,
+        "like_count": 52,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5011,
+        "title": "STCK.PRO",
+        "url": "https://dashboard.stck.pro"
+      },
+      "symbols": [
+        {
+          "id": 4218,
+          "symbol": "ABT",
+          "title": "Abbott Laboratories",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 15966
+        }
+      ],
+      "links": [
+        {
+          "title": "Abbott Laboratories (ABT)",
+          "url": "https://www.stck.pro/news/ABT/9032144",
+          "shortened_url": "https://www.stck.pro/news/ABT/9032144",
+          "shortened_expanded_url": "stck.pro/news/ABT",
+          "description": "Never miss an important article again, stay on top of your investments and become a better investor today! Get your moat on and sync your watchlist with Stocktwits and get all the latest news for your symbols. Sync with Stocktwits",
+          "image": "https://www.stck.pro/img/imac.png",
+          "created_at": "2020-11-10T14:20:27Z",
+          "video_url": null,
+          "source": {
+            "name": "Stck",
+            "website": "https://www.stck.pro"
+          }
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          3958108
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255594895,
+      "body": "$ABT Abbott Announces the U.S. Launch of the IonicRF\u2122 Generator for Use in Patients Living With Chronic Pain\nhttps://www.stocktitan.net/news/ABT/abbott-announces-the-u-s-launch-of-the-ionic-rf-generator-for-use-in-jkdjdhhxx2h2.html",
+      "created_at": "2020-11-10T14:00:38Z",
+      "user": {
+        "id": 3372441,
+        "username": "Stock_Titan",
+        "name": "StockTitan",
+        "avatar_url": "https://avatars.stocktwits.com/production/3372441/thumb-1588173612.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3372441/thumb-1588173612.png",
+        "join_date": "2020-04-28",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 475,
+        "following": 0,
+        "ideas": 32330,
+        "watchlist_stocks_count": 0,
+        "like_count": 0,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5677,
+        "title": "StockTitan",
+        "url": "https://stocktitan.net"
+      },
+      "symbols": [
+        {
+          "id": 4218,
+          "symbol": "ABT",
+          "title": "Abbott Laboratories",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 15970
+        }
+      ],
+      "links": [
+        {
+          "title": "Abbott Announces the U.S. Launch of the IonicRF(TM) Generator | StockTitan.net",
+          "url": "https://www.stocktitan.net/news/ABT/abbott-announces-the-u-s-launch-of-the-ionic-rf-generator-for-use-in-jkdjdhhxx2h2.html",
+          "shortened_url": "https://www.stocktitan.net/news/ABT/abbott-announces-the-u-s-launch-of-the-ionic-rf-generator-for-use-in-jkdjdhhxx2h2.html",
+          "shortened_expanded_url": "stocktitan.net/news/ABT/abb...",
+          "description": "ABBOTT PARK, Ill., Nov. 10, 2020 -- Abbott (NYSE: ABT) today announced the launch of the IonicRF(TM) Generator - a new device recently cleared by the U.S. Food and Drug Administration to deliver a non-surgical, minimally invasive treatment for the management of pain in the nervous system.",
+          "image": "https://static.stocktitan.net/company-logo/abt.png",
+          "created_at": "2020-11-10T14:00:40Z",
+          "video_url": null,
+          "source": {
+            "name": "Stocktitan",
+            "website": "https://www.stocktitan.net"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255594886,
+      "body": "$ABT Abbott Announces the U.S. Launch of the IonicRF\u2122 Generator for Use in Patients Living With Chronic Pain \n\nhttps://newsfilter.io/a/1c0238e93f8b6b5c2911ab9c8c727f2a",
+      "created_at": "2020-11-10T14:00:36Z",
+      "user": {
+        "id": 2762379,
+        "username": "Newsfilter",
+        "name": "@newsfilterio",
+        "avatar_url": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "join_date": "2019-09-01",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 7621,
+        "following": 16,
+        "ideas": 622260,
+        "watchlist_stocks_count": 1,
+        "like_count": 531,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 4218,
+          "symbol": "ABT",
+          "title": "Abbott Laboratories",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 15970
+        }
+      ],
+      "links": [
+        {
+          "title": "Abbott Announces the U.S. Launch of the IonicRF\u2122 Generator for Use in Patients Living With Chronic Pain",
+          "url": "https://newsfilter.io/a/1c0238e93f8b6b5c2911ab9c8c727f2a",
+          "shortened_url": "https://newsfilter.io/a/1c0238e93f8b6b5c2911ab9c8c727f2a",
+          "shortened_expanded_url": "newsfilter.io/a/1c0238e93f8...",
+          "description": "ABBOTT PARK, Ill., Nov. 10, 2020 /PRNewswire/ -- Abbott (NYSE: ABT) today announced the launch of the IonicRF\u2122 Generator - a new device recently cleared by the U.S. Food and Drug Administration to deliver a non-surgical, minimally invasive treatment for the management of pain in the nervous system.",
+          "image": "https://newsfilter.io/meta-images/?url=https://storage.googleapis.com/iex/api/logos/ABT.png",
+          "created_at": "2020-11-10T14:00:38Z",
+          "video_url": null,
+          "source": {
+            "name": "Newsfilter",
+            "website": "https://newsfilter.io"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255593951,
+      "body": "$ABT What a bunch of dummies selling this stock, this is one of the FOREVER stocks to have in your portfolio.",
+      "created_at": "2020-11-10T13:56:45Z",
+      "user": {
+        "id": 2018953,
+        "username": "ST00000",
+        "name": "ST00000",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2019-04-18",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 5,
+        "following": 0,
+        "ideas": 769,
+        "watchlist_stocks_count": 19,
+        "like_count": 674,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 4218,
+          "symbol": "ABT",
+          "title": "Abbott Laboratories",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 15969
+        }
+      ],
+      "likes": {
+        "total": 2,
+        "user_ids": [
+          3655144,
+          1780994
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 255566135,
+      "body": "$ABT NEW ARTICLE : 3 Stocks That Should Be Big Winners Under Joe Biden&#39;s Coronavirus Plan https://www.stck.pro/news/ABT/9027599",
+      "created_at": "2020-11-10T11:10:49Z",
+      "user": {
+        "id": 1555408,
+        "username": "STCKPRO",
+        "name": "STCK.PRO",
+        "avatar_url": "https://avatars.stocktwits.com/production/1555408/thumb-1576077822.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1555408/thumb-1576077822.png",
+        "join_date": "2018-07-24",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 4510,
+        "following": 2,
+        "ideas": 277420,
+        "watchlist_stocks_count": 18,
+        "like_count": 52,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5011,
+        "title": "STCK.PRO",
+        "url": "https://dashboard.stck.pro"
+      },
+      "symbols": [
+        {
+          "id": 4218,
+          "symbol": "ABT",
+          "title": "Abbott Laboratories",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 15966
+        }
+      ],
+      "links": [
+        {
+          "title": "Abbott Laboratories (ABT)",
+          "url": "https://www.stck.pro/news/ABT/9027599",
+          "shortened_url": "https://www.stck.pro/news/ABT/9027599",
+          "shortened_expanded_url": "stck.pro/news/ABT",
+          "description": "Never miss an important article again, stay on top of your investments and become a better investor today! Get your moat on and sync your watchlist with Stocktwits and get all the latest news for your symbols. Sync with Stocktwits",
+          "image": "https://www.stck.pro/img/imac.png",
+          "created_at": "2020-11-10T11:10:51Z",
+          "video_url": null,
+          "source": {
+            "name": "Stck",
+            "website": "https://www.stck.pro"
+          }
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          3958108
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_255566135.jpg",
+          "large": "https://charts.stocktwits.com/production/large_255566135.jpg",
+          "original": "https://charts.stocktwits.com/production/original_255566135.jpg",
+          "url": "https://charts.stocktwits.com/production/original_255566135.jpg"
+        },
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255546659,
+      "body": "$TRIB $ABT $NBY $APT $CODX ugh, more good news but bad news for covid plays unfortunately \nhttps://www.businessinsider.com/eli-lilly-covid-antibody-treatment-authorized-emergency-use-trump-coronavirus-2020-10",
+      "created_at": "2020-11-10T05:06:04Z",
+      "user": {
+        "id": 3188301,
+        "username": "p_koffman",
+        "name": "raito",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2020-03-15",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 11,
+        "following": 6,
+        "ideas": 186,
+        "watchlist_stocks_count": 0,
+        "like_count": 16,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 28,
+          "symbol": "APT",
+          "title": "Alpha Pro Tech Ltd.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 14390
+        },
+        {
+          "id": 379,
+          "symbol": "NBY",
+          "title": "NovaBay Pharmaceuticals, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 15595
+        },
+        {
+          "id": 3857,
+          "symbol": "TRIB",
+          "title": "Trinity Biotech plc",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 6228
+        },
+        {
+          "id": 4218,
+          "symbol": "ABT",
+          "title": "Abbott Laboratories",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 15971
+        },
+        {
+          "id": 13657,
+          "symbol": "CODX",
+          "title": "CO Diagnostics Inc",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 36487
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 255546659,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 8
+      },
+      "links": [
+        {
+          "title": "The FDA just authorized Eli Lilly's antibody treatment for emergency use to treat the coronavirus",
+          "url": "https://www.businessinsider.com/eli-lilly-covid-antibody-treatment-authorized-emergency-use-trump-coronavirus-2020-10",
+          "shortened_url": "https://www.businessinsider.com/eli-lilly-covid-antibody-treatment-authorized-emergency-use-trump-coronavirus-2020-10",
+          "shortened_expanded_url": "businessinsider.com/eli-lil...",
+          "description": "US health officials just approved pharmaceutical company Eli Lilly's COVID-19 antibody therapy for emergency use. The drugmaker said that, in clinical trials, the treatment successfully reduced virus levels, symptoms, and hospitalizations in patients with mild to moderate cases, with no serious side effects.",
+          "image": "https://i.insider.com/5f7f3c9dc655f6001969ef7d?width=1200&format=jpeg",
+          "created_at": "2020-11-10T05:06:04Z",
+          "video_url": null,
+          "source": {
+            "name": "Business Insider",
+            "website": "https://www.businessinsider.com"
+          }
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          2255921
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 255538382,
+      "body": "AbbottLaboratories $ABT BidaskScore is #Reiterated to Held https://bidaskclub.com/news/company/2020-11-03/ABT",
+      "created_at": "2020-11-10T03:41:03Z",
+      "user": {
+        "id": 1177001,
+        "username": "BidaskBot",
+        "name": "BidaskBot",
+        "avatar_url": "https://avatars.stocktwits.com/production/1177001/thumb-1504377126.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1177001/thumb-1504377126.png",
+        "join_date": "2017-09-02",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 1097,
+        "following": 21,
+        "ideas": 69877,
+        "watchlist_stocks_count": 20,
+        "like_count": 1009,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 3725,
+        "title": "BidaskBot",
+        "url": "https://bidaskclub.com"
+      },
+      "symbols": [
+        {
+          "id": 4218,
+          "symbol": "ABT",
+          "title": "Abbott Laboratories",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 15970
+        }
+      ],
+      "links": [
+        {
+          "title": "BidaskClub.com - See where people invest",
+          "url": "https://bidaskclub.com/news/company/2020-11-03/ABT",
+          "shortened_url": "https://bidaskclub.com/news/company/2020-11-03/ABT",
+          "shortened_expanded_url": "bidaskclub.com/news/company...",
+          "description": "Use the proprietary BidaskScore to see where people invest. Use the market heatmap and market screener to explore the US equity stock market",
+          "image": null,
+          "created_at": "2020-11-10T03:41:04Z",
+          "video_url": null,
+          "source": {
+            "name": "Bidaskclub",
+            "website": "https://bidaskclub.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_255538382.png",
+          "large": "https://charts.stocktwits.com/production/large_255538382.png",
+          "original": "https://charts.stocktwits.com/production/original_255538382.png",
+          "url": "https://charts.stocktwits.com/production/original_255538382.png"
+        },
+        "sentiment": null
+      }
+    }
+  ]
+}
