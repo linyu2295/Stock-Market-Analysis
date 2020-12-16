@@ -1,0 +1,1706 @@
+{
+  "response": {
+    "status": 200
+  },
+  "symbol": {
+    "id": 7319,
+    "symbol": "SWI",
+    "title": "SolarWinds, Inc.",
+    "aliases": [],
+    "is_following": false,
+    "watchlist_count": 1195
+  },
+  "cursor": {
+    "more": true,
+    "since": 264354278,
+    "max": 264285553
+  },
+  "messages": [
+    {
+      "id": 264354278,
+      "body": "2020-12-15 14:46:12+00:00 $APPS, $SWI    Intra-day Move",
+      "created_at": "2020-12-15T14:46:14Z",
+      "user": {
+        "id": 1511377,
+        "username": "YuMiStocks_Trade",
+        "name": "YuMIStocksTrade.com",
+        "avatar_url": "https://avatars.stocktwits.com/production/1511377/thumb-1596895665.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1511377/thumb-1596895665.png",
+        "join_date": "2018-06-04",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 443,
+        "following": 1,
+        "ideas": 10950,
+        "watchlist_stocks_count": 35,
+        "like_count": 603,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5846,
+        "title": "ConfluxBot",
+        "url": "https://app.confluxbot.com"
+      },
+      "symbols": [
+        {
+          "id": 7319,
+          "symbol": "SWI",
+          "title": "SolarWinds, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1195
+        },
+        {
+          "id": 11700,
+          "symbol": "APPS",
+          "title": "Digital Turbine, Inc.",
+          "aliases": [
+            "MNDL"
+          ],
+          "is_following": false,
+          "watchlist_count": 13390
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 264351909,
+      "body": "$SWI easiest short of my career.  Cheers.  I would like to thank my brokerage for having shares available.  Cheers",
+      "created_at": "2020-12-15T14:41:54Z",
+      "user": {
+        "id": 3931250,
+        "username": "Maully06",
+        "name": "Matt Maul",
+        "avatar_url": "https://avatars.stocktwits.com/production/3931250/thumb-1601008223.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3931250/thumb-1601008223.png",
+        "join_date": "2020-08-10",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 8,
+        "following": 24,
+        "ideas": 830,
+        "watchlist_stocks_count": 50,
+        "like_count": 959,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 7319,
+          "symbol": "SWI",
+          "title": "SolarWinds, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1195
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bearish"
+        }
+      }
+    },
+    {
+      "id": 264351740,
+      "body": "$SWI Long the $20 Dec puts.",
+      "created_at": "2020-12-15T14:41:35Z",
+      "user": {
+        "id": 103916,
+        "username": "itenginerd",
+        "name": "Jim Bob",
+        "avatar_url": "https://avatars.stocktwits.com/production/103916/thumb-1598116665.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/103916/thumb-1598116665.png",
+        "join_date": "2011-09-01",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 42,
+        "following": 32,
+        "ideas": 1374,
+        "watchlist_stocks_count": 15,
+        "like_count": 804,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 7319,
+          "symbol": "SWI",
+          "title": "SolarWinds, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1195
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 264349139,
+      "body": "$SWI That 8k is the most devastating statement you can make about a software company. I don&#39;t care how much you like it, you need to think about taking your money to the sidelines if you&#39;re long\n\nNo position, just sharing my knowledge.\n\n&quot;Based on its investigation to date, SolarWinds has evidence that the vulnerability was inserted within the Orion products and existed in updates released between March and June 2020 (the \u201cRelevant Period\u201d), was introduced as a result of a compromise of the Orion software build system and was not present in the source code repository of the Orion products. &quot;\n\nSomeone got into Orion&#39;s software and wrote vulns  into it for them. All of their customers who installed/updated during this period were vulnerable.",
+      "created_at": "2020-12-15T14:36:39Z",
+      "user": {
+        "id": 103916,
+        "username": "itenginerd",
+        "name": "Jim Bob",
+        "avatar_url": "https://avatars.stocktwits.com/production/103916/thumb-1598116665.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/103916/thumb-1598116665.png",
+        "join_date": "2011-09-01",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 42,
+        "following": 32,
+        "ideas": 1374,
+        "watchlist_stocks_count": 15,
+        "like_count": 804,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 7319,
+          "symbol": "SWI",
+          "title": "SolarWinds, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1195
+        }
+      ],
+      "likes": {
+        "total": 2,
+        "user_ids": [
+          3931250,
+          4001494
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 264347143,
+      "body": "$SWI - http://www.trade-ideas.com/ticky/ticky.html?symbol=SWI - Might need a medic...we have a bleeder - Running down: -0.83 in 50 seconds",
+      "created_at": "2020-12-15T14:32:35Z",
+      "user": {
+        "id": 116462,
+        "username": "TradeIdeasQuant",
+        "name": "Trade-Ideas Quant",
+        "avatar_url": "https://avatars.stocktwits.com/production/116462/thumb-1458241309.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/116462/thumb-1458241309.png",
+        "join_date": "2011-11-07",
+        "official": true,
+        "identity": "Official",
+        "classification": [
+          "official"
+        ],
+        "followers": 43969,
+        "following": 5,
+        "ideas": 241193,
+        "watchlist_stocks_count": 0,
+        "like_count": 0,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1008,
+        "title": "TI Pro Collaboration",
+        "url": "http://trade-ideas.com"
+      },
+      "symbols": [
+        {
+          "id": 7319,
+          "symbol": "SWI",
+          "title": "SolarWinds, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1195
+        }
+      ],
+      "links": [
+        {
+          "title": "SWI",
+          "url": "http://www.trade-ideas.com/ticky/ticky.html?symbol=SWI",
+          "shortened_url": "http://www.trade-ideas.com/ticky/ticky.html?symbol=SWI",
+          "shortened_expanded_url": "trade-ideas.com/ticky/ticky...",
+          "description": "Trade Ideas Finds Your Next Trade in SolarWinds Corp LAST PRICE - 09:11am SWI is trading DOWN -$-0.16 or -0.8% from yesterday's close of $19.62.",
+          "image": null,
+          "created_at": "2020-12-15T14:32:37Z",
+          "video_url": null,
+          "source": {
+            "name": "Trade-ideas",
+            "website": "https://www.trade-ideas.com"
+          }
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          1499907
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 264346814,
+      "body": "$SWI Run ! Run ! This one is hitting $15",
+      "created_at": "2020-12-15T14:31:42Z",
+      "user": {
+        "id": 4109469,
+        "username": "BluespartanBear",
+        "name": "Alex",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2020-09-25",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 7,
+        "following": 0,
+        "ideas": 749,
+        "watchlist_stocks_count": 5,
+        "like_count": 252,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 7319,
+          "symbol": "SWI",
+          "title": "SolarWinds, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1195
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          1499907
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bearish"
+        }
+      }
+    },
+    {
+      "id": 264342111,
+      "body": "$SWI The scale of the damage is not even been reported yet.  Buy PUT options. \n&quot;FireEye has detected this activity at multiple entities worldwide. The victims have included government, consulting, technology, telecom and extractive entities in North America, Europe, Asia and the Middle East. We anticipate there are additional victims in other countries and verticals. FireEye has notified all entities we are aware of being affected&quot;",
+      "created_at": "2020-12-15T14:19:06Z",
+      "user": {
+        "id": 4109469,
+        "username": "BluespartanBear",
+        "name": "Alex",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2020-09-25",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 7,
+        "following": 0,
+        "ideas": 749,
+        "watchlist_stocks_count": 5,
+        "like_count": 252,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 7319,
+          "symbol": "SWI",
+          "title": "SolarWinds, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1195
+        }
+      ],
+      "likes": {
+        "total": 2,
+        "user_ids": [
+          1750244,
+          1499907
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bearish"
+        }
+      }
+    },
+    {
+      "id": 264340218,
+      "body": "$BB $BB I will quadruple guarantee you $SWI customers wished they would have used the government approved cyber security software $BB #BlackBerry &amp; going forward nearly 100% will use $BB like most major countries do. More than a hunch. \ud83d\udd28",
+      "created_at": "2020-12-15T14:13:36Z",
+      "user": {
+        "id": 1245128,
+        "username": "B1B",
+        "name": "John Bair",
+        "avatar_url": "https://avatars.stocktwits.com/production/1245128/thumb-1608002402.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1245128/thumb-1608002402.png",
+        "join_date": "2017-10-29",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 307,
+        "following": 275,
+        "ideas": 29743,
+        "watchlist_stocks_count": 300,
+        "like_count": 27719,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 3379,
+          "symbol": "BB",
+          "title": "BlackBerry",
+          "aliases": [
+            "RIMM",
+            "BBRY"
+          ],
+          "is_following": false,
+          "watchlist_count": 44748
+        },
+        {
+          "id": 7319,
+          "symbol": "SWI",
+          "title": "SolarWinds, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1195
+        }
+      ],
+      "likes": {
+        "total": 9,
+        "user_ids": [
+          3819400,
+          378505,
+          1383534,
+          554658,
+          1479351,
+          1499907,
+          3543647,
+          1750244,
+          1093375
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 264339858,
+      "body": "$SWI Wait for the fall out of the damage report and how much data has been compromised and stolen. Ouch!",
+      "created_at": "2020-12-15T14:12:22Z",
+      "user": {
+        "id": 4109469,
+        "username": "BluespartanBear",
+        "name": "Alex",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2020-09-25",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 7,
+        "following": 0,
+        "ideas": 749,
+        "watchlist_stocks_count": 5,
+        "like_count": 252,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 7319,
+          "symbol": "SWI",
+          "title": "SolarWinds, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1183
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          1499907
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bearish"
+        }
+      }
+    },
+    {
+      "id": 264336673,
+      "body": "$SWI Nothing like a Black Swan event to make an investor realize having a diverse portfolio makes absolute sense. There might be an opportunity here in the 15-17$ range. Overreactions always area great buying opportunity.",
+      "created_at": "2020-12-15T14:02:44Z",
+      "user": {
+        "id": 3004281,
+        "username": "StockBraker",
+        "name": "Gary",
+        "avatar_url": "https://avatars.stocktwits.com/production/3004281/thumb-1590010381.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3004281/thumb-1590010381.png",
+        "join_date": "2020-01-03",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 253,
+        "following": 6,
+        "ideas": 4989,
+        "watchlist_stocks_count": 120,
+        "like_count": 1560,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 7319,
+          "symbol": "SWI",
+          "title": "SolarWinds, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1183
+        }
+      ],
+      "likes": {
+        "total": 2,
+        "user_ids": [
+          3001672,
+          1499907
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 264335846,
+      "body": "$SWI puts",
+      "created_at": "2020-12-15T14:00:23Z",
+      "user": {
+        "id": 3529395,
+        "username": "N1GHTSTONKER",
+        "name": "AkA: Johnny1428",
+        "avatar_url": "https://avatars.stocktwits.com/production/3529395/thumb-1605247688.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3529395/thumb-1605247688.png",
+        "join_date": "2020-05-31",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 5,
+        "following": 75,
+        "ideas": 795,
+        "watchlist_stocks_count": 223,
+        "like_count": 1541,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 7319,
+          "symbol": "SWI",
+          "title": "SolarWinds, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1176
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bearish"
+        }
+      }
+    },
+    {
+      "id": 264335463,
+      "body": "$SWI I have never shorted a stock before but think this could be a good one to jump on the back of...may just give it a try today",
+      "created_at": "2020-12-15T13:59:13Z",
+      "user": {
+        "id": 713607,
+        "username": "kiddstock",
+        "name": "Steve McPhee",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2016-03-24",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 2,
+        "following": 20,
+        "ideas": 207,
+        "watchlist_stocks_count": 51,
+        "like_count": 286,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2095,
+        "title": "StockTwits For Android ",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 7319,
+          "symbol": "SWI",
+          "title": "SolarWinds, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1183
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          1499907
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "giphy": {
+          "id": "Hgy8F9wshu3wk",
+          "ratio": 1.8275862068965518
+        },
+        "sentiment": {
+          "basic": "Bearish"
+        }
+      }
+    },
+    {
+      "id": 264331641,
+      "body": "$SWI hmmm very interesting....",
+      "created_at": "2020-12-15T13:46:15Z",
+      "user": {
+        "id": 3931250,
+        "username": "Maully06",
+        "name": "Matt Maul",
+        "avatar_url": "https://avatars.stocktwits.com/production/3931250/thumb-1601008223.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3931250/thumb-1601008223.png",
+        "join_date": "2020-08-10",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 8,
+        "following": 24,
+        "ideas": 828,
+        "watchlist_stocks_count": 50,
+        "like_count": 958,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 7319,
+          "symbol": "SWI",
+          "title": "SolarWinds, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1176
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          1499907
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bearish"
+        }
+      }
+    },
+    {
+      "id": 264328905,
+      "body": "70 Biggest Movers From Yesterday https://benzinga.com/z/18789499#.X9i6_TXX3Q4.twitter $ARVN $ALXN $PS $ARPO $SWI",
+      "created_at": "2020-12-15T13:36:02Z",
+      "user": {
+        "id": 7108,
+        "username": "Benzinga",
+        "name": "Benzinga",
+        "avatar_url": "https://avatars.stocktwits.com/production/7108/thumb-1568827739.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/7108/thumb-1568827739.png",
+        "join_date": "2009-12-04",
+        "official": true,
+        "identity": "Official",
+        "classification": [
+          "suggested",
+          "official"
+        ],
+        "followers": 284536,
+        "following": 531,
+        "ideas": 119157,
+        "watchlist_stocks_count": 7,
+        "like_count": 112,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 823,
+          "symbol": "ALXN",
+          "title": "Alexion Pharmaceuticals, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 6130
+        },
+        {
+          "id": 7319,
+          "symbol": "SWI",
+          "title": "SolarWinds, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1183
+        },
+        {
+          "id": 14597,
+          "symbol": "PS",
+          "title": "PLURALSIGHT, INC",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1386
+        },
+        {
+          "id": 14751,
+          "symbol": "ARPO",
+          "title": "Aerpio Pharmaceuticals Inc",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 4697
+        },
+        {
+          "id": 14942,
+          "symbol": "ARVN",
+          "title": "ARVINAS HOLDING COMPANY",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 883
+        }
+      ],
+      "links": [
+        {
+          "title": "70 Biggest Movers From Yesterday",
+          "url": "https://benzinga.com/z/18789499#.X9i6_TXX3Q4.twitter",
+          "shortened_url": "https://benzinga.com/z/18789499#.X9i6_TXX3Q4.twitter",
+          "shortened_expanded_url": "benzinga.com/news/20/12/187...",
+          "description": "Arvinas, Inc. (NASDAQ: ARVN) shares climbed 95.1% to close at $58.38 on Monday after the company reported interim clinical data for its cancer treatment. The company said ARV-471 showed evidence of anti-tumor activity. BioCardia, Inc. (NASDAQ: BCDA) shares climbed 58.9% to close at $4.48.",
+          "image": "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/images/story/2012/yesterdays_movers_100.png",
+          "created_at": "2020-12-15T13:36:03Z",
+          "video_url": null,
+          "source": {
+            "name": "Benzinga",
+            "website": "https://www.benzinga.com"
+          }
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          1985042
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 264316618,
+      "body": "$BB  so how does $SWI in Government and Govt BlackBerry  UEM  come together there was no response from BlackBerry ? BlackBerry would require approval for response",
+      "created_at": "2020-12-15T12:42:53Z",
+      "user": {
+        "id": 1711636,
+        "username": "Smoother",
+        "name": "Mr Smoother",
+        "avatar_url": "https://avatars.stocktwits.com/production/1711636/thumb-1542199560.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1711636/thumb-1542199560.png",
+        "join_date": "2018-11-13",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 66,
+        "following": 110,
+        "ideas": 4560,
+        "watchlist_stocks_count": 37,
+        "like_count": 1021,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 3379,
+          "symbol": "BB",
+          "title": "BlackBerry",
+          "aliases": [
+            "RIMM",
+            "BBRY"
+          ],
+          "is_following": false,
+          "watchlist_count": 44742
+        },
+        {
+          "id": 7319,
+          "symbol": "SWI",
+          "title": "SolarWinds, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1169
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 264316535,
+      "body": "$SWI who are major competitors? SCCM? Ivanti?",
+      "created_at": "2020-12-15T12:42:26Z",
+      "user": {
+        "id": 4057990,
+        "username": "ESG_Investor",
+        "name": "ESG_Investor",
+        "avatar_url": "https://avatars.stocktwits.com/production/4057990/thumb-1604267848.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/4057990/thumb-1604267848.png",
+        "join_date": "2020-09-09",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 1,
+        "following": 0,
+        "ideas": 130,
+        "watchlist_stocks_count": 5,
+        "like_count": 126,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 7319,
+          "symbol": "SWI",
+          "title": "SolarWinds, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1169
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 264316535,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 264314997,
+      "body": "$SWI Good for trading today?",
+      "created_at": "2020-12-15T12:35:30Z",
+      "user": {
+        "id": 3345580,
+        "username": "Mario_Gomez",
+        "name": "Mario Gomez",
+        "avatar_url": "https://avatars.stocktwits.com/production/3345580/thumb-1587610310.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3345580/thumb-1587610310.png",
+        "join_date": "2020-04-23",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 11,
+        "following": 9,
+        "ideas": 628,
+        "watchlist_stocks_count": 201,
+        "like_count": 1091,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2095,
+        "title": "StockTwits For Android ",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 7319,
+          "symbol": "SWI",
+          "title": "SolarWinds, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1169
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 264313478,
+      "body": "$SWI (-1.3% pre) Hackers Used Obscure Texas IT Vendor to Attack U.S. Agencies - BBG\n\nhttp://ooc.bz/l/65600",
+      "created_at": "2020-12-15T12:27:37Z",
+      "user": {
+        "id": 348830,
+        "username": "OpenOutcrier",
+        "name": "Open Outcrier",
+        "avatar_url": "https://avatars.stocktwits.com/production/348830/thumb-1423676197.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/348830/thumb-1423676197.png",
+        "join_date": "2014-04-30",
+        "official": false,
+        "identity": "User",
+        "classification": [
+          "suggested"
+        ],
+        "followers": 193847,
+        "following": 139,
+        "ideas": 122521,
+        "watchlist_stocks_count": 0,
+        "like_count": 987,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2384,
+        "title": "Open Outcrier",
+        "url": "http://openoutcrier.com"
+      },
+      "symbols": [
+        {
+          "id": 7319,
+          "symbol": "SWI",
+          "title": "SolarWinds, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1176
+        }
+      ],
+      "links": [
+        {
+          "title": null,
+          "url": "http://ooc.bz/l/65600",
+          "shortened_url": "http://ooc.bz/l/65600",
+          "shortened_expanded_url": "ooc.bz/l/65600",
+          "description": null,
+          "image": null,
+          "created_at": "2020-12-15T12:27:38Z",
+          "video_url": null,
+          "source": {
+            "name": "Ooc",
+            "website": "http://ooc.bz"
+          }
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          1499907
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 264308106,
+      "body": "$SWI lol this guys will be behind bars for a very long time.",
+      "created_at": "2020-12-15T11:47:07Z",
+      "user": {
+        "id": 3105973,
+        "username": "SbDunkCollector",
+        "name": "SbDunkCollector",
+        "avatar_url": "https://avatars.stocktwits.com/production/3105973/thumb-1602897435.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3105973/thumb-1602897435.png",
+        "join_date": "2020-02-19",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 25,
+        "following": 10,
+        "ideas": 1292,
+        "watchlist_stocks_count": 50,
+        "like_count": 1307,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 7319,
+          "symbol": "SWI",
+          "title": "SolarWinds, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1176
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 264308106,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "likes": {
+        "total": 2,
+        "user_ids": [
+          75331,
+          1541511
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 264307844,
+      "body": "$SWI can we short this? Or is there ssr? Why is no one shorting?",
+      "created_at": "2020-12-15T11:44:36Z",
+      "user": {
+        "id": 4265828,
+        "username": "Cowsheeptheone",
+        "name": "d3adg4be@gmail.com",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2020-11-03",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 16,
+        "following": 10,
+        "ideas": 527,
+        "watchlist_stocks_count": 3,
+        "like_count": 742,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 7319,
+          "symbol": "SWI",
+          "title": "SolarWinds, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1169
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 264307844,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bearish"
+        }
+      }
+    },
+    {
+      "id": 264305521,
+      "body": "$SWI Time to grab some TLS...",
+      "created_at": "2020-12-15T11:20:22Z",
+      "user": {
+        "id": 75331,
+        "username": "MrMike",
+        "name": "MrMike",
+        "avatar_url": "https://avatars.stocktwits.com/production/75331/thumb-1514915147.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/75331/thumb-1514915147.png",
+        "join_date": "2011-04-30",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 65,
+        "following": 62,
+        "ideas": 9283,
+        "watchlist_stocks_count": 32,
+        "like_count": 9140,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2095,
+        "title": "StockTwits For Android ",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 7319,
+          "symbol": "SWI",
+          "title": "SolarWinds, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1166
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 264304386,
+      "body": "$SWI This is only starting to come out. The data theft part has not even been disclosed yet!!!!!  I suspect this will be bleeding for a while!\nFireEye $FEYE has uncovered a widespread campaign, that we are tracking as UNC2452. The actors behind this campaign gained access to numerous public and private organizations around the world. They gained access to victims via trojanized updates to SolarWind\u2019s Orion IT monitoring and management software. This campaign may have begun as early as Spring 2020 and is currently ongoing. Post compromise activity following this supply chain compromise has included lateral movement and data theft. The campaign is the work of a highly skilled actor and the operation was conducted with significant operational security.",
+      "created_at": "2020-12-15T11:05:54Z",
+      "user": {
+        "id": 4109469,
+        "username": "BluespartanBear",
+        "name": "Alex",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2020-09-25",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 7,
+        "following": 0,
+        "ideas": 749,
+        "watchlist_stocks_count": 5,
+        "like_count": 252,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 7319,
+          "symbol": "SWI",
+          "title": "SolarWinds, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1176
+        },
+        {
+          "id": 11571,
+          "symbol": "FEYE",
+          "title": "FireEye Inc",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 20948
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 264304386,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "likes": {
+        "total": 2,
+        "user_ids": [
+          1003908,
+          3189375
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "giphy": {
+          "id": "KnF6GPtMbe2Fa",
+          "ratio": 1.7777777777777777
+        },
+        "sentiment": {
+          "basic": "Bearish"
+        }
+      }
+    },
+    {
+      "id": 264303493,
+      "body": "$TSLA TSLA bears why don&#39;t you go over to $SWI and do your thing there. You might make money, it deserves a good shorting. Just not my thing.. you are welcome. Now shoo go on get!",
+      "created_at": "2020-12-15T10:54:49Z",
+      "user": {
+        "id": 3533840,
+        "username": "LemsLemons",
+        "name": "L. T.",
+        "avatar_url": "https://avatars.stocktwits.com/production/3533840/thumb-1595870994.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3533840/thumb-1595870994.png",
+        "join_date": "2020-06-01",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 102,
+        "following": 39,
+        "ideas": 5028,
+        "watchlist_stocks_count": 27,
+        "like_count": 2995,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2095,
+        "title": "StockTwits For Android ",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 7319,
+          "symbol": "SWI",
+          "title": "SolarWinds, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1195
+        },
+        {
+          "id": 8660,
+          "symbol": "TSLA",
+          "title": "Tesla, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 505460
+        }
+      ],
+      "likes": {
+        "total": 5,
+        "user_ids": [
+          1003908,
+          714594,
+          3812581,
+          4267346,
+          1750244
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 264302792,
+      "body": "$SWI ",
+      "created_at": "2020-12-15T10:43:45Z",
+      "user": {
+        "id": 2909789,
+        "username": "buttfiestabongo",
+        "name": "Everest Goluasch",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2019-11-11",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 0,
+        "following": 0,
+        "ideas": 181,
+        "watchlist_stocks_count": 0,
+        "like_count": 4,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 7319,
+          "symbol": "SWI",
+          "title": "SolarWinds, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1164
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_264302792.png",
+          "large": "https://charts.stocktwits.com/production/large_264302792.png",
+          "original": "https://charts.stocktwits.com/production/original_264302792.png",
+          "url": "https://charts.stocktwits.com/production/original_264302792.png"
+        },
+        "sentiment": null
+      }
+    },
+    {
+      "id": 264296602,
+      "body": "$SWI think it\u2019s time for you guys to join $PLTR",
+      "created_at": "2020-12-15T08:39:43Z",
+      "user": {
+        "id": 299240,
+        "username": "Tickstocks",
+        "name": "Saymyname",
+        "avatar_url": "https://avatars.stocktwits.com/production/299240/thumb-1607760812.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/299240/thumb-1607760812.png",
+        "join_date": "2014-01-10",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 20,
+        "following": 15,
+        "ideas": 695,
+        "watchlist_stocks_count": 43,
+        "like_count": 209,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 7319,
+          "symbol": "SWI",
+          "title": "SolarWinds, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1164
+        },
+        {
+          "id": 8993,
+          "symbol": "PLTR",
+          "title": "Palantir",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 57716
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "giphy": {
+          "id": "TgIY04ICdRhokV1yvq",
+          "ratio": 1.0
+        },
+        "sentiment": null
+      }
+    },
+    {
+      "id": 264296083,
+      "body": "$SWI $FEYE Investigation underway to determine extent of SolarWinds espionage attack \n\nhttps://newsfilter.io/a/fee4a7b1ef557c24877d1f3dac56801f",
+      "created_at": "2020-12-15T08:25:42Z",
+      "user": {
+        "id": 2762379,
+        "username": "Newsfilter",
+        "name": "@newsfilterio",
+        "avatar_url": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "join_date": "2019-09-01",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 8246,
+        "following": 16,
+        "ideas": 675363,
+        "watchlist_stocks_count": 1,
+        "like_count": 531,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 7319,
+          "symbol": "SWI",
+          "title": "SolarWinds, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1176
+        },
+        {
+          "id": 11571,
+          "symbol": "FEYE",
+          "title": "FireEye Inc",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 20948
+        }
+      ],
+      "links": [
+        {
+          "title": "Investigation underway to determine extent of SolarWinds espionage attack",
+          "url": "https://newsfilter.io/a/fee4a7b1ef557c24877d1f3dac56801f",
+          "shortened_url": "https://newsfilter.io/a/fee4a7b1ef557c24877d1f3dac56801f",
+          "shortened_expanded_url": "newsfilter.io/a/fee4a7b1ef5...",
+          "description": "Investigation underway to determine extent of SolarWinds espionage attack: Hackers were found to have inserted malicious code into software updates provided by SolarWinds, which services hundreds of t..",
+          "image": null,
+          "created_at": "2020-12-15T08:25:43Z",
+          "video_url": null,
+          "source": {
+            "name": "Newsfilter",
+            "website": "https://newsfilter.io"
+          }
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          1541511
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 264295764,
+      "body": "$SWI was analyzed by 8 analysts. The buy consensus is at 85%. So analysts seem to be very confident about $SWI. https://www.chartmill.com/stock/quote/SWI/analyst-ratings?utm_source=stocktwits&amp;utm_medium=ANALYST&amp;utm_content=SWI&amp;utm_campaign=social_tracking",
+      "created_at": "2020-12-15T08:18:00Z",
+      "user": {
+        "id": 47688,
+        "username": "ChartMill",
+        "name": "ChartMill",
+        "avatar_url": "https://avatars.stocktwits.com/production/47688/thumb-1363343728.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/47688/thumb-1363343728.png",
+        "join_date": "2011-01-26",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 23173,
+        "following": 889,
+        "ideas": 1144648,
+        "watchlist_stocks_count": 20,
+        "like_count": 32,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1135,
+        "title": "ChartMill",
+        "url": "http://www.chartmill.com"
+      },
+      "symbols": [
+        {
+          "id": 7319,
+          "symbol": "SWI",
+          "title": "SolarWinds, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1158
+        }
+      ],
+      "links": [
+        {
+          "title": null,
+          "url": "https://www.chartmill.com/stock/quote/SWI/analyst-ratings?utm_source=stocktwits&utm_medium=ANALYST&utm_content=SWI&utm_campaign=social_tracking",
+          "shortened_url": "https://www.chartmill.com/stock/quote/SWI/analyst-ratings?utm_source=stocktwits&utm_medium=ANALYST&utm_content=SWI&utm_campaign=social_tracking",
+          "shortened_expanded_url": "chartmill.com/stock/quote/S...",
+          "description": null,
+          "image": null,
+          "created_at": "2020-12-15T08:18:00Z",
+          "video_url": null,
+          "source": {
+            "name": "Chartmill",
+            "website": "https://www.chartmill.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 264293144,
+      "body": "$SWI where\u2019s the bottom? \ud83d\ude2c",
+      "created_at": "2020-12-15T07:09:44Z",
+      "user": {
+        "id": 3498915,
+        "username": "clownpenis915",
+        "name": "Christian Rama Casta\u00f1\u00f3n",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2020-05-24",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 4,
+        "following": 4,
+        "ideas": 363,
+        "watchlist_stocks_count": 6,
+        "like_count": 140,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 7319,
+          "symbol": "SWI",
+          "title": "SolarWinds, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1152
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 264293144,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          4136546
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 264286301,
+      "body": "$SWI \n\nFolks - this thread is a reenactment of the bust at the HQ.",
+      "created_at": "2020-12-15T05:20:40Z",
+      "user": {
+        "id": 2909789,
+        "username": "buttfiestabongo",
+        "name": "Everest Goluasch",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2019-11-11",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 0,
+        "following": 0,
+        "ideas": 162,
+        "watchlist_stocks_count": 0,
+        "like_count": 4,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 7319,
+          "symbol": "SWI",
+          "title": "SolarWinds, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1134
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 264286301,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "mentioned_users": [],
+      "entities": {
+        "giphy": {
+          "id": "l0MYI713VpiCEM42Q",
+          "ratio": 1.5165876777251184
+        },
+        "sentiment": null
+      }
+    },
+    {
+      "id": 264285553,
+      "body": "$SWI dang, so RUISSA hacks SWI and FBI just raided the facility. Can\u2019t wait to see this drop \ud83e\udd75\ud83e\udd2f",
+      "created_at": "2020-12-15T05:12:22Z",
+      "user": {
+        "id": 3277212,
+        "username": "Cwise59",
+        "name": "wiseman",
+        "avatar_url": "https://avatars.stocktwits.com/production/3277212/thumb-1592450709.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3277212/thumb-1592450709.png",
+        "join_date": "2020-04-07",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 39,
+        "following": 56,
+        "ideas": 1444,
+        "watchlist_stocks_count": 43,
+        "like_count": 2755,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 7319,
+          "symbol": "SWI",
+          "title": "SolarWinds, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1169
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 264285553,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 6
+      },
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          3524437
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bearish"
+        }
+      }
+    }
+  ]
+}

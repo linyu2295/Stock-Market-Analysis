@@ -1,0 +1,2017 @@
+{
+  "response": {
+    "status": 200
+  },
+  "symbol": {
+    "id": 5136,
+    "symbol": "EFX",
+    "title": "Equifax Inc.",
+    "aliases": [],
+    "is_following": false,
+    "watchlist_count": 3357
+  },
+  "cursor": {
+    "more": true,
+    "since": 262651878,
+    "max": 262310477
+  },
+  "messages": [
+    {
+      "id": 262651878,
+      "body": "Equifax $EFX 1-day return of 7.84% was 4.94 standard deviations above its average daily return over the last 10 years (avg = 0.08%, SD = 1.57%)",
+      "created_at": "2020-12-09T05:50:58Z",
+      "user": {
+        "id": 1495079,
+        "username": "EquityStatsDotCom",
+        "name": "Equity Stats",
+        "avatar_url": "https://avatars.stocktwits.com/production/1495079/thumb-1526819316.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1495079/thumb-1526819316.png",
+        "join_date": "2018-05-14",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 677,
+        "following": 1,
+        "ideas": 4972,
+        "watchlist_stocks_count": 0,
+        "like_count": 57,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 5136,
+          "symbol": "EFX",
+          "title": "Equifax Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 3357
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 262651706,
+      "body": "Best returns in S&amp;P 500 for 12/8/2020: 1. Equifax $EFX (7.84%), 2. Norwegian Cruise Line Holdings $NCLH (6.23%), 3. Marathon Oil $MRO (5.68%), 4. Occidental Petroleum $OXY (5.17%), 5. Etsy $ETSY (4.49%). Average return to all stocks in the index was 0.3% #DailyBest",
+      "created_at": "2020-12-09T05:49:02Z",
+      "user": {
+        "id": 1495079,
+        "username": "EquityStatsDotCom",
+        "name": "Equity Stats",
+        "avatar_url": "https://avatars.stocktwits.com/production/1495079/thumb-1526819316.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1495079/thumb-1526819316.png",
+        "join_date": "2018-05-14",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 679,
+        "following": 1,
+        "ideas": 4983,
+        "watchlist_stocks_count": 0,
+        "like_count": 57,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 5136,
+          "symbol": "EFX",
+          "title": "Equifax Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 3357
+        },
+        {
+          "id": 6369,
+          "symbol": "MRO",
+          "title": "Marathon Oil Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 18908
+        },
+        {
+          "id": 6666,
+          "symbol": "OXY",
+          "title": "Occidental Petroleum Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 21029
+        },
+        {
+          "id": 7996,
+          "symbol": "ETSY",
+          "title": "Etsy",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 22867
+        },
+        {
+          "id": 9654,
+          "symbol": "NCLH",
+          "title": "Norwegian Cruise Lines",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 31734
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 262651706,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 2
+      },
+      "likes": {
+        "total": 2,
+        "user_ids": [
+          4122673,
+          2874413
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 262604162,
+      "body": "$EFX\nEquifax Inc. ($EFX) stock is trading at an all-time high on Tuesday after Barclays, Needham &amp; Company LLC and Wells Fargo &amp; Company published ratings. Price skyrocketed a 7.84% closing at $184.23 and marking the new all-time highs at $190.16\nRead more: https://stocks2.com/news/11826",
+      "created_at": "2020-12-09T00:52:31Z",
+      "user": {
+        "id": 561506,
+        "username": "qcardona",
+        "name": "Joaquim Cardona",
+        "avatar_url": "https://avatars.stocktwits.com/production/561506/thumb-1601446938.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/561506/thumb-1601446938.png",
+        "join_date": "2015-08-01",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 15,
+        "following": 68,
+        "ideas": 376,
+        "watchlist_stocks_count": 5,
+        "like_count": 10,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5031,
+        "title": "Stocks2",
+        "url": "https://stocks2.com"
+      },
+      "symbols": [
+        {
+          "id": 5136,
+          "symbol": "EFX",
+          "title": "Equifax Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 3358
+        }
+      ],
+      "links": [
+        {
+          "title": "Analysts say Equifax is ready to take off",
+          "url": "https://stocks2.com/news/11826",
+          "shortened_url": "https://stocks2.com/news/11826",
+          "shortened_expanded_url": "stocks2.com/news/11826/anal...",
+          "description": "Equifax Inc. ($EFX) stock is trading at an all-time high on Tuesday after Barclays, Needham & Company LLC and Wells Fargo & Company published ratings. Price skyrocketed a 7.84% closing at $184.23 and marking the new all-time highs at $190.16 3 brokerage firms rated Equifax on Tuesday.",
+          "image": null,
+          "created_at": "2020-12-09T00:52:32Z",
+          "video_url": null,
+          "source": {
+            "name": "Stocks2",
+            "website": "https://stocks2.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_262604162.jpg",
+          "large": "https://charts.stocktwits.com/production/large_262604162.jpg",
+          "original": "https://charts.stocktwits.com/production/original_262604162.jpg",
+          "url": "https://charts.stocktwits.com/production/original_262604162.jpg"
+        },
+        "sentiment": null
+      }
+    },
+    {
+      "id": 262601532,
+      "body": "$EFX ain\u2019t no such thing as halfway crooks",
+      "created_at": "2020-12-09T00:41:54Z",
+      "user": {
+        "id": 884704,
+        "username": "HeyShoe",
+        "name": "Shoe",
+        "avatar_url": "https://avatars.stocktwits.com/production/884704/thumb-1523898655.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/884704/thumb-1523898655.png",
+        "join_date": "2016-11-21",
+        "official": false,
+        "identity": "User",
+        "classification": [
+          "suggested"
+        ],
+        "followers": 577,
+        "following": 967,
+        "ideas": 9731,
+        "watchlist_stocks_count": 263,
+        "like_count": 13397,
+        "plus_tier": "life",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 5136,
+          "symbol": "EFX",
+          "title": "Equifax Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 3358
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 262601532,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 262597959,
+      "body": "$EFX 52wk high 190.16\nhttps://youtu.be/qHncWmN_4Z4",
+      "created_at": "2020-12-09T00:28:01Z",
+      "user": {
+        "id": 266242,
+        "username": "SmallShare",
+        "name": "SmallShare Trading",
+        "avatar_url": "https://avatars.stocktwits.com/production/266242/thumb-1516705650.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/266242/thumb-1516705650.png",
+        "join_date": "2013-10-01",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 856,
+        "following": 0,
+        "ideas": 48102,
+        "watchlist_stocks_count": 132,
+        "like_count": 728,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2095,
+        "title": "StockTwits For Android ",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 5136,
+          "symbol": "EFX",
+          "title": "Equifax Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 3358
+        }
+      ],
+      "links": [
+        {
+          "title": "Day trading big range stocks $wday $gsx",
+          "url": "https://youtu.be/qHncWmN_4Z4",
+          "shortened_url": "https://youtu.be/qHncWmN_4Z4",
+          "shortened_expanded_url": "youtube.com/watch?v=qHncWmN...",
+          "description": "Day trading our list of market movers at the stock market openhttps://www.youtube.com/watch?v=yU-FBWV0iucmusic phatt package https://www.youtube.com/watch?v=...",
+          "image": "https://i.ytimg.com/vi/qHncWmN_4Z4/hqdefault.jpg",
+          "created_at": "2020-12-09T00:28:01Z",
+          "video_url": "//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FqHncWmN_4Z4%3Ffeature%3Doembed=YouTube=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DqHncWmN_4Z4=https%3A%2F%2Fi.ytimg.com%2Fvi%2FqHncWmN_4Z4%2Fhqdefault.jpg=38dd9af069fe4432a0efe5550d2ea231=text%2Fhtml=youtube",
+          "source": {
+            "name": "YouTube",
+            "website": "https://www.youtube.com/"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 262571564,
+      "body": "$EFX Equifax, Inc. (EFX) jumped 11% midday today after providing better than expected forecasts for the fourth qua\u2026 https://stocknews.com/news/efx-what-drove-up-equifaxs-stock-up-11-today/",
+      "created_at": "2020-12-08T22:47:45Z",
+      "user": {
+        "id": 894342,
+        "username": "StockNews",
+        "name": "StockNews.com",
+        "avatar_url": "https://avatars.stocktwits.com/production/894342/thumb-1587062169.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/894342/thumb-1587062169.png",
+        "join_date": "2016-12-05",
+        "official": true,
+        "identity": "Official",
+        "classification": [
+          "official"
+        ],
+        "followers": 7335,
+        "following": 22,
+        "ideas": 188475,
+        "watchlist_stocks_count": 13,
+        "like_count": 48,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2965,
+        "title": "StockNews.com News Feed",
+        "url": "https://stocknews.com"
+      },
+      "symbols": [
+        {
+          "id": 5136,
+          "symbol": "EFX",
+          "title": "Equifax Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 3357
+        }
+      ],
+      "links": [
+        {
+          "title": "EFX: What Drove Up Equifax's Stock Up 11% Today? | StockNews.com",
+          "url": "https://stocknews.com/news/efx-what-drove-up-equifaxs-stock-up-11-today/",
+          "shortened_url": "https://stocknews.com/news/efx-what-drove-up-equifaxs-stock-up-11-today/",
+          "shortened_expanded_url": "stocknews.com/news/efx-what...",
+          "description": "Equifax, Inc. ( ) soared over 11% in midday trading today after providing positive guidance for the fourth quarter and next year. The stock opened this morning at $175.98 and went all the way up to $190.16 before closing the day at $184.23. This stock finished up 7.84%.",
+          "image": "https://stocknews.com/wp-content/uploads/2020/12/efx-scaled.jpg",
+          "created_at": "2020-12-08T22:47:48Z",
+          "video_url": null,
+          "source": {
+            "name": "StockNews.com",
+            "website": "https://stocknews.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 262562251,
+      "body": "FireEye Stock Falls After \u2018State-Sponsored\u2019 Cyber Attack  $FEYE $MSFT $EFX $INFY $VOD \n\nhttps://newsfilter.io/a/34e9e677c575c59dda110e890e789bf3",
+      "created_at": "2020-12-08T22:14:55Z",
+      "user": {
+        "id": 2762379,
+        "username": "Newsfilter",
+        "name": "@newsfilterio",
+        "avatar_url": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "join_date": "2019-09-01",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 8079,
+        "following": 16,
+        "ideas": 664690,
+        "watchlist_stocks_count": 1,
+        "like_count": 531,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 2298,
+          "symbol": "INFY",
+          "title": "Infosys Technologies Limited",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 3351
+        },
+        {
+          "id": 2735,
+          "symbol": "MSFT",
+          "title": "Microsoft Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 279452
+        },
+        {
+          "id": 5136,
+          "symbol": "EFX",
+          "title": "Equifax Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 3357
+        },
+        {
+          "id": 7661,
+          "symbol": "VOD",
+          "title": "Vodafone Group plc",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 2660
+        },
+        {
+          "id": 11571,
+          "symbol": "FEYE",
+          "title": "FireEye Inc",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 20662
+        }
+      ],
+      "links": [
+        {
+          "title": "FireEye Stock Falls After 'State-Sponsored' Cyber Attack",
+          "url": "https://newsfilter.io/a/34e9e677c575c59dda110e890e789bf3",
+          "shortened_url": "https://newsfilter.io/a/34e9e677c575c59dda110e890e789bf3",
+          "shortened_expanded_url": "newsfilter.io/a/34e9e677c57...",
+          "description": "FireEye shares were trading sharply lower in late trading Tuesday after the security software company disclosed that it had suffered a significant cyber attack, one it blames on \"a state-sponsored\" group. FireEye (ticker: FEYE) said in a filing with the SEC that the discipline, operational security, and techniques used in the incident \"lead us to believe it was a state-sponsored attack.\"",
+          "image": "https://images.barrons.com/im-270250?width=620&size=1.5",
+          "created_at": "2020-12-08T22:14:57Z",
+          "video_url": null,
+          "source": {
+            "name": "Newsfilter",
+            "website": "https://newsfilter.io"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 262554436,
+      "body": "$EFX Equifax Announces SVP of Product, Data &amp; Analytics for Consumer Business https://www.otcdynamics.com/efx-equifax-announces-svp-of-product-data-analytics-for-consumer-business",
+      "created_at": "2020-12-08T21:50:59Z",
+      "user": {
+        "id": 253206,
+        "username": "otcdynamics",
+        "name": "otcdynamics",
+        "avatar_url": "https://avatars.stocktwits.com/production/253206/thumb-1432182723.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/253206/thumb-1432182723.png",
+        "join_date": "2013-08-16",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 455,
+        "following": 0,
+        "ideas": 69001,
+        "watchlist_stocks_count": 0,
+        "like_count": 56,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5512,
+        "title": "project_n",
+        "url": "https://www.otcdynamics.com"
+      },
+      "symbols": [
+        {
+          "id": 5136,
+          "symbol": "EFX",
+          "title": "Equifax Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 3357
+        }
+      ],
+      "links": [
+        {
+          "title": "$EFX Equifax Announces SVP of Product, Data & Analytics for Consumer Business",
+          "url": "https://www.otcdynamics.com/efx-equifax-announces-svp-of-product-data-analytics-for-consumer-business",
+          "shortened_url": "https://www.otcdynamics.com/efx-equifax-announces-svp-of-product-data-analytics-for-consumer-business",
+          "shortened_expanded_url": "otcdynamics.com/efx-equifax...",
+          "description": "\"Product Innovation and strong analytic insight are critical to the growth of GCS and are key components of our business transformation,\" said Beverly Anderson, President of Global Consumer Solutions for Equifax. \"Rick is the right leader to help leverage our cloud data and technology investments, and to drive new products and innovation that benefit our customers and consumers.\"",
+          "image": null,
+          "created_at": "2020-12-08T21:51:00Z",
+          "video_url": null,
+          "source": {
+            "name": "Otcdynamics",
+            "website": "https://www.otcdynamics.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 262546880,
+      "body": "$EFX Equifax Announces SVP of Product, Data &amp; Analytics for Consumer Business\n\nRead and Vote! This insight is:\n1. \ud83d\udc02Positive: https://quantisnow.com/insight/205030?v=0\n2. \ud83d\udc7dNeutral: https://quantisnow.com/insight/205030?v=1\n3. \ud83d\udc3bNegative: https://quantisnow.com/insight/205030?v=2\n\n#finance",
+      "created_at": "2020-12-08T21:30:31Z",
+      "user": {
+        "id": 4280914,
+        "username": "Quantisnow",
+        "name": "Quantisnow",
+        "avatar_url": "https://avatars.stocktwits.com/production/4280914/thumb-1604765185.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/4280914/thumb-1604765185.png",
+        "join_date": "2020-11-07",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 85,
+        "following": 1,
+        "ideas": 7366,
+        "watchlist_stocks_count": 0,
+        "like_count": 10,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5981,
+        "title": "Quantisnow",
+        "url": "https://quantisnow.com"
+      },
+      "symbols": [
+        {
+          "id": 5136,
+          "symbol": "EFX",
+          "title": "Equifax Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 3357
+        }
+      ],
+      "links": [
+        {
+          "title": null,
+          "url": "https://quantisnow.com/insight/205030?v=0",
+          "shortened_url": "https://quantisnow.com/insight/205030?v=0",
+          "shortened_expanded_url": "quantisnow.com/insight/2050...",
+          "description": null,
+          "image": null,
+          "created_at": "2020-12-08T21:30:32Z",
+          "video_url": null,
+          "source": {
+            "name": "Quantisnow",
+            "website": "https://quantisnow.com"
+          }
+        },
+        {
+          "title": null,
+          "url": "https://quantisnow.com/insight/205030?v=1",
+          "shortened_url": "https://quantisnow.com/insight/205030?v=1",
+          "shortened_expanded_url": "quantisnow.com/insight/2050...",
+          "description": null,
+          "image": null,
+          "created_at": "2020-12-08T21:30:32Z",
+          "video_url": null,
+          "source": {
+            "name": "Quantisnow",
+            "website": "https://quantisnow.com"
+          }
+        },
+        {
+          "title": null,
+          "url": "https://quantisnow.com/insight/205030?v=2",
+          "shortened_url": "https://quantisnow.com/insight/205030?v=2",
+          "shortened_expanded_url": "quantisnow.com/insight/2050...",
+          "description": null,
+          "image": null,
+          "created_at": "2020-12-08T21:30:32Z",
+          "video_url": null,
+          "source": {
+            "name": "Quantisnow",
+            "website": "https://quantisnow.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 262546864,
+      "body": "$EFX Equifax Announces SVP of Product, Data &amp; Analytics for Consumer Business \n\nhttps://newsfilter.io/a/2e1b2937208876fa2f9cab5e162b8f08",
+      "created_at": "2020-12-08T21:30:29Z",
+      "user": {
+        "id": 2762379,
+        "username": "Newsfilter",
+        "name": "@newsfilterio",
+        "avatar_url": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "join_date": "2019-09-01",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 8075,
+        "following": 16,
+        "ideas": 664690,
+        "watchlist_stocks_count": 1,
+        "like_count": 531,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 5136,
+          "symbol": "EFX",
+          "title": "Equifax Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 3357
+        }
+      ],
+      "links": [
+        {
+          "title": "Equifax Announces SVP of Product, Data & Analytics for Consumer Business",
+          "url": "https://newsfilter.io/a/2e1b2937208876fa2f9cab5e162b8f08",
+          "shortened_url": "https://newsfilter.io/a/2e1b2937208876fa2f9cab5e162b8f08",
+          "shortened_expanded_url": "newsfilter.io/a/2e1b2937208...",
+          "description": "\"Product Innovation and strong analytic insight are critical to the growth of GCS and are key components of our business transformation,\" said Beverly Anderson, President of Global Consumer Solutions for Equifax. \"Rick is the right leader to help leverage our cloud data and technology investments, and to drive new products and innovation that benefit our customers and consumers.\"",
+          "image": "https://mma.prnewswire.com/media/1361289/Equifax_Inc_Rick_Eiel.jpg?p=publish&w=950",
+          "created_at": "2020-12-08T21:30:32Z",
+          "video_url": null,
+          "source": {
+            "name": "Newsfilter",
+            "website": "https://newsfilter.io"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 262546842,
+      "body": "$EFX Equifax Announces SVP of Product, Data &amp; Analytics for Consumer Business\nhttps://www.stocktitan.net/news/EFX/equifax-announces-svp-of-product-data-analytics-for-consumer-e1hyrmxpfu13.html",
+      "created_at": "2020-12-08T21:30:26Z",
+      "user": {
+        "id": 3372441,
+        "username": "Stock_Titan",
+        "name": "StockTitan",
+        "avatar_url": "https://avatars.stocktwits.com/production/3372441/thumb-1588173612.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3372441/thumb-1588173612.png",
+        "join_date": "2020-04-28",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 587,
+        "following": 0,
+        "ideas": 41644,
+        "watchlist_stocks_count": 0,
+        "like_count": 0,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5677,
+        "title": "StockTitan",
+        "url": "https://stocktitan.net"
+      },
+      "symbols": [
+        {
+          "id": 5136,
+          "symbol": "EFX",
+          "title": "Equifax Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 3357
+        }
+      ],
+      "links": [
+        {
+          "title": "Equifax Announces SVP of Product, Data & Analytics for Consumer | StockTitan.net",
+          "url": "https://www.stocktitan.net/news/EFX/equifax-announces-svp-of-product-data-analytics-for-consumer-e1hyrmxpfu13.html",
+          "shortened_url": "https://www.stocktitan.net/news/EFX/equifax-announces-svp-of-product-data-analytics-for-consumer-e1hyrmxpfu13.html",
+          "shortened_expanded_url": "stocktitan.net/news/EFX/equ...",
+          "description": "ATLANTA, Dec. 8, 2020 -- Equifax (NYSE: EFX) today announced the appointment of Richard (Rick) Eiel as the new Senior Vice President of Product, Data & Analytics for the Global Consumer Solutions (GCS) business unit. In the newly created role, Eiel is charged with product strategy and innovation to better meet the evolving needs of Equifax consumers.",
+          "image": "https://static.stocktitan.net/company-logo/efx.png",
+          "created_at": "2020-12-08T21:30:27Z",
+          "video_url": null,
+          "source": {
+            "name": "Stocktitan",
+            "website": "https://www.stocktitan.net"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 262532982,
+      "body": "$EFX latest ratings on 2020-12-08 at Stock Target Advisor https://www.stocktargetadvisor.com/stock/USA/NYE/EFX#analyst-rating-tab : Barclays (Upgraded by), Needham",
+      "created_at": "2020-12-08T21:02:00Z",
+      "user": {
+        "id": 464077,
+        "username": "stocktargetadvisors",
+        "name": "StockTargetAdvisor",
+        "avatar_url": "https://avatars.stocktwits.com/production/464077/thumb-1572487666.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/464077/thumb-1572487666.png",
+        "join_date": "2015-02-11",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 399,
+        "following": 55,
+        "ideas": 7629,
+        "watchlist_stocks_count": 0,
+        "like_count": 1,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5394,
+        "title": "Stock Target Advisor",
+        "url": "https://www.stocktargetadvisor.com"
+      },
+      "symbols": [
+        {
+          "id": 5136,
+          "symbol": "EFX",
+          "title": "Equifax Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 3357
+        }
+      ],
+      "links": [
+        {
+          "title": "EFX Stock Price, Financials & News | Stock Target Advisor",
+          "url": "https://www.stocktargetadvisor.com/stock/USA/NYE/EFX#analyst-rating-tab",
+          "shortened_url": "https://www.stocktargetadvisor.com/stock/USA/NYE/EFX#analyst-rating-tab",
+          "shortened_expanded_url": "stocktargetadvisor.com/stoc...",
+          "description": "About Equifax Inc. provides information solutions and human resources business process outsourcing services for businesses, governments, and consumers. The company operates through four segments: U.S. Information Solutions (USIS), Workforce Solutions, International, and Global Consumer Solutions.",
+          "image": "https://www.stocktargetadvisor.com/uploads/logos/EFX.png",
+          "created_at": "2020-12-08T21:02:02Z",
+          "video_url": null,
+          "source": {
+            "name": "Stocktargetadvisor",
+            "website": "https://www.stocktargetadvisor.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 262511853,
+      "body": "$EFX high OI range is 150.00 to 180.00 for option expiration 12/18/2020 PutCallRatio=1.15 #maxpain #options http://maximum-pain.com/options/EFX?m=12%2f18%2f2020",
+      "created_at": "2020-12-08T20:17:01Z",
+      "user": {
+        "id": 1216862,
+        "username": "OptionsTech",
+        "name": "Dan Smith",
+        "avatar_url": "https://avatars.stocktwits.com/production/1216862/thumb-1507373900.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1216862/thumb-1507373900.png",
+        "join_date": "2017-10-07",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 585,
+        "following": 1,
+        "ideas": 18144,
+        "watchlist_stocks_count": 0,
+        "like_count": 0,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 5136,
+          "symbol": "EFX",
+          "title": "Equifax Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 3357
+        }
+      ],
+      "links": [
+        {
+          "title": "Stock Option Max Pain",
+          "url": "http://maximum-pain.com/options/EFX?m=12%2f18%2f2020",
+          "shortened_url": "http://maximum-pain.com/options/EFX?m=12%2f18%2f2020",
+          "shortened_expanded_url": "maximum-pain.com/options/EF...",
+          "description": null,
+          "image": null,
+          "created_at": "2020-12-08T20:17:01Z",
+          "video_url": null,
+          "source": {
+            "name": "Maximum-pain",
+            "website": "http://maximum-pain.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_262511853.png",
+          "large": "https://charts.stocktwits.com/production/large_262511853.png",
+          "original": "https://charts.stocktwits.com/production/original_262511853.png",
+          "url": "https://charts.stocktwits.com/production/original_262511853.png"
+        },
+        "sentiment": null
+      }
+    },
+    {
+      "id": 262504095,
+      "body": "2020-12-08 19:58:33+00:00 $EFX, $MMC    Intra-day Move",
+      "created_at": "2020-12-08T19:58:33Z",
+      "user": {
+        "id": 1511377,
+        "username": "YuMiStocks_Trade",
+        "name": "YuMIStocksTrade.com",
+        "avatar_url": "https://avatars.stocktwits.com/production/1511377/thumb-1596895665.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1511377/thumb-1596895665.png",
+        "join_date": "2018-06-04",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 396,
+        "following": 1,
+        "ideas": 8829,
+        "watchlist_stocks_count": 34,
+        "like_count": 602,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5846,
+        "title": "ConfluxBot",
+        "url": "https://app.confluxbot.com"
+      },
+      "symbols": [
+        {
+          "id": 5136,
+          "symbol": "EFX",
+          "title": "Equifax Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 3357
+        },
+        {
+          "id": 6333,
+          "symbol": "MMC",
+          "title": "Marsh & McLennan Companies, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 373
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 262486122,
+      "body": "2020-12-08 19:17:21+00:00 $EFX, $MGLN, $MOH    Intra-day Move",
+      "created_at": "2020-12-08T19:17:21Z",
+      "user": {
+        "id": 1511377,
+        "username": "YuMiStocks_Trade",
+        "name": "YuMIStocksTrade.com",
+        "avatar_url": "https://avatars.stocktwits.com/production/1511377/thumb-1596895665.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1511377/thumb-1596895665.png",
+        "join_date": "2018-06-04",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 394,
+        "following": 1,
+        "ideas": 8829,
+        "watchlist_stocks_count": 34,
+        "like_count": 602,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5846,
+        "title": "ConfluxBot",
+        "url": "https://app.confluxbot.com"
+      },
+      "symbols": [
+        {
+          "id": 2660,
+          "symbol": "MGLN",
+          "title": "Magellan Health Services Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 215
+        },
+        {
+          "id": 5136,
+          "symbol": "EFX",
+          "title": "Equifax Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 3357
+        },
+        {
+          "id": 6349,
+          "symbol": "MOH",
+          "title": "Molina Healthcare Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 770
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 262482357,
+      "body": "2020-12-08 19:08:06+00:00 $BKE, $EFX, $IBIO, $LPTX, $OPGN    Intra-day Move",
+      "created_at": "2020-12-08T19:08:06Z",
+      "user": {
+        "id": 1511377,
+        "username": "YuMiStocks_Trade",
+        "name": "YuMIStocksTrade.com",
+        "avatar_url": "https://avatars.stocktwits.com/production/1511377/thumb-1596895665.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1511377/thumb-1596895665.png",
+        "join_date": "2018-06-04",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 394,
+        "following": 1,
+        "ideas": 8688,
+        "watchlist_stocks_count": 34,
+        "like_count": 602,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5846,
+        "title": "ConfluxBot",
+        "url": "https://app.confluxbot.com"
+      },
+      "symbols": [
+        {
+          "id": 4533,
+          "symbol": "BKE",
+          "title": "Buckle Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 886
+        },
+        {
+          "id": 5136,
+          "symbol": "EFX",
+          "title": "Equifax Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 3357
+        },
+        {
+          "id": 9491,
+          "symbol": "IBIO",
+          "title": "iBio, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 87569
+        },
+        {
+          "id": 12116,
+          "symbol": "LPTX",
+          "title": "Leap Therapeutics, INC.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 8323
+        },
+        {
+          "id": 12568,
+          "symbol": "OPGN",
+          "title": "OpGen",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 26373
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          1173959
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 262471828,
+      "body": "52-Week High Alert: Trading today&#39;s movement in EQUIFAX $EFX https://wp.me/p5bLGB-bFyd",
+      "created_at": "2020-12-08T18:42:39Z",
+      "user": {
+        "id": 403382,
+        "username": "quantcha",
+        "name": "Quantcha",
+        "avatar_url": "https://avatars.stocktwits.com/production/403382/thumb-1411503795.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/403382/thumb-1411503795.png",
+        "join_date": "2014-09-23",
+        "official": true,
+        "identity": "Official",
+        "classification": [
+          "official"
+        ],
+        "followers": 42829,
+        "following": 34,
+        "ideas": 72201,
+        "watchlist_stocks_count": 0,
+        "like_count": 13,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1788,
+        "title": "Quantcha Ideas",
+        "url": "http://ideas.quantcha.com"
+      },
+      "symbols": [
+        {
+          "id": 5136,
+          "symbol": "EFX",
+          "title": "Equifax Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 3357
+        }
+      ],
+      "links": [
+        {
+          "title": "52-Week High Alert: Trading today's movement in EQUIFAX $EFX",
+          "url": "https://wp.me/p5bLGB-bFyd",
+          "shortened_url": "https://wp.me/p5bLGB-bFyd",
+          "shortened_expanded_url": "ideas.quantcha.com/2020/12/...",
+          "description": "Quantcha now offering unlimited commission-free options trading. Quantchabot has detected a promising Bull Put Spread trade opportunity for EQUIFAX ( EFX) for the 15-Jan-2021 expiration period. You can analyze the opportunity in depth over at the Quantcha Options Search Engine. EFX was recently trading at $185.66 and has an implied volatility of 32.08% for this period.",
+          "image": "https://i2.wp.com/ideas.quantcha.com/wp-content/uploads/2020/12/automated-581.png?fit=1200%2C630&ssl=1",
+          "created_at": "2020-12-08T18:42:57Z",
+          "video_url": null,
+          "source": {
+            "name": "Quantcha Trade Ideas",
+            "website": "https://ideas.quantcha.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_262471828.",
+          "large": "https://charts.stocktwits.com/production/large_262471828.",
+          "original": "https://charts.stocktwits.com/production/original_262471828.",
+          "url": "https://charts.stocktwits.com/production/original_262471828."
+        },
+        "sentiment": null
+      }
+    },
+    {
+      "id": 262456051,
+      "body": "$SFIX, $EFX and $SMAR gapping up today. https://www.chartmill.com/stock/stock-screener?v=3&amp;f=s_gup,p_pg10,v1_50b500,exch_us&amp;utm_source=stocktwits&amp;utm_medium=screener&amp;utm_content=Stock_Screener:_Gap_Up&amp;utm_campaign=social_tracking",
+      "created_at": "2020-12-08T18:04:00Z",
+      "user": {
+        "id": 47688,
+        "username": "ChartMill",
+        "name": "ChartMill",
+        "avatar_url": "https://avatars.stocktwits.com/production/47688/thumb-1363343728.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/47688/thumb-1363343728.png",
+        "join_date": "2011-01-26",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 22963,
+        "following": 891,
+        "ideas": 1136958,
+        "watchlist_stocks_count": 20,
+        "like_count": 32,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1135,
+        "title": "ChartMill",
+        "url": "http://www.chartmill.com"
+      },
+      "symbols": [
+        {
+          "id": 5136,
+          "symbol": "EFX",
+          "title": "Equifax Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 3355
+        },
+        {
+          "id": 14100,
+          "symbol": "SFIX",
+          "title": "Stitch Fix, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 12475
+        },
+        {
+          "id": 14523,
+          "symbol": "SMAR",
+          "title": "Smartsheet",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 3178
+        }
+      ],
+      "links": [
+        {
+          "title": null,
+          "url": "https://www.chartmill.com/stock/stock-screener?v=3&f=s_gup,p_pg10,v1_50b500,exch_us&utm_source=stocktwits&utm_medium=screener&utm_content=Stock_Screener:_Gap_Up&utm_campaign=social_tracking",
+          "shortened_url": "https://www.chartmill.com/stock/stock-screener?v=3&f=s_gup,p_pg10,v1_50b500,exch_us&utm_source=stocktwits&utm_medium=screener&utm_content=Stock_Screener:_Gap_Up&utm_campaign=social_tracking",
+          "shortened_expanded_url": "chartmill.com/stock/stock-s...",
+          "description": null,
+          "image": null,
+          "created_at": "2020-12-08T18:04:00Z",
+          "video_url": null,
+          "source": {
+            "name": "Chartmill",
+            "website": "https://www.chartmill.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 262435292,
+      "body": "2020-12-08 17:15:01+00:00 $BDR, $CNDT, $EFX, $FEAC, $SNSS    Intra-day Move",
+      "created_at": "2020-12-08T17:15:01Z",
+      "user": {
+        "id": 1511377,
+        "username": "YuMiStocks_Trade",
+        "name": "YuMIStocksTrade.com",
+        "avatar_url": "https://avatars.stocktwits.com/production/1511377/thumb-1596895665.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1511377/thumb-1596895665.png",
+        "join_date": "2018-06-04",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 392,
+        "following": 1,
+        "ideas": 8614,
+        "watchlist_stocks_count": 34,
+        "like_count": 602,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5846,
+        "title": "ConfluxBot",
+        "url": "https://app.confluxbot.com"
+      },
+      "symbols": [
+        {
+          "id": 50,
+          "symbol": "BDR",
+          "title": "Blonder Tongue Laboratories Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 4345
+        },
+        {
+          "id": 3592,
+          "symbol": "SNSS",
+          "title": "Sunesis Pharmaceuticals Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 13829
+        },
+        {
+          "id": 5136,
+          "symbol": "EFX",
+          "title": "Equifax Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 3355
+        },
+        {
+          "id": 13301,
+          "symbol": "CNDT",
+          "title": "Conduent Inc",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1914
+        },
+        {
+          "id": 15600,
+          "symbol": "FEAC",
+          "title": "Flying Eagle Acquisition Corp - Ordinary Shares - Class A",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 9401
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          2971821
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 262433714,
+      "body": "$EFX NEW ARTICLE : Equifax stock surges toward biggest gain in 12 years after &#39;impressive&#39; business update https://www.stck.pro/news/EFX/9507255",
+      "created_at": "2020-12-08T17:11:20Z",
+      "user": {
+        "id": 1555408,
+        "username": "STCKPRO",
+        "name": "STCK.PRO",
+        "avatar_url": "https://avatars.stocktwits.com/production/1555408/thumb-1576077822.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1555408/thumb-1576077822.png",
+        "join_date": "2018-07-24",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 4853,
+        "following": 2,
+        "ideas": 297616,
+        "watchlist_stocks_count": 18,
+        "like_count": 52,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5011,
+        "title": "STCK.PRO",
+        "url": "https://dashboard.stck.pro"
+      },
+      "symbols": [
+        {
+          "id": 5136,
+          "symbol": "EFX",
+          "title": "Equifax Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 3355
+        }
+      ],
+      "links": [
+        {
+          "title": "EQUIFAX (EFX) News - STCK.PRO",
+          "url": "https://www.stck.pro/news/EFX/9507255",
+          "shortened_url": "https://www.stck.pro/news/EFX/9507255",
+          "shortened_expanded_url": "stck.pro/news/EFX",
+          "description": "Never miss an important article again, stay on top of your investments and become a better investor today! Get your moat on and sync your watchlist with Stocktwits and get all the latest news for your symbols. Sync with Stocktwits",
+          "image": "https://www.stck.pro/img/noog.png",
+          "created_at": "2020-12-08T17:11:23Z",
+          "video_url": null,
+          "source": {
+            "name": "STCK.PRO",
+            "website": "https://www.stck.pro"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_262433714.jpg",
+          "large": "https://charts.stocktwits.com/production/large_262433714.jpg",
+          "original": "https://charts.stocktwits.com/production/original_262433714.jpg",
+          "url": "https://charts.stocktwits.com/production/original_262433714.jpg"
+        },
+        "sentiment": null
+      }
+    },
+    {
+      "id": 262430950,
+      "body": "$EFX Bought during hack meltdown.  Up 100%. Never selling",
+      "created_at": "2020-12-08T17:04:32Z",
+      "user": {
+        "id": 849370,
+        "username": "abeade",
+        "name": "Abe Ade",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2016-09-28",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 9,
+        "following": 65,
+        "ideas": 2091,
+        "watchlist_stocks_count": 104,
+        "like_count": 193,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 5136,
+          "symbol": "EFX",
+          "title": "Equifax Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 3355
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 262398269,
+      "body": "$EFX Should you invest in Smartsheet, Equifax, Rite Aid Corp, Li Auto, or Stitch Fix? https://www.otcdynamics.com/efx-should-you-invest-in-smartsheet-equifax-rite-aid-corp-li-auto-or-stitch-fix",
+      "created_at": "2020-12-08T15:52:00Z",
+      "user": {
+        "id": 253206,
+        "username": "otcdynamics",
+        "name": "otcdynamics",
+        "avatar_url": "https://avatars.stocktwits.com/production/253206/thumb-1432182723.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/253206/thumb-1432182723.png",
+        "join_date": "2013-08-16",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 456,
+        "following": 0,
+        "ideas": 68829,
+        "watchlist_stocks_count": 0,
+        "like_count": 56,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5512,
+        "title": "project_n",
+        "url": "https://www.otcdynamics.com"
+      },
+      "symbols": [
+        {
+          "id": 5136,
+          "symbol": "EFX",
+          "title": "Equifax Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 3353
+        }
+      ],
+      "links": [
+        {
+          "title": "$EFX Should you invest in Smartsheet, Equifax, Rite Aid Corp, Li Auto, or Stitch Fix?",
+          "url": "https://www.otcdynamics.com/efx-should-you-invest-in-smartsheet-equifax-rite-aid-corp-li-auto-or-stitch-fix",
+          "shortened_url": "https://www.otcdynamics.com/efx-should-you-invest-in-smartsheet-equifax-rite-aid-corp-li-auto-or-stitch-fix",
+          "shortened_expanded_url": "otcdynamics.com/efx-should-...",
+          "description": "SMAR: https://www.investorsobserver.com/lp/pr-options-lp-2/?stocksymbol=SMAR&prnumber=120820206 EFX: https://www.investorsobserver.com/lp/pr-options-lp-2/?stocksymbol=EFX&prnumber=120820206 RAD: ...",
+          "image": null,
+          "created_at": "2020-12-08T15:52:03Z",
+          "video_url": null,
+          "source": {
+            "name": "Otcdynamics",
+            "website": "https://www.otcdynamics.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 262390944,
+      "body": "Big Gainer Alert: Trading today&#39;s 9.7% move in EQUIFAX $EFX https://wp.me/p5bLGB-bF4n",
+      "created_at": "2020-12-08T15:37:23Z",
+      "user": {
+        "id": 403382,
+        "username": "quantcha",
+        "name": "Quantcha",
+        "avatar_url": "https://avatars.stocktwits.com/production/403382/thumb-1411503795.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/403382/thumb-1411503795.png",
+        "join_date": "2014-09-23",
+        "official": true,
+        "identity": "Official",
+        "classification": [
+          "official"
+        ],
+        "followers": 42831,
+        "following": 34,
+        "ideas": 72159,
+        "watchlist_stocks_count": 0,
+        "like_count": 13,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1788,
+        "title": "Quantcha Ideas",
+        "url": "http://ideas.quantcha.com"
+      },
+      "symbols": [
+        {
+          "id": 5136,
+          "symbol": "EFX",
+          "title": "Equifax Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 3353
+        }
+      ],
+      "links": [
+        {
+          "title": "Big Gainer Alert: Trading today's 9.7% move in EQUIFAX $EFX",
+          "url": "https://wp.me/p5bLGB-bF4n",
+          "shortened_url": "https://wp.me/p5bLGB-bF4n",
+          "shortened_expanded_url": "ideas.quantcha.com/2020/12/...",
+          "description": "Quantcha now offering unlimited commission-free options trading. Quantchabot has detected a promising Bull Call Spread trade opportunity for EQUIFAX ( EFX) for the 15-Jan-2021 expiration period. You can analyze the opportunity in depth over at the Quantcha Options Search Engine. EFX was recently trading at $187.44 and has an implied volatility of 30.50% for this period.",
+          "image": "https://i0.wp.com/ideas.quantcha.com/wp-content/uploads/2020/12/automated-537.png?fit=1200%2C630&ssl=1",
+          "created_at": "2020-12-08T15:37:53Z",
+          "video_url": null,
+          "source": {
+            "name": "Quantcha Trade Ideas",
+            "website": "https://ideas.quantcha.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_262390944.",
+          "large": "https://charts.stocktwits.com/production/large_262390944.",
+          "original": "https://charts.stocktwits.com/production/original_262390944.",
+          "url": "https://charts.stocktwits.com/production/original_262390944."
+        },
+        "sentiment": null
+      }
+    },
+    {
+      "id": 262366809,
+      "body": "2020-12-08 14:51:57+00:00 $EFX, $JNJ, $KRC, $NPK, $NPO    Intra-day Move",
+      "created_at": "2020-12-08T14:51:57Z",
+      "user": {
+        "id": 1511377,
+        "username": "YuMiStocks_Trade",
+        "name": "YuMIStocksTrade.com",
+        "avatar_url": "https://avatars.stocktwits.com/production/1511377/thumb-1596895665.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1511377/thumb-1596895665.png",
+        "join_date": "2018-06-04",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 389,
+        "following": 1,
+        "ideas": 8400,
+        "watchlist_stocks_count": 34,
+        "like_count": 602,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5846,
+        "title": "ConfluxBot",
+        "url": "https://app.confluxbot.com"
+      },
+      "symbols": [
+        {
+          "id": 5136,
+          "symbol": "EFX",
+          "title": "Equifax Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 3352
+        },
+        {
+          "id": 6011,
+          "symbol": "JNJ",
+          "title": "Johnson & Johnson",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 34002
+        },
+        {
+          "id": 6109,
+          "symbol": "KRC",
+          "title": "Kilroy Realty Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 79
+        },
+        {
+          "id": 6538,
+          "symbol": "NPK",
+          "title": "National Presto Industries Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 150
+        },
+        {
+          "id": 6540,
+          "symbol": "NPO",
+          "title": "EnPro Industries, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 83
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 262355220,
+      "body": "$EFX \nTarget Raised by Needham &amp; Company LLC Buy USD 200 \u00bb USD \nUpgraded by Barclays Equal Weight \u00bb Overweight USD 200 \u00bb USD 210\nhttps://www.stocktargetadvisor.com/stock/USA/NYE/EFX#analyst-rating-tab",
+      "created_at": "2020-12-08T14:28:33Z",
+      "user": {
+        "id": 464077,
+        "username": "stocktargetadvisors",
+        "name": "StockTargetAdvisor",
+        "avatar_url": "https://avatars.stocktwits.com/production/464077/thumb-1572487666.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/464077/thumb-1572487666.png",
+        "join_date": "2015-02-11",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 401,
+        "following": 55,
+        "ideas": 7639,
+        "watchlist_stocks_count": 0,
+        "like_count": 1,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 5136,
+          "symbol": "EFX",
+          "title": "Equifax Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 3357
+        }
+      ],
+      "links": [
+        {
+          "title": "EFX Stock Price, Financials & News | Stock Target Advisor",
+          "url": "https://www.stocktargetadvisor.com/stock/USA/NYE/EFX#analyst-rating-tab",
+          "shortened_url": "https://www.stocktargetadvisor.com/stock/USA/NYE/EFX#analyst-rating-tab",
+          "shortened_expanded_url": "stocktargetadvisor.com/stoc...",
+          "description": "About Equifax Inc. provides information solutions and human resources business process outsourcing services for businesses, governments, and consumers. The company operates through four segments: U.S. Information Solutions (USIS), Workforce Solutions, International, and Global Consumer Solutions.",
+          "image": "https://www.stocktargetadvisor.com/uploads/logos/EFX.png",
+          "created_at": "2020-12-08T14:28:34Z",
+          "video_url": null,
+          "source": {
+            "name": "Stocktargetadvisor",
+            "website": "https://www.stocktargetadvisor.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 262349775,
+      "body": "$EFX NEW ARTICLE : Equifax shares rise 5.4% after strong guidance fueled by EWS, mortgages https://www.stck.pro/news/EFX/9503615",
+      "created_at": "2020-12-08T14:13:59Z",
+      "user": {
+        "id": 1555408,
+        "username": "STCKPRO",
+        "name": "STCK.PRO",
+        "avatar_url": "https://avatars.stocktwits.com/production/1555408/thumb-1576077822.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1555408/thumb-1576077822.png",
+        "join_date": "2018-07-24",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 4863,
+        "following": 2,
+        "ideas": 298720,
+        "watchlist_stocks_count": 18,
+        "like_count": 52,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5011,
+        "title": "STCK.PRO",
+        "url": "https://dashboard.stck.pro"
+      },
+      "symbols": [
+        {
+          "id": 5136,
+          "symbol": "EFX",
+          "title": "Equifax Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 3357
+        }
+      ],
+      "links": [
+        {
+          "title": "EQUIFAX (EFX) News - STCK.PRO",
+          "url": "https://www.stck.pro/news/EFX/9503615",
+          "shortened_url": "https://www.stck.pro/news/EFX/9503615",
+          "shortened_expanded_url": "stck.pro/news/EFX",
+          "description": "Never miss an important article again, stay on top of your investments and become a better investor today! Get your moat on and sync your watchlist with Stocktwits and get all the latest news for your symbols. Sync with Stocktwits",
+          "image": "https://www.stck.pro/img/noog.png",
+          "created_at": "2020-12-08T14:14:02Z",
+          "video_url": null,
+          "source": {
+            "name": "STCK.PRO",
+            "website": "https://www.stck.pro"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 262348708,
+      "body": "$EFX Equifax shares rise 5.4% after strong guidance fueled by EWS, mortgages \n\nhttps://newsfilter.io/a/ced322181f153b60c81844cfdd11e10d",
+      "created_at": "2020-12-08T14:10:46Z",
+      "user": {
+        "id": 2762379,
+        "username": "Newsfilter",
+        "name": "@newsfilterio",
+        "avatar_url": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "join_date": "2019-09-01",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 8096,
+        "following": 16,
+        "ideas": 666071,
+        "watchlist_stocks_count": 1,
+        "like_count": 531,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 5136,
+          "symbol": "EFX",
+          "title": "Equifax Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 3357
+        }
+      ],
+      "links": [
+        {
+          "title": "Equifax shares rise 5.4% after strong guidance fueled by EWS, mortgages",
+          "url": "https://newsfilter.io/a/ced322181f153b60c81844cfdd11e10d",
+          "shortened_url": "https://newsfilter.io/a/ced322181f153b60c81844cfdd11e10d",
+          "shortened_expanded_url": "newsfilter.io/a/ced322181f1...",
+          "description": "Equifax shares rise 5.4% after strong guidance fueled by EWS, mortgages: Equifax advances 5.4% in premarket trading after the company issued guidance for Q4 2020 and full-year 2021 that exceeded the a..",
+          "image": null,
+          "created_at": "2020-12-08T14:10:46Z",
+          "video_url": null,
+          "source": {
+            "name": "Newsfilter",
+            "website": "https://newsfilter.io"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 262332509,
+      "body": "$DOV\nDOV Downgraded by Wolfe Research with price target $122.00 \u279d $135.00 and rating Outperform \u279d Peer Perform\nSource:https://www.marketbeat.com/ratings/\n\n$DQ\nDQ Initiated by The Goldman Sachs Group  and rating Buy\nSource:https://www.marketbeat.com/ratings/\n\n$DTE\nDTE Target Set by JPMorgan Chase &amp; Co. with price target 23.5 and rating Buy\nSource:https://www.marketbeat.com/ratings/\n\n$ECL\nECL Target Raised by Barclays with price target $225.00 \u279d $245.00 and rating Overweight\nSource:https://www.marketbeat.com/ratings/\n\n$EFX\nEFX Upgraded by Barclays with price target $200.00 \u279d $210.00 and rating Equal Weight \u279d Overweight | EFX Target Raised by Needham &amp; Company LLC with price target $200.00 \u279d $210.00 and rating Buy\nSource:https://www.marketbeat.com/ratings/\n\nView the full list of news/momentum plays on watch at : bit.ly/32GfaRt\n[No bias / position]\n[Find me at https://stocktwits.com/sbiswas | https://twitter.com/soumyajyoti_b]&quot;",
+      "created_at": "2020-12-08T13:13:32Z",
+      "user": {
+        "id": 1665157,
+        "username": "sbiswas",
+        "name": "Soumyajyoti Biswas",
+        "avatar_url": "https://avatars.stocktwits.com/production/1665157/thumb-1598680399.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1665157/thumb-1598680399.png",
+        "join_date": "2018-10-17",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 358,
+        "following": 58,
+        "ideas": 4661,
+        "watchlist_stocks_count": 22,
+        "like_count": 74,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 5025,
+          "symbol": "DOV",
+          "title": "Dover Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 747
+        },
+        {
+          "id": 5062,
+          "symbol": "DTE",
+          "title": "DTE Energy Co.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 541
+        },
+        {
+          "id": 5107,
+          "symbol": "ECL",
+          "title": "Ecolab Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1571
+        },
+        {
+          "id": 5136,
+          "symbol": "EFX",
+          "title": "Equifax Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 3357
+        },
+        {
+          "id": 9489,
+          "symbol": "DQ",
+          "title": "Daqo New Energy Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1960
+        }
+      ],
+      "links": [
+        {
+          "title": "Analyst Ratings and Price Targets (12/8/2020)",
+          "url": "https://www.marketbeat.com/ratings/",
+          "shortened_url": "https://www.marketbeat.com/ratings/",
+          "shortened_expanded_url": "marketbeat.com/ratings/",
+          "description": "Always Get the Latest Analyst Ratings and Price Targets: Stay ahead of the market with MarketBeat.com's daily email update that provides a summary of analysts' upgrades, downgrades and new coverage. Click here to register. This page was last refreshed on Tuesday at 08:13 AM ET.",
+          "image": "https://www.marketbeat.com/images/256x256-marketbeat-icon.png?v=2020",
+          "created_at": "2020-12-08T13:13:33Z",
+          "video_url": null,
+          "source": {
+            "name": "MarketBeat.com",
+            "website": "https://www.marketbeat.com"
+          }
+        },
+        {
+          "title": "Daily_Trade_Levels - Google Drive",
+          "url": "bit.ly/32GfaRt",
+          "shortened_url": "bit.ly/32GfaRt",
+          "shortened_expanded_url": "docs.google.com/spreadsheet...",
+          "description": null,
+          "image": null,
+          "created_at": "2020-12-08T13:13:33Z",
+          "video_url": null,
+          "source": {
+            "name": "Google",
+            "website": "https://docs.google.com"
+          }
+        },
+        {
+          "title": "Soumyajyoti Biswas (@sbiswas) | Stocktwits",
+          "url": "https://stocktwits.com/sbiswas",
+          "shortened_url": "https://stocktwits.com/sbiswas",
+          "shortened_expanded_url": "stocktwits.com/sbiswas",
+          "description": "The latest messages and market ideas from Soumyajyoti Biswas (@sbiswas) on Stocktwits. I trade only options based on momentum and/or news. I read news pre-market / search for stocks with momentum, and form a daily watch list to trade. Knowledge should always be free.",
+          "image": "https://avatars.stocktwits.com/production/1665157/large-1598680399.png",
+          "created_at": "2020-12-08T13:13:33Z",
+          "video_url": null,
+          "source": {
+            "name": "Stocktwits",
+            "website": "https://stocktwits.com"
+          }
+        },
+        {
+          "title": null,
+          "url": "https://twitter.com/soumyajyoti_b",
+          "shortened_url": "https://twitter.com/soumyajyoti_b",
+          "shortened_expanded_url": "twitter.com/soumyajyoti_b",
+          "description": null,
+          "image": null,
+          "created_at": "2020-12-08T13:13:33Z",
+          "video_url": null,
+          "source": {
+            "name": "Twitter",
+            "website": "https://twitter.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 262311299,
+      "body": "Barclays Upgrades Equifax to Overweight, Raises Price Target to $210\n\nRelated Tickers: $EFX\nRead more at: https://quantdata.us/news/18689601",
+      "created_at": "2020-12-08T11:00:13Z",
+      "user": {
+        "id": 3539670,
+        "username": "QuantData",
+        "name": "Quant Data",
+        "avatar_url": "https://avatars.stocktwits.com/production/3539670/thumb-1602473985.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3539670/thumb-1602473985.png",
+        "join_date": "2020-06-03",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 1045,
+        "following": 0,
+        "ideas": 17294,
+        "watchlist_stocks_count": 0,
+        "like_count": 24,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5828,
+        "title": "QuantData",
+        "url": "https://quantdata.us"
+      },
+      "symbols": [
+        {
+          "id": 5136,
+          "symbol": "EFX",
+          "title": "Equifax Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 3357
+        }
+      ],
+      "links": [
+        {
+          "title": "Quant Data - News",
+          "url": "https://quantdata.us/news/18689601",
+          "shortened_url": "https://quantdata.us/news/18689601",
+          "shortened_expanded_url": "quantdata.us/news/18689601",
+          "description": "Disclaimer: The U.S. Securities and Exchange Commission (SEC) requires the following legal notices: All material presented on Quant Data LLC is not to be regarded as investment advice, but for general informational purposes only. Trading does involve risk, so caution must always be utilized. We cannot guarantee profits or freedom from loss.",
+          "image": null,
+          "created_at": "2020-12-08T11:00:13Z",
+          "video_url": null,
+          "source": {
+            "name": "Quantdata",
+            "website": "https://quantdata.us"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 262310477,
+      "body": "$EFX Needham Maintains to Buy : PT $210.00 https://stockhoot.com/ExtSymbol.aspx?from=AnalystRatingTweet&amp;symbol=EFX&amp;t=598&amp;Social=StockTwits",
+      "created_at": "2020-12-08T10:49:26Z",
+      "user": {
+        "id": 835250,
+        "username": "Stockhoot",
+        "name": "Stockhoot",
+        "avatar_url": "https://avatars.stocktwits.com/production/835250/thumb-1510088734.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/835250/thumb-1510088734.png",
+        "join_date": "2016-09-06",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 2003,
+        "following": 103,
+        "ideas": 70344,
+        "watchlist_stocks_count": 8,
+        "like_count": 33,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 3360,
+        "title": "StockHoot",
+        "url": "https://stockhoot.com"
+      },
+      "symbols": [
+        {
+          "id": 5136,
+          "symbol": "EFX",
+          "title": "Equifax Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 3357
+        }
+      ],
+      "links": [
+        {
+          "title": "EFX - Equifax Charts, Trade Ideas, Earnings, Ratings",
+          "url": "https://stockhoot.com/ExtSymbol.aspx?from=AnalystRatingTweet&symbol=EFX&t=598&Social=StockTwits",
+          "shortened_url": "https://stockhoot.com/ExtSymbol.aspx?from=AnalystRatingTweet&symbol=EFX&t=598&Social=StockTwits",
+          "shortened_expanded_url": "stockhoot.com/ExtSymbol.asp...",
+          "description": "EFX : Get free stock charts, earnings data, Benzinga ratings and investment tips from independent traders who track EFX. Follow their trades and see their score card",
+          "image": "https://storage.googleapis.com/iex/api/logos/EFX.png",
+          "created_at": "2020-12-08T10:49:33Z",
+          "video_url": null,
+          "source": {
+            "name": "Stockhoot",
+            "website": "https://stockhoot.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    }
+  ]
+}

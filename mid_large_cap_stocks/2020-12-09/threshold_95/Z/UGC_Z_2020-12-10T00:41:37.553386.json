@@ -1,0 +1,1805 @@
+{
+  "response": {
+    "status": 200
+  },
+  "symbol": {
+    "id": 8026,
+    "symbol": "Z",
+    "title": "Zillow Class C",
+    "aliases": [],
+    "is_following": false,
+    "watchlist_count": 9960
+  },
+  "cursor": {
+    "more": true,
+    "since": 262790430,
+    "max": 262574457
+  },
+  "messages": [
+    {
+      "id": 262790430,
+      "body": "$IPOB $Z up nicely today FYI",
+      "created_at": "2020-12-09T16:40:30Z",
+      "user": {
+        "id": 243201,
+        "username": "santacruztodd",
+        "name": "Santacruztodd",
+        "avatar_url": "https://avatars.stocktwits.com/production/243201/thumb-1585955938.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/243201/thumb-1585955938.png",
+        "join_date": "2013-07-05",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 150,
+        "following": 0,
+        "ideas": 2371,
+        "watchlist_stocks_count": 40,
+        "like_count": 1771,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 8026,
+          "symbol": "Z",
+          "title": "Zillow Class C",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 9960
+        },
+        {
+          "id": 15602,
+          "symbol": "IPOB",
+          "title": "Social Capital Hedosophia Holdings II",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 11038
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 262786985,
+      "body": "$Z another one from edgr.io",
+      "created_at": "2020-12-09T16:33:08Z",
+      "user": {
+        "id": 4371988,
+        "username": "ChessGM",
+        "name": "Alex Roz",
+        "avatar_url": "https://avatars.stocktwits.com/production/4371988/thumb-1607453923.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/4371988/thumb-1607453923.png",
+        "join_date": "2020-12-01",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 2,
+        "following": 0,
+        "ideas": 48,
+        "watchlist_stocks_count": 20,
+        "like_count": 127,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 8026,
+          "symbol": "Z",
+          "title": "Zillow Class C",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 9960
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 262786455,
+      "body": "$Z been eyeing to get in\nBelow 100 for months ughhh this hurts",
+      "created_at": "2020-12-09T16:31:55Z",
+      "user": {
+        "id": 299240,
+        "username": "Tickstocks",
+        "name": "Saymyname",
+        "avatar_url": "https://avatars.stocktwits.com/production/299240/thumb-1606816588.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/299240/thumb-1606816588.png",
+        "join_date": "2014-01-10",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 15,
+        "following": 10,
+        "ideas": 575,
+        "watchlist_stocks_count": 43,
+        "like_count": 176,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 8026,
+          "symbol": "Z",
+          "title": "Zillow Class C",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 9960
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          4371988
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 262784807,
+      "body": "$Z $ZG buying PUT strike 100, Feb 15",
+      "created_at": "2020-12-09T16:28:27Z",
+      "user": {
+        "id": 1603759,
+        "username": "Zebra30",
+        "name": "DJ",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2018-09-09",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 24,
+        "following": 11,
+        "ideas": 2560,
+        "watchlist_stocks_count": 0,
+        "like_count": 277,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 8026,
+          "symbol": "Z",
+          "title": "Zillow Class C",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 9960
+        },
+        {
+          "id": 12839,
+          "symbol": "ZG",
+          "title": "Zillow Class A",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 2868
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 262780916,
+      "body": "$Z - #option flow coming in to the $130 CALLS for 01/15/21\n\nhttp://staygreen.blackboxstocks.com/SH5a",
+      "created_at": "2020-12-09T16:20:31Z",
+      "user": {
+        "id": 1327726,
+        "username": "melstone31",
+        "name": "Mel Stone",
+        "avatar_url": "https://avatars.stocktwits.com/production/1327726/thumb-1563128926.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1327726/thumb-1563128926.png",
+        "join_date": "2017-12-20",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 1815,
+        "following": 36,
+        "ideas": 5756,
+        "watchlist_stocks_count": 0,
+        "like_count": 1211,
+        "plus_tier": "year",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 8026,
+          "symbol": "Z",
+          "title": "Zillow Class C",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 9960
+        }
+      ],
+      "links": [
+        {
+          "title": "BlackBox Stocks - The Most User Friendly Stock Trading Software Available.",
+          "url": "http://staygreen.blackboxstocks.com/SH5a",
+          "shortened_url": "http://staygreen.blackboxstocks.com/SH5a",
+          "shortened_expanded_url": "blackboxstocks.com?transact...",
+          "description": "BlackBox, the most user friendly stock and options trading software available! BlackBox Stocks was created by high frequency traders to give you the upper hand in the market! We provide our users with an ultra-powerful, real-time alert system that is comprehensive but easy to understand. Learn more now!",
+          "image": "https://www.blackboxstocks.com/wp-content/themes/base-theme/media/bbs-tos.png",
+          "created_at": "2020-12-09T16:20:32Z",
+          "video_url": null,
+          "source": {
+            "name": "Blackboxstocks",
+            "website": "https://www.blackboxstocks.com"
+          }
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          4371988
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_262780916.png",
+          "large": "https://charts.stocktwits.com/production/large_262780916.png",
+          "original": "https://charts.stocktwits.com/production/original_262780916.png",
+          "url": "https://charts.stocktwits.com/production/original_262780916.png"
+        },
+        "sentiment": null
+      }
+    },
+    {
+      "id": 262780413,
+      "body": "$RDFN $Z housing transaction slow down in recession, even 0% rate, need good stable job to have house. When begging for stimulus 30-40M people don\u2019t pay rent/mortgage, this will slow down all buyers.",
+      "created_at": "2020-12-09T16:19:26Z",
+      "user": {
+        "id": 1603759,
+        "username": "Zebra30",
+        "name": "DJ",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2018-09-09",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 24,
+        "following": 11,
+        "ideas": 2560,
+        "watchlist_stocks_count": 0,
+        "like_count": 277,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 8026,
+          "symbol": "Z",
+          "title": "Zillow Class C",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 9960
+        },
+        {
+          "id": 8470,
+          "symbol": "RDFN",
+          "title": "Redfin",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 6512
+        }
+      ],
+      "reshares": {
+        "reshared_count": 1,
+        "user_ids": [
+          1159916
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bearish"
+        }
+      }
+    },
+    {
+      "id": 262773960,
+      "body": "$Z housing is lagging indicator, 30-40M don\u2019t pay rent or mortgage, once eviction starts, we will see Zillow below 50 in 6-9 months",
+      "created_at": "2020-12-09T16:06:57Z",
+      "user": {
+        "id": 1603759,
+        "username": "Zebra30",
+        "name": "DJ",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2018-09-09",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 24,
+        "following": 11,
+        "ideas": 2553,
+        "watchlist_stocks_count": 0,
+        "like_count": 277,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 8026,
+          "symbol": "Z",
+          "title": "Zillow Class C",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 9953
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 262773960,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bearish"
+        }
+      }
+    },
+    {
+      "id": 262773787,
+      "body": "$Z You should be up BIG on $Z if you followed my chart from last night",
+      "created_at": "2020-12-09T16:06:39Z",
+      "user": {
+        "id": 3775984,
+        "username": "ILMTraders",
+        "name": "DoubleTop (DT)",
+        "avatar_url": "https://avatars.stocktwits.com/production/3775984/thumb-1594494437.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3775984/thumb-1594494437.png",
+        "join_date": "2020-07-11",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 181,
+        "following": 0,
+        "ideas": 1739,
+        "watchlist_stocks_count": 39,
+        "like_count": 390,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 8026,
+          "symbol": "Z",
+          "title": "Zillow Class C",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 9953
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_262773787.png",
+          "large": "https://charts.stocktwits.com/production/large_262773787.png",
+          "original": "https://charts.stocktwits.com/production/original_262773787.png",
+          "url": "https://charts.stocktwits.com/production/original_262773787.png"
+        },
+        "sentiment": null
+      }
+    },
+    {
+      "id": 262773172,
+      "body": "$Z $LEN $KBH $TOL next 6 months all housing market start realty show once fiscal support go away.",
+      "created_at": "2020-12-09T16:05:24Z",
+      "user": {
+        "id": 1603759,
+        "username": "Zebra30",
+        "name": "DJ",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2018-09-09",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 24,
+        "following": 11,
+        "ideas": 2553,
+        "watchlist_stocks_count": 0,
+        "like_count": 277,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 6056,
+          "symbol": "KBH",
+          "title": "KB Home",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 3048
+        },
+        {
+          "id": 6167,
+          "symbol": "LEN",
+          "title": "Lennar Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 3279
+        },
+        {
+          "id": 7451,
+          "symbol": "TOL",
+          "title": "Toll Brothers Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 3490
+        },
+        {
+          "id": 8026,
+          "symbol": "Z",
+          "title": "Zillow Class C",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 9953
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 262773172,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bearish"
+        }
+      }
+    },
+    {
+      "id": 262772841,
+      "body": "$Z \ud83d\ude0e",
+      "created_at": "2020-12-09T16:04:46Z",
+      "user": {
+        "id": 3515243,
+        "username": "SpicyRich",
+        "name": "Rich Courtney",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2020-05-28",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 1,
+        "following": 12,
+        "ideas": 79,
+        "watchlist_stocks_count": 53,
+        "like_count": 279,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 8026,
+          "symbol": "Z",
+          "title": "Zillow Class C",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 9953
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_262772841.png",
+          "large": "https://charts.stocktwits.com/production/large_262772841.png",
+          "original": "https://charts.stocktwits.com/production/original_262772841.png",
+          "url": "https://charts.stocktwits.com/production/original_262772841.png"
+        },
+        "sentiment": null
+      }
+    },
+    {
+      "id": 262768012,
+      "body": "$Z got impatient here. But they still went +300% - easy breakout signal on daily chart. $RDFN $SPY",
+      "created_at": "2020-12-09T15:55:28Z",
+      "user": {
+        "id": 1312802,
+        "username": "KingDips",
+        "name": "Money/ CEO catchthedip.com",
+        "avatar_url": "https://avatars.stocktwits.com/production/1312802/thumb-1586184849.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1312802/thumb-1586184849.png",
+        "join_date": "2017-12-13",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 13070,
+        "following": 0,
+        "ideas": 12524,
+        "watchlist_stocks_count": 245,
+        "like_count": 4242,
+        "plus_tier": "life",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 7271,
+          "symbol": "SPY",
+          "title": "SPDR S&P 500",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 279639
+        },
+        {
+          "id": 8026,
+          "symbol": "Z",
+          "title": "Zillow Class C",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 9953
+        },
+        {
+          "id": 8470,
+          "symbol": "RDFN",
+          "title": "Redfin",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 6508
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_262768012.png",
+          "large": "https://charts.stocktwits.com/production/large_262768012.png",
+          "original": "https://charts.stocktwits.com/production/original_262768012.png",
+          "url": "https://charts.stocktwits.com/production/original_262768012.png"
+        },
+        "sentiment": null
+      }
+    },
+    {
+      "id": 262764286,
+      "body": "$Z            4-hour MACD cross and daily breakout",
+      "created_at": "2020-12-09T15:48:08Z",
+      "user": {
+        "id": 21210,
+        "username": "Cousin_Vinny",
+        "name": "Vinny Gambini",
+        "avatar_url": "https://avatars.stocktwits.com/production/21210/thumb-1560882239.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/21210/thumb-1560882239.png",
+        "join_date": "2010-08-15",
+        "official": false,
+        "identity": "User",
+        "classification": [
+          "suggested"
+        ],
+        "followers": 53867,
+        "following": 89,
+        "ideas": 46388,
+        "watchlist_stocks_count": 51,
+        "like_count": 7443,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 8026,
+          "symbol": "Z",
+          "title": "Zillow Class C",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 9953
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 262764286,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          127852
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_262764286.png",
+          "large": "https://charts.stocktwits.com/production/large_262764286.png",
+          "original": "https://charts.stocktwits.com/production/original_262764286.png",
+          "url": "https://charts.stocktwits.com/production/original_262764286.png"
+        },
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 262762666,
+      "body": "$Z cmon I know you have one more pop in you. Lets see $23",
+      "created_at": "2020-12-09T15:45:02Z",
+      "user": {
+        "id": 1159916,
+        "username": "Shloker",
+        "name": "Lemillion",
+        "avatar_url": "https://avatars.stocktwits.com/production/1159916/thumb-1594752771.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1159916/thumb-1594752771.png",
+        "join_date": "2017-08-17",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 42,
+        "following": 16,
+        "ideas": 4557,
+        "watchlist_stocks_count": 24,
+        "like_count": 2698,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 8026,
+          "symbol": "Z",
+          "title": "Zillow Class C",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 9953
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          3515243
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 262756681,
+      "body": "wowwwwwwwwwwww $Z in beast mode , nice run",
+      "created_at": "2020-12-09T15:33:57Z",
+      "user": {
+        "id": 111443,
+        "username": "alps",
+        "name": "alps",
+        "avatar_url": "https://avatars.stocktwits.com/production/111443/thumb-1602249906.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/111443/thumb-1602249906.png",
+        "join_date": "2011-10-13",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 147,
+        "following": 38,
+        "ideas": 1301,
+        "watchlist_stocks_count": 17,
+        "like_count": 20,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 8026,
+          "symbol": "Z",
+          "title": "Zillow Class C",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 9953
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_262756681.png",
+          "large": "https://charts.stocktwits.com/production/large_262756681.png",
+          "original": "https://charts.stocktwits.com/production/original_262756681.png",
+          "url": "https://charts.stocktwits.com/production/original_262756681.png"
+        },
+        "sentiment": null
+      }
+    },
+    {
+      "id": 262755842,
+      "body": "$Z typo - that was Zillow not $SQ - like em both - same #ABCD pattern thoughts",
+      "created_at": "2020-12-09T15:32:35Z",
+      "user": {
+        "id": 21210,
+        "username": "Cousin_Vinny",
+        "name": "Vinny Gambini",
+        "avatar_url": "https://avatars.stocktwits.com/production/21210/thumb-1560882239.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/21210/thumb-1560882239.png",
+        "join_date": "2010-08-15",
+        "official": false,
+        "identity": "User",
+        "classification": [
+          "suggested"
+        ],
+        "followers": 53867,
+        "following": 89,
+        "ideas": 46384,
+        "watchlist_stocks_count": 51,
+        "like_count": 7443,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 7991,
+          "symbol": "SQ",
+          "title": "Square",
+          "aliases": [
+            "SQUARE"
+          ],
+          "is_following": false,
+          "watchlist_count": 112864
+        },
+        {
+          "id": 8026,
+          "symbol": "Z",
+          "title": "Zillow Class C",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 9953
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 262755842,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "likes": {
+        "total": 2,
+        "user_ids": [
+          1364342,
+          667454
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_262755842.png",
+          "large": "https://charts.stocktwits.com/production/large_262755842.png",
+          "original": "https://charts.stocktwits.com/production/original_262755842.png",
+          "url": "https://charts.stocktwits.com/production/original_262755842.png"
+        },
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 262743485,
+      "body": "out $Z  trading acct and $TSLA IRA position",
+      "created_at": "2020-12-09T15:11:10Z",
+      "user": {
+        "id": 176585,
+        "username": "optiondoodle",
+        "name": "lazy dog capital",
+        "avatar_url": "https://avatars.stocktwits.com/production/176585/thumb-1410704754.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/176585/thumb-1410704754.png",
+        "join_date": "2012-08-12",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 253,
+        "following": 54,
+        "ideas": 12465,
+        "watchlist_stocks_count": 0,
+        "like_count": 8926,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 8026,
+          "symbol": "Z",
+          "title": "Zillow Class C",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 9951
+        },
+        {
+          "id": 8660,
+          "symbol": "TSLA",
+          "title": "Tesla, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 499916
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          1512574
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 262743033,
+      "body": "$Z patience pays \u2705\ud83e\uddd1\u200d\ud83d\udcbb",
+      "created_at": "2020-12-09T15:10:24Z",
+      "user": {
+        "id": 1158084,
+        "username": "GodiTwits",
+        "name": "G.P",
+        "avatar_url": "https://avatars.stocktwits.com/production/1158084/thumb-1586441517.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1158084/thumb-1586441517.png",
+        "join_date": "2017-08-16",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 572,
+        "following": 11,
+        "ideas": 11229,
+        "watchlist_stocks_count": 204,
+        "like_count": 9476,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 8026,
+          "symbol": "Z",
+          "title": "Zillow Class C",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 9953
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 262743033,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 3
+      },
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          4106566
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_262743033.png",
+          "large": "https://charts.stocktwits.com/production/large_262743033.png",
+          "original": "https://charts.stocktwits.com/production/original_262743033.png",
+          "url": "https://charts.stocktwits.com/production/original_262743033.png"
+        },
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 262739027,
+      "body": "$Z Testin highs. . .",
+      "created_at": "2020-12-09T15:03:44Z",
+      "user": {
+        "id": 8468,
+        "username": "JFDI",
+        "name": "Nicholas",
+        "avatar_url": "https://avatars.stocktwits.com/production/8468/thumb-1605404080.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/8468/thumb-1605404080.png",
+        "join_date": "2010-02-08",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 49100,
+        "following": 44,
+        "ideas": 18299,
+        "watchlist_stocks_count": 29,
+        "like_count": 1315,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1031,
+        "title": "TradingView",
+        "url": "https://www.tradingview.com"
+      },
+      "symbols": [
+        {
+          "id": 8026,
+          "symbol": "Z",
+          "title": "Zillow Class C",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 9951
+        }
+      ],
+      "likes": {
+        "total": 2,
+        "user_ids": [
+          1512574,
+          4106566
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_262739027.png",
+          "large": "https://charts.stocktwits.com/production/large_262739027.png",
+          "original": "https://charts.stocktwits.com/production/original_262739027.png",
+          "url": "https://charts.stocktwits.com/production/original_262739027.png"
+        },
+        "sentiment": null
+      }
+    },
+    {
+      "id": 262735060,
+      "body": "Until it recently doubled I thought $spot was the most undervalued rare digital asset \n\n$spot $z",
+      "created_at": "2020-12-09T14:57:05Z",
+      "user": {
+        "id": 5,
+        "username": "howardlindzon",
+        "name": "Howard Lindzon",
+        "avatar_url": "https://avatars.stocktwits.com/production/5/thumb-1503096790.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/5/thumb-1503096790.png",
+        "join_date": "2009-07-11",
+        "official": true,
+        "identity": "Official",
+        "classification": [
+          "suggested",
+          "official"
+        ],
+        "followers": 228136,
+        "following": 1826,
+        "ideas": 170432,
+        "watchlist_stocks_count": 182,
+        "like_count": 82638,
+        "plus_tier": "year",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 8026,
+          "symbol": "Z",
+          "title": "Zillow Class C",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 9953
+        },
+        {
+          "id": 9076,
+          "symbol": "SPOT",
+          "title": "Spotify Technology S.A.",
+          "aliases": [
+            "SPTF",
+            "SPOTIFY"
+          ],
+          "is_following": false,
+          "watchlist_count": 27298
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 262735060,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "likes": {
+        "total": 6,
+        "user_ids": [
+          249954,
+          4106566,
+          789678,
+          1450539,
+          530446,
+          1100847
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 262734610,
+      "body": "At $27 billion I still think Zillow $Z the most undervalued rare digital asset in what is a monster category ...especially considering where Opendoor trades ($IPOB)",
+      "created_at": "2020-12-09T14:56:19Z",
+      "user": {
+        "id": 5,
+        "username": "howardlindzon",
+        "name": "Howard Lindzon",
+        "avatar_url": "https://avatars.stocktwits.com/production/5/thumb-1503096790.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/5/thumb-1503096790.png",
+        "join_date": "2009-07-11",
+        "official": true,
+        "identity": "Official",
+        "classification": [
+          "suggested",
+          "official"
+        ],
+        "followers": 228135,
+        "following": 1826,
+        "ideas": 170432,
+        "watchlist_stocks_count": 182,
+        "like_count": 82638,
+        "plus_tier": "year",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 8026,
+          "symbol": "Z",
+          "title": "Zillow Class C",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 9953
+        },
+        {
+          "id": 15602,
+          "symbol": "IPOB",
+          "title": "Social Capital Hedosophia Holdings II",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 11033
+        }
+      ],
+      "likes": {
+        "total": 9,
+        "user_ids": [
+          1100847,
+          184733,
+          4344092,
+          803838,
+          789678,
+          1450539,
+          26855,
+          357161,
+          3515243
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 262734580,
+      "body": "$Z 130 \ud83d\udca5\ud83d\ude80\ud83d\ude80\ud83d\ude80",
+      "created_at": "2020-12-09T14:56:16Z",
+      "user": {
+        "id": 1363102,
+        "username": "Kdong",
+        "name": "Kdong",
+        "avatar_url": "https://avatars.stocktwits.com/production/1363102/thumb-1525514038.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1363102/thumb-1525514038.png",
+        "join_date": "2018-01-11",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 148,
+        "following": 205,
+        "ideas": 5873,
+        "watchlist_stocks_count": 26,
+        "like_count": 61164,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 8026,
+          "symbol": "Z",
+          "title": "Zillow Class C",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 9951
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 262734580,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          4106566
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 262732465,
+      "body": "$Z \ud83d\ude80\ud83d\ude80\ud83d\ude80\ud83d\ude80\ud83d\ude80\ud83d\ude80\ud83d\ude80\ud83d\ude80\ud83d\ude80\ud83d\ude80\ud83d\ude80\ud83d\ude80\ud83d\ude80\ud83d\ude80\ud83d\ude80\ud83d\ude80\ud83d\ude80\ud83d\ude80\ud83d\ude80\ud83d\ude80\ud83d\ude80\ud83d\ude80\ud83d\ude80\ud83d\ude80\ud83d\ude80\ud83d\ude80\ud83d\ude80",
+      "created_at": "2020-12-09T14:52:46Z",
+      "user": {
+        "id": 1898293,
+        "username": "HappyAngie",
+        "name": "HappyAngie",
+        "avatar_url": "https://avatars.stocktwits.com/production/1898293/thumb-1607016333.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1898293/thumb-1607016333.png",
+        "join_date": "2019-02-27",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 205,
+        "following": 30,
+        "ideas": 912,
+        "watchlist_stocks_count": 28,
+        "like_count": 354,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 8026,
+          "symbol": "Z",
+          "title": "Zillow Class C",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 9951
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          4106566
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 262731874,
+      "body": "$ZG $Z 3 day beast",
+      "created_at": "2020-12-09T14:51:49Z",
+      "user": {
+        "id": 176585,
+        "username": "optiondoodle",
+        "name": "lazy dog capital",
+        "avatar_url": "https://avatars.stocktwits.com/production/176585/thumb-1410704754.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/176585/thumb-1410704754.png",
+        "join_date": "2012-08-12",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 253,
+        "following": 54,
+        "ideas": 12465,
+        "watchlist_stocks_count": 0,
+        "like_count": 8926,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 8026,
+          "symbol": "Z",
+          "title": "Zillow Class C",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 9951
+        },
+        {
+          "id": 12839,
+          "symbol": "ZG",
+          "title": "Zillow Class A",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 2868
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          4106566
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 262694729,
+      "body": "$ipob let\u2019s see the next run my friend. 8 days till vote. Cathy keeps bitting into this. Ready to see this bad boy move like it\u2019s friends. $EXPI  $RDFN $Z $ZG",
+      "created_at": "2020-12-09T13:20:12Z",
+      "user": {
+        "id": 4118206,
+        "username": "psilentkris",
+        "name": "kris",
+        "avatar_url": "https://avatars.stocktwits.com/production/4118206/thumb-1602723434.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/4118206/thumb-1602723434.png",
+        "join_date": "2020-09-29",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 2,
+        "following": 1,
+        "ideas": 166,
+        "watchlist_stocks_count": 6,
+        "like_count": 78,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 8026,
+          "symbol": "Z",
+          "title": "Zillow Class C",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 9951
+        },
+        {
+          "id": 8470,
+          "symbol": "RDFN",
+          "title": "Redfin",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 6505
+        },
+        {
+          "id": 12839,
+          "symbol": "ZG",
+          "title": "Zillow Class A",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 2868
+        },
+        {
+          "id": 14650,
+          "symbol": "EXPI",
+          "title": "eXp World Holdings Inc",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1909
+        },
+        {
+          "id": 15602,
+          "symbol": "IPOB",
+          "title": "Social Capital Hedosophia Holdings II",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 11027
+        }
+      ],
+      "likes": {
+        "total": 3,
+        "user_ids": [
+          1459132,
+          243201,
+          1373693
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 262692304,
+      "body": "$Z, $RDFN and $OCUL. Strong technicals stocks and near a new high. https://www.chartmill.com//stock/stock-screener?sid=16&amp;f=p_pg10,v1_50b500,s_str,s_nnh,exch_us&amp;v=3&amp;timeframe=DAILY&amp;type=CANDLES&amp;months=0.05&amp;width=720&amp;cl=F&amp;o1=3&amp;o2=3&amp;o3=1&amp;op1=200,16711680&amp;op2=50,255&amp;utm_source=stocktwits&amp;utm_medium=screener&amp;utm_content=Stock_Screener:_Strong_Stocks_near_New_High&amp;utm_campaign=social_tracking",
+      "created_at": "2020-12-09T13:12:01Z",
+      "user": {
+        "id": 47688,
+        "username": "ChartMill",
+        "name": "ChartMill",
+        "avatar_url": "https://avatars.stocktwits.com/production/47688/thumb-1363343728.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/47688/thumb-1363343728.png",
+        "join_date": "2011-01-26",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 22995,
+        "following": 891,
+        "ideas": 1137946,
+        "watchlist_stocks_count": 20,
+        "like_count": 32,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1135,
+        "title": "ChartMill",
+        "url": "http://www.chartmill.com"
+      },
+      "symbols": [
+        {
+          "id": 8026,
+          "symbol": "Z",
+          "title": "Zillow Class C",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 9951
+        },
+        {
+          "id": 8470,
+          "symbol": "RDFN",
+          "title": "Redfin",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 6505
+        },
+        {
+          "id": 12119,
+          "symbol": "OCUL",
+          "title": "Ocular Therapeutix",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 9546
+        }
+      ],
+      "links": [
+        {
+          "title": "chartmill.co",
+          "url": "https://www.chartmill.co",
+          "shortened_url": "https://www.chartmill.co",
+          "shortened_expanded_url": "chartmill.co",
+          "description": "2020 Copyright. All Rights Reserved. The Sponsored Listings displayed above are served automatically by a third party. Neither the service provider nor the domain owner maintain any relationship with the advertisers. In case of trademark issues please contact the domain owner directly (contact information can be found in whois).",
+          "image": null,
+          "created_at": "2020-12-09T13:12:01Z",
+          "video_url": null,
+          "source": {
+            "name": "Chartmill",
+            "website": "https://www.chartmill.co"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 262637243,
+      "body": "$Z AND ZG: New SEC filing on Chief Corp. Relations Officer, DAWN LYON: https://www.sec.gov/Archives/edgar/data/1617640/000122520820014408/xslF345X03/doc4.xml",
+      "created_at": "2020-12-09T03:41:03Z",
+      "user": {
+        "id": 1606168,
+        "username": "FilingsVille",
+        "name": "Filings Ville",
+        "avatar_url": "https://avatars.stocktwits.com/production/1606168/thumb-1589354235.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1606168/thumb-1589354235.png",
+        "join_date": "2018-09-11",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 265,
+        "following": 0,
+        "ideas": 27642,
+        "watchlist_stocks_count": 0,
+        "like_count": 0,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 4346,
+        "title": "Filings Ville",
+        "url": "https://example.com"
+      },
+      "symbols": [
+        {
+          "id": 8026,
+          "symbol": "Z",
+          "title": "Zillow Class C",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 9947
+        }
+      ],
+      "links": [
+        {
+          "title": "SEC FORM 4",
+          "url": "https://www.sec.gov/Archives/edgar/data/1617640/000122520820014408/xslF345X03/doc4.xml",
+          "shortened_url": "https://www.sec.gov/Archives/edgar/data/1617640/000122520820014408/xslF345X03/doc4.xml",
+          "shortened_expanded_url": "sec.gov/Archives/edgar/data...",
+          "description": "Signature of Reporting Person Date Reminder: Report on a separate line for each class of securities beneficially owned directly or indirectly. * If the form is filed by more than one reporting person, see Instruction 4 (b)(v). ** Intentional misstatements or omissions of facts constitute Federal Criminal Violations See 18 U.S.C.",
+          "image": null,
+          "created_at": "2020-12-09T03:41:04Z",
+          "video_url": null,
+          "source": {
+            "name": "Sec",
+            "website": "https://www.sec.gov"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 262631521,
+      "body": "$Z $QS \nTrade idea for 12/9:\n$Z Buy zone above, 115.25 - (If holds)\n$QS Buy zone above 167.83 - (If holds)",
+      "created_at": "2020-12-09T03:06:22Z",
+      "user": {
+        "id": 3775984,
+        "username": "ILMTraders",
+        "name": "DoubleTop (DT)",
+        "avatar_url": "https://avatars.stocktwits.com/production/3775984/thumb-1594494437.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3775984/thumb-1594494437.png",
+        "join_date": "2020-07-11",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 180,
+        "following": 0,
+        "ideas": 1729,
+        "watchlist_stocks_count": 39,
+        "like_count": 390,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 8026,
+          "symbol": "Z",
+          "title": "Zillow Class C",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 9951
+        },
+        {
+          "id": 15793,
+          "symbol": "QS",
+          "title": "QuantumScape Corp - Ordinary Shares - Class A",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 15512
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          4316090
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_262631521.png",
+          "large": "https://charts.stocktwits.com/production/large_262631521.png",
+          "original": "https://charts.stocktwits.com/production/original_262631521.png",
+          "url": "https://charts.stocktwits.com/production/original_262631521.png"
+        },
+        "sentiment": null
+      }
+    },
+    {
+      "id": 262609725,
+      "body": "$Z poked out of this wedge today and trading over 116 in the after hours. Over 116.20 can see an ATH test at 119.47. Near term support at 112.49\n\n@TrendSpider",
+      "created_at": "2020-12-09T01:15:31Z",
+      "user": {
+        "id": 3652504,
+        "username": "PandaOptions",
+        "name": "Panda Options",
+        "avatar_url": "https://avatars.stocktwits.com/production/3652504/thumb-1593972534.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3652504/thumb-1593972534.png",
+        "join_date": "2020-06-19",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 360,
+        "following": 4,
+        "ideas": 525,
+        "watchlist_stocks_count": 0,
+        "like_count": 73,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 8026,
+          "symbol": "Z",
+          "title": "Zillow Class C",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 9952
+        }
+      ],
+      "likes": {
+        "total": 2,
+        "user_ids": [
+          240856,
+          1100847
+        ]
+      },
+      "mentioned_users": [
+        "@TrendSpider"
+      ],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_262609725.png",
+          "large": "https://charts.stocktwits.com/production/large_262609725.png",
+          "original": "https://charts.stocktwits.com/production/original_262609725.png",
+          "url": "https://charts.stocktwits.com/production/original_262609725.png"
+        },
+        "sentiment": null
+      }
+    },
+    {
+      "id": 262599468,
+      "body": "$Z nice momentum building!",
+      "created_at": "2020-12-09T00:34:06Z",
+      "user": {
+        "id": 2920777,
+        "username": "stock_options_trader01",
+        "name": "Alex",
+        "avatar_url": "https://avatars.stocktwits.com/production/2920777/thumb-1573923902.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2920777/thumb-1573923902.png",
+        "join_date": "2019-11-16",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 368,
+        "following": 38,
+        "ideas": 1520,
+        "watchlist_stocks_count": 24,
+        "like_count": 28,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2095,
+        "title": "StockTwits For Android ",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 8026,
+          "symbol": "Z",
+          "title": "Zillow Class C",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 9945
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_262599468.png",
+          "large": "https://charts.stocktwits.com/production/large_262599468.png",
+          "original": "https://charts.stocktwits.com/production/original_262599468.png",
+          "url": "https://charts.stocktwits.com/production/original_262599468.png"
+        },
+        "sentiment": null
+      }
+    },
+    {
+      "id": 262574457,
+      "body": "$Z - The company reported the annual revenue of 3.49\u2026 https://www.macroaxis.com/stock-analysis/Z/Zillow-Group #insidertrading #stocks #fintechnews",
+      "created_at": "2020-12-08T22:58:05Z",
+      "user": {
+        "id": 56948,
+        "username": "macroaxis",
+        "name": "Macroaxis",
+        "avatar_url": "https://avatars.stocktwits.com/production/56948/thumb-1361399398.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/56948/thumb-1361399398.png",
+        "join_date": "2011-03-04",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 3103,
+        "following": 4,
+        "ideas": 362779,
+        "watchlist_stocks_count": 15,
+        "like_count": 28,
+        "plus_tier": "year",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1351,
+        "title": "dlvr.it",
+        "url": "https://dlvrit.com/"
+      },
+      "symbols": [
+        {
+          "id": 8026,
+          "symbol": "Z",
+          "title": "Zillow Class C",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 9945
+        }
+      ],
+      "links": [
+        {
+          "title": "Zillow Stock Analysis - 2020 | Z - Macroaxis",
+          "url": "https://www.macroaxis.com/stock-analysis/Z/Zillow-Group",
+          "shortened_url": "https://www.macroaxis.com/stock-analysis/Z/Zillow-Group",
+          "shortened_expanded_url": "macroaxis.com/stock-analysi...",
+          "description": "To execute equity pricing pattern simulations, real time valuations, recommendations, instant reporting, and portfolio analytics such as mean-variance optimization takes huge amount of computing resources. Since we are a small company we cannot afford to have hundreds of servers in our cluster.",
+          "image": "https://www.macroaxis.com/images/companies/logos/macroaxis_Z.gif",
+          "created_at": "2020-12-08T22:58:06Z",
+          "video_url": null,
+          "source": {
+            "name": "Macroaxis",
+            "website": "https://www.macroaxis.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    }
+  ]
+}

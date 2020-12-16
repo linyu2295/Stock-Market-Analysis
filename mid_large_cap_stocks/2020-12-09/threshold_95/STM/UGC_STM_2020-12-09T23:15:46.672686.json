@@ -1,0 +1,1973 @@
+{
+  "response": {
+    "status": 200
+  },
+  "symbol": {
+    "id": 7297,
+    "symbol": "STM",
+    "title": "STMicroelectronics NV",
+    "aliases": [],
+    "is_following": false,
+    "watchlist_count": 6312
+  },
+  "cursor": {
+    "more": true,
+    "since": 262740715,
+    "max": 262404597
+  },
+  "messages": [
+    {
+      "id": 262740715,
+      "body": "$STM https://finance.yahoo.com/news/stmicroelectronics-announces-mass-market-availability-140000789.html",
+      "created_at": "2020-12-09T15:06:36Z",
+      "user": {
+        "id": 3771833,
+        "username": "kingzman0112",
+        "name": "kingman",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2020-07-10",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 0,
+        "following": 10,
+        "ideas": 1,
+        "watchlist_stocks_count": 25,
+        "like_count": 0,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 7297,
+          "symbol": "STM",
+          "title": "STMicroelectronics NV",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 6312
+        }
+      ],
+      "links": [
+        {
+          "title": "STMicroelectronics Announces Mass-Market Availability of STM32WL LoRa\u00ae-Compatible Wireless System-on-Chip Family",
+          "url": "https://finance.yahoo.com/news/stmicroelectronics-announces-mass-market-availability-140000789.html",
+          "shortened_url": "https://finance.yahoo.com/news/stmicroelectronics-announces-mass-market-availability-140000789.html",
+          "shortened_expanded_url": "finance.yahoo.com/news/stmi...",
+          "description": "P4314S -- Dec 9 2020 -- STM32WL MM launch_IMAGE STMicroelectronics Announces Mass-Market Availability of STM32WL LoRa\u00ae-Compatible Wireless System-on-Chip Family * Market-unique LoRa-compatible multi-modulation SoC drives innovation in IoT connectivity * Mass-market introduction extends feature options, packages, and protocols compatibility (e.g.",
+          "image": "https://s.yimg.com/ny/api/res/1.2/Lt0gnVSifv.2j_bNESlYqA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwMDA7aD0xMDUz/https://s.yimg.com/uu/api/res/1.2/7oNlhGGfXypkgjkhNBAc5g--~B/aD0xMTgxO3c9MjI0NDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/globenewswire.com/753a62a309f620a505b7a4b13296d24d",
+          "created_at": "2020-12-09T15:06:37Z",
+          "video_url": null,
+          "source": {
+            "name": "Yahoo",
+            "website": "https://finance.yahoo.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 262739828,
+      "body": "Huawei Supplier STMicro Cuts Mid-Term Targets Blaming U.S.-China Trade War  $STM $AAPL $TSLA $HPQ \n\nhttps://newsfilter.io/a/4ebf995da8471714e77ebec87e76fe28",
+      "created_at": "2020-12-09T15:05:03Z",
+      "user": {
+        "id": 2762379,
+        "username": "Newsfilter",
+        "name": "@newsfilterio",
+        "avatar_url": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "join_date": "2019-09-01",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 8096,
+        "following": 16,
+        "ideas": 666255,
+        "watchlist_stocks_count": 1,
+        "like_count": 531,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 686,
+          "symbol": "AAPL",
+          "title": "Apple Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 546330
+        },
+        {
+          "id": 5715,
+          "symbol": "HPQ",
+          "title": "Hewlett-Packard Company",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 9461
+        },
+        {
+          "id": 7297,
+          "symbol": "STM",
+          "title": "STMicroelectronics NV",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 6312
+        },
+        {
+          "id": 8660,
+          "symbol": "TSLA",
+          "title": "Tesla, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 499905
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 262708898,
+      "body": "$STM NEW ARTICLE : STMicroelectronics Announces Mass-Market Availability of STM32WL LoRa\u00ae-Compatible Wireless System-on-Chip Family https://www.stck.pro/news/STM/9531109",
+      "created_at": "2020-12-09T14:04:00Z",
+      "user": {
+        "id": 1555408,
+        "username": "STCKPRO",
+        "name": "STCK.PRO",
+        "avatar_url": "https://avatars.stocktwits.com/production/1555408/thumb-1576077822.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1555408/thumb-1576077822.png",
+        "join_date": "2018-07-24",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 4862,
+        "following": 2,
+        "ideas": 298720,
+        "watchlist_stocks_count": 18,
+        "like_count": 52,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5011,
+        "title": "STCK.PRO",
+        "url": "https://dashboard.stck.pro"
+      },
+      "symbols": [
+        {
+          "id": 7297,
+          "symbol": "STM",
+          "title": "STMicroelectronics NV",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 6307
+        }
+      ],
+      "links": [
+        {
+          "title": "STMICROELECTRONICS N.V. (STM) News - STCK.PRO",
+          "url": "https://www.stck.pro/news/STM/9531109",
+          "shortened_url": "https://www.stck.pro/news/STM/9531109",
+          "shortened_expanded_url": "stck.pro/news/STM",
+          "description": "Never miss an important article again, stay on top of your investments and become a better investor today! Get your moat on and sync your watchlist with Stocktwits and get all the latest news for your symbols. Sync with Stocktwits",
+          "image": "https://www.stck.pro/img/noog.png",
+          "created_at": "2020-12-09T14:04:03Z",
+          "video_url": null,
+          "source": {
+            "name": "STCK.PRO",
+            "website": "https://www.stck.pro"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_262708898.jpg",
+          "large": "https://charts.stocktwits.com/production/large_262708898.jpg",
+          "original": "https://charts.stocktwits.com/production/original_262708898.jpg",
+          "url": "https://charts.stocktwits.com/production/original_262708898.jpg"
+        },
+        "sentiment": null
+      }
+    },
+    {
+      "id": 262708225,
+      "body": "STMicroelectronics Announces Mass-Market Availability of STM32WL LoRa\u00ae-Compatible Wireless System-on-Chip Family http://www.conferencecalltranscripts.org/summary/?id=108614&amp;pr=true $STM",
+      "created_at": "2020-12-09T14:02:07Z",
+      "user": {
+        "id": 210967,
+        "username": "cctranscripts",
+        "name": "Conference Call Transcripts",
+        "avatar_url": "https://avatars.stocktwits.com/production/210967/thumb-1363372333.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/210967/thumb-1363372333.png",
+        "join_date": "2013-01-30",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 6490,
+        "following": 10,
+        "ideas": 2419973,
+        "watchlist_stocks_count": 0,
+        "like_count": 760,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1130,
+        "title": "cctranscripts",
+        "url": "http://conferencecalltranscripts.org"
+      },
+      "symbols": [
+        {
+          "id": 7297,
+          "symbol": "STM",
+          "title": "STMicroelectronics NV",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 6307
+        }
+      ],
+      "links": [
+        {
+          "title": "Conference Call Transcripts",
+          "url": "http://www.conferencecalltranscripts.org/summary/?id=108614&pr=true",
+          "shortened_url": "http://www.conferencecalltranscripts.org/summary/?id=108614&pr=true",
+          "shortened_expanded_url": "conferencecalltranscripts.o...",
+          "description": "Get notified next time STM.US makes a similar move! STMicroelectronics Announces Mass-Market Availability of STM32WL LoRa\u00ae-Compatible Wireless System-on-Chip Family ]]> Read More... To receive a free e-mail notification whenever STMicroelectronics N.V. makes a similar move, sign up! \u00a9 www.conferencecalltranscripts.org 2020 | Terms of Service",
+          "image": null,
+          "created_at": "2020-12-09T14:02:07Z",
+          "video_url": null,
+          "source": {
+            "name": "Conferencecalltranscripts",
+            "website": "http://www.conferencecalltranscripts.org"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 262707591,
+      "body": "$STM STMicroelectronics Announces Mass-Market Availability of STM32WL LoRa\u00ae-Compatible Wireless System-on-Chip Family \n\nhttps://newsfilter.io/a/2e48d8e7d902a97f9b9e8a3059140027",
+      "created_at": "2020-12-09T14:00:31Z",
+      "user": {
+        "id": 2762379,
+        "username": "Newsfilter",
+        "name": "@newsfilterio",
+        "avatar_url": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "join_date": "2019-09-01",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 8090,
+        "following": 16,
+        "ideas": 665855,
+        "watchlist_stocks_count": 1,
+        "like_count": 531,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 7297,
+          "symbol": "STM",
+          "title": "STMicroelectronics NV",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 6307
+        }
+      ],
+      "links": [
+        {
+          "title": "STMicroelectronics Announces Mass-Market Availability of STM32WL LoRa\u00ae-Compatible Wireless System-on-Chip Family",
+          "url": "https://newsfilter.io/a/2e48d8e7d902a97f9b9e8a3059140027",
+          "shortened_url": "https://newsfilter.io/a/2e48d8e7d902a97f9b9e8a3059140027",
+          "shortened_expanded_url": "newsfilter.io/a/2e48d8e7d90...",
+          "description": "Market-unique LoRa-compatible multi-modulation SoC drives innovation in IoT connectivity Mass-market introduction extends feature options, packages, and protocols compatibility (e.g. Sigfox) Dual-core variant boosts performance, cyber-security, and flexibility Geneva, December 9, 2020 - STMicroelectronics (NYSE: STM), a global semiconductor leader serving customers across the spectrum of electronics applications, has expanded availability of its market-unique STM32WL long-range sub-GHz wireless system-on-chip (SoC) family, adding flexible configurations and package options for diverse mass-market applications.",
+          "image": null,
+          "created_at": "2020-12-09T14:00:32Z",
+          "video_url": null,
+          "source": {
+            "name": "Newsfilter",
+            "website": "https://newsfilter.io"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 262707539,
+      "body": "$STM STMicroelectronics Announces Mass-Market Availability of STM32WL LoRa\u00ae-Compatible Wireless System-on-Chip Family\n\nRead and Vote! This insight is:\n1. \ud83d\udc02Positive: https://quantisnow.com/insight/206490?v=0\n2. \ud83d\udc7dNeutral: https://quantisnow.com/insight/206490?v=1\n3. \ud83d\udc3bNegative: https://quantisnow.com/insight/206490?v=2\n\n#semiconductors #technology",
+      "created_at": "2020-12-09T14:00:24Z",
+      "user": {
+        "id": 4280914,
+        "username": "Quantisnow",
+        "name": "Quantisnow",
+        "avatar_url": "https://avatars.stocktwits.com/production/4280914/thumb-1604765185.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/4280914/thumb-1604765185.png",
+        "join_date": "2020-11-07",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 92,
+        "following": 1,
+        "ideas": 7583,
+        "watchlist_stocks_count": 0,
+        "like_count": 10,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5981,
+        "title": "Quantisnow",
+        "url": "https://quantisnow.com"
+      },
+      "symbols": [
+        {
+          "id": 7297,
+          "symbol": "STM",
+          "title": "STMicroelectronics NV",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 6307
+        }
+      ],
+      "links": [
+        {
+          "title": null,
+          "url": "https://quantisnow.com/insight/206490?v=0",
+          "shortened_url": "https://quantisnow.com/insight/206490?v=0",
+          "shortened_expanded_url": "quantisnow.com/insight/2064...",
+          "description": null,
+          "image": null,
+          "created_at": "2020-12-09T14:00:24Z",
+          "video_url": null,
+          "source": {
+            "name": "Quantisnow",
+            "website": "https://quantisnow.com"
+          }
+        },
+        {
+          "title": null,
+          "url": "https://quantisnow.com/insight/206490?v=1",
+          "shortened_url": "https://quantisnow.com/insight/206490?v=1",
+          "shortened_expanded_url": "quantisnow.com/insight/2064...",
+          "description": null,
+          "image": null,
+          "created_at": "2020-12-09T14:00:24Z",
+          "video_url": null,
+          "source": {
+            "name": "Quantisnow",
+            "website": "https://quantisnow.com"
+          }
+        },
+        {
+          "title": null,
+          "url": "https://quantisnow.com/insight/206490?v=2",
+          "shortened_url": "https://quantisnow.com/insight/206490?v=2",
+          "shortened_expanded_url": "quantisnow.com/insight/2064...",
+          "description": null,
+          "image": null,
+          "created_at": "2020-12-09T14:00:24Z",
+          "video_url": null,
+          "source": {
+            "name": "Quantisnow",
+            "website": "https://quantisnow.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 262703525,
+      "body": "2020-12-09 13:48:34+00:00 $STM    Intra-day Move",
+      "created_at": "2020-12-09T13:48:39Z",
+      "user": {
+        "id": 1511377,
+        "username": "YuMiStocks_Trade",
+        "name": "YuMIStocksTrade.com",
+        "avatar_url": "https://avatars.stocktwits.com/production/1511377/thumb-1596895665.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1511377/thumb-1596895665.png",
+        "join_date": "2018-06-04",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 403,
+        "following": 1,
+        "ideas": 8921,
+        "watchlist_stocks_count": 34,
+        "like_count": 602,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5846,
+        "title": "ConfluxBot",
+        "url": "https://app.confluxbot.com"
+      },
+      "symbols": [
+        {
+          "id": 7297,
+          "symbol": "STM",
+          "title": "STMicroelectronics NV",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 6307
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 262702594,
+      "body": "$STM provides guidance in slide presentation https://www.briefing.com/in-depth-analysis/Content/Article?ArticleId=IN20201209064121STM",
+      "created_at": "2020-12-09T13:45:59Z",
+      "user": {
+        "id": 8115,
+        "username": "briefingcom",
+        "name": "Briefingcom",
+        "avatar_url": "https://avatars.stocktwits.com/production/8115/thumb-1340802633.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/8115/thumb-1340802633.png",
+        "join_date": "2010-01-25",
+        "official": true,
+        "identity": "Official",
+        "classification": [
+          "official"
+        ],
+        "followers": 85731,
+        "following": 821,
+        "ideas": 83032,
+        "watchlist_stocks_count": 8,
+        "like_count": 68,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 7297,
+          "symbol": "STM",
+          "title": "STMicroelectronics NV",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 6307
+        }
+      ],
+      "links": [
+        {
+          "title": "Briefing.com",
+          "url": "https://www.briefing.com/in-depth-analysis/Content/Article?ArticleId=IN20201209064121STM",
+          "shortened_url": "https://www.briefing.com/in-depth-analysis/Content/Article?ArticleId=IN20201209064121STM",
+          "shortened_expanded_url": "briefing.com/in-depth-analy...",
+          "description": "STM: STMicroelectronics provides guidance in slide presentation (41.47 -0.42) FY20: Co sees mid-term CMD 2020 revenue view of $12.0 bln; gross margin of 39-40%; operating margin 15-17%; sees free cash flow of > $1 bln",
+          "image": null,
+          "created_at": "2020-12-09T13:46:00Z",
+          "video_url": null,
+          "source": {
+            "name": "Briefing",
+            "website": "https://www.briefing.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 262693690,
+      "body": "$SHOO\nSHOO Target Raised by Telsey Advisory Group with price target $27.00 \u279d $36.00 and rating Market Perform\nSource:https://www.marketbeat.com/ratings/\n\n$SR\nSR Initiated by UBS Group  and rating Buy\nSource:https://www.marketbeat.com/ratings/\n\n$SSNC\nSSNC Downgraded by JPMorgan Chase &amp; Co. with price target 78 and rating Overweight \u279d Neutral\nSource:https://www.marketbeat.com/ratings/\n\n$STLD\nSTLD Initiated by Morgan Stanley with price target 45 and rating Overweight\nSource:https://www.marketbeat.com/ratings/\n\n$STM\nSTM Target Set by JPMorgan Chase &amp; Co. with price target 36.75 and rating Neutral | STM Target Set by JPMorgan Chase &amp; Co. with price target 36.75 and rating Neutral\nSource:https://www.marketbeat.com/ratings/\n\nView the full list of news/momentum plays on watch at : bit.ly/32GfaRt\n[No bias / position]\n[Find me at https://stocktwits.com/sbiswas | https://twitter.com/soumyajyoti_b]&quot;",
+      "created_at": "2020-12-09T13:16:43Z",
+      "user": {
+        "id": 1665157,
+        "username": "sbiswas",
+        "name": "Soumyajyoti Biswas",
+        "avatar_url": "https://avatars.stocktwits.com/production/1665157/thumb-1598680399.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1665157/thumb-1598680399.png",
+        "join_date": "2018-10-17",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 360,
+        "following": 58,
+        "ideas": 4661,
+        "watchlist_stocks_count": 22,
+        "like_count": 74,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 3524,
+          "symbol": "SHOO",
+          "title": "Steven Madden, Ltd.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 371
+        },
+        {
+          "id": 3675,
+          "symbol": "STLD",
+          "title": "Steel Dynamics Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1981
+        },
+        {
+          "id": 7273,
+          "symbol": "SR",
+          "title": "Spire Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 126
+        },
+        {
+          "id": 7297,
+          "symbol": "STM",
+          "title": "STMicroelectronics NV",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 6304
+        },
+        {
+          "id": 8605,
+          "symbol": "SSNC",
+          "title": "SS&C Technologies Holdings, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 765
+        }
+      ],
+      "links": [
+        {
+          "title": "Analyst Ratings and Price Targets (12/9/2020)",
+          "url": "https://www.marketbeat.com/ratings/",
+          "shortened_url": "https://www.marketbeat.com/ratings/",
+          "shortened_expanded_url": "marketbeat.com/ratings/",
+          "description": "Always Get the Latest Analyst Ratings and Price Targets: Stay ahead of the market with MarketBeat.com's daily email update that provides a summary of analysts' upgrades, downgrades and new coverage. Click here to register. This page was last refreshed on Wednesday at 08:14 AM ET.",
+          "image": "https://www.marketbeat.com/images/256x256-marketbeat-icon.png?v=2020",
+          "created_at": "2020-12-09T13:16:43Z",
+          "video_url": null,
+          "source": {
+            "name": "MarketBeat.com",
+            "website": "https://www.marketbeat.com"
+          }
+        },
+        {
+          "title": "Daily_Trade_Levels - Google Drive",
+          "url": "bit.ly/32GfaRt",
+          "shortened_url": "bit.ly/32GfaRt",
+          "shortened_expanded_url": "docs.google.com/spreadsheet...",
+          "description": null,
+          "image": null,
+          "created_at": "2020-12-09T13:16:43Z",
+          "video_url": null,
+          "source": {
+            "name": "Google",
+            "website": "https://docs.google.com"
+          }
+        },
+        {
+          "title": "Soumyajyoti Biswas (@sbiswas) | Stocktwits",
+          "url": "https://stocktwits.com/sbiswas",
+          "shortened_url": "https://stocktwits.com/sbiswas",
+          "shortened_expanded_url": "stocktwits.com/sbiswas",
+          "description": "The latest messages and market ideas from Soumyajyoti Biswas (@sbiswas) on Stocktwits. I trade only options based on momentum and/or news. I read news pre-market / search for stocks with momentum, and form a daily watch list to trade. Knowledge should always be free.",
+          "image": "https://avatars.stocktwits.com/production/1665157/large-1598680399.png",
+          "created_at": "2020-12-09T13:16:43Z",
+          "video_url": null,
+          "source": {
+            "name": "Stocktwits",
+            "website": "https://stocktwits.com"
+          }
+        },
+        {
+          "title": null,
+          "url": "https://twitter.com/soumyajyoti_b",
+          "shortened_url": "https://twitter.com/soumyajyoti_b",
+          "shortened_expanded_url": "twitter.com/soumyajyoti_b",
+          "description": null,
+          "image": null,
+          "created_at": "2020-12-09T13:16:43Z",
+          "video_url": null,
+          "source": {
+            "name": "Twitter",
+            "website": "https://twitter.com"
+          }
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          1559563
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 262688440,
+      "body": "$STM market movers... https://youtu.be/F2mAhuTCyYA",
+      "created_at": "2020-12-09T12:58:16Z",
+      "user": {
+        "id": 266242,
+        "username": "SmallShare",
+        "name": "SmallShare Trading",
+        "avatar_url": "https://avatars.stocktwits.com/production/266242/thumb-1516705650.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/266242/thumb-1516705650.png",
+        "join_date": "2013-10-01",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 856,
+        "following": 0,
+        "ideas": 48154,
+        "watchlist_stocks_count": 132,
+        "like_count": 729,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2095,
+        "title": "StockTwits For Android ",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 7297,
+          "symbol": "STM",
+          "title": "STMicroelectronics NV",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 6301
+        }
+      ],
+      "links": [
+        {
+          "title": "Live Streaming stock market gauges and our list of Market Movers!",
+          "url": "https://youtu.be/F2mAhuTCyYA",
+          "shortened_url": "https://youtu.be/F2mAhuTCyYA",
+          "shortened_expanded_url": "youtube.com/watch?v=F2mAhuT...",
+          "description": "Our list of market movers and live streaming market charts.music Phatt Package https://www.youtube.com/channel/UCnsnwlEH9NrnHrcIpCSOWbwhttps://soundcloud.com...",
+          "image": "https://i.ytimg.com/vi/F2mAhuTCyYA/hqdefault.jpg",
+          "created_at": "2020-12-09T12:58:16Z",
+          "video_url": "//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FF2mAhuTCyYA%3Ffeature%3Doembed=YouTube=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DF2mAhuTCyYA=https%3A%2F%2Fi.ytimg.com%2Fvi%2FF2mAhuTCyYA%2Fhqdefault.jpg=38dd9af069fe4432a0efe5550d2ea231=text%2Fhtml=youtube",
+          "source": {
+            "name": "YouTube",
+            "website": "https://www.youtube.com/"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 262687423,
+      "body": "$STM main that is painful",
+      "created_at": "2020-12-09T12:53:54Z",
+      "user": {
+        "id": 689034,
+        "username": "JDCPA",
+        "name": "SC",
+        "avatar_url": "https://avatars.stocktwits.com/production/689034/thumb-1455601347.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/689034/thumb-1455601347.png",
+        "join_date": "2016-02-16",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 21,
+        "following": 84,
+        "ideas": 753,
+        "watchlist_stocks_count": 6,
+        "like_count": 387,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 7297,
+          "symbol": "STM",
+          "title": "STMicroelectronics NV",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 6312
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          4292470
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 262685455,
+      "body": "$STM\nMarketChatter: STMicroelectronics (STM) expects the US-China trade war to affect its profitability and slow down its growth even after the pandemic is over, Reuters reported Wednesday, citing Chief Executive Jean-Marc Chery.The chipmaker was forced to stop selling to Huawei after the US government imposed sanctions on the telecom products company. It now expects Q4 revenue from Huawei to be &quot;&quot;zero&quot;&quot; and has postponed its $12 billion annual sales target by a year to 2023, the report said.&quot;&quot;For a period of time, (the trade war) will have an impact on the average content value we will be able to extract from both personal electronics and communications infrastructure and markets,&quot;&quot; Chery said.\n\nView the full list of news/momentum plays on watch at : bit.ly/32GfaRt\n[No bias / position]\n[Find me at https://stocktwits.com/sbiswas | https://twitter.com/soumyajyoti_b]&quot;",
+      "created_at": "2020-12-09T12:44:40Z",
+      "user": {
+        "id": 1665157,
+        "username": "sbiswas",
+        "name": "Soumyajyoti Biswas",
+        "avatar_url": "https://avatars.stocktwits.com/production/1665157/thumb-1598680399.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1665157/thumb-1598680399.png",
+        "join_date": "2018-10-17",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 357,
+        "following": 58,
+        "ideas": 4661,
+        "watchlist_stocks_count": 22,
+        "like_count": 74,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 7297,
+          "symbol": "STM",
+          "title": "STMicroelectronics NV",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 6301
+        }
+      ],
+      "links": [
+        {
+          "title": "Daily_Trade_Levels - Google Drive",
+          "url": "bit.ly/32GfaRt",
+          "shortened_url": "bit.ly/32GfaRt",
+          "shortened_expanded_url": "docs.google.com/spreadsheet...",
+          "description": null,
+          "image": null,
+          "created_at": "2020-12-09T12:44:40Z",
+          "video_url": null,
+          "source": {
+            "name": "Google",
+            "website": "https://docs.google.com"
+          }
+        },
+        {
+          "title": "Soumyajyoti Biswas (@sbiswas) | Stocktwits",
+          "url": "https://stocktwits.com/sbiswas",
+          "shortened_url": "https://stocktwits.com/sbiswas",
+          "shortened_expanded_url": "stocktwits.com/sbiswas",
+          "description": "The latest messages and market ideas from Soumyajyoti Biswas (@sbiswas) on Stocktwits. I trade only options based on momentum and/or news. I read news pre-market / search for stocks with momentum, and form a daily watch list to trade. Knowledge should always be free.",
+          "image": "https://avatars.stocktwits.com/production/1665157/large-1598680399.png",
+          "created_at": "2020-12-09T12:44:40Z",
+          "video_url": null,
+          "source": {
+            "name": "Stocktwits",
+            "website": "https://stocktwits.com"
+          }
+        },
+        {
+          "title": null,
+          "url": "https://twitter.com/soumyajyoti_b",
+          "shortened_url": "https://twitter.com/soumyajyoti_b",
+          "shortened_expanded_url": "twitter.com/soumyajyoti_b",
+          "description": null,
+          "image": null,
+          "created_at": "2020-12-09T12:44:40Z",
+          "video_url": null,
+          "source": {
+            "name": "Twitter",
+            "website": "https://twitter.com"
+          }
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          708606
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 262682082,
+      "body": "$STM averaging up. Been waiting for a time to buy",
+      "created_at": "2020-12-09T12:28:05Z",
+      "user": {
+        "id": 2870259,
+        "username": "SilverEagle",
+        "name": "ASE",
+        "avatar_url": "https://avatars.stocktwits.com/production/2870259/thumb-1571428764.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2870259/thumb-1571428764.png",
+        "join_date": "2019-10-18",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 1742,
+        "following": 17,
+        "ideas": 5033,
+        "watchlist_stocks_count": 31,
+        "like_count": 199,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 7297,
+          "symbol": "STM",
+          "title": "STMicroelectronics NV",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 6304
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 262682082,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 262677661,
+      "body": "$STM Call buyers about to get rocked.",
+      "created_at": "2020-12-09T12:03:25Z",
+      "user": {
+        "id": 131400,
+        "username": "Breakoutstockmoves",
+        "name": "Oracle of Options",
+        "avatar_url": "https://avatars.stocktwits.com/production/131400/thumb-1606216609.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/131400/thumb-1606216609.png",
+        "join_date": "2012-01-23",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 36,
+        "following": 0,
+        "ideas": 348,
+        "watchlist_stocks_count": 10,
+        "like_count": 47,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 7297,
+          "symbol": "STM",
+          "title": "STMicroelectronics NV",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 6299
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bearish"
+        }
+      }
+    },
+    {
+      "id": 262674862,
+      "body": "$WKHS looks like it can run again and finish green again just like yesterday.  In the meantime like $uber $avya $stm $cpb its being shorted which creates a great ev price entry. Jim Cramer of mad money on cnbc recently called  this a buy.  Cnbc loves wkhs  https://m.youtube.com/watch?feature=youtu.be&amp;v=JikfcAngS7E\n4+ posts on t5he profits twitter relate to $wkhs tech.  Lordstown uses wkhs tech https://mobile.twitter.com/marcuslemonis . We know who the THE PROFIT on CNBC is and we know this frame on his twitter page is wkhs /ride right? The w15 , usps truck, endurance frame are 100% wkhs tech.",
+      "created_at": "2020-12-09T11:43:35Z",
+      "user": {
+        "id": 2157044,
+        "username": "Tradingupwards",
+        "name": "Tradingupwards",
+        "avatar_url": "https://avatars.stocktwits.com/production/2157044/thumb-1565564641.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2157044/thumb-1565564641.png",
+        "join_date": "2019-06-23",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 1036,
+        "following": 400,
+        "ideas": 19852,
+        "watchlist_stocks_count": 84,
+        "like_count": 26746,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 4806,
+          "symbol": "CPB",
+          "title": "Campbell Soup Co.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 2589
+        },
+        {
+          "id": 7297,
+          "symbol": "STM",
+          "title": "STMicroelectronics NV",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 6299
+        },
+        {
+          "id": 11554,
+          "symbol": "UBER",
+          "title": "Uber",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 70365
+        },
+        {
+          "id": 12960,
+          "symbol": "WKHS",
+          "title": "Workhorse Group ",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 79029
+        },
+        {
+          "id": 14355,
+          "symbol": "AVYA",
+          "title": "Avaya Holdings Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1041
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 262674862,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 2
+      },
+      "links": [
+        {
+          "title": "Cramer says Workhorse is a BUY",
+          "url": "https://m.youtube.com/watch?feature=youtu.be&v=JikfcAngS7E",
+          "shortened_url": "https://m.youtube.com/watch?feature=youtu.be&v=JikfcAngS7E",
+          "shortened_expanded_url": "youtube.com/watch?app=deskt...",
+          "description": null,
+          "image": "https://i.ytimg.com/vi/JikfcAngS7E/hqdefault.jpg",
+          "created_at": "2020-12-09T11:43:36Z",
+          "video_url": "//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FJikfcAngS7E%3Ffeature%3Doembed=YouTube=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DJikfcAngS7E=https%3A%2F%2Fi.ytimg.com%2Fvi%2FJikfcAngS7E%2Fhqdefault.jpg=799f78c4081511e084894040444cdc60=text%2Fhtml=youtube",
+          "source": {
+            "name": "YouTube",
+            "website": "https://www.youtube.com/"
+          }
+        },
+        {
+          "title": null,
+          "url": "https://mobile.twitter.com/marcuslemonis",
+          "shortened_url": "https://mobile.twitter.com/marcuslemonis",
+          "shortened_expanded_url": "twitter.com/marcuslemonis",
+          "description": null,
+          "image": null,
+          "created_at": "2020-12-09T11:43:36Z",
+          "video_url": null,
+          "source": {
+            "name": "Twitter",
+            "website": "https://twitter.com"
+          }
+        }
+      ],
+      "likes": {
+        "total": 2,
+        "user_ids": [
+          3819892,
+          1936497
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 262671764,
+      "body": "$STM NEW ARTICLE : STMicroelectronics unveils roadmap to be carbon neutral by 2027, shares down 12% premarket https://www.stck.pro/news/STM/9526456",
+      "created_at": "2020-12-09T11:14:06Z",
+      "user": {
+        "id": 1555408,
+        "username": "STCKPRO",
+        "name": "STCK.PRO",
+        "avatar_url": "https://avatars.stocktwits.com/production/1555408/thumb-1576077822.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1555408/thumb-1576077822.png",
+        "join_date": "2018-07-24",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 4860,
+        "following": 2,
+        "ideas": 298305,
+        "watchlist_stocks_count": 18,
+        "like_count": 52,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5011,
+        "title": "STCK.PRO",
+        "url": "https://dashboard.stck.pro"
+      },
+      "symbols": [
+        {
+          "id": 7297,
+          "symbol": "STM",
+          "title": "STMicroelectronics NV",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 6299
+        }
+      ],
+      "links": [
+        {
+          "title": "STMICROELECTRONICS N.V. (STM) News - STCK.PRO",
+          "url": "https://www.stck.pro/news/STM/9526456",
+          "shortened_url": "https://www.stck.pro/news/STM/9526456",
+          "shortened_expanded_url": "stck.pro/news/STM",
+          "description": "Never miss an important article again, stay on top of your investments and become a better investor today! Get your moat on and sync your watchlist with Stocktwits and get all the latest news for your symbols. Sync with Stocktwits",
+          "image": "https://www.stck.pro/img/noog.png",
+          "created_at": "2020-12-09T11:14:07Z",
+          "video_url": null,
+          "source": {
+            "name": "STCK.PRO",
+            "website": "https://www.stck.pro"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 262670857,
+      "body": "$GRWG, $NETE and $STM losing pre market https://www.chartmill.com/stock/stock-screener?v=5&amp;f=s_pml,p_pg10,v1_50b500,exch_us&amp;utm_source=stocktwits&amp;utm_medium=screener&amp;utm_content=Stock_Screener:_pre_market_losers&amp;utm_campaign=social_tracking",
+      "created_at": "2020-12-09T11:05:00Z",
+      "user": {
+        "id": 47688,
+        "username": "ChartMill",
+        "name": "ChartMill",
+        "avatar_url": "https://avatars.stocktwits.com/production/47688/thumb-1363343728.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/47688/thumb-1363343728.png",
+        "join_date": "2011-01-26",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 22995,
+        "following": 891,
+        "ideas": 1137828,
+        "watchlist_stocks_count": 20,
+        "like_count": 32,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1135,
+        "title": "ChartMill",
+        "url": "http://www.chartmill.com"
+      },
+      "symbols": [
+        {
+          "id": 7297,
+          "symbol": "STM",
+          "title": "STMicroelectronics NV",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 6289
+        },
+        {
+          "id": 12204,
+          "symbol": "NETE",
+          "title": "Net Element",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 24902
+        },
+        {
+          "id": 15486,
+          "symbol": "GRWG",
+          "title": "GrowGeneration",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 8236
+        }
+      ],
+      "links": [
+        {
+          "title": null,
+          "url": "https://www.chartmill.com/stock/stock-screener?v=5&f=s_pml,p_pg10,v1_50b500,exch_us&utm_source=stocktwits&utm_medium=screener&utm_content=Stock_Screener:_pre_market_losers&utm_campaign=social_tracking",
+          "shortened_url": "https://www.chartmill.com/stock/stock-screener?v=5&f=s_pml,p_pg10,v1_50b500,exch_us&utm_source=stocktwits&utm_medium=screener&utm_content=Stock_Screener:_pre_market_losers&utm_campaign=social_tracking",
+          "shortened_expanded_url": "chartmill.com/stock/stock-s...",
+          "description": null,
+          "image": null,
+          "created_at": "2020-12-09T11:05:00Z",
+          "video_url": null,
+          "source": {
+            "name": "Chartmill",
+            "website": "https://www.chartmill.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 262670665,
+      "body": "$STM https://www.reuters.com/article/stmicroelectronics-investors/update-1-stmicro-says-us-china-trade-war-slows-its-growth-idUSL1N2IP0JC",
+      "created_at": "2020-12-09T11:03:09Z",
+      "user": {
+        "id": 299868,
+        "username": "mipeUK",
+        "name": "mipeter",
+        "avatar_url": "https://avatars.stocktwits.com/production/299868/thumb-1595149318.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/299868/thumb-1595149318.png",
+        "join_date": "2014-01-12",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 6,
+        "following": 81,
+        "ideas": 357,
+        "watchlist_stocks_count": 81,
+        "like_count": 524,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 7297,
+          "symbol": "STM",
+          "title": "STMicroelectronics NV",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 6299
+        }
+      ],
+      "links": [
+        {
+          "title": "STMicro says US-China trade war slows its growth",
+          "url": "https://www.reuters.com/article/stmicroelectronics-investors/update-1-stmicro-says-us-china-trade-war-slows-its-growth-idUSL1N2IP0JC",
+          "shortened_url": "https://www.reuters.com/article/stmicroelectronics-investors/update-1-stmicro-says-us-china-trade-war-slows-its-growth-idUSL1N2IP0JC",
+          "shortened_expanded_url": "reuters.com/article/us-stmi...",
+          "description": "PARIS (Reuters) -Franco-Italian chipmaker STMicroelectronics said the U.S.-China trade war and a near-embargo on Huawei, one of its biggest clients, would slow growth and affect profitability even if demand rebounds after a COVID-afflicted year. STMicro's chief executive said the group had to postpone its $12 billion annual sales target by a year to 2023, with a lower-than-expected operating margin in the range between 15% and 17%.",
+          "image": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+          "created_at": "2020-12-09T11:03:10Z",
+          "video_url": null,
+          "source": {
+            "name": "U.S.",
+            "website": "https://www.reuters.com"
+          }
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          3014054
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 262669989,
+      "body": "$STM WTF is happening? How is latest news a 12% drop?! Am I missing sth? I must be...\ud83e\udd37\ud83c\udffc\u200d\u2640\ufe0f\ud83c\udf40",
+      "created_at": "2020-12-09T10:56:21Z",
+      "user": {
+        "id": 678175,
+        "username": "SuzanaBlue",
+        "name": "Suze",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2016-01-27",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 28,
+        "following": 3,
+        "ideas": 4548,
+        "watchlist_stocks_count": 39,
+        "like_count": 1594,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 7297,
+          "symbol": "STM",
+          "title": "STMicroelectronics NV",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 6289
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 262669989,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 262669349,
+      "body": "$STM STMicroelectronics to be Carbon Neutral by 2027 https://www.otcdynamics.com/stm-stmicroelectronics-to-be-carbon-neutral-by-2027",
+      "created_at": "2020-12-09T10:47:46Z",
+      "user": {
+        "id": 253206,
+        "username": "otcdynamics",
+        "name": "otcdynamics",
+        "avatar_url": "https://avatars.stocktwits.com/production/253206/thumb-1432182723.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/253206/thumb-1432182723.png",
+        "join_date": "2013-08-16",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 457,
+        "following": 0,
+        "ideas": 69151,
+        "watchlist_stocks_count": 0,
+        "like_count": 56,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5512,
+        "title": "project_n",
+        "url": "https://www.otcdynamics.com"
+      },
+      "symbols": [
+        {
+          "id": 7297,
+          "symbol": "STM",
+          "title": "STMicroelectronics NV",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 6289
+        }
+      ],
+      "links": [
+        {
+          "title": "$STM STMicroelectronics to be Carbon Neutral by 2027",
+          "url": "https://www.otcdynamics.com/stm-stmicroelectronics-to-be-carbon-neutral-by-2027",
+          "shortened_url": "https://www.otcdynamics.com/stm-stmicroelectronics-to-be-carbon-neutral-by-2027",
+          "shortened_expanded_url": "otcdynamics.com/stm-stmicro...",
+          "description": "PR N\u00b0 C2974C STMicroelectronics to be Carbon Neutral by 2027 Comprehensive roadmap covers the reduction of direct and indirect emissions, including product transportation, business travel, and employee commuting Will source 100% renewable energy by 2027 Intermediate milestone, to be achieved by 2025, with full compliance to the 1.5\u00b0C scenario defined",
+          "image": null,
+          "created_at": "2020-12-09T10:47:47Z",
+          "video_url": null,
+          "source": {
+            "name": "Otcdynamics",
+            "website": "https://www.otcdynamics.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 262669055,
+      "body": "$STM STMicroelectronics unveils roadmap to be carbon neutral by 2027, shares down 12% premarket \n\nhttps://newsfilter.io/a/c8f5be67ddbec8ffa21d44550ed5227a",
+      "created_at": "2020-12-09T10:43:51Z",
+      "user": {
+        "id": 2762379,
+        "username": "Newsfilter",
+        "name": "@newsfilterio",
+        "avatar_url": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "join_date": "2019-09-01",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 8086,
+        "following": 16,
+        "ideas": 665510,
+        "watchlist_stocks_count": 1,
+        "like_count": 531,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 7297,
+          "symbol": "STM",
+          "title": "STMicroelectronics NV",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 6289
+        }
+      ],
+      "links": [
+        {
+          "title": "STMicroelectronics unveils roadmap to be carbon neutral by 2027, shares down 12% premarket",
+          "url": "https://newsfilter.io/a/c8f5be67ddbec8ffa21d44550ed5227a",
+          "shortened_url": "https://newsfilter.io/a/c8f5be67ddbec8ffa21d44550ed5227a",
+          "shortened_expanded_url": "newsfilter.io/a/c8f5be67ddb...",
+          "description": "STMicroelectronics unveils roadmap to be carbon neutral by 2027, shares down 12% premarket: STMicroelectronics plans to become carbon neutral by 2027, the earliest date anticipated for any semiconduct..",
+          "image": null,
+          "created_at": "2020-12-09T10:43:52Z",
+          "video_url": null,
+          "source": {
+            "name": "Newsfilter",
+            "website": "https://newsfilter.io"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 262668202,
+      "body": "$STM NEW ARTICLE : STMicroelectronics to be Carbon Neutral by 2027 https://www.stck.pro/news/STM/9526198",
+      "created_at": "2020-12-09T10:33:19Z",
+      "user": {
+        "id": 1555408,
+        "username": "STCKPRO",
+        "name": "STCK.PRO",
+        "avatar_url": "https://avatars.stocktwits.com/production/1555408/thumb-1576077822.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1555408/thumb-1576077822.png",
+        "join_date": "2018-07-24",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 4863,
+        "following": 2,
+        "ideas": 298273,
+        "watchlist_stocks_count": 18,
+        "like_count": 52,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5011,
+        "title": "STCK.PRO",
+        "url": "https://dashboard.stck.pro"
+      },
+      "symbols": [
+        {
+          "id": 7297,
+          "symbol": "STM",
+          "title": "STMicroelectronics NV",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 6289
+        }
+      ],
+      "links": [
+        {
+          "title": "STMICROELECTRONICS N.V. (STM) News - STCK.PRO",
+          "url": "https://www.stck.pro/news/STM/9526198",
+          "shortened_url": "https://www.stck.pro/news/STM/9526198",
+          "shortened_expanded_url": "stck.pro/news/STM",
+          "description": "Never miss an important article again, stay on top of your investments and become a better investor today! Get your moat on and sync your watchlist with Stocktwits and get all the latest news for your symbols. Sync with Stocktwits",
+          "image": "https://www.stck.pro/img/noog.png",
+          "created_at": "2020-12-09T10:33:21Z",
+          "video_url": null,
+          "source": {
+            "name": "STCK.PRO",
+            "website": "https://www.stck.pro"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_262668202.jpg",
+          "large": "https://charts.stocktwits.com/production/large_262668202.jpg",
+          "original": "https://charts.stocktwits.com/production/original_262668202.jpg",
+          "url": "https://charts.stocktwits.com/production/original_262668202.jpg"
+        },
+        "sentiment": null
+      }
+    },
+    {
+      "id": 262668201,
+      "body": "STMicroelectronics atteindra la neutralit\u00e9 carbone d\u00e8s 2027 http://www.conferencecalltranscripts.org/summary/?id=108331&amp;pr=true $STM",
+      "created_at": "2020-12-09T10:33:19Z",
+      "user": {
+        "id": 210967,
+        "username": "cctranscripts",
+        "name": "Conference Call Transcripts",
+        "avatar_url": "https://avatars.stocktwits.com/production/210967/thumb-1363372333.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/210967/thumb-1363372333.png",
+        "join_date": "2013-01-30",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 6492,
+        "following": 10,
+        "ideas": 2419761,
+        "watchlist_stocks_count": 0,
+        "like_count": 760,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1130,
+        "title": "cctranscripts",
+        "url": "http://conferencecalltranscripts.org"
+      },
+      "symbols": [
+        {
+          "id": 7297,
+          "symbol": "STM",
+          "title": "STMicroelectronics NV",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 6289
+        }
+      ],
+      "links": [
+        {
+          "title": "Conference Call Transcripts",
+          "url": "http://www.conferencecalltranscripts.org/summary/?id=108331&pr=true",
+          "shortened_url": "http://www.conferencecalltranscripts.org/summary/?id=108331&pr=true",
+          "shortened_expanded_url": "conferencecalltranscripts.o...",
+          "description": "Company Conference Call Transcripts",
+          "image": null,
+          "created_at": "2020-12-09T10:33:20Z",
+          "video_url": null,
+          "source": {
+            "name": "Conferencecalltranscripts",
+            "website": "http://www.conferencecalltranscripts.org"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 262668189,
+      "body": "STMicroelectronics to be Carbon Neutral by 2027 http://www.conferencecalltranscripts.org/summary/?id=108330&amp;pr=true $STM",
+      "created_at": "2020-12-09T10:33:11Z",
+      "user": {
+        "id": 210967,
+        "username": "cctranscripts",
+        "name": "Conference Call Transcripts",
+        "avatar_url": "https://avatars.stocktwits.com/production/210967/thumb-1363372333.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/210967/thumb-1363372333.png",
+        "join_date": "2013-01-30",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 6492,
+        "following": 10,
+        "ideas": 2419761,
+        "watchlist_stocks_count": 0,
+        "like_count": 760,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1130,
+        "title": "cctranscripts",
+        "url": "http://conferencecalltranscripts.org"
+      },
+      "symbols": [
+        {
+          "id": 7297,
+          "symbol": "STM",
+          "title": "STMicroelectronics NV",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 6289
+        }
+      ],
+      "links": [
+        {
+          "title": "Conference Call Transcripts",
+          "url": "http://www.conferencecalltranscripts.org/summary/?id=108330&pr=true",
+          "shortened_url": "http://www.conferencecalltranscripts.org/summary/?id=108330&pr=true",
+          "shortened_expanded_url": "conferencecalltranscripts.o...",
+          "description": "Company Conference Call Transcripts",
+          "image": null,
+          "created_at": "2020-12-09T10:33:12Z",
+          "video_url": null,
+          "source": {
+            "name": "Conferencecalltranscripts",
+            "website": "http://www.conferencecalltranscripts.org"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 262667952,
+      "body": "$STM STMicroelectronics to be Carbon Neutral by 2027 \n\nhttps://newsfilter.io/a/1ba9a69f0c64b413aa74fdb3f9fbbdf1",
+      "created_at": "2020-12-09T10:30:26Z",
+      "user": {
+        "id": 2762379,
+        "username": "Newsfilter",
+        "name": "@newsfilterio",
+        "avatar_url": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "join_date": "2019-09-01",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 8087,
+        "following": 16,
+        "ideas": 665510,
+        "watchlist_stocks_count": 1,
+        "like_count": 531,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 7297,
+          "symbol": "STM",
+          "title": "STMicroelectronics NV",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 6289
+        }
+      ],
+      "links": [
+        {
+          "title": "STMicroelectronics to be Carbon Neutral by 2027",
+          "url": "https://newsfilter.io/a/1ba9a69f0c64b413aa74fdb3f9fbbdf1",
+          "shortened_url": "https://newsfilter.io/a/1ba9a69f0c64b413aa74fdb3f9fbbdf1",
+          "shortened_expanded_url": "newsfilter.io/a/1ba9a69f0c6...",
+          "description": "PR N\u00b0 C2974C STMicroelectronics to be Carbon Neutral by 2027 Comprehensive roadmap covers the reduction of direct and indirect emissions, including product transportation, business travel, and employee commuting Will source 100% renewable energy by 2027 Intermediate milestone, to be achieved by 2025, with full compliance to the 1.5\u00b0C scenario defined",
+          "image": null,
+          "created_at": "2020-12-09T10:30:27Z",
+          "video_url": null,
+          "source": {
+            "name": "Newsfilter",
+            "website": "https://newsfilter.io"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 262667939,
+      "body": "$STM STMicroelectronics to be Carbon Neutral by 2027\n\nRead and Vote! This insight is:\n1. \ud83d\udc02Positive: https://quantisnow.com/insight/205633?v=0\n2. \ud83d\udc7dNeutral: https://quantisnow.com/insight/205633?v=1\n3. \ud83d\udc3bNegative: https://quantisnow.com/insight/205633?v=2\n\n#semiconductors #technology",
+      "created_at": "2020-12-09T10:30:21Z",
+      "user": {
+        "id": 4280914,
+        "username": "Quantisnow",
+        "name": "Quantisnow",
+        "avatar_url": "https://avatars.stocktwits.com/production/4280914/thumb-1604765185.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/4280914/thumb-1604765185.png",
+        "join_date": "2020-11-07",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 88,
+        "following": 1,
+        "ideas": 7423,
+        "watchlist_stocks_count": 0,
+        "like_count": 10,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5981,
+        "title": "Quantisnow",
+        "url": "https://quantisnow.com"
+      },
+      "symbols": [
+        {
+          "id": 7297,
+          "symbol": "STM",
+          "title": "STMicroelectronics NV",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 6289
+        }
+      ],
+      "links": [
+        {
+          "title": null,
+          "url": "https://quantisnow.com/insight/205633?v=0",
+          "shortened_url": "https://quantisnow.com/insight/205633?v=0",
+          "shortened_expanded_url": "quantisnow.com/insight/2056...",
+          "description": null,
+          "image": null,
+          "created_at": "2020-12-09T10:30:21Z",
+          "video_url": null,
+          "source": {
+            "name": "Quantisnow",
+            "website": "https://quantisnow.com"
+          }
+        },
+        {
+          "title": null,
+          "url": "https://quantisnow.com/insight/205633?v=1",
+          "shortened_url": "https://quantisnow.com/insight/205633?v=1",
+          "shortened_expanded_url": "quantisnow.com/insight/2056...",
+          "description": null,
+          "image": null,
+          "created_at": "2020-12-09T10:30:21Z",
+          "video_url": null,
+          "source": {
+            "name": "Quantisnow",
+            "website": "https://quantisnow.com"
+          }
+        },
+        {
+          "title": null,
+          "url": "https://quantisnow.com/insight/205633?v=2",
+          "shortened_url": "https://quantisnow.com/insight/205633?v=2",
+          "shortened_expanded_url": "quantisnow.com/insight/2056...",
+          "description": null,
+          "image": null,
+          "created_at": "2020-12-09T10:30:21Z",
+          "video_url": null,
+          "source": {
+            "name": "Quantisnow",
+            "website": "https://quantisnow.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 262663367,
+      "body": "$STM 50dma at $35",
+      "created_at": "2020-12-09T09:25:20Z",
+      "user": {
+        "id": 713758,
+        "username": "rupert1",
+        "name": "Bk",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2016-03-24",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 630,
+        "following": 327,
+        "ideas": 32747,
+        "watchlist_stocks_count": 300,
+        "like_count": 31745,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 7297,
+          "symbol": "STM",
+          "title": "STMicroelectronics NV",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 6285
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 262662718,
+      "body": "$STM what news?",
+      "created_at": "2020-12-09T09:15:43Z",
+      "user": {
+        "id": 713758,
+        "username": "rupert1",
+        "name": "Bk",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2016-03-24",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 630,
+        "following": 327,
+        "ideas": 32750,
+        "watchlist_stocks_count": 300,
+        "like_count": 31746,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 7297,
+          "symbol": "STM",
+          "title": "STMicroelectronics NV",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 6289
+        }
+      ],
+      "reshares": {
+        "reshared_count": 1,
+        "user_ids": [
+          3916109
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 262419577,
+      "body": "$STM Buy the dip",
+      "created_at": "2020-12-08T16:37:57Z",
+      "user": {
+        "id": 4185019,
+        "username": "CoolKoala",
+        "name": "Rick",
+        "avatar_url": "https://avatars.stocktwits.com/production/4185019/thumb-1607100802.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/4185019/thumb-1607100802.png",
+        "join_date": "2020-10-14",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 4,
+        "following": 10,
+        "ideas": 42,
+        "watchlist_stocks_count": 9,
+        "like_count": 409,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 7297,
+          "symbol": "STM",
+          "title": "STMicroelectronics NV",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 6282
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          4185019
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 262404597,
+      "body": "2020-12-08 16:04:59+00:00 $ALK, $AMD, $STM    Intra-day Move",
+      "created_at": "2020-12-08T16:05:00Z",
+      "user": {
+        "id": 1511377,
+        "username": "YuMiStocks_Trade",
+        "name": "YuMIStocksTrade.com",
+        "avatar_url": "https://avatars.stocktwits.com/production/1511377/thumb-1596895665.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1511377/thumb-1596895665.png",
+        "join_date": "2018-06-04",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 393,
+        "following": 1,
+        "ideas": 8454,
+        "watchlist_stocks_count": 34,
+        "like_count": 602,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5846,
+        "title": "ConfluxBot",
+        "url": "https://app.confluxbot.com"
+      },
+      "symbols": [
+        {
+          "id": 4320,
+          "symbol": "ALK",
+          "title": "Alaska Air Group, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 7192
+        },
+        {
+          "id": 4331,
+          "symbol": "AMD",
+          "title": "Advanced Micro Devices, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 291634
+        },
+        {
+          "id": 7297,
+          "symbol": "STM",
+          "title": "STMicroelectronics NV",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 6282
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    }
+  ]
+}

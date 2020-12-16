@@ -1,0 +1,1815 @@
+{
+  "response": {
+    "status": 200
+  },
+  "symbol": {
+    "id": 3290,
+    "symbol": "QCOM",
+    "title": "QUALCOMM Incorporated",
+    "aliases": [],
+    "is_following": false,
+    "watchlist_count": 41070
+  },
+  "cursor": {
+    "more": true,
+    "since": 263643595,
+    "max": 263603226
+  },
+  "messages": [
+    {
+      "id": 263643595,
+      "body": "$QCOM Revenue 8.5B year/year up 73.37% 11% comes from Apple over reaction",
+      "created_at": "2020-12-11T20:09:41Z",
+      "user": {
+        "id": 918928,
+        "username": "Hoodwink",
+        "name": "jeff koski",
+        "avatar_url": "https://avatars.stocktwits.com/production/918928/thumb-1484688494.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/918928/thumb-1484688494.png",
+        "join_date": "2017-01-07",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 5,
+        "following": 70,
+        "ideas": 613,
+        "watchlist_stocks_count": 75,
+        "like_count": 384,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 3290,
+          "symbol": "QCOM",
+          "title": "QUALCOMM Incorporated",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 41070
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 263641467,
+      "body": "$QCOM Option Order Flow Sentiment has Shifted from Bullish to Bearish. https://tinyurl.com/yxhnlpg3",
+      "created_at": "2020-12-11T20:04:15Z",
+      "user": {
+        "id": 800154,
+        "username": "marketchameleonwins",
+        "name": "marketchameleon",
+        "avatar_url": "https://avatars.stocktwits.com/production/800154/thumb-1470414114.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/800154/thumb-1470414114.png",
+        "join_date": "2016-07-21",
+        "official": true,
+        "identity": "Official",
+        "classification": [
+          "official"
+        ],
+        "followers": 14843,
+        "following": 350,
+        "ideas": 219930,
+        "watchlist_stocks_count": 1,
+        "like_count": 304,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2931,
+        "title": "MarketChameleon.com",
+        "url": "https://marketchameleon.com"
+      },
+      "symbols": [
+        {
+          "id": 3290,
+          "symbol": "QCOM",
+          "title": "QUALCOMM Incorporated",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 41070
+        }
+      ],
+      "links": [
+        {
+          "title": "Market Chameleon",
+          "url": "https://tinyurl.com/yxhnlpg3",
+          "shortened_url": "https://tinyurl.com/yxhnlpg3",
+          "shortened_expanded_url": "marketchameleon.com/Overvie...",
+          "description": "Possible reasons for receiving this error Corrective action(s) Accessing from a virtual machine and/or managed hosting environment Use a physical, local machine Using a VPN or other security product Disable it Using web automation or a non-standard web browser such as a crawler This is prohibited under MarketChameleon's Terms of Use Opening excessive windows and/or tabs Close all MarketChameleon windows/tabs and launch just one If you feel that you've received this message in error, please email the details that appear below to support@marketchameleon.com URL: https://marketchameleon.com/Overview/QCOM/OptionOrderSentiment/ Reference Number: 18.254a0760.1607717056.3979bc56",
+          "image": null,
+          "created_at": "2020-12-11T20:04:16Z",
+          "video_url": null,
+          "source": {
+            "name": "Marketchameleon",
+            "website": "https://marketchameleon.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 263638618,
+      "body": "Qualcomm Stock Falls As Apple Looks To Make Its Own Modem Chips https://www.investors.com/news/technology/qualcomm-stock-falls-apple-makes-own-modem-chips/ $QCOM $AAPL $INTC",
+      "created_at": "2020-12-11T19:57:06Z",
+      "user": {
+        "id": 1134530,
+        "username": "patrickseitz",
+        "name": "Patrick Seitz",
+        "avatar_url": "https://avatars.stocktwits.com/production/1134530/thumb-1500910696.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1134530/thumb-1500910696.png",
+        "join_date": "2017-07-24",
+        "official": true,
+        "identity": "Official",
+        "classification": [
+          "suggested",
+          "official"
+        ],
+        "followers": 220,
+        "following": 554,
+        "ideas": 2222,
+        "watchlist_stocks_count": 46,
+        "like_count": 59,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 686,
+          "symbol": "AAPL",
+          "title": "Apple Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 548133
+        },
+        {
+          "id": 2310,
+          "symbol": "INTC",
+          "title": "Intel Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 89336
+        },
+        {
+          "id": 3290,
+          "symbol": "QCOM",
+          "title": "QUALCOMM Incorporated",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 41070
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 263638618,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "links": [
+        {
+          "title": "Qualcomm Stock Falls As Apple Looks To Make Its Own Modem Chips",
+          "url": "https://www.investors.com/news/technology/qualcomm-stock-falls-apple-makes-own-modem-chips/",
+          "shortened_url": "https://www.investors.com/news/technology/qualcomm-stock-falls-apple-makes-own-modem-chips/",
+          "shortened_expanded_url": "investors.com/news/technolo...",
+          "description": "Qualcomm stock tumbled Friday as investors mulled a report that Apple ( AAPL) is developing its own cellular modems for future devices. Qualcomm currently makes modems for Apple iPhones and other wireless devices. In midday trading on the stock market today, Qualcomm ( QCOM) fell 7.7%, near 143.85.",
+          "image": "https://www.investors.com/wp-content/uploads/2017/11/Stock-Qualcomm-01-shutter.jpg",
+          "created_at": "2020-12-11T19:57:06Z",
+          "video_url": null,
+          "source": {
+            "name": "Investor's Business Daily",
+            "website": "https://www.investors.com"
+          }
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          1223878
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 263637457,
+      "body": "$QCOM easy money",
+      "created_at": "2020-12-11T19:54:05Z",
+      "user": {
+        "id": 3221449,
+        "username": "Maazzaidi",
+        "name": "Maaz Zaidi",
+        "avatar_url": "https://avatars.stocktwits.com/production/3221449/thumb-1598908020.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3221449/thumb-1598908020.png",
+        "join_date": "2020-03-24",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 3,
+        "following": 13,
+        "ideas": 33,
+        "watchlist_stocks_count": 51,
+        "like_count": 25,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 3290,
+          "symbol": "QCOM",
+          "title": "QUALCOMM Incorporated",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 41070
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 263636559,
+      "body": "$WKHS $30 price expectaion lets go! $QCOM $PFE $unfi $odt jump on if you want to  \n\nhttps://investorplace.com/2020/12/weakness-in-workhorse-group-is-a-buying-opportunity/\n\nYesterday this report said wkhs outperforms 99% of all stocks https://www.chartmill.com/stock/analyzer/stock/WKHS?key=3a28b48b-8131-4145-8c0d-63afc83a8491&amp;utm_source=stocktwits&amp;utm_medium=TA&amp;utm_content=WKHS&amp;utm_campaign=social_tracking\n\nJim Cramer of mad money on cnbc recently called this a buy. Cnbc loves wkhs https://m.youtube.com/watch?feature=youtu.be&amp;v=JikfcAngS7E\n\n4+ posts on the profits twitter relate to $wkhs tech. Lordstown uses wkhs tech https://mobile.twitter.com/marcuslemonis . We know who the THE PROFIT on CNBC is and we know this frame on his twitter page is wkhs /ride right? The w15 , usps truck, endurance frame are 100% wkhs tech.",
+      "created_at": "2020-12-11T19:51:48Z",
+      "user": {
+        "id": 2157044,
+        "username": "Tradingupwards",
+        "name": "Tradingupwards",
+        "avatar_url": "https://avatars.stocktwits.com/production/2157044/thumb-1565564641.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2157044/thumb-1565564641.png",
+        "join_date": "2019-06-23",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 1047,
+        "following": 400,
+        "ideas": 20028,
+        "watchlist_stocks_count": 84,
+        "like_count": 26869,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 3290,
+          "symbol": "QCOM",
+          "title": "QUALCOMM Incorporated",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 41070
+        },
+        {
+          "id": 3957,
+          "symbol": "UNFI",
+          "title": "United Natural Foods, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 3561
+        },
+        {
+          "id": 6728,
+          "symbol": "PFE",
+          "title": "Pfizer Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 58538
+        },
+        {
+          "id": 12960,
+          "symbol": "WKHS",
+          "title": "Workhorse Group ",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 79328
+        },
+        {
+          "id": 14162,
+          "symbol": "ODT",
+          "title": "Odonate Therapeutics",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1047
+        }
+      ],
+      "links": [
+        {
+          "title": "Weakness in Workhorse Group Is a Buying Opportunity",
+          "url": "https://investorplace.com/2020/12/weakness-in-workhorse-group-is-a-buying-opportunity/",
+          "shortened_url": "https://investorplace.com/2020/12/weakness-in-workhorse-group-is-a-buying-opportunity/",
+          "shortened_expanded_url": "investorplace.com/2020/12/w...",
+          "description": "One of the hottest investments in New Year 2021 will be in electric vehicle stocks, such as Workhorse Group (NASDAQ:) stock. For one, sales may only increase from here, as China, Europe and the U.S. push for a greener, EV future. California Gov.",
+          "image": "https://investorplace.com/wp-content/uploads/2020/07/workhorse_wkhs1600.jpg",
+          "created_at": "2020-12-11T19:51:48Z",
+          "video_url": null,
+          "source": {
+            "name": "InvestorPlace",
+            "website": "https://investorplace.com"
+          }
+        },
+        {
+          "title": null,
+          "url": "https://www.chartmill.com/stock/analyzer/stock/WKHS?key=3a28b48b-8131-4145-8c0d-63afc83a8491&utm_source=stocktwits&utm_medium=TA&utm_content=WKHS&utm_campaign=social_tracking",
+          "shortened_url": "https://www.chartmill.com/stock/analyzer/stock/WKHS?key=3a28b48b-8131-4145-8c0d-63afc83a8491&utm_source=stocktwits&utm_medium=TA&utm_content=WKHS&utm_campaign=social_tracking",
+          "shortened_expanded_url": "chartmill.com/stock/analyze...",
+          "description": null,
+          "image": null,
+          "created_at": "2020-12-11T19:51:48Z",
+          "video_url": null,
+          "source": {
+            "name": "Chartmill",
+            "website": "https://www.chartmill.com"
+          }
+        },
+        {
+          "title": "Cramer says Workhorse is a BUY",
+          "url": "https://m.youtube.com/watch?feature=youtu.be&v=JikfcAngS7E",
+          "shortened_url": "https://m.youtube.com/watch?feature=youtu.be&v=JikfcAngS7E",
+          "shortened_expanded_url": "youtube.com/watch?app=deskt...",
+          "description": null,
+          "image": "https://i.ytimg.com/vi/JikfcAngS7E/hqdefault.jpg",
+          "created_at": "2020-12-11T19:51:48Z",
+          "video_url": "//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FJikfcAngS7E%3Ffeature%3Doembed=YouTube=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DJikfcAngS7E=https%3A%2F%2Fi.ytimg.com%2Fvi%2FJikfcAngS7E%2Fhqdefault.jpg=38dd9af069fe4432a0efe5550d2ea231=text%2Fhtml=youtube",
+          "source": {
+            "name": "YouTube",
+            "website": "https://www.youtube.com/"
+          }
+        },
+        {
+          "title": null,
+          "url": "https://mobile.twitter.com/marcuslemonis",
+          "shortened_url": "https://mobile.twitter.com/marcuslemonis",
+          "shortened_expanded_url": "twitter.com/marcuslemonis",
+          "description": null,
+          "image": null,
+          "created_at": "2020-12-11T19:51:48Z",
+          "video_url": null,
+          "source": {
+            "name": "Twitter",
+            "website": "https://twitter.com"
+          }
+        }
+      ],
+      "likes": {
+        "total": 2,
+        "user_ids": [
+          4120589,
+          925203
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 263635813,
+      "body": "$QCOM if you have not seen yet, is down on $AAPL starting to build it&#39;s own cellular modems.  -7.6% now.",
+      "created_at": "2020-12-11T19:49:54Z",
+      "user": {
+        "id": 15302,
+        "username": "SunAndStorm",
+        "name": "David Durand",
+        "avatar_url": "https://avatars.stocktwits.com/production/15302/thumb-1393022401.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/15302/thumb-1393022401.png",
+        "join_date": "2010-05-18",
+        "official": false,
+        "identity": "User",
+        "classification": [
+          "suggested"
+        ],
+        "followers": 32620,
+        "following": 5,
+        "ideas": 37265,
+        "watchlist_stocks_count": 70,
+        "like_count": 629,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 686,
+          "symbol": "AAPL",
+          "title": "Apple Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 548104
+        },
+        {
+          "id": 3290,
+          "symbol": "QCOM",
+          "title": "QUALCOMM Incorporated",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 41070
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 263630994,
+      "body": "$QCOM who would sell this gem?  5G is just starting and qcom has the best chips,   Period",
+      "created_at": "2020-12-11T19:37:46Z",
+      "user": {
+        "id": 380567,
+        "username": "bostontrip123",
+        "name": "Chris Wegman",
+        "avatar_url": "https://avatars.stocktwits.com/production/380567/thumb-1420502534.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/380567/thumb-1420502534.png",
+        "join_date": "2014-07-27",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 33,
+        "following": 66,
+        "ideas": 2704,
+        "watchlist_stocks_count": 6,
+        "like_count": 269,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 3290,
+          "symbol": "QCOM",
+          "title": "QUALCOMM Incorporated",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 41070
+        }
+      ],
+      "likes": {
+        "total": 6,
+        "user_ids": [
+          4147266,
+          2901551,
+          1641010,
+          816022,
+          1925885,
+          917050
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 263630657,
+      "body": "Unusual vol losers in the afternoon \n$QCOM $MD $JBLU  \n \nScan updates every 5 secs. \nstockbeep.com/uvl-dec11p",
+      "created_at": "2020-12-11T19:36:52Z",
+      "user": {
+        "id": 1572122,
+        "username": "Stockbeep_Scanner",
+        "name": "stockbeep.com",
+        "avatar_url": "https://avatars.stocktwits.com/production/1572122/thumb-1543837039.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1572122/thumb-1543837039.png",
+        "join_date": "2018-08-10",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 4639,
+        "following": 11,
+        "ideas": 8520,
+        "watchlist_stocks_count": 0,
+        "like_count": 43,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1022,
+        "title": "Zapier",
+        "url": "https://zapier.com/"
+      },
+      "symbols": [
+        {
+          "id": 2385,
+          "symbol": "JBLU",
+          "title": "JetBlue Airways Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 20226
+        },
+        {
+          "id": 3290,
+          "symbol": "QCOM",
+          "title": "QUALCOMM Incorporated",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 41070
+        },
+        {
+          "id": 6253,
+          "symbol": "MD",
+          "title": "MEDNAX, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 338
+        }
+      ],
+      "links": [
+        {
+          "title": "Unusual Volume Losers Today - Down On High Relative Volume (RVol) | NYSE, NASDAQ and AMEX",
+          "url": "stockbeep.com/uvl-dec11p",
+          "shortened_url": "stockbeep.com/uvl-dec11p",
+          "shortened_expanded_url": "stockbeep.com/unusual-volum...",
+          "description": "Unusual volume losers are stocks that are moving lower on unusually high volume. Increased volume flows are correlated with volatility. A heightened volume indicates something is going on today and that the stock is \"in play\". A stock moving down on unusually high volume typically implies distribution of the stock.",
+          "image": "https://stockbeep.com/images/unusual-volume-losers-NYSE-NASDAQ-AMEX.png",
+          "created_at": "2020-12-11T19:36:56Z",
+          "video_url": null,
+          "source": {
+            "name": "StockBeep",
+            "website": "https://stockbeep.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 263630157,
+      "body": "$QCOM  A big company like Qualcomm and people want to pay more for door dash smfh",
+      "created_at": "2020-12-11T19:35:35Z",
+      "user": {
+        "id": 918928,
+        "username": "Hoodwink",
+        "name": "jeff koski",
+        "avatar_url": "https://avatars.stocktwits.com/production/918928/thumb-1484688494.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/918928/thumb-1484688494.png",
+        "join_date": "2017-01-07",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 5,
+        "following": 70,
+        "ideas": 606,
+        "watchlist_stocks_count": 75,
+        "like_count": 384,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 3290,
+          "symbol": "QCOM",
+          "title": "QUALCOMM Incorporated",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 41070
+        }
+      ],
+      "likes": {
+        "total": 3,
+        "user_ids": [
+          2901551,
+          832761,
+          816022
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 263625538,
+      "body": "$QCOM hmm down..dip...buyer for a swing...",
+      "created_at": "2020-12-11T19:23:06Z",
+      "user": {
+        "id": 816022,
+        "username": "r3y",
+        "name": "MonedaCrypto",
+        "avatar_url": "https://avatars.stocktwits.com/production/816022/thumb-1476267369.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/816022/thumb-1476267369.png",
+        "join_date": "2016-08-10",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 38,
+        "following": 89,
+        "ideas": 1551,
+        "watchlist_stocks_count": 10,
+        "like_count": 1357,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2095,
+        "title": "StockTwits For Android ",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 3290,
+          "symbol": "QCOM",
+          "title": "QUALCOMM Incorporated",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 41070
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 263624593,
+      "body": "$QCOM apple was huge customer",
+      "created_at": "2020-12-11T19:20:31Z",
+      "user": {
+        "id": 171692,
+        "username": "ure300",
+        "name": "al hoss",
+        "avatar_url": "https://avatars.stocktwits.com/production/171692/thumb-1366831549.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/171692/thumb-1366831549.png",
+        "join_date": "2012-07-26",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 97,
+        "following": 30,
+        "ideas": 18970,
+        "watchlist_stocks_count": 22,
+        "like_count": 16,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 3290,
+          "symbol": "QCOM",
+          "title": "QUALCOMM Incorporated",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 41070
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 263624593,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          2901551
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 263622965,
+      "body": "$QCOM buying opportunity on old Apple news",
+      "created_at": "2020-12-11T19:16:18Z",
+      "user": {
+        "id": 1356758,
+        "username": "Zzxxyy",
+        "name": "\ud83d\udc7d",
+        "avatar_url": "https://avatars.stocktwits.com/production/1356758/thumb-1607245153.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1356758/thumb-1607245153.png",
+        "join_date": "2018-01-08",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 24,
+        "following": 78,
+        "ideas": 1331,
+        "watchlist_stocks_count": 275,
+        "like_count": 497,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2095,
+        "title": "StockTwits For Android ",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 3290,
+          "symbol": "QCOM",
+          "title": "QUALCOMM Incorporated",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 41070
+        }
+      ],
+      "likes": {
+        "total": 2,
+        "user_ids": [
+          816022,
+          1925885
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 263622887,
+      "body": "Citi would look to add to Qualcomm positions, calls Apple report &#39;no biggie&#39; - $QCOM - http://thefly.com/permalinks/entry.php/QCOMid3211870",
+      "created_at": "2020-12-11T19:16:06Z",
+      "user": {
+        "id": 29849,
+        "username": "theflynews",
+        "name": "TheFly",
+        "avatar_url": "https://avatars.stocktwits.com/production/29849/thumb-1517499041.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/29849/thumb-1517499041.png",
+        "join_date": "2010-11-17",
+        "official": true,
+        "identity": "Official",
+        "classification": [
+          "official"
+        ],
+        "followers": 164974,
+        "following": 0,
+        "ideas": 22921,
+        "watchlist_stocks_count": 1,
+        "like_count": 1,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1022,
+        "title": "Zapier",
+        "url": "https://zapier.com/"
+      },
+      "symbols": [
+        {
+          "id": 3290,
+          "symbol": "QCOM",
+          "title": "QUALCOMM Incorporated",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 41070
+        }
+      ],
+      "links": [
+        {
+          "title": "Citi would look to add to Qualcomm positions, calls Apple report 'no biggie'",
+          "url": "http://thefly.com/permalinks/entry.php/QCOMid3211870",
+          "shortened_url": "http://thefly.com/permalinks/entry.php/QCOMid3211870",
+          "shortened_expanded_url": "thefly.com/landingPageNews....",
+          "description": "Today's most popular companies and stories 1 of Top Stories Earnings calls, analyst events, roadshows and more Tomorrow at 00:00 Fall MedTech Summit Conferences Virtual Conference Tomorrow at 00:00 Fall MedTech Summit Conferences Virtual Conference Tomorrow at 00:00 Fall MedTech Summit Conferences Virtual Conference View All Events \" 1 of This week's upcoming IPOs and secondary offerings Mon VRM X Vroom Block Trade Managers: Goldman Sachs $32.80-33.131.76M Shares Tues No deals Wed No deals Thurs WMS X Advanced Drainage Block Trade Managers: Morgan Stanley $75.75-76.001.67M Shares Fri No deals View All Syndicate Announcements \"",
+          "image": null,
+          "created_at": "2020-12-11T19:16:14Z",
+          "video_url": null,
+          "source": {
+            "name": "Thefly",
+            "website": "https://thefly.com"
+          }
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          1641010
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 263622140,
+      "body": "$QCOM volume up by +289.73 % | 18,618,516 vs 4,777,239 \n  https://www.sleekoptions.com/sleekscan.aspx?did=QCOM",
+      "created_at": "2020-12-11T19:14:07Z",
+      "user": {
+        "id": 1553598,
+        "username": "sleekoptions_twits",
+        "name": "sleekOptions Signals",
+        "avatar_url": "https://avatars.stocktwits.com/production/1553598/thumb-1600048561.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1553598/thumb-1600048561.png",
+        "join_date": "2018-07-22",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 2059,
+        "following": 47,
+        "ideas": 30808,
+        "watchlist_stocks_count": 3,
+        "like_count": 269,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 4255,
+        "title": "Sleekoptions Daytrade",
+        "url": "http://www.sleekoptions.com"
+      },
+      "symbols": [
+        {
+          "id": 3290,
+          "symbol": "QCOM",
+          "title": "QUALCOMM Incorporated",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 41061
+        }
+      ],
+      "links": [
+        {
+          "title": "SleekOptions.com - Algo based option trading Alerts",
+          "url": "https://www.sleekoptions.com/sleekscan.aspx?did=QCOM",
+          "shortened_url": "https://www.sleekoptions.com/sleekscan.aspx?did=QCOM",
+          "shortened_expanded_url": "sleekoptions.com/sleekscan....",
+          "description": "SleekOptions.com - Algo based option trading alerts gives you near real time alerts of good setups for option trading. Option trading alerts are triggered by the system using proprietary algo , historical data analysis, technical analysis and price action analysis. The alerts are posted in both the website and also in chat platform for push and email notifications.",
+          "image": null,
+          "created_at": "2020-12-11T19:14:09Z",
+          "video_url": null,
+          "source": {
+            "name": "Sleekoptions",
+            "website": "https://www.sleekoptions.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 263622125,
+      "body": "$QCOM NEW ARTICLE : Qualcomm: Apple Is A Problem, But Not Worried https://www.stck.pro/news/QCOM/9591935",
+      "created_at": "2020-12-11T19:14:05Z",
+      "user": {
+        "id": 1555408,
+        "username": "STCKPRO",
+        "name": "STCK.PRO",
+        "avatar_url": "https://avatars.stocktwits.com/production/1555408/thumb-1576077822.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1555408/thumb-1576077822.png",
+        "join_date": "2018-07-24",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 4905,
+        "following": 2,
+        "ideas": 301433,
+        "watchlist_stocks_count": 18,
+        "like_count": 52,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5011,
+        "title": "STCK.PRO",
+        "url": "https://dashboard.stck.pro"
+      },
+      "symbols": [
+        {
+          "id": 3290,
+          "symbol": "QCOM",
+          "title": "QUALCOMM Incorporated",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 41061
+        }
+      ],
+      "links": [
+        {
+          "title": "QUALCOMM (QCOM) News - STCK.PRO",
+          "url": "https://www.stck.pro/news/QCOM/9591935",
+          "shortened_url": "https://www.stck.pro/news/QCOM/9591935",
+          "shortened_expanded_url": "stck.pro/news/QCOM",
+          "description": "Never miss an important article again, stay on top of your investments and become a better investor today! Get your moat on and sync your watchlist with Stocktwits and get all the latest news for your symbols. Sync with Stocktwits",
+          "image": "https://www.stck.pro/img/noog.png",
+          "created_at": "2020-12-11T19:14:09Z",
+          "video_url": null,
+          "source": {
+            "name": "STCK.PRO",
+            "website": "https://www.stck.pro"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 263621451,
+      "body": "$QCOM This will go back up. The $AAPL reaction is just insane. Easiest swing idea right now in semis",
+      "created_at": "2020-12-11T19:12:18Z",
+      "user": {
+        "id": 1274325,
+        "username": "stingersdestiny",
+        "name": "stingersdestiny",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2017-11-18",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 9,
+        "following": 63,
+        "ideas": 359,
+        "watchlist_stocks_count": 50,
+        "like_count": 96,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 686,
+          "symbol": "AAPL",
+          "title": "Apple Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 548104
+        },
+        {
+          "id": 3290,
+          "symbol": "QCOM",
+          "title": "QUALCOMM Incorporated",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 41070
+        }
+      ],
+      "likes": {
+        "total": 2,
+        "user_ids": [
+          318634,
+          2901551
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 263619599,
+      "body": "$QCOM sell dec 24 137 put vertical",
+      "created_at": "2020-12-11T19:07:01Z",
+      "user": {
+        "id": 3753991,
+        "username": "SgtSwayness",
+        "name": "Hercules Mulligan (sgsway)",
+        "avatar_url": "https://avatars.stocktwits.com/production/3753991/thumb-1594207722.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3753991/thumb-1594207722.png",
+        "join_date": "2020-07-07",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 64,
+        "following": 94,
+        "ideas": 2478,
+        "watchlist_stocks_count": 35,
+        "like_count": 4587,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2095,
+        "title": "StockTwits For Android ",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 3290,
+          "symbol": "QCOM",
+          "title": "QUALCOMM Incorporated",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 41061
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 263619063,
+      "body": "\u27a0 TREN\u0110 FLOW \u26a1\ufe0e  @ 2:05 pm EDT\nThese symbols are currently  trending across multiple platforms including discord, stocktwits, twitter and more...\n\n1. $DIS\n2. $QCOM\n3. $NIO\n4. $VTVT\n5. $ABCL\n6. NKLA\n7. LULU\n8. CERT\n9. SNOA\n10. RIDE",
+      "created_at": "2020-12-11T19:05:32Z",
+      "user": {
+        "id": 1441018,
+        "username": "WickedSplits",
+        "name": "\u0492USIO\u041f \u039bFI\u010aIO\u041f\u039b\u0110O",
+        "avatar_url": "https://avatars.stocktwits.com/production/1441018/thumb-1595382842.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1441018/thumb-1595382842.png",
+        "join_date": "2018-03-12",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 1875,
+        "following": 53,
+        "ideas": 8257,
+        "watchlist_stocks_count": 7,
+        "like_count": 744,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 3290,
+          "symbol": "QCOM",
+          "title": "QUALCOMM Incorporated",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 41070
+        },
+        {
+          "id": 4983,
+          "symbol": "DIS",
+          "title": "Walt Disney Co.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 186156
+        },
+        {
+          "id": 6499,
+          "symbol": "NIO",
+          "title": "NIO Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 167439
+        },
+        {
+          "id": 12710,
+          "symbol": "VTVT",
+          "title": "vTv Therapeutics",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 13643
+        },
+        {
+          "id": 16401,
+          "symbol": "ABCL",
+          "title": "AbCellera",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1348
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          4321576
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 263618706,
+      "body": "$FIZZ $QCOM",
+      "created_at": "2020-12-11T19:04:29Z",
+      "user": {
+        "id": 948953,
+        "username": "4PaulWalker",
+        "name": "Milan",
+        "avatar_url": "https://avatars.stocktwits.com/production/948953/thumb-1599838164.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/948953/thumb-1599838164.png",
+        "join_date": "2017-02-08",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 68,
+        "following": 32,
+        "ideas": 3022,
+        "watchlist_stocks_count": 57,
+        "like_count": 5653,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 1890,
+          "symbol": "FIZZ",
+          "title": "National Beverage Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 3926
+        },
+        {
+          "id": 3290,
+          "symbol": "QCOM",
+          "title": "QUALCOMM Incorporated",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 41061
+        }
+      ],
+      "likes": {
+        "total": 2,
+        "user_ids": [
+          1620833,
+          2953631
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "giphy": {
+          "id": "2OP9jbHFlFPW",
+          "ratio": 1.5625
+        },
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 263618648,
+      "body": "$QCOM not worried about qcom.  All these chips needed a pullback anyway.  Not locking gains.  I&#39;m up nice %. Holding for long haul. Not flipping.",
+      "created_at": "2020-12-11T19:04:20Z",
+      "user": {
+        "id": 3753991,
+        "username": "SgtSwayness",
+        "name": "Hercules Mulligan (sgsway)",
+        "avatar_url": "https://avatars.stocktwits.com/production/3753991/thumb-1594207722.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3753991/thumb-1594207722.png",
+        "join_date": "2020-07-07",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 64,
+        "following": 94,
+        "ideas": 2478,
+        "watchlist_stocks_count": 35,
+        "like_count": 4586,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2095,
+        "title": "StockTwits For Android ",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 3290,
+          "symbol": "QCOM",
+          "title": "QUALCOMM Incorporated",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 41061
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 263617414,
+      "body": "$QCOM The market knew this was coming.  This wasn&#39;t a surprise.  Apple is building off of Intel&#39;s garbage modem IP.  I used the INTC modems and they are the worst.  Nothing but problems with connections, switching,  and cellular reception.  They have a LOOONG way to go.\n QCOM is and will remain the leader in 5G and other power saving and cellular technologies.  The many numerous patents they have will keep them at the top.  Buying opportunity IMO as this goes to 175+.  Cost basis in the low 60&#39;s but holding still and may average up if it goes lower.",
+      "created_at": "2020-12-11T19:00:53Z",
+      "user": {
+        "id": 839132,
+        "username": "AlphaJPL",
+        "name": "John",
+        "avatar_url": "https://avatars.stocktwits.com/production/839132/thumb-1490125759.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/839132/thumb-1490125759.png",
+        "join_date": "2016-09-13",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 29,
+        "following": 0,
+        "ideas": 811,
+        "watchlist_stocks_count": 43,
+        "like_count": 316,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 3290,
+          "symbol": "QCOM",
+          "title": "QUALCOMM Incorporated",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 41061
+        }
+      ],
+      "likes": {
+        "total": 2,
+        "user_ids": [
+          4098333,
+          318634
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 263616002,
+      "body": "$QCOM the worm is turning",
+      "created_at": "2020-12-11T18:57:02Z",
+      "user": {
+        "id": 3217323,
+        "username": "BChuck",
+        "name": "Ben Charles",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2020-03-23",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 0,
+        "following": 5,
+        "ideas": 109,
+        "watchlist_stocks_count": 7,
+        "like_count": 152,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 3290,
+          "symbol": "QCOM",
+          "title": "QUALCOMM Incorporated",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 41061
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 263615211,
+      "body": "$QCOM added $145 dec 18 calls @ 2.93",
+      "created_at": "2020-12-11T18:54:58Z",
+      "user": {
+        "id": 3157330,
+        "username": "TheOGotc",
+        "name": "Paul",
+        "avatar_url": "https://avatars.stocktwits.com/production/3157330/thumb-1606704732.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3157330/thumb-1606704732.png",
+        "join_date": "2020-03-06",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 1135,
+        "following": 33,
+        "ideas": 8997,
+        "watchlist_stocks_count": 299,
+        "like_count": 9299,
+        "plus_tier": "month",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 3290,
+          "symbol": "QCOM",
+          "title": "QUALCOMM Incorporated",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 41061
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 263614410,
+      "body": "$QCOM can we say &quot;OVERSOLD!&quot;",
+      "created_at": "2020-12-11T18:52:45Z",
+      "user": {
+        "id": 4001940,
+        "username": "threezn7s",
+        "name": "Michell Anne Kimball",
+        "avatar_url": "https://avatars.stocktwits.com/production/4001940/thumb-1598373719.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/4001940/thumb-1598373719.png",
+        "join_date": "2020-08-25",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 59,
+        "following": 20,
+        "ideas": 794,
+        "watchlist_stocks_count": 46,
+        "like_count": 885,
+        "plus_tier": "year",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 3290,
+          "symbol": "QCOM",
+          "title": "QUALCOMM Incorporated",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 41061
+        }
+      ],
+      "likes": {
+        "total": 3,
+        "user_ids": [
+          4098333,
+          4366527,
+          1620833
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 263614229,
+      "body": "$QCOM ridiculously oversold!",
+      "created_at": "2020-12-11T18:52:13Z",
+      "user": {
+        "id": 1977901,
+        "username": "OliverU571",
+        "name": "Oliver Osthus",
+        "avatar_url": "https://avatars.stocktwits.com/production/1977901/thumb-1559380186.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1977901/thumb-1559380186.png",
+        "join_date": "2019-04-01",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 3,
+        "following": 44,
+        "ideas": 575,
+        "watchlist_stocks_count": 27,
+        "like_count": 1298,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 3290,
+          "symbol": "QCOM",
+          "title": "QUALCOMM Incorporated",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 41061
+        }
+      ],
+      "likes": {
+        "total": 3,
+        "user_ids": [
+          4001940,
+          4366527,
+          1620833
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 263611293,
+      "body": "Will Apple Stop At Intel \u2014 Or Are More Suppliers In Danger?\n\nRelated Tickers: $AAPL $INTC $MU $QCOM $QRVO\nRead more at: https://quantdata.us/news/18755925",
+      "created_at": "2020-12-11T18:44:19Z",
+      "user": {
+        "id": 3539670,
+        "username": "QuantData",
+        "name": "Quant Data",
+        "avatar_url": "https://avatars.stocktwits.com/production/3539670/thumb-1602473985.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3539670/thumb-1602473985.png",
+        "join_date": "2020-06-03",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 1067,
+        "following": 0,
+        "ideas": 18040,
+        "watchlist_stocks_count": 0,
+        "like_count": 24,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 5828,
+        "title": "QuantData",
+        "url": "https://quantdata.us"
+      },
+      "symbols": [
+        {
+          "id": 686,
+          "symbol": "AAPL",
+          "title": "Apple Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 548073
+        },
+        {
+          "id": 2310,
+          "symbol": "INTC",
+          "title": "Intel Corporation",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 89333
+        },
+        {
+          "id": 3290,
+          "symbol": "QCOM",
+          "title": "QUALCOMM Incorporated",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 41061
+        },
+        {
+          "id": 6403,
+          "symbol": "MU",
+          "title": "Micron Technology Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 110253
+        },
+        {
+          "id": 12390,
+          "symbol": "QRVO",
+          "title": "Qorvo",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 4826
+        }
+      ],
+      "links": [
+        {
+          "title": "Quant Data - News",
+          "url": "https://quantdata.us/news/18755925",
+          "shortened_url": "https://quantdata.us/news/18755925",
+          "shortened_expanded_url": "quantdata.us/news/18755925",
+          "description": "Disclaimer: The U.S. Securities and Exchange Commission (SEC) requires the following legal notices: All material presented on Quant Data LLC is not to be regarded as investment advice, but for general informational purposes only. Trading does involve risk, so caution must always be utilized. We cannot guarantee profits or freedom from loss.",
+          "image": null,
+          "created_at": "2020-12-11T18:44:20Z",
+          "video_url": null,
+          "source": {
+            "name": "Quantdata",
+            "website": "https://quantdata.us"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 263611130,
+      "body": "$QCOM  AT&amp;T and Verizon teaming up to build 300,00 cell towers across rural America FWA 5G wireless wifi in every home",
+      "created_at": "2020-12-11T18:43:55Z",
+      "user": {
+        "id": 918928,
+        "username": "Hoodwink",
+        "name": "jeff koski",
+        "avatar_url": "https://avatars.stocktwits.com/production/918928/thumb-1484688494.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/918928/thumb-1484688494.png",
+        "join_date": "2017-01-07",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 5,
+        "following": 70,
+        "ideas": 603,
+        "watchlist_stocks_count": 75,
+        "like_count": 381,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 3290,
+          "symbol": "QCOM",
+          "title": "QUALCOMM Incorporated",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 41061
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          3987587
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 263609081,
+      "body": "$QCOM Yeah Baby trend is your friend!",
+      "created_at": "2020-12-11T18:38:34Z",
+      "user": {
+        "id": 832761,
+        "username": "Rico55",
+        "name": "Rico",
+        "avatar_url": "https://avatars.stocktwits.com/production/832761/thumb-1607477739.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/832761/thumb-1607477739.png",
+        "join_date": "2016-09-01",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 30,
+        "following": 66,
+        "ideas": 3900,
+        "watchlist_stocks_count": 80,
+        "like_count": 2049,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 3290,
+          "symbol": "QCOM",
+          "title": "QUALCOMM Incorporated",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 41061
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          617630
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    },
+    {
+      "id": 263608490,
+      "body": "$QCOM&#39;s ROE of 85.54% is amongst the best returns of the industry https://www.chartmill.com/stock/quote/QCOM/fundamental-analysis?key=7e9d31d4-ee0f-4fc1-97a1-8f300a086cbb&amp;utm_source=stocktwits&amp;utm_medium=FA&amp;utm_content=QCOM&amp;utm_campaign=social_tracking",
+      "created_at": "2020-12-11T18:37:00Z",
+      "user": {
+        "id": 47688,
+        "username": "ChartMill",
+        "name": "ChartMill",
+        "avatar_url": "https://avatars.stocktwits.com/production/47688/thumb-1363343728.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/47688/thumb-1363343728.png",
+        "join_date": "2011-01-26",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 23041,
+        "following": 889,
+        "ideas": 1141017,
+        "watchlist_stocks_count": 20,
+        "like_count": 32,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 1135,
+        "title": "ChartMill",
+        "url": "http://www.chartmill.com"
+      },
+      "symbols": [
+        {
+          "id": 3290,
+          "symbol": "QCOM",
+          "title": "QUALCOMM Incorporated",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 41061
+        }
+      ],
+      "links": [
+        {
+          "title": null,
+          "url": "https://www.chartmill.com/stock/quote/QCOM/fundamental-analysis?key=7e9d31d4-ee0f-4fc1-97a1-8f300a086cbb&utm_source=stocktwits&utm_medium=FA&utm_content=QCOM&utm_campaign=social_tracking",
+          "shortened_url": "https://www.chartmill.com/stock/quote/QCOM/fundamental-analysis?key=7e9d31d4-ee0f-4fc1-97a1-8f300a086cbb&utm_source=stocktwits&utm_medium=FA&utm_content=QCOM&utm_campaign=social_tracking",
+          "shortened_expanded_url": "chartmill.com/stock/quote/Q...",
+          "description": null,
+          "image": null,
+          "created_at": "2020-12-11T18:37:00Z",
+          "video_url": null,
+          "source": {
+            "name": "Chartmill",
+            "website": "https://www.chartmill.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      }
+    },
+    {
+      "id": 263603226,
+      "body": "$QCOM UP UP UP UP CMON",
+      "created_at": "2020-12-11T18:23:08Z",
+      "user": {
+        "id": 4397653,
+        "username": "DegDeg",
+        "name": "Alan Jancovich",
+        "avatar_url": "https://avatars.stocktwits.com/production/4397653/thumb-1607365717.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/4397653/thumb-1607365717.png",
+        "join_date": "2020-12-07",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 0,
+        "following": 1,
+        "ideas": 2,
+        "watchlist_stocks_count": 16,
+        "like_count": 2,
+        "plus_tier": "",
+        "premium_room": "",
+        "trade_app": false
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 3290,
+          "symbol": "QCOM",
+          "title": "QUALCOMM Incorporated",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 41061
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          832761
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      }
+    }
+  ]
+}

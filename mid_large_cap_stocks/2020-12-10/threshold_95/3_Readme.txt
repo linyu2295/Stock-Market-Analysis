@@ -1,0 +1,1 @@
+Larger list(33%): Pulling stock prices every 30 mins...relative %change of the individual stock %change and corresponding sector %change and get 2.5th and 97.5th percentiles as the threshold
