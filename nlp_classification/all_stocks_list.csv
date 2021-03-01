@@ -1,0 +1,897 @@
+,Symbol,Size,Market_Cap,Name,Security_Type,Sector,Industry,Sub_Industry,Exchange,Headquarters_Location,Unnamed: 10,include ticker,include name (wo delete words),include full name,Security_Price
+0,A,large-cap,29702585400.0,Agilent Technologies Inc,Common Stock,Health Care,Life Sciences Tools & Services,Life Sciences Tools & Services,NYSE,United States of America,,n,y,n,
+1,AAP,large-cap,10143353348.0,Advance Auto Parts Inc.,Common Stock,Consumer Discretionary,Specialty Retail,Automotive Retail,NYSE,United States of America,,n,y,n,
+2,AAPL,mega-cap,1876242606000.0,Apple Inc,Common Stock,Information Technology,"Technology Hardware, Storage & Peripherals","Technology Hardware, Storage & Peripherals",NASDAQ,United States of America,,y,y,n,
+3,ABB,large-cap,53492484509.0,ABB Ltd,Depository Receipt,Industrials,Electrical Equipment,Electrical Components & Equipment,NYSE,Switzerland,,n,n,y,
+4,ABBV,large-cap,151616545300.0,AbbVie Inc,Common Stock,Health Care,Biotechnology,Biotechnology,NYSE,United States of America,,y,y,n,
+5,ABC,large-cap,19324081720.0,AmerisourceBergen Corp,Common Stock,Health Care,Health Care Providers & Services,Health Care Distributors,NYSE,United States of America,,n,y,n,
+6,ABEV,large-cap,36343368600.0,Ambev SA,Depository Receipt,Consumer Staples,Beverages,Brewers,NYSE,Brazil,,y,y,n,
+7,ABMD,large-cap,11823564831.0,ABIOMED Inc,Common Stock,Health Care,Health Care Equipment & Supplies,Health Care Equipment,NASDAQ,United States of America,,y,y,n,
+8,ABT,large-cap,178681887600.0,Abbott Laboratories,Common Stock,Health Care,Health Care Equipment & Supplies,Health Care Equipment,NYSE,United States of America,,y,y,n,
+9,ACGL,large-cap,11424052080.0,Arch Capital Group Ltd,Common Stock,Financials,Insurance,Property & Casualty Insurance,NASDAQ,Bermuda,,y,y,n,
+10,ACN,large-cap,136413360740.0,Accenture PLC,Common Stock,Information Technology,IT Services,IT Consulting & Other Services,NYSE,Ireland,,y,y,n,
+11,ADBE,mega-cap,224324930550.0,Adobe Inc,Common Stock,Information Technology,Software,Application Software,NASDAQ,United States of America,,y,y,n,
+12,ADI,large-cap,41642020800.0,Analog Devices Inc.,Common Stock,Information Technology,Semiconductors & Semiconductor Equipment,Semiconductors,NASDAQ,United States of America,,y,y,n,
+13,ADM,large-cap,25265269090.0,Archer-Daniels-Midland Co,Common Stock,Consumer Staples,Food Products,Agricultural Products,NYSE,United States of America,,y,y,n,
+14,ADP,large-cap,56239422000.0,Automatic Data Processing Inc.,Common Stock,Information Technology,IT Services,Data Processing & Outsourced Services,NASDAQ,United States of America,,y,y,n,
+15,ADSK,large-cap,48451887840.0,Autodesk Inc.,Common Stock,Information Technology,Software,Application Software,NASDAQ,United States of America,,y,y,n,
+16,AEE,large-cap,18951036000.0,Ameren Corp,Common Stock,Utilities,Multi-Utilities,Multi-Utilities,NYSE,United States of America,,y,y,n,
+17,AEM,large-cap,18912604560.0,Agnico Eagle Mines Ltd,Common Stock,Materials,Metals & Mining,Gold,NYSE,Canada,,y,y,n,
+18,AEP,large-cap,39935515950.0,American Electric Power Co Inc,Common Stock,Utilities,Electric Utilities,Electric Utilities,NYSE,United States of America,,y,y,n,
+19,AES,large-cap,11945752760.0,AES Corp (The),Common Stock,Utilities,Independent Power and Renewable Electricity Producers,Independent Power Producers & Energy Traders,NYSE,United States of America,,y,y,n,
+20,AFL,large-cap,25429571040.0,AFLAC Inc,Common Stock,Financials,Insurance,Life & Health Insurance,NYSE,United States of America,,n,y,n,
+21,AGR,large-cap,15104164400.0,Avangrid Inc,Common Stock,Utilities,Electric Utilities,Electric Utilities,NYSE,United States of America,,y,y,n,
+22,AIG,large-cap,22810772320.0,American International Group Inc,Common Stock,Financials,Insurance,Multi-line Insurance,NYSE,United States of America,,y,n,y,
+23,AJG,large-cap,19619175000.0,Arthur J. Gallagher & Co.,Common Stock,Financials,Insurance,Insurance Brokers,NYSE,United States of America,,y,y,n,
+24,AKAM,large-cap,17974021350.0,Akamai Technologies Inc,Common Stock,Information Technology,IT Services,Internet Services & Infrastructure,NASDAQ,United States of America,,y,y,n,
+25,ALC,large-cap,35913000000.0,Alcon Inc,Common Stock,Health Care,Health Care Equipment & Supplies,Health Care Supplies,NYSE,Switzerland,,y,y,n,
+26,ALGN,large-cap,24571995996.0,Align Technology Inc,Common Stock,Health Care,Health Care Equipment & Supplies,Health Care Supplies,NASDAQ,United States of America,,y,y,n,
+27,ALL,large-cap,28102193680.0,Allstate Corp (The),Common Stock,Financials,Insurance,Property & Casualty Insurance,NYSE,United States of America,,n,y,n,
+28,ALNY,large-cap,15463439800.0,Alnylam Pharmaceuticals Inc,Common Stock,Health Care,Biotechnology,Biotechnology,NASDAQ,United States of America,,y,y,n,
+29,ALXN,large-cap,24551759460.0,Alexion Pharmaceuticals Inc,Common Stock,Health Care,Biotechnology,Biotechnology,NASDAQ,United States of America,,y,y,n,
+30,AMAT,large-cap,52778624570.0,Applied Materials Inc.,Common Stock,Information Technology,Semiconductors & Semiconductor Equipment,Semiconductor Equipment,NASDAQ,United States of America,,y,y,n,
+31,AMCR,large-cap,16594518400.0,Amcor Plc,Common Stock,Materials,Containers & Packaging,Paper Packaging,NYSE,Switzerland,,y,y,n,
+32,AMD,large-cap,89017229200.0,Advanced Micro Devices Inc,Common Stock,Information Technology,Semiconductors & Semiconductor Equipment,Semiconductors,NASDAQ,United States of America,,y,y,n,
+33,AME,large-cap,22097294900.0,AMETEK Inc,Common Stock,Industrials,Electrical Equipment,Electrical Components & Equipment,NYSE,United States of America,,y,y,n,
+34,AMGN,large-cap,140753982080.0,Amgen Inc,Common Stock,Health Care,Biotechnology,Biotechnology,NASDAQ,United States of America,,y,y,n,
+35,AMOV,large-cap,47711000000.0,"America Movil SA De CV, Mexico",Depository Receipt,Communication Services,Wireless Telecommunication Services,Wireless Telecommunication Services,NYSE,Mexico,,y,y,n,
+36,AMP,large-cap,17392100090.0,Ameriprise Financial Inc,Common Stock,Financials,Capital Markets,Asset Management & Custody Banks,NYSE,United States of America,,y,y,n,
+37,AMT,large-cap,104762598780.0,American Tower Corp,Common Stock (REIT),Real Estate,Equity Real Estate Investment Trusts (REITs),Specialized REITs,NYSE,United States of America,,y,y,n,
+38,AMX,large-cap,47510000000.0,"America Movil SA De CV, Mexico",Depository Receipt,Communication Services,Wireless Telecommunication Services,Wireless Telecommunication Services,NYSE,Mexico,,y,y,n,
+39,AMZN,mega-cap,1512582613100.0,Amazon.com Inc,Common Stock,Consumer Discretionary,Internet & Direct Marketing Retail,Internet & Direct Marketing Retail,NASDAQ,United States of America,,y,y,n,
+40,ANET,large-cap,15088040576.0,Arista Networks Inc,Common Stock,Information Technology,Communications Equipment,Communications Equipment,NYSE,United States of America,,y,y,n,
+41,ANSS,large-cap,26115090372.0,ANSYS Inc,Common Stock,Information Technology,Software,Application Software,NASDAQ,United States of America,,y,y,n,
+42,ANTM,large-cap,62569662680.0,Anthem Inc,Common Stock,Health Care,Health Care Providers & Services,Managed Health Care,NYSE,United States of America,,y,y,n,
+43,AON,large-cap,45329272000.0,Aon plc,Common Stock,Financials,Insurance,Insurance Brokers,NYSE,United Kingdom,,y,n,y,
+44,APD,large-cap,64057051060.0,Air Products and Chemicals Inc.,Common Stock,Materials,Chemicals,Industrial Gases,NYSE,United States of America,,y,y,n,
+45,APH,large-cap,31087899630.0,Amphenol Corp,Common Stock,Information Technology,"Electronic Equipment, Instruments & Components",Electronic Components,NYSE,United States of America,,y,y,n,
+46,APO,large-cap,17311006209.0,Apollo Global Management Inc,Common Stock,Financials,Capital Markets,Asset Management & Custody Banks,NYSE,United States of America,,y,y,n,
+47,APTV,large-cap,22771208250.0,Aptiv Plc,Common Stock,Consumer Discretionary,Auto Components,Auto Parts & Equipment,NYSE,United Kingdom,,y,y,n,
+48,ARE,large-cap,19747086700.0,Alexandria Real Estate Equities Inc.,Common Stock (REIT),Real Estate,Equity Real Estate Investment Trusts (REITs),Office REITs,NYSE,United States of America,,n,y,n,
+49,ARGX,large-cap,14177000000.0,arGEN-X SE,Depository Receipt,Health Care,Biotechnology,Biotechnology,NASDAQ,Netherlands,,y,y,n,
+50,ASML,large-cap,150686128301.0,ASML Holding NV,Depository Receipt,Information Technology,Semiconductors & Semiconductor Equipment,Semiconductor Equipment,NASDAQ,Netherlands,,y,y,n,
+51,ATHM,large-cap,12860000000.0,Autohome Inc,Depository Receipt,Communication Services,Interactive Media & Services,Interactive Media & Services,NYSE,China,,y,y,n,
+52,ATO,large-cap,11544794450.0,Atmos Energy Corp,Common Stock,Utilities,Gas Utilities,Gas Utilities,NYSE,United States of America,,y,y,n,
+53,ATUS,large-cap,19466500863.0,Altice usa inc,Common Stock,Communication Services,Media,Cable & Satellite,NYSE,United States of America,,y,y,n,
+54,ATVI,large-cap,61510479680.0,Activision Blizzard Inc,Common Stock,Communication Services,Entertainment,Interactive Home Entertainment,NASDAQ,United States of America,,y,y,n,
+55,AU,large-cap,10841800320.0,AngloGold Ashanti Ltd,Depository Receipt,Materials,Metals & Mining,Gold,NYSE,South Africa,,n,y,n,
+56,AVB,large-cap,20683738240.0,AvalonBay Communities Inc.,Common Stock (REIT),Real Estate,Equity Real Estate Investment Trusts (REITs),Residential REITs,NYSE,United States of America,,y,y,n,
+57,AVGO,large-cap,142594692520.0,Broadcom Inc,Common Stock,Information Technology,Semiconductors & Semiconductor Equipment,Semiconductors,NASDAQ,United States of America,,y,y,n,
+58,AVLR,large-cap,10326815960.0,Avalara Inc,Common Stock,Information Technology,Software,Application Software,NYSE,United States of America,,y,y,n,
+59,AVTR,large-cap,12397459000.0,Avantor Inc,Common Stock,Health Care,Life Sciences Tools & Services,Life Sciences Tools & Services,NYSE,United States of America,,y,y,n,
+60,AWK,large-cap,25488154640.0,American Water Works Co Inc,Common Stock,Utilities,Water Utilities,Water Utilities,NYSE,United States of America,,y,y,n,
+61,AXP,large-cap,76852617450.0,American Express Co,Common Stock,Financials,Consumer Finance,Consumer Finance,NYSE,United States of America,,y,y,n,
+62,AZN,large-cap,142173498600.0,Astrazeneca PLC,Depository Receipt,Health Care,Pharmaceuticals,Pharmaceuticals,NYSE,United Kingdom,,y,y,n,
+63,AZO,large-cap,26406230880.0,AutoZone Inc,Common Stock,Consumer Discretionary,Specialty Retail,Automotive Retail,NYSE,United States of America,,y,y,n,
+64,BA,large-cap,82437776450.0,Boeing Co,Common Stock,Industrials,Aerospace & Defense,Aerospace & Defense,NYSE,United States of America,,n,y,n,
+65,BABA,mega-cap,729791602875.0,Alibaba Group Holding Ltd,Depository Receipt,Consumer Discretionary,Internet & Direct Marketing Retail,Internet & Direct Marketing Retail,NYSE,China,,y,y,n,
+66,BAC,mega-cap,202220094000.0,Bank of America Corp,Common Stock,Financials,Banks,Diversified Banks,NYSE,United States of America,,y,y,n,
+67,BAH,large-cap,11440322040.0,Booz Allen Hamilton Holding Corp,Common Stock,Information Technology,IT Services,IT Consulting & Other Services,NYSE,United States of America,,y,y,n,
+68,BAM,large-cap,48006037811.0,Brookfield Asset Management Inc,Common Stock,Financials,Capital Markets,Asset Management & Custody Banks,NYSE,Canada,,n,y,n,
+69,BAP,large-cap,12361000000.0,Credicorp Ltd,Common Stock,Financials,Banks,Diversified Banks,NYSE,Bermuda,,y,y,n,
+70,BATRA,large-cap,12410074422.0,Liberty Media Corp Braves Group,Common Stock,Communication Services,Entertainment,Movies & Entertainment,NASDAQ,United States of America,,y,y,n,
+71,BATRK,large-cap,12522836330.0,Liberty Media Corp Braves Group,Common Stock,Communication Services,Media,Cable & Satellite,NASDAQ,United States of America,,y,y,n,
+72,BAX,large-cap,39840458400.0,Baxter International Inc,Common Stock,Health Care,Health Care Equipment & Supplies,Health Care Equipment,NYSE,United States of America,,y,y,n,
+73,BBD,large-cap,15691523990.0,Banco Bradesco Sa Brad,Depository Receipt,Financials,Banks,Diversified Banks,NYSE,Brazil,,y,y,n,
+74,BBDO,large-cap,39197000000.0,Banco Bradesco Sa Brad,Depository Receipt,Financials,Banks,Diversified Banks,NYSE,Brazil,,y,y,n,
+75,BBL,large-cap,148562000000.0,BHP Group Ltd,Depository Receipt,Materials,Metals & Mining,Diversified Metals & Mining,NYSE,Australia,,n,n,y,
+76,BBVA,large-cap,17712647400.0,Banco Bilbao Vizcaya Argentaria SA (BBVA),Depository Receipt,Financials,Banks,Diversified Banks,NYSE,Spain,,y,y,n,
+77,BBY,large-cap,27117828640.0,Best Buy Co Inc,Common Stock,Consumer Discretionary,Specialty Retail,Computer & Electronics Retail,NYSE,United States of America,,y,y,n,
+78,BCE,large-cap,39355000000.0,BCE Inc.,Common Stock,Communication Services,Diversified Telecommunication Services,Integrated Telecommunication Services,NYSE,Canada,,y,n,y,
+79,BCS,large-cap,20588518750.0,Barclays PLC,Depository Receipt,Financials,Banks,Diversified Banks,NYSE,United Kingdom,,y,y,n,
+80,BDX,large-cap,64107428040.0,Becton Dickinson and Co,Common Stock,Health Care,Health Care Equipment & Supplies,Health Care Equipment,NYSE,United States of America,,y,y,n,
+81,BEP,large-cap,14198424284.0,Brookfield Renewable Partners LP,Unit Trust Fund,Utilities,Independent Power and Renewable Electricity Producers,Renewable Electricity,NYSE,Bermuda,,y,y,n,
+82,BGNE,large-cap,33653000000.0,BeiGene Ltd,Depository Receipt,Health Care,Biotechnology,Biotechnology,NASDAQ,China,,y,y,n,
+83,BHP,large-cap,77543436233.0,BHP Group Ltd,Depository Receipt,Materials,Metals & Mining,Diversified Metals & Mining,NYSE,Australia,,n,n,y,
+84,BIDU,large-cap,33743621912.0,Baidu Inc,Depository Receipt,Communication Services,Interactive Media & Services,Interactive Media & Services,NASDAQ,China,,y,y,n,
+85,BIIB,large-cap,42750842520.0,Biogen Inc,Common Stock,Health Care,Biotechnology,Biotechnology,NASDAQ,United States of America,,y,y,n,
+86,BILI,large-cap,10253002306.0,Bilibili Inc,Depository Receipt,Communication Services,Entertainment,Interactive Home Entertainment,NASDAQ,China,,y,y,n,
+87,BIO,large-cap,14666160103.0,Bio-Rad Laboratories Inc,Common Stock,Health Care,Life Sciences Tools & Services,Life Sciences Tools & Services,NYSE,United States of America,,n,y,n,
+88,BIP,large-cap,19266034350.0,Brookfield Infrastructure Partners LP,Unit Trust Fund,Utilities,Multi-Utilities,Multi-Utilities,NYSE,Bermuda,,y,y,n,
+89,BK,large-cap,29357466680.0,Bank of New York Mellon Corp (The),Common Stock,Financials,Capital Markets,Asset Management & Custody Banks,NYSE,United States of America,,y,y,n,
+90,BKI,large-cap,13255000000.0,Black Knight Inc,Common Stock,Information Technology,IT Services,Data Processing & Outsourced Services,NYSE,United States of America,,y,y,n,
+91,BKNG,large-cap,67588530702.0,Booking Holdings Inc,Common Stock,Consumer Discretionary,Internet & Direct Marketing Retail,Internet & Direct Marketing Retail,NASDAQ,United States of America,,y,y,n,
+92,BKR,large-cap,13769587882.0,Baker Hughes a GE Co,Common Stock,Energy,Energy Equipment & Services,Oil & Gas Equipment & Services,NYSE,United States of America,,y,y,n,
+93,BLK,large-cap,81586564200.0,Blackrock Inc,Common Stock,Financials,Capital Markets,Asset Management & Custody Banks,NYSE,United States of America,,y,y,n,
+94,BLL,large-cap,26158016700.0,Ball Corp,Common Stock,Materials,Containers & Packaging,Metal & Glass Containers,NYSE,United States of America,,y,n,y,
+95,BMO,large-cap,37539520000.0,Bank of Montreal,Common Stock,Financials,Banks,Diversified Banks,NYSE,Canada,,y,y,n,
+96,BMRN,large-cap,13887783000.0,Biomarin Pharmaceutical Inc,Common Stock,Health Care,Biotechnology,Biotechnology,NASDAQ,United States of America,,y,y,n,
+97,BMY,large-cap,131291422500.0,Bristol-Myers Squibb Co,Common Stock,Health Care,Pharmaceuticals,Pharmaceuticals,NYSE,United States of America,,y,y,n,
+98,BNS,large-cap,49196172300.0,The Bank of Nova Scotia,Common Stock,Financials,Banks,Diversified Banks,NYSE,Canada,,y,y,n,
+99,BNTX,large-cap,14964438178.0,BioNTech SE,Depository Receipt,Health Care,Biotechnology,Biotechnology,NASDAQ,Germany,,y,y,n,
+100,BP,large-cap,60074067546.0,BP PLC,Depository Receipt,Energy,"Oil, Gas & Consumable Fuels",Integrated Oil & Gas,NYSE,United Kingdom,,y,n,y,
+101,BPY,large-cap,10160051641.0,Brookfield Property Partners LP,Unit Trust Fund,Real Estate,Real Estate Management & Development,Real Estate Operating Companies,NASDAQ,Bermuda,,y,y,n,
+102,BR,large-cap,14723461700.0,Broadridge Financial Solutions Inc,Common Stock,Information Technology,IT Services,Data Processing & Outsourced Services,NYSE,United States of America,,n,y,n,
+103,BRO,large-cap,12319377840.0,Brown & Brown Inc,Common Stock,Financials,Insurance,Insurance Brokers,NYSE,United States of America,,y,n,y,
+104,BSAC,large-cap,10209000000.0,Banco Santander-Chile,Depository Receipt,Financials,Banks,Diversified Banks,NYSE,Chile,,y,y,n,
+105,BSBR,large-cap,30563000000.0,Banco Santander Brasil SA,Depository Receipt,Financials,Banks,Diversified Banks,NYSE,Brazil,,y,y,n,
+106,BSX,large-cap,53106470400.0,Boston Scientific Corp,Common Stock,Health Care,Health Care Equipment & Supplies,Health Care Equipment,NYSE,United States of America,,y,y,n,
+107,BTI,large-cap,82248636542.0,British American Tobacco PLC,Depository Receipt,Consumer Staples,Tobacco,Tobacco,NYSE,United Kingdom,,y,y,n,
+108,BUD,large-cap,86995779743.0,Anheuser-Busch InBev SA/NV,Depository Receipt,Consumer Staples,Beverages,Brewers,NYSE,Belgium,,n,y,n,
+109,BURL,large-cap,12841031488.0,Burlington Stores Inc,Common Stock,Consumer Discretionary,Specialty Retail,Apparel Retail,NYSE,United States of America,,y,y,n,
+110,BX,large-cap,33518997550.0,Blackstone Group Inc,Common Stock,Financials,Capital Markets,Asset Management & Custody Banks,NYSE,United States of America,,y,y,n,
+111,BXP,large-cap,12354226920.0,Boston Properties Inc,Common Stock (REIT),Real Estate,Equity Real Estate Investment Trusts (REITs),Office REITs,NYSE,United States of America,,y,y,n,
+112,C,large-cap,87833673400.0,Citigroup Inc,Common Stock,Financials,Banks,Diversified Banks,NYSE,United States of America,,n,y,n,
+113,CABO,large-cap,10228979084.0,Cable One Inc,Common Stock,Communication Services,Media,Cable & Satellite,NYSE,United States of America,,y,y,n,
+114,CAG,large-cap,16916062400.0,Conagra Brands Inc,Common Stock,Consumer Staples,Food Products,Packaged Foods & Meats,NYSE,United States of America,,y,y,n,
+115,CAH,large-cap,13396859640.0,Cardinal Health Inc,Common Stock,Health Care,Health Care Providers & Services,Health Care Distributors,NYSE,United States of America,,y,y,n,
+116,CAJ,large-cap,17129753927.0,Canon Inc,Depository Receipt,Information Technology,"Technology Hardware, Storage & Peripherals","Technology Hardware, Storage & Peripherals",NYSE,Japan,,y,n,y,
+117,CARR,large-cap,25881010200.0,Carrier Global Corp,Common Stock,Industrials,Building Products,Building Products,NYSE,United States of America,,y,y,n,
+118,CAT,large-cap,78594325980.0,Caterpillar Inc,Common Stock,Industrials,Machinery,Construction Machinery & Heavy Trucks,NYSE,United States of America,,n,y,n,
+119,CB,large-cap,51451210340.0,Chubb Ltd,Common Stock,Financials,Insurance,Property & Casualty Insurance,NYSE,Switzerland,,n,y,n,
+120,CBRE,large-cap,15308793480.0,CBRE Group Inc,Common Stock,Real Estate,Real Estate Management & Development,Real Estate Services,NYSE,United States of America,,y,y,n,
+121,CCC,large-cap,10745560580.0,Clarivate Analytics Plc,Common Stock,Industrials,Professional Services,Research & Consulting Services,NYSE,United Kingdom,,y,y,n,
+122,CCEP,large-cap,21730000000.0,Coca-Cola European Partners Plc,Common Stock,Consumer Staples,Beverages,Soft Drinks,NYSE,United Kingdom,,y,y,n,
+123,CCI,large-cap,68827399800.0,Crown Castle International Corp,Common Stock (REIT),Real Estate,Equity Real Estate Investment Trusts (REITs),Specialized REITs,NYSE,United States of America,,y,y,n,
+124,CDAY,large-cap,15756000000.0,Ceridian HCM Holding Inc,Common Stock,Information Technology,Software,Application Software,NYSE,United States of America,,y,y,n,
+125,CDNS,large-cap,28470443280.0,Cadence Design Systems Inc,Common Stock,Information Technology,Software,Application Software,NASDAQ,United States of America,,y,y,n,
+126,CDW,large-cap,15755048100.0,CDW Corp,Common Stock,Information Technology,"Electronic Equipment, Instruments & Components",Technology Distributors,NASDAQ,United States of America,,y,n,y,
+127,CE,large-cap,12474968860.0,Celanese Corp,Common Stock,Materials,Chemicals,Specialty Chemicals,NYSE,United States of America,,n,y,n,
+128,CEO,large-cap,48492000000.0,Cnooc Ltd,Depository Receipt,Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Exploration & Production,NYSE,Hong Kong,,n,y,n,
+129,CERN,large-cap,20607177360.0,Cerner Corp,Common Stock,Health Care,Health Care Technology,Health Care Technology,NASDAQ,United States of America,,y,y,n,
+130,CFG,large-cap,10171335070.0,Citizens Financial Group Inc,Common Stock,Financials,Banks,Regional Banks,NYSE,United States of America,,y,y,n,
+131,CGNX,large-cap,10588745930.0,Cognex Corp,Common Stock,Information Technology,"Electronic Equipment, Instruments & Components",Electronic Equipment & Instruments,NASDAQ,United States of America,,y,y,n,
+132,CHD,large-cap,22898618080.0,Church & Dwight Co. Inc.,Common Stock,Consumer Staples,Household Products,Household Products,NYSE,United States of America,,y,y,n,
+133,CHKP,large-cap,17892000000.0,Check Point Software Technologies Ltd,Common Stock,Information Technology,Software,Systems Software,NASDAQ,Israel,,y,y,n,
+134,CHL,large-cap,132476485000.0,China Mobile Ltd,Depository Receipt,Communication Services,Wireless Telecommunication Services,Wireless Telecommunication Services,NYSE,Hong Kong,,y,n,y,
+135,CHRW,large-cap,13724981400.0,C.H. Robinson Worldwide Inc.,Common Stock,Industrials,Air Freight & Logistics,Air Freight & Logistics,NASDAQ,United States of America,,y,y,n,
+136,CHT,large-cap,29303000000.0,Chunghwa Telecom Co Ltd,Depository Receipt,Communication Services,Diversified Telecommunication Services,Integrated Telecommunication Services,NYSE,Taiwan,,y,y,n,
+137,CHTR,large-cap,125285494161.0,Charter Communications Inc,Common Stock,Communication Services,Media,Cable & Satellite,NASDAQ,United States of America,,y,y,n,
+138,CHU,large-cap,17403000000.0,China Unicom (Hong Kong) Ltd,Depository Receipt,Communication Services,Diversified Telecommunication Services,Integrated Telecommunication Services,NYSE,Hong Kong,,y,y,n,
+139,CHWY,large-cap,22625144454.0,Chewy Inc,Common Stock,Consumer Discretionary,Internet & Direct Marketing Retail,Internet & Direct Marketing Retail,NYSE,United States of America,,y,y,n,
+140,CI,large-cap,59075296880.0,Cigna Corp,Common Stock,Health Care,Health Care Providers & Services,Health Care Services,NYSE,United States of America,,y,y,n,
+141,CINF,large-cap,12274768740.0,Cincinnati Financial Corp,Common Stock,Financials,Insurance,Property & Casualty Insurance,NASDAQ,United States of America,,y,y,n,
+142,CL,large-cap,64956624000.0,Colgate-Palmolive Co,Common Stock,Consumer Staples,Household Products,Household Products,NYSE,United States of America,,y,y,n,
+143,CLX,large-cap,26970669660.0,Clorox Co (The),Common Stock,Consumer Staples,Household Products,Household Products,NYSE,United States of America,,y,y,n,
+144,CM,large-cap,39734000000.0,Canadian Imperial Bank of Commerce,Common Stock,Financials,Banks,Diversified Banks,NYSE,Canada,,n,y,n,
+145,CMCSA,mega-cap,208762369938.0,Comcast Corp,Common Stock,Communication Services,Media,Cable & Satellite,NASDAQ,United States of America,,y,y,n,
+146,CME,large-cap,58789232320.0,CME Group Inc,Common Stock,Financials,Capital Markets,Financial Exchanges & Data,NASDAQ,United States of America,,y,n,y,
+147,CMG,large-cap,34380011328.0,Chipotle Mexican Grill Inc,Common Stock,Consumer Discretionary,"Hotels, Restaurants & Leisure",Restaurants,NYSE,United States of America,,y,y,n,
+148,CMI,large-cap,30335603920.0,Cummins Inc.,Common Stock,Industrials,Machinery,Construction Machinery & Heavy Trucks,NYSE,United States of America,,y,y,n,
+149,CMS,large-cap,17056621980.0,CMS Energy Corp,Common Stock,Utilities,Multi-Utilities,Multi-Utilities,NYSE,United States of America,,n,y,n,
+150,CNC,large-cap,31465221000.0,Centene Corp,Common Stock,Health Care,Health Care Providers & Services,Managed Health Care,NYSE,United States of America,,n,y,n,
+151,CNHI,large-cap,10383084000.0,CNH Industrial N.V.,Common Stock,Industrials,Machinery,Agricultural & Farm Machinery,NYSE,United Kingdom,,y,y,n,
+152,CNI,large-cap,78195000000.0,Canadian National Railway Co,Common Stock,Industrials,Road & Rail,Railroads,NYSE,Canada,,y,y,n,
+153,CNP,large-cap,10297079100.0,CenterPoint Energy Inc.,Common Stock,Utilities,Multi-Utilities,Multi-Utilities,NYSE,United States of America,,y,y,n,
+154,CNQ,large-cap,19498970400.0,Canadian Natural Resources Ltd,Common Stock,Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Exploration & Production,NYSE,Canada,,y,y,n,
+155,COF,large-cap,31096911600.0,Capital One Financial Corp.,Common Stock,Financials,Consumer Finance,Consumer Finance,NYSE,United States of America,,y,y,n,
+156,COO,large-cap,17550591812.0,Cooper Cos Inc (The),Common Stock,Health Care,Health Care Equipment & Supplies,Health Care Supplies,NYSE,United States of America,,n,n,y,
+157,COP,large-cap,36038352000.0,Conocophillips,Common Stock,Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Exploration & Production,NYSE,United States of America,,n,y,n,
+158,COST,large-cap,153208828000.0,Costco Wholesale Corp,Common Stock,Consumer Staples,Food & Staples Retailing,Hypermarkets & Super Centers,NASDAQ,United States of America,,n,n,y,
+159,COUP,large-cap,18208283454.0,Coupa Software Inc,Common Stock,Information Technology,Software,Application Software,NASDAQ,United States of America,,n,y,n,
+160,CP,large-cap,47609000000.0,Canadian Pacific Railway Ltd,Common Stock,Industrials,Road & Rail,Railroads,NYSE,Canada,,n,y,n,
+161,CPB,large-cap,14144296840.0,Campbell Soup Co,Common Stock,Consumer Staples,Food Products,Packaged Foods & Meats,NYSE,United States of America,,y,y,n,
+162,CPRT,large-cap,23949703780.0,Copart Inc,Common Stock,Industrials,Commercial Services & Supplies,Diversified Support Services,NASDAQ,United States of America,,y,y,n,
+163,CQP,large-cap,18746000000.0,Cheniere Energy Partners LP,Unit Trust Fund,Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Storage & Transportation,AMEX,United States of America,,y,y,n,
+164,CRH,large-cap,35290000000.0,CRH PLC,Depository Receipt,Materials,Construction Materials,Construction Materials,NYSE,Ireland,,y,n,y,
+165,CRL,large-cap,10523417838.0,Charles River Laboratories International Inc,Common Stock,Health Care,Life Sciences Tools & Services,Life Sciences Tools & Services,NYSE,United States of America,,y,y,n,
+166,CRM,mega-cap,216170500000.0,salesforce.com Inc,Common Stock,Information Technology,Software,Application Software,NYSE,United States of America,,y,y,n,
+167,CRWD,large-cap,29384158837.0,CrowdStrike Holdings Inc,Common Stock,Information Technology,Software,Systems Software,NASDAQ,United States of America,,y,y,n,
+168,CS,large-cap,22446711954.0,Credit Suisse Group,Depository Receipt,Financials,Capital Markets,Diversified Capital Markets,NYSE,Switzerland,,n,y,n,
+169,CSCO,large-cap,160235325500.0,Cisco Systems Inc,Common Stock,Information Technology,Communications Equipment,Communications Equipment,NASDAQ,United States of America,,y,y,n,
+170,CSGP,large-cap,32247559965.0,CoStar Group Inc,Common Stock,Industrials,Professional Services,Research & Consulting Services,NASDAQ,United States of America,,y,y,n,
+171,CSX,large-cap,58587758740.0,CSX Corp,Common Stock,Industrials,Road & Rail,Railroads,NASDAQ,United States of America,,y,n,y,
+172,CTAS,large-cap,33631496080.0,Cintas Corp,Common Stock,Industrials,Commercial Services & Supplies,Diversified Support Services,NASDAQ,United States of America,,y,y,n,
+173,CTLT,large-cap,13290762900.0,Catalent Inc,Common Stock,Health Care,Pharmaceuticals,Pharmaceuticals,NYSE,United States of America,,y,y,n,
+174,CTSH,large-cap,36275922900.0,Cognizant Technology Solutions Corp,Common Stock,Information Technology,IT Services,IT Consulting & Other Services,NASDAQ,United States of America,,y,y,n,
+175,CTVA,large-cap,20682961470.0,Corteva Inc,Common Stock,Materials,Chemicals,Fertilizers & Agricultural Chemicals,NYSE,United States of America,,y,y,n,
+176,CTXS,large-cap,16534758200.0,Citrix Systems Inc.,Common Stock,Information Technology,Software,Application Software,NASDAQ,United States of America,,y,y,n,
+177,CVNA,large-cap,35551776415.0,Carvana Co,Common Stock,Consumer Discretionary,Specialty Retail,Automotive Retail,NYSE,United States of America,,y,y,n,
+178,CVS,large-cap,74216377000.0,CVS Health Corp,Common Stock,Health Care,Health Care Providers & Services,Health Care Services,NYSE,United States of America,,y,y,n,
+179,CVX,large-cap,134073576000.0,Chevron Corp,Common Stock,Energy,"Oil, Gas & Consumable Fuels",Integrated Oil & Gas,NYSE,United States of America,,y,y,n,
+180,D,large-cap,64110778160.0,Dominion Energy Inc,Common Stock,Utilities,Multi-Utilities,Multi-Utilities,NYSE,United States of America,,n,y,n,
+181,DAL,large-cap,18504231570.0,Delta Air Lines Inc,Common Stock,Industrials,Airlines,Airlines,NYSE,United States of America,,n,y,n,
+182,DCUE,large-cap,58207000000.0,Dominion Energy Inc,Unit Trust Fund,Utilities,Multi-Utilities,Multi-Utilities,NYSE,United States of America,,y,y,n,
+183,DD,large-cap,39846860400.0,DuPont  De Nemours Inc,Common Stock,Materials,Chemicals,Specialty Chemicals,NYSE,United States of America,,y,y,n,
+184,DDOG,large-cap,26805752391.0,Datadog Inc,Common Stock,Information Technology,Software,Application Software,NASDAQ,United States of America,,y,y,n,
+185,DE,large-cap,67851955000.0,Deere & Co,Common Stock,Industrials,Machinery,Agricultural & Farm Machinery,NYSE,United States of America,,n,y,n,
+186,DELL,large-cap,48812910685.0,Dell Technologies Inc,Common Stock,Information Technology,"Technology Hardware, Storage & Peripherals","Technology Hardware, Storage & Peripherals",NYSE,United States of America,,y,y,n,
+187,DEO,large-cap,75209260775.0,Diageo PLC,Depository Receipt,Consumer Staples,Beverages,Distillers & Vintners,NYSE,United Kingdom,,y,y,n,
+188,DFS,large-cap,16283211940.0,Discover Financial Services,Common Stock,Financials,Consumer Finance,Consumer Finance,NYSE,United States of America,,n ,y,n,
+189,DG,large-cap,51056950680.0,Dollar General Corporation,Common Stock,Consumer Discretionary,Multiline Retail,General Merchandise Stores,NYSE,United States of America,,n,y,n,
+190,DGX,large-cap,14664544570.0,Quest Diagnostics Inc,Common Stock,Health Care,Health Care Providers & Services,Health Care Services,NYSE,United States of America,,y,y,n,
+191,DHI,large-cap,26186616000.0,D.R. Horton Inc.,Common Stock,Consumer Discretionary,Household Durables,Homebuilding,NYSE,United States of America,,y,y,n,
+192,DHR,large-cap,144485331030.0,Danaher Corp,Common Stock,Health Care,Health Care Equipment & Supplies,Health Care Equipment,NYSE,United States of America,,y,y,n,
+193,DIS,mega-cap,221346779400.0,Walt Disney Co (The),Common Stock,Communication Services,Entertainment,Movies & Entertainment,NYSE,United States of America,,y,y,n,
+194,DISCA,large-cap,10806881582.0,Discovery Inc,Common Stock,Communication Services,Media,Broadcasting,NASDAQ,United States of America,,y,n,y,
+195,DISCB,large-cap,17756334981.0,Discovery Inc,Common Stock,Communication Services,Media,Broadcasting,NASDAQ,United States of America,,y,n,y,
+196,DISH,large-cap,15013222845.0,DISH Network Corp,Common Stock,Communication Services,Media,Cable & Satellite,NASDAQ,United States of America,,n,y,n,
+197,DKNG,large-cap,37855131852.0,DraftKings Inc,Common Stock,Consumer Discretionary,"Hotels, Restaurants & Leisure",Casinos & Gaming,NASDAQ,United States of America,,y,y,n,
+198,DLR,large-cap,37995543750.0,Digital Realty Trust Inc,Common Stock (REIT),Real Estate,Equity Real Estate Investment Trusts (REITs),Specialized REITs,NYSE,United States of America,,y,y,n,
+199,DLTR,large-cap,20985146440.0,Dollar Tree Inc,Common Stock,Consumer Discretionary,Multiline Retail,General Merchandise Stores,NASDAQ,United States of America,,y,y,n,
+200,DOCU,large-cap,37745885250.0,DocuSign Inc.,Common Stock,Information Technology,Software,Application Software,NASDAQ,United States of America,,y,y,n,
+201,DOV,large-cap,15424945800.0,Dover Corp,Common Stock,Industrials,Machinery,Industrial Machinery,NYSE,United States of America,,y,y,n,
+202,DOW,large-cap,34395425610.0,Dow Inc,Common Stock,Materials,Chemicals,Commodity Chemicals,NYSE,United States of America,,n,n,y,
+203,DPZ,large-cap,16263587688.0,Domino's Pizza Inc,Common Stock,Consumer Discretionary,"Hotels, Restaurants & Leisure",Restaurants,NYSE,United States of America,,y,n,y,
+204,DRE,large-cap,13332988720.0,Duke Realty Corp,Common Stock (REIT),Real Estate,Equity Real Estate Investment Trusts (REITs),Industrial REITs,NYSE,United States of America,,y,y,n,
+205,DRI,large-cap,12658182110.0,Darden Restaurants Inc.,Common Stock,Consumer Discretionary,"Hotels, Restaurants & Leisure",Restaurants,NYSE,United States of America,,y,y,n,
+206,DT,large-cap,10947170150.0,Dynatrace Inc,Common Stock,Information Technology,Software,Application Software,NYSE,United States of America,,n,y,n,
+207,DTE,large-cap,21767636490.0,DTE Energy Co,Common Stock,Utilities,Multi-Utilities,Multi-Utilities,NYSE,United States of America,,y,y,n,
+208,DUK,large-cap,60062731440.0,Duke Energy Corp,Common Stock,Utilities,Electric Utilities,Electric Utilities,NYSE,United States of America,,y,y,n,
+209,DXCM,large-cap,36576392666.0,DexCom Inc,Common Stock,Health Care,Health Care Equipment & Supplies,Health Care Equipment,NASDAQ,United States of America,,y,y,n,
+210,E,large-cap,38169000000.0,Eni SpA,Depository Receipt,Energy,"Oil, Gas & Consumable Fuels",Integrated Oil & Gas,NYSE,Italy,,n,y,y,
+211,EA,large-cap,37347228040.0,Electronic Arts Inc,Common Stock,Communication Services,Entertainment,Interactive Home Entertainment,NASDAQ,United States of America,,n,y,n,
+212,EBAY,large-cap,36239838180.0,eBay Inc.,Common Stock,Consumer Discretionary,Internet & Direct Marketing Retail,Internet & Direct Marketing Retail,NASDAQ,United States of America,,y,n,y,
+213,EC,large-cap,20887283600.0,Ecopetrol SA,Depository Receipt,Energy,"Oil, Gas & Consumable Fuels",Integrated Oil & Gas,NYSE,Colombia,,n,y,n,
+214,ECL,large-cap,55538774850.0,Ecolab Inc.,Common Stock,Materials,Chemicals,Specialty Chemicals,NYSE,United States of America,,y,y,n,
+215,ED,large-cap,24729363210.0,Consolidated Edison Inc.,Common Stock,Utilities,Multi-Utilities,Multi-Utilities,NYSE,United States of America,,n,y,n,
+216,EDU,large-cap,23796866008.0,New Oriental Education & Technology Group Inc,Depository Receipt,Consumer Discretionary,Diversified Consumer Services,Education Services,NYSE,China,,n,y,n,
+217,EFX,large-cap,18454176580.0,Equifax Inc.,Common Stock,Industrials,Professional Services,Research & Consulting Services,NYSE,United States of America,,y,y,n,
+218,EIX,large-cap,19228755640.0,Edison International,Common Stock,Utilities,Electric Utilities,Electric Utilities,NYSE,United States of America,,y,y,n,
+219,EL,large-cap,75765269367.0,Estee Lauder Cos Inc (The),Common Stock,Consumer Staples,Personal Products,Personal Products,NYSE,United States of America,,n,n,y,
+220,ELAN,large-cap,14634000000.0,Elanco Animal Health Inc,Common Stock,Health Care,Pharmaceuticals,Pharmaceuticals,NYSE,United States of America,,y,y,n,
+221,ELS,large-cap,11653169969.0,Equity Lifestyle Properties Inc,Common Stock (REIT),Real Estate,Equity Real Estate Investment Trusts (REITs),Residential REITs,NYSE,United States of America,,y,y,n,
+222,EMN,large-cap,10427364000.0,Eastman Chemical Co,Common Stock,Materials,Chemicals,Diversified Chemicals,NYSE,United States of America,,y,y,n,
+223,EMR,large-cap,38478948880.0,Emerson Electric Co.,Common Stock,Industrials,Electrical Equipment,Electrical Components & Equipment,NYSE,United States of America,,n,y,n,
+224,ENB,large-cap,60026631600.0,Enbridge Inc,Common Stock,Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Storage & Transportation,NYSE,Canada,,y,y,n,
+225,EOG,large-cap,21339242600.0,EOG Resources Inc.,Common Stock,Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Exploration & Production,NYSE,United States of America,,y,y,n,
+226,EPAM,large-cap,17592451948.0,EPAM Systems Inc,Common Stock,Information Technology,IT Services,IT Consulting & Other Services,NYSE,United States of America,,y,y,n,
+227,EPD,large-cap,33597283000.0,Enterprise Products Partners LP,Unit Trust Fund,Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Storage & Transportation,NYSE,United States of America,,y,y,n,
+228,EQH,large-cap,12211000000.0,Equitable Holdings Inc,Common Stock,Financials,Diversified Financial Services,Other Diversified Financial Services,NYSE,United States of America,,y,n,y,
+229,EQIX,large-cap,64977000983.0,Equinix Inc,Common Stock (REIT),Real Estate,Equity Real Estate Investment Trusts (REITs),Specialized REITs,NASDAQ,United States of America,,y,y,n,
+230,EQNR,large-cap,47160833727.0,Equinor ASA,Depository Receipt,Energy,"Oil, Gas & Consumable Fuels",Integrated Oil & Gas,NYSE,Norway,,y,y,n,
+231,EQR,large-cap,19501403425.0,Equity Residential,Common Stock (REIT),Real Estate,Equity Real Estate Investment Trusts (REITs),Residential REITs,NYSE,United States of America,,y,y,n,
+232,ERIC,large-cap,32118985858.0,Telefonaktiebolaget LM Ericsson,Depository Receipt,Information Technology,Communications Equipment,Communications Equipment,NASDAQ,Sweden,,n,y,n,
+233,ES,large-cap,27396306600.0,Eversource Energy,Common Stock,Utilities,Electric Utilities,Electric Utilities,NYSE,United States of America,,y,y,n,
+234,ESS,large-cap,12975465902.0,Essex Property Trust Inc.,Common Stock (REIT),Real Estate,Equity Real Estate Investment Trusts (REITs),Residential REITs,NYSE,United States of America,,y,y,n,
+235,ET,large-cap,14879712000.0,Energy Transfer LP,Unit Trust Fund,Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Storage & Transportation,NYSE,United States of America,,n,y,n,
+236,ETH,large-cap,39176393950.0,Ethan Allen Interiors Inc,Common Stock,Consumer Discretionary,Household Durables,Home Furnishings,NYSE,United States of America,,y,y,n,
+237,ETN,large-cap,39869965000.0,Eaton Corp Plc,Common Stock,Industrials,Electrical Equipment,Electrical Components & Equipment,NYSE,Ireland,,y,n,y,
+238,ETR,large-cap,19176209580.0,Entergy Corp.,Common Stock,Utilities,Electric Utilities,Electric Utilities,NYSE,United States of America,,n,y,n,
+239,ETSY,large-cap,24248888908.0,Etsy Inc,Common Stock,Consumer Discretionary,Internet & Direct Marketing Retail,Internet & Direct Marketing Retail,NASDAQ,United States of America,,y,n,y,
+240,EVRG,large-cap,11155401040.0,Evergy Inc,Common Stock,Utilities,Electric Utilities,Electric Utilities,NYSE,United States of America,,y,y,n,
+241,EW,large-cap,46425400470.0,Edwards Lifesciences Corp,Common Stock,Health Care,Health Care Equipment & Supplies,Health Care Equipment,NYSE,United States of America,,n,y,n,
+242,EXAS,large-cap,14162249770.0,EXACT Sciences Corp,Common Stock,Health Care,Biotechnology,Biotechnology,NASDAQ,United States of America,,y,y,n,
+243,EXC,large-cap,33922484240.0,Exelon Corp,Common Stock,Utilities,Electric Utilities,Electric Utilities,NASDAQ,United States of America,,y,y,n,
+244,EXPD,large-cap,14982008240.0,Expeditors International of Washington Inc.,Common Stock,Industrials,Air Freight & Logistics,Air Freight & Logistics,NASDAQ,United States of America,,y,y,n,
+245,EXPE,large-cap,12999853300.0,Expedia Group Inc,Common Stock,Consumer Discretionary,Internet & Direct Marketing Retail,Internet & Direct Marketing Retail,NASDAQ,United States of America,,y,y,n,
+246,EXR,large-cap,14017344391.0,Extra Space Storage Inc,Common Stock (REIT),Real Estate,Equity Real Estate Investment Trusts (REITs),Specialized REITs,NYSE,United States of America,,y,y,n,
+247,F,large-cap,26496091226.0,Ford Motor Co,Common Stock,Consumer Discretionary,Automobiles,Automobile Manufacturers,NYSE,United States of America,,n,y,n,
+248,FAST,large-cap,25400159280.0,Fastenal Co,Common Stock,Industrials,Trading Companies & Distributors,Trading Companies & Distributors,NASDAQ,United States of America,,n,y,n,
+249,FB,mega-cap,710864484557.0,Facebook Inc,Common Stock,Communication Services,Interactive Media & Services,Interactive Media & Services,NASDAQ,United States of America,,y,y,n,
+250,FBHS,large-cap,11336424880.0,Fortune Brands Home & Security Inc,Common Stock,Industrials,Building Products,Building Products,NYSE,United States of America,,y,y,n,
+251,FCAU,large-cap,19022387300.0,Fiat Chrysler Automobiles NV,Common Stock,Consumer Discretionary,Automobiles,Automobile Manufacturers,NYSE,United Kingdom,,y,y,n,
+252,FCX,large-cap,22335143600.0,Freeport-McMoRan Inc,Common Stock,Materials,Metals & Mining,Copper,NYSE,United States of America,,y,y,n,
+253,FDS,large-cap,12703506660.0,FactSet Research Systems Inc.,Common Stock,Financials,Capital Markets,Financial Exchanges & Data,NYSE,United States of America,,y,y,n,
+254,FDX,large-cap,64130218240.0,FedEx Corp.,Common Stock,Industrials,Air Freight & Logistics,Air Freight & Logistics,NYSE,United States of America,,y,y,n,
+255,FE,large-cap,15265817600.0,FirstEnergy Corp.,Common Stock,Utilities,Electric Utilities,Electric Utilities,NYSE,United States of America,,n,y,n,
+256,FICO,large-cap,11889754000.0,Fair Isaac Corp,Common Stock,Information Technology,Software,Application Software,NYSE,United States of America,,y,y,n,
+257,FIS,large-cap,89352948630.0,Fidelity National Information Services Inc,Common Stock,Information Technology,IT Services,Data Processing & Outsourced Services,NYSE,United States of America,,n,y,n,
+258,FISV,large-cap,65813202000.0,Fiserv Inc.,Common Stock,Information Technology,IT Services,Data Processing & Outsourced Services,NASDAQ,United States of America,,y,y,n,
+259,FITB,large-cap,13967046010.0,Fifth Third Bancorp,Common Stock,Financials,Banks,Regional Banks,NASDAQ,United States of America,,y,y,n,
+260,FLT,large-cap,19634523840.0,FleetCor Technologies Inc,Common Stock,Information Technology,IT Services,Data Processing & Outsourced Services,NYSE,United States of America,,y,y,n,
+261,FMC,large-cap,13481342300.0,FMC Corp.,Common Stock,Materials,Chemicals,Fertilizers & Agricultural Chemicals,NYSE,United States of America,,y,n,y,
+262,FMS,large-cap,24481000000.0,Fresenius Medical Care AG &Co KGAA,Depository Receipt,Health Care,Health Care Providers & Services,Health Care Services,NYSE,Germany,,n,y,n,
+263,FMX,large-cap,26490000000.0,Fomento Economico Mexican SAB de CV,Depository Receipt,Consumer Staples,Beverages,Soft Drinks,NYSE,Mexico,,y,y,n,
+264,FNV,large-cap,26558437800.0,Franco-Nevada Corp,Common Stock,Materials,Metals & Mining,Gold,NYSE,Canada,,y,y,n,
+265,FOX,large-cap,15856728540.0,Fox Corp,Common Stock,Communication Services,Media,Broadcasting,NASDAQ,United States of America,,n,n,y,
+266,FOXA,large-cap,15844633400.0,Fox Corp,Common Stock,Communication Services,Media,Broadcasting,NASDAQ,United States of America,,y,n,y,
+267,FRC,large-cap,17726432820.0,First Republic Bank,Common Stock,Financials,Banks,Regional Banks,NYSE,United States of America,,y,y,n,
+268,FTNT,large-cap,18691596000.0,Fortinet Inc,Common Stock,Information Technology,Software,Systems Software,NASDAQ,United States of America,,y,y,n,
+269,FTS,large-cap,19232000000.0,Fortis Inc,Common Stock,Utilities,Electric Utilities,Electric Utilities,NYSE,Canada,,y,y,n,
+270,FTV,large-cap,24518617280.0,Fortive Corp,Common Stock,Industrials,Machinery,Industrial Machinery,NYSE,United States of America,,y,y,n,
+271,FUTU,large-cap,13026000000.0,Futu Holdings Ltd,Depository Receipt,Financials,Capital Markets,Investment Banking & Brokerage,NASDAQ,Hong Kong,,y,n,y,
+272,FWONA,large-cap,20190646068.0,Formula One Group - The Liberty Media Group,Common Stock,Communication Services,Entertainment,Movies & Entertainment,NASDAQ,United States of America,,y,y,n,
+273,FWONK,large-cap,21957249292.0,Formula One Group - The Liberty Media Group,Common Stock,Communication Services,Entertainment,Movies & Entertainment,NASDAQ,United States of America,,y,y,n,
+274,GD,large-cap,39280990800.0,General Dynamics Corp,Common Stock,Industrials,Aerospace & Defense,Aerospace & Defense,NYSE,United States of America,,y,y,n,
+275,GDDY,large-cap,12318619050.0,GoDaddy Inc,Common Stock,Information Technology,IT Services,Internet Services & Infrastructure,NYSE,United States of America,,y,y,n,
+276,GDS,large-cap,20005000000.0,GDS Holdings Ltd,Depository Receipt,Information Technology,IT Services,Internet Services & Infrastructure,NASDAQ,China,,y,n,y,
+277,GE,large-cap,53044937400.0,General Electric Co,Common Stock,Industrials,Industrial Conglomerates,Industrial Conglomerates,NYSE,United States of America,,n,y,n,
+278,GFI,large-cap,10343829430.0,Gold Fields Ltd,Depository Receipt,Materials,Metals & Mining,Gold,NYSE,South Africa,,y,y,n,
+279,GFL,large-cap,10215000000.0,GFL Environmental Inc,Common Stock,Industrials,Commercial Services & Supplies,Environmental & Facilities Services,NYSE,Canada,,y,y,n,
+280,GGG,large-cap,10044337750.0,Graco Inc.,Common Stock,Industrials,Machinery,Industrial Machinery,NYSE,United States of America,,y,y,n,
+281,GH,large-cap,10578745520.0,Guardant Health Inc,Common Stock,Health Care,Health Care Providers & Services,Health Care Services,NASDAQ,United States of America,,y,y,n,
+282,GIB,large-cap,20283000000.0,CGI Inc,Common Stock,Information Technology,IT Services,IT Consulting & Other Services,NYSE,Canada,,y,y,n,
+283,GILD,large-cap,78044070000.0,Gilead Sciences Inc,Common Stock,Health Care,Biotechnology,Biotechnology,NASDAQ,United States of America,,y,y,n,
+284,GIS,large-cap,35860886600.0,General Mills Inc.,Common Stock,Consumer Staples,Food Products,Packaged Foods & Meats,NYSE,United States of America,,n,y,n,
+285,GLW,large-cap,23353494120.0,Corning Inc,Common Stock,Information Technology,"Electronic Equipment, Instruments & Components",Electronic Components,NYSE,United States of America,,y,n,y,
+286,GM,large-cap,41659321000.0,General Motors Co,Common Stock,Consumer Discretionary,Automobiles,Automobile Manufacturers,NYSE,United States of America,,y,y,n,
+287,GMAB,large-cap,28138000000.0,Genmab A/S,Depository Receipt,Health Care,Biotechnology,Biotechnology,NASDAQ,Denmark,,y,y,n,
+288,GNRC,large-cap,11180961879.0,Generac Holdings Inc,Common Stock,Industrials,Electrical Equipment,Electrical Components & Equipment,NYSE,United States of America,,y,y,n,
+289,GOLD,large-cap,49162806000.0,Barrick Gold Corp,Common Stock,Materials,Metals & Mining,Gold,NYSE,Canada,,n,y,n,
+290,GOOG,mega-cap,1274000000000.0,Alphabet Inc,Common Stock,Communication Services,Interactive Media & Services,Interactive Media & Services,NASDAQ,United States of America,,y,n,y,
+291,GOOGL,mega-cap,967777246947.0,Alphabet Inc,Common Stock,Communication Services,Interactive Media & Services,Interactive Media & Services,NASDAQ,United States of America,,y,n,y,
+292,GPC,large-cap,13552160160.0,Genuine Parts Co,Common Stock,Consumer Discretionary,Distributors,Distributors,NYSE,United States of America,,y,y,n,
+293,GPN,large-cap,51598470490.0,Global Payments Inc.,Common Stock,Information Technology,IT Services,Data Processing & Outsourced Services,NYSE,United States of America,,y,y,n,
+294,GRMN,large-cap,17723845160.0,Garmin Ltd,Common Stock,Consumer Discretionary,Household Durables,Consumer Electronics,NASDAQ,Switzerland,,y,y,n,
+295,GS,large-cap,67132668360.0,Goldman Sachs Group Inc (The),Common Stock,Financials,Capital Markets,Investment Banking & Brokerage,NYSE,United States of America,,y,y,n,
+296,GSK,large-cap,93032465400.0,Glaxosmithkline PLC,Depository Receipt,Health Care,Pharmaceuticals,Pharmaceuticals,NYSE,United Kingdom,,y,y,n,
+297,GSX,large-cap,12996099827.0,GSX Techedu Inc,Depository Receipt,Consumer Discretionary,Diversified Consumer Services,Education Services,NYSE,China,,y,y,n,
+298,GWW,large-cap,18347235816.0,Grainger (W.W.) Inc,Common Stock,Industrials,Trading Companies & Distributors,Trading Companies & Distributors,NYSE,United States of America,,y,y,n,
+299,HAL,large-cap,10998444400.0,Halliburton Co,Common Stock,Energy,Energy Equipment & Services,Oil & Gas Equipment & Services,NYSE,United States of America,,n,y,n,
+300,HAS,large-cap,10435671680.0,Hasbro Inc.,Common Stock,Consumer Discretionary,Leisure Products,Leisure Products,NASDAQ,United States of America,,n,y,n,
+301,HCA,large-cap,39532959350.0,HCA Healthcare Inc,Common Stock,Health Care,Health Care Providers & Services,Health Care Facilities,NYSE,United States of America,,y,y,n,
+302,HD,mega-cap,286015422000.0,Home Depot Inc. (The),Common Stock,Consumer Discretionary,Specialty Retail,Home Improvement Retail,NYSE,United States of America,,n,y,n,
+303,HDB,large-cap,87389704416.0,H D F C Bank Ltd,Depository Receipt,Financials,Banks,Diversified Banks,NYSE,India,,y,y,n,
+304,HEI,large-cap,13694005492.0,HEICO Corp,Common Stock,Industrials,Aerospace & Defense,Aerospace & Defense,NYSE,United States of America,,y,y,n,
+305,HES,large-cap,12116830800.0,Hess Corp,Common Stock,Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Exploration & Production,NYSE,United States of America,,y,y,n,
+306,HIG,large-cap,12683720360.0,Hartford Financial Services Group Inc. (The),Common Stock,Financials,Insurance,Multi-line Insurance,NYSE,United States of America,,y,y,n,
+307,HLT,large-cap,23036058630.0,Hilton Worldwide Holdings Inc,Common Stock,Consumer Discretionary,"Hotels, Restaurants & Leisure","Hotels, Resorts & Cruise Lines",NYSE,United States of America,,y,y,n,
+308,HMC,large-cap,40299957925.0,Honda Motor Co Ltd,Depository Receipt,Consumer Discretionary,Automobiles,Automobile Manufacturers,NYSE,Japan,,y,y,n,
+309,HOLX,large-cap,16318644850.0,Hologic Inc,Common Stock,Health Care,Health Care Equipment & Supplies,Health Care Equipment,NASDAQ,United States of America,,y,y,n,
+310,HON,large-cap,111415069080.0,Honeywell International Inc,Common Stock,Industrials,Industrial Conglomerates,Industrial Conglomerates,NYSE,United States of America,,y,y,n,
+311,HPE,large-cap,11744649400.0,Hewlett Packard Enterprise Co,Common Stock,Information Technology,"Technology Hardware, Storage & Peripherals","Technology Hardware, Storage & Peripherals",NYSE,United States of America,,y,y,n,
+312,HPQ,large-cap,24929025000.0,HP Inc,Common Stock,Information Technology,"Technology Hardware, Storage & Peripherals","Technology Hardware, Storage & Peripherals",NYSE,United States of America,,y,n,y,
+313,HRL,large-cap,26052274240.0,Hormel Foods Corp,Common Stock,Consumer Staples,Food Products,Packaged Foods & Meats,NYSE,United States of America,,y,y,n,
+314,HSBC,large-cap,74909826000.0,HSBC Holdings PLC,Depository Receipt,Financials,Banks,Diversified Banks,NYSE,United Kingdom,,y,n,y,
+315,HSY,large-cap,28636415482.0,Hershey Co (The),Common Stock,Consumer Staples,Food Products,Packaged Foods & Meats,NYSE,United States of America,,y,y,n,
+316,HTA,large-cap,11178738423.0,Healthcare Trust of America Inc,Common Stock (REIT),Real Estate,Equity Real Estate Investment Trusts (REITs),Health Care REITs,NYSE,United States of America,,y,y,n,
+317,HTHT,large-cap,13475701518.0,Huazhu Group Ltd,Depository Receipt,Consumer Discretionary,"Hotels, Restaurants & Leisure","Hotels, Resorts & Cruise Lines",NASDAQ,China,,y,y,n,
+318,HUBS,large-cap,12902841838.0,HubSpot Inc,Common Stock,Information Technology,Software,Application Software,NYSE,United States of America,,n,y,n,
+319,HUM,large-cap,51197391000.0,Humana Inc.,Common Stock,Health Care,Health Care Providers & Services,Managed Health Care,NYSE,United States of America,,y,y,n,
+320,HZNP,large-cap,15925289310.0,Horizon Therapeutics Public Ltd Co,Common Stock,Health Care,Pharmaceuticals,Pharmaceuticals,NASDAQ,Ireland,,y,y,n,
+321,IBKR,large-cap,19544320050.0,Interactive Brokers Group Inc,Common Stock,Financials,Capital Markets,Investment Banking & Brokerage,NASDAQ,United States of America,,y,y,n,
+322,IBM,large-cap,105168474110.0,International Business Machines Corp,Common Stock,Information Technology,IT Services,IT Consulting & Other Services,NYSE,United States of America,,n,y,n,
+323,IBN,large-cap,32066400000.0,Icici Bank Ltd,Depository Receipt,Financials,Banks,Diversified Banks,NYSE,India,,y,y,n,
+324,ICE,large-cap,55187515840.0,Intercontinental Exchange Inc,Common Stock,Financials,Capital Markets,Financial Exchanges & Data,NYSE,United States of America,,n,y,n,
+325,ICLR,large-cap,11661000000.0,Icon PLC,Common Stock,Health Care,Life Sciences Tools & Services,Life Sciences Tools & Services,NASDAQ,Ireland,,y,n,y,
+326,IDXX,large-cap,31084941209.0,IDEXX Laboratories Inc,Common Stock,Health Care,Health Care Equipment & Supplies,Health Care Equipment,NASDAQ,United States of America,,y,y,n,
+327,IEP,large-cap,10627798500.0,Icahn Enterprises LP,Unit Trust Fund,Industrials,Industrial Conglomerates,Industrial Conglomerates,NASDAQ,United States of America,,y,y,n,
+328,IEX,large-cap,13422728704.0,IDEX Corp,Common Stock,Industrials,Machinery,Industrial Machinery,NYSE,United States of America,,y,y,n,
+329,IFF,large-cap,12463041150.0,International Flavors & Fragrances Inc,Common Stock,Materials,Chemicals,Specialty Chemicals,NYSE,United States of America,,y,y,n,
+330,ILMN,large-cap,41904331600.0,Illumina Inc,Common Stock,Health Care,Life Sciences Tools & Services,Life Sciences Tools & Services,NASDAQ,United States of America,,y,y,n,
+331,INCY,large-cap,18604723930.0,Incyte Corp,Common Stock,Health Care,Biotechnology,Biotechnology,NASDAQ,United States of America,,y,y,n,
+332,INFO,large-cap,30395646000.0,IHS Markit Ltd,Common Stock,Industrials,Professional Services,Research & Consulting Services,NYSE,United Kingdom,,n,y,n,
+333,INFY,large-cap,55585170000.0,Infosys Ltd,Depository Receipt,Information Technology,IT Services,IT Consulting & Other Services,NYSE,India,,y,y,n,
+334,ING,large-cap,27066902200.0,ING Groep NV,Depository Receipt,Financials,Banks,Diversified Banks,NYSE,Netherlands,,n,y,n,
+335,INTC,mega-cap,209077480000.0,Intel Corp,Common Stock,Information Technology,Semiconductors & Semiconductor Equipment,Semiconductors,NASDAQ,United States of America,,y,n,y,
+336,INTU,large-cap,80791022130.0,Intuit Inc.,Common Stock,Information Technology,Software,Application Software,NASDAQ,United States of America,,y,y,n,
+337,INVH,large-cap,15111969680.0,Invitation Homes Inc,Common Stock,Real Estate,Equity Real Estate Investment Trusts (REITs),Residential REITs,NYSE,United States of America,,y,y,n,
+338,IP,large-cap,15413176530.0,International Paper Co,Common Stock,Materials,Containers & Packaging,Paper Packaging,NYSE,United States of America,,n,y,n,
+339,IQV,large-cap,28321496970.0,Iqvia Holdings Inc,Common Stock,Health Care,Life Sciences Tools & Services,Life Sciences Tools & Services,NYSE,United States of America,,y,y,n,
+340,IR,large-cap,14751376830.0,Ingersoll Rand Inc,Common Stock,Industrials,Machinery,Industrial Machinery,NYSE,United States of America,,n,y,n,
+341,ISRG,large-cap,76948105780.0,Intuitive Surgical Inc,Common Stock,Health Care,Health Care Equipment & Supplies,Health Care Equipment,NASDAQ,United States of America,,y,y,n,
+342,IT,large-cap,10980963756.0,Gartner Inc,Common Stock,Information Technology,IT Services,IT Consulting & Other Services,NYSE,United States of America,,n,y,n,
+343,ITUB,large-cap,19793183247.0,Itau Unibanco Holding SA,Depository Receipt,Financials,Banks,Diversified Banks,NYSE,Brazil,,y,y,n,
+344,ITW,large-cap,60810791420.0,Illinois Tool Works Inc.,Common Stock,Industrials,Machinery,Industrial Machinery,NYSE,United States of America,,y,y,n,
+345,IX,large-cap,21234000000.0,Orix Corp,Depository Receipt,Financials,Diversified Financial Services,Other Diversified Financial Services,NYSE,Japan,,n,y,n,
+346,J,large-cap,11721324160.0,Jacobs Engineering Group Inc.,Common Stock,Industrials,Construction & Engineering,Construction & Engineering,NYSE,United States of America,,n,y,n,
+347,JBHT,large-cap,13806646020.0,J.B. Hunt Transport Services Inc.,Common Stock,Industrials,Road & Rail,Trucking,NASDAQ,United States of America,,y,y,n,
+348,JCI,large-cap,30453884640.0,Johnson Controls International Plc,Common Stock,Industrials,Building Products,Building Products,NYSE,Ireland,,y,y,n,
+349,JD,large-cap,95993620332.0,JD.com Inc,Depository Receipt,Consumer Discretionary,Internet & Direct Marketing Retail,Internet & Direct Marketing Retail,NASDAQ,China,,y,n,y,
+350,JHX,large-cap,13185000000.0,James Hardie Industries Plc,Depository Receipt,Materials,Construction Materials,Construction Materials,NYSE,Ireland,,y,y,n,
+351,JKHY,large-cap,12080280516.0,Henry (Jack) & Associates Inc,Common Stock,Information Technology,IT Services,Data Processing & Outsourced Services,NASDAQ,United States of America,,y,y,n,
+352,JNJ,mega-cap,380890069400.0,Johnson & Johnson,Common Stock,Health Care,Pharmaceuticals,Pharmaceuticals,NYSE,United States of America,,y,y,y,
+353,JPM,mega-cap,282390616000.0,JPMorgan Chase & Co,Common Stock,Financials,Banks,Diversified Banks,NYSE,United States of America,,y,y,n,
+354,K,large-cap,21483875350.0,Kellogg Co,Common Stock,Consumer Staples,Food Products,Packaged Foods & Meats,NYSE,United States of America,,n,y,n,
+355,KB,large-cap,16279000000.0,KB Financial Group Inc,Depository Receipt,Financials,Banks,Diversified Banks,NYSE,South Korea,,y,y,n,
+356,KDP,large-cap,38360272000.0,Keurig Dr Pepper Inc,Common Stock,Consumer Staples,Beverages,Soft Drinks,NYSE,United States of America,,y,y,n,
+357,KEP,large-cap,14430000000.0,Korea Electric Power Corp,Depository Receipt,Utilities,Electric Utilities,Electric Utilities,NYSE,South Korea,,y,y,n,
+358,KEY,large-cap,11272800000.0,KeyCorp,Common Stock,Financials,Banks,Regional Banks,NYSE,United States of America,,n,y,n,
+359,KEYS,large-cap,18077627400.0,Keysight Technologies Inc,Common Stock,Information Technology,"Electronic Equipment, Instruments & Components",Electronic Equipment & Instruments,NYSE,United States of America,,n,y,n,
+360,KGC,large-cap,11121604000.0,Kinross Gold Corp,Common Stock,Materials,Metals & Mining,Gold,NYSE,Canada,,y,y,n,
+361,KHC,large-cap,35259207200.0,The Kraft Heinz Co,Common Stock,Consumer Staples,Food Products,Packaged Foods & Meats,NASDAQ,United States of America,,y,y,n,
+362,KKR,large-cap,18485201460.0,KKR & Co Inc,Common Stock,Financials,Capital Markets,Asset Management & Custody Banks,NYSE,United States of America,,y,n,y,
+363,KL,large-cap,13403999280.0,Kirkland Lake Gold Ltd,Common Stock,Materials,Metals & Mining,Gold,NYSE,Canada,,n,y,n,
+364,KLAC,large-cap,28688772940.0,KLA Corp,Common Stock,Information Technology,Semiconductors & Semiconductor Equipment,Semiconductor Equipment,NASDAQ,United States of America,,y,y,n,
+365,KMB,large-cap,49956564560.0,Kimberly-Clark Corp,Common Stock,Consumer Staples,Household Products,Household Products,NYSE,United States of America,,y,y,n,
+366,KMI,large-cap,27796271200.0,Kinder Morgan Inc.,Common Stock,Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Storage & Transportation,NYSE,United States of America,,y,y,n,
+367,KMX,large-cap,15374993840.0,CarMax Inc,Common Stock,Consumer Discretionary,Specialty Retail,Automotive Retail,NYSE,United States of America,,y,y,n,
+368,KO,mega-cap,209187928000.0,Coca-Cola Co (The),Common Stock,Consumer Staples,Beverages,Soft Drinks,NYSE,United States of America,,n,y,n,
+369,KR,large-cap,25885684750.0,Kroger Co. (The),Common Stock,Consumer Staples,Food & Staples Retailing,Food Retail,NYSE,United States of America,,n,n,y,
+370,KSU,large-cap,17243278068.0,Kansas City Southern,Common Stock,Industrials,Road & Rail,Railroads,NYSE,United States of America,,n,y,n,
+371,LBRDA,large-cap,25131840591.0,Liberty Broadband Corp,Common Stock,Communication Services,Media,Cable & Satellite,NASDAQ,United States of America,,y,y,n,
+372,LBRDK,large-cap,25333783135.0,Liberty Broadband Corp,Common Stock,Communication Services,Media,Cable & Satellite,NASDAQ,United States of America,,y,y,n,
+373,LBTYA,large-cap,14411000000.0,Liberty Global Plc,Common Stock,Communication Services,Media,Cable & Satellite,NASDAQ,United Kingdom,,y,y,n,
+374,LBTYB,large-cap,12264701568.0,Liberty Global Plc,Common Stock,Communication Services,Media,Cable & Satellite,NASDAQ,United Kingdom,,y,y,n,
+375,LBTYK,large-cap,14412000000.0,Liberty Global Plc,Common Stock,Communication Services,Media,Cable & Satellite,NASDAQ,United Kingdom,,y,y,n,
+376,LDOS,large-cap,12517337820.0,Leidos Holdings Inc,Common Stock,Information Technology,IT Services,IT Consulting & Other Services,NYSE,United States of America,,y,y,n,
+377,LEN,large-cap,24211182648.0,Lennar Corp,Common Stock,Consumer Discretionary,Household Durables,Homebuilding,NYSE,United States of America,,n,y,n,
+378,LFC,large-cap,16608713760.0,China Life Insurance Co Ltd,Depository Receipt,Financials,Insurance,Life & Health Insurance,NYSE,China,,y,y,n,
+379,LH,large-cap,17322590000.0,Laboratory Corp of America Holdings,Common Stock,Health Care,Health Care Providers & Services,Health Care Services,NYSE,United States of America,,y,n,y,
+380,LHX,large-cap,37994109300.0,L3Harris Technologies Inc,Common Stock,Industrials,Aerospace & Defense,Aerospace & Defense,NYSE,United States of America,,y,y,n,
+381,LII,large-cap,10101351240.0,Lennox International Inc.,Common Stock,Industrials,Building Products,Building Products,NYSE,United States of America,,y,y,n,
+382,LIN,large-cap,123196920000.0,Linde Plc,Common Stock,Materials,Chemicals,Industrial Gases,NYSE,United Kingdom,,n,y,n,
+383,LLY,large-cap,142332300700.0,Eli Lilly and Co,Common Stock,Health Care,Pharmaceuticals,Pharmaceuticals,NYSE,United States of America,,y,y,n,
+384,LMT,large-cap,105879327920.0,Lockheed Martin Corp,Common Stock,Industrials,Aerospace & Defense,Aerospace & Defense,NYSE,United States of America,,y,y,n,
+385,LN,large-cap,12619000000.0,LINE Corp,Depository Receipt,Communication Services,Interactive Media & Services,Interactive Media & Services,NYSE,Japan,,y,n,y,
+386,LNG,large-cap,12355351940.0,Cheniere Energy Inc.,Common Stock,Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Storage & Transportation,AMEX,United States of America,,n,y,n,
+387,LNT,large-cap,12464724920.0,Alliant Energy Corp,Common Stock,Utilities,Electric Utilities,Electric Utilities,NASDAQ,United States of America,,y,y,n,
+388,LOGI,large-cap,12331565960.0,"Logitech International SA, Apples",Common Stock,Information Technology,"Technology Hardware, Storage & Peripherals","Technology Hardware, Storage & Peripherals",NASDAQ,Switzerland,,y,y,n,
+389,LOW,large-cap,119799270720.0,Lowe's Cos Inc,Common Stock,Consumer Discretionary,Specialty Retail,Home Improvement Retail,NYSE,United States of America,,n,y,n,
+390,LRCX,large-cap,47644131250.0,Lam Research Corp,Common Stock,Information Technology,Semiconductors & Semiconductor Equipment,Semiconductor Equipment,NASDAQ,United States of America,,y,y,n,
+391,LSXMA,large-cap,20347259829.0,Liberty Media Corp SiriusXM Group,Common Stock,Communication Services,Entertainment,Movies & Entertainment,NASDAQ,United States of America,,y,y,n,
+392,LSXMB,large-cap,16336000000.0,Liberty Media Corp SiriusXM Group,Common Stock,Communication Services,Media,Cable & Satellite,NASDAQ,United States of America,,y,y,n,
+393,LSXMK,large-cap,20297143426.0,Liberty Media Corp SiriusXM Group,Common Stock,Communication Services,Entertainment,Movies & Entertainment,NASDAQ,United States of America,,y,y,n,
+394,LULU,large-cap,41124492120.0,lululemon athletica inc,Common Stock,Consumer Discretionary,"Textiles, Apparel & Luxury Goods","Apparel, Accessories & Luxury Goods",NASDAQ,Canada,,y,y,n,
+395,LUV,large-cap,21742681920.0,Southwest Airlines Co.,Common Stock,Industrials,Airlines,Airlines,NYSE,United States of America,,y,y,n,
+396,LVS,large-cap,35066195730.0,Las Vegas Sands Corp,Common Stock,Consumer Discretionary,"Hotels, Restaurants & Leisure",Casinos & Gaming,NYSE,United States of America,,y,y,n,
+397,LYB,large-cap,23442174580.0,LyondellBasell Industries NV,Common Stock,Materials,Chemicals,Commodity Chemicals,NYSE,United States of America,,y,y,n,
+398,LYG,large-cap,21406848755.0,Lloyds Banking Group PLC,Depository Receipt,Financials,Banks,Diversified Banks,NYSE,United Kingdom,,y,y,n,
+399,LYV,large-cap,11060452050.0,Live Nation Entertainment Inc,Common Stock,Communication Services,Entertainment,Movies & Entertainment,NYSE,United States of America,,y,y,n,
+400,MA,mega-cap,328558264944.0,Mastercard Inc,Common Stock,Information Technology,IT Services,Data Processing & Outsourced Services,NYSE,United States of America,,n,y,n,
+401,MAA,large-cap,12853482350.0,Mid-America Apartment Communities Inc,Common Stock (REIT),Real Estate,Equity Real Estate Investment Trusts (REITs),Residential REITs,NYSE,United States of America,,n,y,n,
+402,MAR,large-cap,29626175250.0,Marriott International Inc,Common Stock,Consumer Discretionary,"Hotels, Restaurants & Leisure","Hotels, Resorts & Cruise Lines",NASDAQ,United States of America,,n,y,n,
+403,MAS,large-cap,14189196000.0,Masco Corp,Common Stock,Industrials,Building Products,Building Products,NYSE,United States of America,,n,y,n,
+404,MASI,large-cap,11975938395.0,Masimo Corp,Common Stock,Health Care,Health Care Equipment & Supplies,Health Care Equipment,NASDAQ,United States of America,,y,y,n,
+405,MCD,large-cap,160815540360.0,McDonald's Corp,Common Stock,Consumer Discretionary,"Hotels, Restaurants & Leisure",Restaurants,NYSE,United States of America,,y,y,n,
+406,MCHP,large-cap,24677085250.0,Microchip Technology Inc,Common Stock,Information Technology,Semiconductors & Semiconductor Equipment,Semiconductors,NASDAQ,United States of America,,y,y,n,
+407,MCK,large-cap,23770566400.0,McKesson Corp,Common Stock,Health Care,Health Care Providers & Services,Health Care Distributors,NYSE,United States of America,,y,y,n,
+408,MCO,large-cap,51713227000.0,Moody's Corp.,Common Stock,Financials,Capital Markets,Financial Exchanges & Data,NYSE,United States of America,,n,y,n,
+409,MDB,large-cap,12866408640.0,MongoDB Inc,Common Stock,Information Technology,IT Services,Internet Services & Infrastructure,NASDAQ,United States of America,,y,y,n,
+410,MDLZ,large-cap,79429987400.0,Mondelez International Inc,Common Stock,Consumer Staples,Food Products,Packaged Foods & Meats,NASDAQ,United States of America,,y,y,n,
+411,MDT,large-cap,136129159400.0,Medtronic PLC,Common Stock,Health Care,Health Care Equipment & Supplies,Health Care Equipment,NYSE,Ireland,,y,y,n,
+412,MELI,large-cap,51431457300.0,MercadoLibre Inc,Common Stock,Consumer Discretionary,Internet & Direct Marketing Retail,Internet & Direct Marketing Retail,NASDAQ,Argentina,,y,y,n,
+413,MET,large-cap,32448952250.0,Metlife Inc.,Common Stock,Financials,Insurance,Life & Health Insurance,NYSE,United States of America,,n,y,n,
+414,MFC,large-cap,37558000000.0,Manulife Financial Corp,Common Stock,Financials,Insurance,Life & Health Insurance,NYSE,Canada,,y,y,n,
+415,MFG,large-cap,33350106623.0,Mizuho Financial Group Inc,Depository Receipt,Financials,Banks,Diversified Banks,NYSE,Japan,,n,y,n,
+416,MGA,large-cap,22696000000.0,Magna International Inc.,Common Stock,Consumer Discretionary,Auto Components,Auto Parts & Equipment,NYSE,Canada,,y,y,n,
+417,MGM,large-cap,10452624390.0,MGM Resorts International,Common Stock,Consumer Discretionary,"Hotels, Restaurants & Leisure",Casinos & Gaming,NYSE,United States of America,,y,y,n,
+418,MKC,large-cap,25159054017.0,McCormick & Co Inc,Common Stock,Consumer Staples,Food Products,Packaged Foods & Meats,NYSE,United States of America,,y,y,n,
+419,MKL,large-cap,13102687800.0,Markel Corp,Common Stock,Financials,Insurance,Property & Casualty Insurance,NYSE,United States of America,,y,y,n,
+420,MKTX,large-cap,17167765004.0,MarketAxess Holdings Inc,Common Stock,Financials,Capital Markets,Financial Exchanges & Data,NASDAQ,United States of America,,y,y,n,
+421,MLM,large-cap,13756445388.0,Martin Marietta Materials Inc.,Common Stock,Materials,Construction Materials,Construction Materials,NYSE,United States of America,,y,y,n,
+422,MMC,large-cap,57101014170.0,Marsh & McLennan Companies Inc,Common Stock,Financials,Insurance,Insurance Brokers,NYSE,United States of America,,y,y,n,
+423,MMM,large-cap,92405128400.0,3M Co,Common Stock,Industrials,Industrial Conglomerates,Industrial Conglomerates,NYSE,United States of America,,y,n,y,
+424,MNST,large-cap,41136888000.0,Monster Beverage Corp,Common Stock,Consumer Staples,Beverages,Soft Drinks,NASDAQ,United States of America,,y,y,n,
+425,MO,large-cap,71232472000.0,Altria Group Inc,Common Stock,Consumer Staples,Tobacco,Tobacco,NYSE,United States of America,,n,y,n,
+426,MPC,large-cap,18622919520.0,Marathon Petroleum Corp,Common Stock,Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Refining & Marketing,NYSE,United States of America,,y,y,n,
+427,MPLX,large-cap,16728250000.0,MPLX LP,Unit Trust Fund,Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Storage & Transportation,NYSE,United States of America,,y,n,y,
+428,MPWR,large-cap,11658965670.0,Monolithic Power Systems Inc,Common Stock,Information Technology,Semiconductors & Semiconductor Equipment,Semiconductors,NASDAQ,United States of America,,y,y,n,
+429,MRK,mega-cap,210306306000.0,Merck & Co Inc.,Common Stock,Health Care,Pharmaceuticals,Pharmaceuticals,NYSE,United States of America,,y,n,y,
+430,MRNA,large-cap,25715234790.0,Moderna Inc,Common Stock,Health Care,Biotechnology,Biotechnology,NASDAQ,United States of America,,y,y,n,
+431,MRTX,large-cap,10700000000.0,Mirati Therapeutics Inc,Common Stock,Health Care,Biotechnology,Biotechnology,NASDAQ,United States of America,,y,y,n,
+432,MRVL,large-cap,25399064000.0,Marvell Technology Group Ltd,Common Stock,Information Technology,Semiconductors & Semiconductor Equipment,Semiconductors,NASDAQ,Bermuda,,y,y,n,
+433,MS,large-cap,73492783600.0,Morgan Stanley,Common Stock,Financials,Capital Markets,Investment Banking & Brokerage,NYSE,United States of America,,n,y,n,
+434,MSCI,large-cap,28948507664.0,MSCI Inc,Common Stock,Financials,Capital Markets,Financial Exchanges & Data,NYSE,United States of America,,y,n,y,
+435,MSFT,mega-cap,1537670803500.0,Microsoft Corp,Common Stock,Information Technology,Software,Systems Software,NASDAQ,United States of America,,y,n,y,
+436,MSI,large-cap,25754990030.0,Motorola Solutions Inc,Common Stock,Information Technology,Communications Equipment,Communications Equipment,NYSE,United States of America,,y,y,n,
+437,MT,large-cap,12276479430.0,Arcelormittal SA,Depository Receipt,Materials,Metals & Mining,Steel,NYSE,Luxembourg,,n,y,n,
+438,MTB,large-cap,11554498607.0,M&T Bank Corp,Common Stock,Financials,Banks,Regional Banks,NYSE,United States of America,,y,y,n,
+439,MTCH,large-cap,24990456239.0,Match Group Inc,Common Stock,Communication Services,Interactive Media & Services,Interactive Media & Services,NASDAQ,United States of America,,y,n,y,
+440,MTD,large-cap,23018680538.0,Mettler-Toledo International Inc,Common Stock,Health Care,Life Sciences Tools & Services,Life Sciences Tools & Services,NYSE,United States of America,,y,y,n,
+441,MU,large-cap,54961170000.0,Micron Technology Inc.,Common Stock,Information Technology,Semiconductors & Semiconductor Equipment,Semiconductors,NASDAQ,United States of America,,n,y,n,
+442,MUFG,large-cap,53418643583.0,Mitsubishi UFJ Financial Group,Depository Receipt,Financials,Banks,Diversified Banks,NYSE,Japan,,y,y,n,
+443,MXIM,large-cap,17342825920.0,Maxim Integrated Products Inc.,Common Stock,Information Technology,Semiconductors & Semiconductor Equipment,Semiconductors,NASDAQ,United States of America,,y,y,n,
+444,NDAQ,large-cap,19924495400.0,Nasdaq Inc,Common Stock,Financials,Capital Markets,Financial Exchanges & Data,NASDAQ,United States of America,,y,n,y,
+445,NDSN,large-cap,10514690710.0,Nordson Corp,Common Stock,Industrials,Machinery,Industrial Machinery,NASDAQ,United States of America,,y,y,n,
+446,NEE,large-cap,135896905920.0,NextEra Energy Inc,Common Stock,Utilities,Electric Utilities,Electric Utilities,NYSE,United States of America,,y,y,n,
+447,NEM,large-cap,49340682240.0,Newmont Corporation,Common Stock,Materials,Metals & Mining,Gold,NYSE,United States of America,,y,y,n,
+448,NET,large-cap,11776554003.0,Cloudflare Inc,Common Stock,Information Technology,Software,Systems Software,NYSE,United States of America,,n,y,n,
+449,NFLX,mega-cap,208635376200.0,Netflix Inc,Common Stock,Communication Services,Entertainment,Movies & Entertainment,NASDAQ,United States of America,,y,n,y,
+450,NGG,large-cap,37757557940.0,National Grid plc,Depository Receipt,Utilities,Multi-Utilities,Multi-Utilities,NYSE,United Kingdom,,y,y,n,
+451,NICE,large-cap,13646784542.0,NICE Ltd,Depository Receipt,Information Technology,Software,Application Software,NASDAQ,Israel,,n,n,y,
+452,NIO,large-cap,19307448698.0,Nio Inc,Depository Receipt,Consumer Discretionary,Automobiles,Automobile Manufacturers,NYSE,China,,y,y,n,
+453,NKE,large-cap,194593782500.0,Nike Inc,Common Stock,Consumer Discretionary,"Textiles, Apparel & Luxury Goods",Footwear,NYSE,United States of America,,y,n,y,
+454,NLOK,large-cap,12091921380.0,NortonLifeLock Inc,Common Stock,Information Technology,Software,Systems Software,NASDAQ,United States of America,,y,y,n,
+455,NLY,large-cap,10016277600.0,Annaly Capital Management Inc,Common Stock (REIT),Financials,Mortgage Real Estate Investment Trusts (REITs),Mortgage REITs,NYSE,United States of America,,y,y,n,
+456,NMR,large-cap,14485411124.0,Nomura Holdings Inc,Depository Receipt,Financials,Capital Markets,Investment Banking & Brokerage,NYSE,Japan,,y,y,n,
+457,NOC,large-cap,54135370080.0,Northrop Grumman Corp,Common Stock,Industrials,Aerospace & Defense,Aerospace & Defense,NYSE,United States of America,,y,y,n,
+458,NOK,large-cap,21544048865.0,Nokia Corp,Depository Receipt,Information Technology,Communications Equipment,Communications Equipment,NYSE,Finland,,y,y,n,
+459,NOW,large-cap,88251016000.0,ServiceNow Inc,Common Stock,Information Technology,Software,Systems Software,NYSE,United States of America,,n,y,n,
+460,NSC,large-cap,54703022870.0,Norfolk Southern Corp,Common Stock,Industrials,Road & Rail,Railroads,NYSE,United States of America,,y,y,n,
+461,NTCO,large-cap,13329000000.0,Natura &Co Holding SA,Depository Receipt,Consumer Staples,Personal Products,Personal Products,NYSE,Brazil,,y,y,n,
+462,NTES,large-cap,64985279008.0,Netease Inc,Depository Receipt,Communication Services,Entertainment,Interactive Home Entertainment,NASDAQ,China,,y,y,n,
+463,NTR,large-cap,22657702260.0,Nutrien Ltd,Common Stock,Materials,Chemicals,Fertilizers & Agricultural Chemicals,NYSE,Canada,,y,y,n,
+464,NTRS,large-cap,15652755460.0,Northern Trust Corp,Common Stock,Financials,Capital Markets,Asset Management & Custody Banks,NASDAQ,United States of America,,y,y,n,
+465,NUE,large-cap,13512820200.0,Nucor Corp,Common Stock,Materials,Metals & Mining,Steel,NYSE,United States of America,,y,y,n,
+466,NVCR,large-cap,10477071240.0,NovoCure Ltd,Common Stock,Health Care,Health Care Equipment & Supplies,Health Care Equipment,NASDAQ,Jersey,,y,y,n,
+467,NVDA,mega-cap,305101298880.0,NVIDIA Corporation,Common Stock,Information Technology,Semiconductors & Semiconductor Equipment,Semiconductors,NASDAQ,United States of America,,y,y,n,
+468,NVO,large-cap,122416222524.0,Novo Nordisk A/S,Depository Receipt,Health Care,Pharmaceuticals,Pharmaceuticals,NYSE,Denmark,,y,y,n,
+469,NVR,large-cap,14472642510.0,NVR Inc.,Common Stock,Consumer Discretionary,Household Durables,Homebuilding,NYSE,United States of America,,y,n,y,
+470,NVS,large-cap,190265063548.0,Novartis AG,Depository Receipt,Health Care,Pharmaceuticals,Pharmaceuticals,NYSE,Switzerland,,y,y,n,
+471,NXPI,large-cap,33272331840.0,NXP Semiconductors NV,Common Stock,Information Technology,Semiconductors & Semiconductor Equipment,Semiconductors,NASDAQ,Netherlands,,y,y,n,
+472,O,large-cap,20257239690.0,Realty Income Corp.,Common Stock (REIT),Real Estate,Equity Real Estate Investment Trusts (REITs),Retail REITs,NYSE,United States of America,,n,y,n,
+473,ODFL,large-cap,21580690830.0,Old Dominion Freight Line Inc,Common Stock,Industrials,Road & Rail,Trucking,NASDAQ,United States of America,,y,y,n,
+474,OKE,large-cap,10874064960.0,ONEOK Inc.,Common Stock,Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Storage & Transportation,NYSE,United States of America,,y,y,n,
+475,OKTA,large-cap,26197813687.0,Okta Inc,Common Stock,Information Technology,IT Services,Internet Services & Infrastructure,NASDAQ,United States of America,,y,n,y,
+476,OMC,large-cap,10507094100.0,Omnicom Group Inc.,Common Stock,Communication Services,Media,Advertising,NYSE,United States of America,,y,y,n,
+477,ORAN,large-cap,31182000000.0,ORANGE,Depository Receipt,Communication Services,Diversified Telecommunication Services,Integrated Telecommunication Services,NYSE,France,,y,n,n,
+478,ORCL,large-cap,178545777000.0,Oracle Corp,Common Stock,Information Technology,Software,Systems Software,NYSE,United States of America,,y,n,y,
+479,ORLY,large-cap,32882549256.0,O'Reilly Automotive Inc,Common Stock,Consumer Discretionary,Specialty Retail,Automotive Retail,NASDAQ,United States of America,,y,y,y,
+480,OTEX,large-cap,12925000000.0,Open Text Corp,Common Stock,Information Technology,Software,Application Software,NASDAQ,Canada,,y,y,n,
+481,OTIS,large-cap,26885544320.0,Otis Worldwide Corp,Common Stock,Industrials,Machinery,Industrial Machinery,NYSE,United States of America,,y,y,n,
+482,PAGS,large-cap,11927551393.0,PagSeguro Digital Ltd,Common Stock,Information Technology,IT Services,Data Processing & Outsourced Services,NYSE,Cayman Islands,,y,y,n,
+483,PANW,large-cap,22935881667.0,Palo Alto Networks Inc,Common Stock,Information Technology,Software,Systems Software,NYSE,United States of America,,y,y,n,
+484,PAYC,large-cap,16003480189.0,Paycom Software Inc,Common Stock,Information Technology,Software,Application Software,NYSE,United States of America,,y,y,n,
+485,PAYX,large-cap,27325854070.0,Paychex Inc.,Common Stock,Information Technology,IT Services,Data Processing & Outsourced Services,NASDAQ,United States of America,,y,y,n,
+486,PBA,large-cap,11596062330.0,Pembina Pipeline Corp,Common Stock,Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Storage & Transportation,NYSE,Canada,,n,y,n,
+487,PBR,large-cap,28392096921.0,Petroleo Brasileiro S.A.- Petrobras,Depository Receipt,Energy,"Oil, Gas & Consumable Fuels",Integrated Oil & Gas,NYSE,Brazil,,y,y,n,
+488,PCAR,large-cap,28439601840.0,PACCAR Inc,Common Stock,Industrials,Machinery,Construction Machinery & Heavy Trucks,NASDAQ,United States of America,,y,y,n,
+489,PCG,large-cap,19006991300.0,PG&E Corp,Common Stock,Utilities,Electric Utilities,Electric Utilities,NYSE,United States of America,,y,n,y,
+490,PDD,large-cap,63634372191.0,Pinduoduo,Depository Receipt,Consumer Discretionary,Internet & Direct Marketing Retail,Internet & Direct Marketing Retail,NASDAQ,China,,y,y,n,
+491,PEAK,large-cap,13985527620.0,Healthpeak Properties Inc,Common Stock (REIT),Real Estate,Equity Real Estate Investment Trusts (REITs),Health Care REITs,NYSE,United States of America,,n,y,n,
+492,PEG,large-cap,27042773320.0,Public Service Enterprise Group Inc,Common Stock,Utilities,Multi-Utilities,Multi-Utilities,NYSE,United States of America,,y,y,n,
+493,PEP,large-cap,182189615400.0,PepsiCo Inc,Common Stock,Consumer Staples,Beverages,Soft Drinks,NASDAQ,United States of America,,n,y,n,
+494,PFE,large-cap,198714028800.0,Pfizer Inc,Common Stock,Health Care,Pharmaceuticals,Pharmaceuticals,NYSE,United States of America,,y,y,n,
+495,PFG,large-cap,10494861370.0,Principal Financial Group Inc.,Common Stock,Financials,Insurance,Life & Health Insurance,NASDAQ,United States of America,,y,y,n,
+496,PG,mega-cap,340878770400.0,Procter & Gamble Co (The),Common Stock,Consumer Staples,Household Products,Household Products,NYSE,United States of America,,n,y,n,
+497,PGR,large-cap,53992320000.0,Progressive Corp (The),Common Stock,Financials,Insurance,Property & Casualty Insurance,NYSE,United States of America,,y,y,n,
+498,PH,large-cap,25187867040.0,Parker-Hannifin Corp,Common Stock,Industrials,Machinery,Industrial Machinery,NYSE,United States of America,,n,y,n,
+499,PHG,large-cap,40858483163.0,Koninklijke Philips NV,Depository Receipt,Health Care,Health Care Equipment & Supplies,Health Care Equipment,NYSE,Netherlands,,y,y,n,
+500,PHM,large-cap,11893694300.0,PulteGroup Inc,Common Stock,Consumer Discretionary,Household Durables,Homebuilding,NYSE,United States of America,,y,y,n,
+501,PINS,large-cap,23115211993.0,Pinterest Inc,Common Stock,Communication Services,Interactive Media & Services,Interactive Media & Services,NYSE,United States of America,,n,y,n,
+502,PKI,large-cap,13189697400.0,PerkinElmer Inc.,Common Stock,Health Care,Life Sciences Tools & Services,Life Sciences Tools & Services,NYSE,United States of America,,y,y,n,
+503,PKX,large-cap,19742000000.0,Posco,Depository Receipt,Materials,Metals & Mining,Steel,NYSE,South Korea,,y,y,n,
+504,PLD,large-cap,70448916480.0,Prologis Inc,Common Stock (REIT),Real Estate,Equity Real Estate Investment Trusts (REITs),Industrial REITs,NYSE,United States of America,,y,y,n,
+505,PM,large-cap,118899091500.0,Philip Morris International Inc,Common Stock,Consumer Staples,Tobacco,Tobacco,NYSE,United States of America,,n,y,n,
+506,PNC,large-cap,43914835350.0,The PNC Financial Services Group Inc,Common Stock,Financials,Banks,Regional Banks,NYSE,United States of America,,y,y,n,
+507,PODD,large-cap,14216615775.0,Insulet Corp,Common Stock,Health Care,Health Care Equipment & Supplies,Health Care Equipment,NASDAQ,United States of America,,y,y,n,
+508,POOL,large-cap,12427536590.0,Pool Corp,Common Stock,Consumer Discretionary,Distributors,Distributors,NASDAQ,United States of America,,n,n,y,
+509,PPD,large-cap,11485908700.0,PPD Inc,Common Stock,Health Care,Life Sciences Tools & Services,Life Sciences Tools & Services,NASDAQ,United States of America,,y,n,y,
+510,PPG,large-cap,28069464150.0,PPG Industries Inc.,Common Stock,Materials,Chemicals,Specialty Chemicals,NYSE,United States of America,,y,y,n,
+511,PPL,large-cap,20042172810.0,PPL Corp,Common Stock,Utilities,Electric Utilities,Electric Utilities,NYSE,United States of America,,y,n,y,
+512,PRU,large-cap,24272750000.0,Prudential Financial Inc,Common Stock,Financials,Insurance,Life & Health Insurance,NYSE,United States of America,,y,y,n,
+513,PSA,large-cap,37519715920.0,Public Storage,Common Stock (REIT),Real Estate,Equity Real Estate Investment Trusts (REITs),Specialized REITs,NYSE,United States of America,,n,y,n,
+514,PSX,large-cap,23079436450.0,Phillips 66,Common Stock,Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Refining & Marketing,NYSE,United States of America,,y,n,y,
+515,PTON,large-cap,25566230003.0,Peloton Interactive Inc,Common Stock,Consumer Discretionary,Leisure Products,Leisure Products,NASDAQ,United States of America,,y,y,n,
+516,PUK,large-cap,50573000000.0,Prudential PLC,Depository Receipt,Financials,Insurance,Life & Health Insurance,NYSE,United Kingdom,,y,y,n,
+517,PXD,large-cap,14219730560.0,Pioneer Natural Resources Co,Common Stock,Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Exploration & Production,NYSE,United States of America,,y,y,n,
+518,PYPL,mega-cap,213763527000.0,PayPal Holdings Inc,Common Stock,Information Technology,IT Services,Data Processing & Outsourced Services,NASDAQ,United States of America,,y,y,n,
+519,QCOM,large-cap,126580611300.0,QUALCOMM Inc.,Common Stock,Information Technology,Semiconductors & Semiconductor Equipment,Semiconductors,NASDAQ,United States of America,,y,y,n,
+520,QGEN,large-cap,11675100710.0,Qiagen NV,Common Stock,Health Care,Life Sciences Tools & Services,Life Sciences Tools & Services,NYSE,Netherlands,,y,y,n,
+521,QRVO,large-cap,14278357640.0,Qorvo Inc,Common Stock,Information Technology,Semiconductors & Semiconductor Equipment,Semiconductors,NASDAQ,United States of America,,y,y,n,
+522,QSR,large-cap,16968265796.0,Restaurant Brands International Inc,Common Stock,Consumer Discretionary,"Hotels, Restaurants & Leisure",Restaurants,NYSE,Canada,,n,n,y,
+523,RACE,large-cap,32099900247.0,Ferrari NV,Common Stock,Consumer Discretionary,Automobiles,Automobile Manufacturers,NYSE,Italy,,n,y,n,
+524,RCI,large-cap,23904000000.0,Rogers Communications Inc,Common Stock,Communication Services,Wireless Telecommunication Services,Wireless Telecommunication Services,NYSE,Canada,,y,y,n,
+525,RCL,large-cap,12873639960.0,Royal Caribbean Cruises Ltd,Common Stock,Consumer Discretionary,"Hotels, Restaurants & Leisure","Hotels, Resorts & Cruise Lines",NYSE,United States of America,,y,y,n,
+526,RDY,large-cap,11540000000.0,Dr Reddy'S Laboratories Ltd,Depository Receipt,Health Care,Pharmaceuticals,Pharmaceuticals,NYSE,India,,y,y,n,
+527,REGN,large-cap,59309267596.0,Regeneron Pharmaceuticals Inc,Common Stock,Health Care,Biotechnology,Biotechnology,NASDAQ,United States of America,,y,y,n,
+528,RELX,large-cap,47833000000.0,RELX PLC,Depository Receipt,Industrials,Professional Services,Research & Consulting Services,NYSE,United Kingdom,,y,n,y,
+529,RF,large-cap,10331386160.0,Regions Financial Corp,Common Stock,Financials,Banks,Regional Banks,NYSE,United States of America,,n,n,y,
+530,RIO,large-cap,76210382401.0,Rio Tinto Group,Depository Receipt,Materials,Metals & Mining,Diversified Metals & Mining,NYSE,United Kingdom,,n,y,n,
+531,RMD,large-cap,24363654140.0,Resmed Inc,Common Stock,Health Care,Health Care Equipment & Supplies,Health Care Equipment,NYSE,United States of America,,y,y,n,
+532,RNG,large-cap,23070419329.0,RingCentral Inc,Common Stock,Information Technology,Software,Application Software,NYSE,United States of America,,y,y,n,
+533,ROK,large-cap,25207746790.0,Rockwell Automation Inc.,Common Stock,Industrials,Electrical Equipment,Electrical Components & Equipment,NYSE,United States of America,,y,y,n,
+534,ROKU,large-cap,22231627774.0,Roku Inc,Common Stock,Communication Services,Entertainment,Movies & Entertainment,NASDAQ,United States of America,,y,n,y,
+535,ROL,large-cap,17354839050.0,Rollins Inc.,Common Stock,Industrials,Commercial Services & Supplies,Environmental & Facilities Services,NYSE,United States of America,,y,y,n,
+536,ROP,large-cap,40963990310.0,Roper Technologies Inc,Common Stock,Industrials,Industrial Conglomerates,Industrial Conglomerates,NYSE,United States of America,,y,y,n,
+537,ROST,large-cap,30858600080.0,Ross Stores Inc,Common Stock,Consumer Discretionary,Specialty Retail,Apparel Retail,NASDAQ,United States of America,,y,y,n,
+538,RPM,large-cap,10360068120.0,RPM International Inc,Common Stock,Materials,Chemicals,Specialty Chemicals,NYSE,United States of America,,y,y,n,
+539,RSG,large-cap,29425568270.0,Republic Services Inc.,Common Stock,Industrials,Commercial Services & Supplies,Environmental & Facilities Services,NYSE,United States of America,,y,y,n,
+540,RTX,large-cap,87657130800.0,Raytheon Technologies Corp,Common Stock,Industrials,Aerospace & Defense,Aerospace & Defense,NYSE,United States of America,,y,y,n,
+541,RY,large-cap,100434854000.0,Royal Bank of Canada,Common Stock,Financials,Banks,Diversified Banks,NYSE,Canada,,y,y,n,
+542,RYAAY,large-cap,18328723520.0,Ryanair Holdings PLC,Depository Receipt,Industrials,Airlines,Airlines,NASDAQ,Ireland,,y,y,n,
+543,SAM,large-cap,10606350862.0,Boston Beer Co Inc. (The),Common Stock,Consumer Staples,Beverages,Brewers,NYSE,United States of America,,n,y,n,
+544,SAN,large-cap,30229598627.0,Banco Santander SA,Depository Receipt,Financials,Banks,Diversified Banks,NYSE,Spain,,n,y,n,
+545,SAP,large-cap,180879864000.0,SAP SE,Depository Receipt,Information Technology,Software,Application Software,NYSE,Germany,,y,y,n,
+546,SBAC,large-cap,34283557530.0,SBA Communications Corp,Common Stock,Real Estate,Equity Real Estate Investment Trusts (REITs),Specialized REITs,NASDAQ,United States of America,,y,y,n,
+547,SBUX,large-cap,97073760000.0,Starbucks Corp,Common Stock,Consumer Discretionary,"Hotels, Restaurants & Leisure",Restaurants,NASDAQ,United States of America,,y,y,n,
+548,SCCO,large-cap,34440402150.0,Southern Copper Corp,Common Stock,Materials,Metals & Mining,Copper,NYSE,United States of America,,y,y,n,
+549,SCHW,large-cap,44277670400.0,Schwab (Charles) Corp,Common Stock,Financials,Capital Markets,Investment Banking & Brokerage,NYSE,United States of America,,y,y,n,
+550,SE,large-cap,50354488192.0,Sea Ltd,Depository Receipt,Communication Services,Entertainment,Interactive Home Entertainment,NYSE,Singapore,,n,n,y,
+551,SGEN,large-cap,31220281710.0,Seattle Genetics Inc,Common Stock,Health Care,Biotechnology,Biotechnology,NASDAQ,United States of America,,y,y,n,
+552,SHG,large-cap,15589000000.0,Shinhan Financial Group Co Ltd,Depository Receipt,Financials,Banks,Diversified Banks,NYSE,South Korea,,y,y,n,
+553,SHOP,large-cap,110589325465.0,Shopify Inc,Common Stock,Information Technology,IT Services,Internet Services & Infrastructure,NYSE,Canada,,n,y,n,
+554,SHW,large-cap,62450989230.0,Sherwin-Williams Co (The),Common Stock,Materials,Chemicals,Specialty Chemicals,NYSE,United States of America,,y,y,n,
+555,SIRI,large-cap,22135479000.0,Sirius XM Holdings Inc,Common Stock,Communication Services,Media,Cable & Satellite,NASDAQ,United States of America,,y,y,n,
+556,SIVB,large-cap,11672600559.0,SVB Financial Group,Common Stock,Financials,Banks,Regional Banks,NASDAQ,United States of America,,y,y,n,
+557,SJM,large-cap,12647384380.0,J.M. Smucker Co (The),Common Stock,Consumer Staples,Food Products,Packaged Foods & Meats,NYSE,United States of America,,y,y,n,
+558,SKM,large-cap,16093000000.0,SK Telecom Co Ltd,Depository Receipt,Communication Services,Wireless Telecommunication Services,Wireless Telecommunication Services,NYSE,South Korea,,y,y,n,
+559,SLB,large-cap,23070222000.0,Schlumberger Ltd,Common Stock,Energy,Energy Equipment & Services,Oil & Gas Equipment & Services,NYSE,United States of America,,y,y,n,
+560,SLF,large-cap,28504000000.0,Sun Life Financial Inc,Common Stock,Financials,Insurance,Life & Health Insurance,NYSE,Canada,,y,y,n,
+561,SMFG,large-cap,39948763950.0,Sumitomo Mitsui Financial Group Inc,Depository Receipt,Financials,Banks,Diversified Banks,NYSE,Japan,,y,y,n,
+562,SNAP,large-cap,35731424052.0,SNAP INC,Common Stock,Communication Services,Interactive Media & Services,Interactive Media & Services,NYSE,United States of America,,y,n,y,
+563,SNE,large-cap,95002948992.0,Sony Corp,Depository Receipt,Consumer Discretionary,Household Durables,Consumer Electronics,NYSE,Japan,,y,n,y,
+564,SNN,large-cap,19811000000.0,Smith & Nephew PLC,Depository Receipt,Health Care,Health Care Equipment & Supplies,Health Care Equipment,NYSE,United Kingdom,,y,y,n,
+565,SNP,large-cap,10205360000.0,China Petroleum & Chemical Corp Sinopec,Depository Receipt,Energy,"Oil, Gas & Consumable Fuels",Integrated Oil & Gas,NYSE,China,,y,y,n,
+566,SNPS,large-cap,30581560620.0,Synopsys Inc,Common Stock,Information Technology,Software,Application Software,NASDAQ,United States of America,,y,y,n,
+567,SNY,large-cap,127620033000.0,Sanofi,Depository Receipt,Health Care,Pharmaceuticals,Pharmaceuticals,NASDAQ,France,,y,y,n,
+568,SO,large-cap,56027696500.0,Southern Co (The),Common Stock,Utilities,Electric Utilities,Electric Utilities,NYSE,United States of America,,n,n,y,
+569,SPG,large-cap,41362132694.0,Simon Property Group Inc.,Common Stock (REIT),Real Estate,Equity Real Estate Investment Trusts (REITs),Retail REITs,NYSE,United States of America,,y,y,n,
+570,SPGI,large-cap,83354670000.0,S&P Global Inc,Common Stock,Financials,Capital Markets,Financial Exchanges & Data,NYSE,United States of America,,y,n,y,
+571,SPLK,large-cap,28214908540.0,Splunk Inc,Common Stock,Information Technology,Software,Application Software,NASDAQ,United States of America,,y,y,n,
+572,SPOT,large-cap,42648259694.0,Spotify Technology S.A,Common Stock,Communication Services,Entertainment,Movies & Entertainment,NYSE,Sweden,,n,y,n,
+573,SQ,large-cap,67554324498.0,Square Inc,Common Stock,Information Technology,IT Services,Data Processing & Outsourced Services,NYSE,United States of America,,n,n,y,
+574,SRE,large-cap,33478952400.0,Sempra Energy,Common Stock,Utilities,Multi-Utilities,Multi-Utilities,NYSE,United States of America,,y,y,n,
+575,SRPT,large-cap,10814903904.0,Sarepta Therapeutics Inc,Common Stock,Health Care,Biotechnology,Biotechnology,NASDAQ,United States of America,,y,y,n,
+576,SSNC,large-cap,15274494000.0,SS&C Technologies Holdings Inc,Common Stock,Information Technology,Software,Application Software,NASDAQ,United States of America,,y,y,n,
+577,STE,large-cap,14225981506.0,Steris Plc,Common Stock,Health Care,Health Care Equipment & Supplies,Health Care Equipment,NYSE,Ireland,,n,y,n,
+578,STM,large-cap,26660454426.0,STMicroelectronics NV,Depository Receipt,Information Technology,Semiconductors & Semiconductor Equipment,Semiconductors,NYSE,Netherlands,,y,y,n,
+579,STNE,large-cap,16183324189.0,StoneCo Ltd,Common Stock,Information Technology,IT Services,Data Processing & Outsourced Services,NASDAQ,Brazil,,y,y,n,
+580,STT,large-cap,20325451440.0,State Street Corporation,Common Stock,Financials,Capital Markets,Asset Management & Custody Banks,NYSE,United States of America,,y,n,y,
+581,STX,large-cap,12164984540.0,Seagate Technology Plc,Common Stock,Information Technology,"Technology Hardware, Storage & Peripherals","Technology Hardware, Storage & Peripherals",NASDAQ,Ireland,,y,y,n,
+582,STZ,large-cap,35099041831.0,Constellation Brands Inc,Common Stock,Consumer Staples,Beverages,Distillers & Vintners,NYSE,United States of America,,y,y,n,
+583,SU,large-cap,19491417000.0,Suncor Energy Inc.,Common Stock,Energy,"Oil, Gas & Consumable Fuels",Integrated Oil & Gas,NYSE,Canada,,n,y,n,
+584,SUI,large-cap,13934649514.0,Sun Communities Inc.,Common Stock (REIT),Real Estate,Equity Real Estate Investment Trusts (REITs),Residential REITs,NYSE,United States of America,,y,n,y,
+585,SUZ,large-cap,16416000000.0,Suzano SA,Depository Receipt,Materials,Paper & Forest Products,Paper Products,NYSE,Brazil,,y,y,n,
+586,SWK,large-cap,25105204040.0,Stanley Black & Decker Inc,Common Stock,Industrials,Machinery,Industrial Machinery,NYSE,United States of America,,y,y,n,
+587,SWKS,large-cap,22583267200.0,Skyworks Solutions Inc,Common Stock,Information Technology,Semiconductors & Semiconductor Equipment,Semiconductors,NASDAQ,United States of America,,y,y,n,
+588,SYF,large-cap,14459611350.0,Synchrony Financial,Common Stock,Financials,Consumer Finance,Consumer Finance,NYSE,United States of America,,y,y,n,
+589,SYK,large-cap,74730569760.0,Stryker Corp,Common Stock,Health Care,Health Care Equipment & Supplies,Health Care Equipment,NYSE,United States of America,,y,y,n,
+590,SYY,large-cap,31305476160.0,Sysco Corporation,Common Stock,Consumer Staples,Food & Staples Retailing,Food Distributors,NYSE,United States of America,,y,y,n,
+591,T,large-cap,199785000000.0,AT&T Inc,Common Stock,Communication Services,Diversified Telecommunication Services,Integrated Telecommunication Services,NYSE,United States of America,,n,n,y,
+592,TAK,large-cap,57928623752.0,Takeda Pharmaceutical Co Ltd,Depository Receipt,Health Care,Pharmaceuticals,Pharmaceuticals,NYSE,Japan,,y,y,n,
+593,TAL,large-cap,29075898136.0,TAL Education Group,Depository Receipt,Consumer Discretionary,Diversified Consumer Services,Education Services,NYSE,China,,n,y,n,
+594,TCOM,large-cap,16457685396.0,Trip com Group Ltd,Depository Receipt,Consumer Discretionary,Internet & Direct Marketing Retail,Internet & Direct Marketing Retail,NASDAQ,China,,y,n,y,
+595,TD,large-cap,82713840000.0,Toronto-Dominion Bank (The),Common Stock,Financials,Banks,Diversified Banks,NYSE,Canada,,n,y,n,
+596,TDG,large-cap,25997341480.0,TransDigm Group Inc,Common Stock,Industrials,Aerospace & Defense,Aerospace & Defense,NYSE,United States of America,,y,y,n,
+597,TDOC,large-cap,16566552575.0,Teladoc Health Inc,Common Stock,Health Care,Health Care Technology,Health Care Technology,NYSE,United States of America,,y,y,n,
+598,TDY,large-cap,11406273228.0,Teledyne Technologies Inc.,Common Stock,Industrials,Aerospace & Defense,Aerospace & Defense,NYSE,United States of America,,y,y,n,
+599,TEAM,large-cap,43586880066.0,Atlassian Corp Plc,Common Stock,Information Technology,Software,Application Software,NASDAQ,Australia,,n,y,n,
+600,TEF,large-cap,18378070778.0,Telefonica SA,Depository Receipt,Communication Services,Diversified Telecommunication Services,Integrated Telecommunication Services,NYSE,Spain,,y,y,n,
+601,TEL,large-cap,31082978840.0,TE Connectivity Ltd,Common Stock,Information Technology,"Electronic Equipment, Instruments & Components",Electronic Manufacturing Services,NYSE,Switzerland,,y,y,n,
+602,TER,large-cap,12668241600.0,Teradyne Inc.,Common Stock,Information Technology,Semiconductors & Semiconductor Equipment,Semiconductor Equipment,NASDAQ,United States of America,,y,y,n,
+603,TFC,large-cap,47799726700.0,Truist Financial Corp,Common Stock,Financials,Banks,Regional Banks,NYSE,United States of America,,y,y,n,
+604,TFX,large-cap,15327952320.0,Teleflex Inc,Common Stock,Health Care,Health Care Equipment & Supplies,Health Care Equipment,NYSE,United States of America,,y,y,n,
+605,TGT,large-cap,76093936000.0,Target Corp,Common Stock,Consumer Discretionary,Multiline Retail,General Merchandise Stores,NYSE,United States of America,,y,n,y,
+606,TJX,large-cap,63346339800.0,TJX Companies Inc (The),Common Stock,Consumer Discretionary,Specialty Retail,Apparel Retail,NYSE,United States of America,,y,y,n,
+607,TLK,large-cap,18059039060.0,PT Telekomunikasi Indonesia (Persero) TBK,Depository Receipt,Communication Services,Diversified Telecommunication Services,Integrated Telecommunication Services,NYSE,Indonesia,,y,y,n,
+608,TM,large-cap,184323986033.0,Toyota Motor Corp,Depository Receipt,Consumer Discretionary,Automobiles,Automobile Manufacturers,NYSE,Japan,,n,y,n,
+609,TMO,large-cap,165411584460.0,Thermo Fisher Scientific Inc,Common Stock,Health Care,Life Sciences Tools & Services,Life Sciences Tools & Services,NYSE,United States of America,,y,y,n,
+610,TMUS,large-cap,136839895500.0,T-Mobile US Inc,Common Stock,Communication Services,Wireless Telecommunication Services,Wireless Telecommunication Services,NASDAQ,United States of America,,y,n,y,
+611,TOT,large-cap,87576675225.0,TOTAL SA,Depository Receipt,Energy,"Oil, Gas & Consumable Fuels",Integrated Oil & Gas,NYSE,France,,y,n,y,
+612,TRI,large-cap,40560000000.0,Thomson Reuters Corp,Common Stock,Industrials,Professional Services,Research & Consulting Services,NYSE,Canada,,n,y,n,
+613,TRMB,large-cap,11780169280.0,Trimble Inc,Common Stock,Information Technology,"Electronic Equipment, Instruments & Components",Electronic Equipment & Instruments,NASDAQ,United States of America,,y,y,n,
+614,TROW,large-cap,28016881980.0,T. Rowe Price Group Inc,Common Stock,Financials,Capital Markets,Asset Management & Custody Banks,NASDAQ,United States of America,,y,y,n,
+615,TRP,large-cap,41284800000.0,TC Energy Corp,Common Stock,Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Storage & Transportation,NYSE,Canada,,y,y,n,
+616,TRU,large-cap,15255525000.0,TransUnion,Common Stock,Industrials,Professional Services,Research & Consulting Services,NYSE,United States of America,,y,y,n,
+617,TRV,large-cap,27299053620.0,Travelers Companies Inc (The),Common Stock,Financials,Insurance,Property & Casualty Insurance,NYSE,United States of America,,y,y,n,
+618,TSCO,large-cap,16069130240.0,Tractor Supply Co,Common Stock,Consumer Discretionary,Specialty Retail,Specialty Stores,NASDAQ,United States of America,,y,y,n,
+619,TSLA,mega-cap,361346212110.0,Tesla Inc,Common Stock,Consumer Discretionary,Automobiles,Automobile Manufacturers,NASDAQ,United States of America,,y,y,n,
+620,TSM,mega-cap,406484950400.0,Taiwan Semiconductor Manufacturing Co Ltd,Depository Receipt,Information Technology,Semiconductors & Semiconductor Equipment,Semiconductors,NYSE,Taiwan,,y,y,n,
+621,TSN,large-cap,16742881900.0,Tyson Foods Inc.,Common Stock,Consumer Staples,Food Products,Packaged Foods & Meats,NYSE,United States of America,,n,y,n,
+622,TT,large-cap,28483126000.0,Trane Technologies plc,Common Stock,Industrials,Building Products,Building Products,NYSE,Ireland,,n,y,n,
+623,TTD,large-cap,21186238920.0,Trade Desk Inc (The),Common Stock,Information Technology,Software,Application Software,NASDAQ,United States of America,,y,y,n,
+624,TTWO,large-cap,18670415310.0,Take-Two Interactive Software Inc,Common Stock,Communication Services,Entertainment,Interactive Home Entertainment,NASDAQ,United States of America,,y,y,n,
+625,TU,large-cap,26897000000.0,TELUS Corp,Common Stock,Communication Services,Diversified Telecommunication Services,Integrated Telecommunication Services,NYSE,Canada,,n,y,n,
+626,TW,large-cap,14887000000.0,Tradeweb Markets Inc,Common Stock,Financials,Capital Markets,Financial Exchanges & Data,NASDAQ,United States of America,,n,y,n,
+627,TWLO,large-cap,35329631738.0,Twilio Inc,Common Stock,Information Technology,IT Services,Internet Services & Infrastructure,NYSE,United States of America,,y,y,n,
+628,TWTR,large-cap,34121539860.0,Twitter Inc,Common Stock,Communication Services,Interactive Media & Services,Interactive Media & Services,NYSE,United States of America,,y,n,y,
+629,TXG,large-cap,12669169974.0,10x Genomics Inc,Common Stock,Health Care,Life Sciences Tools & Services,Life Sciences Tools & Services,NASDAQ,United States of America,,y,y,n,
+630,TXN,large-cap,125200385360.0,Texas Instruments Inc,Common Stock,Information Technology,Semiconductors & Semiconductor Equipment,Semiconductors,NASDAQ,United States of America,,y,y,n,
+631,TYL,large-cap,13450084992.0,Tyler Technologies Inc.,Common Stock,Information Technology,Software,Application Software,NYSE,United States of America,,y,y,n,
+632,UBER,large-cap,58449877000.0,Uber Technologies Inc,Common Stock,Industrials,Road & Rail,Trucking,NYSE,United States of America,,y,y,n,
+633,UBS,large-cap,38669839790.0,UBS Group AG,Common Stock,Financials,Capital Markets,Diversified Capital Markets,NYSE,Switzerland,,y,y,n,
+634,UDR,large-cap,10104965280.0,UDR Inc,Common Stock (REIT),Real Estate,Equity Real Estate Investment Trusts (REITs),Residential REITs,NYSE,United States of America,,y,n,y,
+635,UI,large-cap,16184000000.0,Ubiquiti Inc,Common Stock,Information Technology,Communications Equipment,Communications Equipment,NYSE,United States of America,,n,y,n,
+636,UL,large-cap,70535174133.0,The Unilever Group,Depository Receipt,Consumer Staples,Personal Products,Personal Products,NYSE,Netherlands,,n,n,y,
+637,ULTA,large-cap,12142697129.0,Ulta Beauty Inc,Common Stock,Consumer Discretionary,Specialty Retail,Specialty Stores,NASDAQ,United States of America,,y,y,n,
+638,UMC,large-cap,10889524800.0,United Microelectronics Corp,Depository Receipt,Information Technology,Semiconductors & Semiconductor Equipment,Semiconductors,NYSE,Taiwan,,y,y,n,
+639,UN,large-cap,85998781563.0,The Unilever Group,Depository Receipt,Consumer Staples,Personal Products,Personal Products,NYSE,Netherlands,,n,n,y,
+640,UNH,mega-cap,278125333760.0,Unitedhealth Group Inc,Common Stock,Health Care,Health Care Providers & Services,Managed Health Care,NYSE,United States of America,,y,y,n,
+641,UNP,large-cap,132828427130.0,Union Pacific Corp,Common Stock,Industrials,Road & Rail,Railroads,NYSE,United States of America,,y,y,n,
+642,UPS,large-cap,138494026419.0,United Parcel Service Inc,Common Stock,Industrials,Air Freight & Logistics,Air Freight & Logistics,NYSE,United States of America,,n,y,n,
+643,URI,large-cap,12010740389.0,United Rentals Inc.,Common Stock,Industrials,Trading Companies & Distributors,Trading Companies & Distributors,NYSE,United States of America,,y,y,n,
+644,USB,large-cap,52315882800.0,U.S. Bancorp,Common Stock,Financials,Banks,Diversified Banks,NYSE,United States of America,,n,y,n,
+645,V,mega-cap,379774753097.0,Visa Inc,Common Stock,Information Technology,IT Services,Data Processing & Outsourced Services,NYSE,United States of America,,n,n,y,
+646,VALE,large-cap,54890103040.0,Vale SA,Depository Receipt,Materials,Metals & Mining,Steel,NYSE,Brazil,,y,n,y,
+647,VAR,large-cap,15666981018.0,Varian Medical Systems Inc,Common Stock,Health Care,Health Care Equipment & Supplies,Health Care Equipment,NYSE,United States of America,,n,y,n,
+648,VEEV,large-cap,40614412085.0,Veeva Systems Inc,Common Stock,Health Care,Health Care Technology,Health Care Technology,NYSE,United States of America,,y,y,n,
+649,VFC,large-cap,27029951130.0,V.F. Corp,Common Stock,Consumer Discretionary,"Textiles, Apparel & Luxury Goods","Apparel, Accessories & Luxury Goods",NYSE,United States of America,,y,n,y,
+650,VIAC,large-cap,17957490210.0,ViacomCBS Inc,Common Stock,Communication Services,Media,Broadcasting,NASDAQ,United States of America,,y,y,n,
+651,VIACA,large-cap,26792000000.0,ViacomCBS Inc,Common Stock,Communication Services,Media,Broadcasting,NASDAQ,United States of America,,y,y,n,
+652,VICI,large-cap,12290397070.0,VICI Properties Inc,Common Stock,Real Estate,Equity Real Estate Investment Trusts (REITs),Specialized REITs,NYSE,United States of America,,y,y,n,
+653,VIV,large-cap,13793000000.0,Telefonica Brasil SA,Depository Receipt,Communication Services,Diversified Telecommunication Services,Integrated Telecommunication Services,NYSE,Brazil,,y,y,n,
+654,VLO,large-cap,18177807060.0,Valero Energy Corp,Common Stock,Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Refining & Marketing,NYSE,United States of America,,y,y,n,
+655,VMC,large-cap,17024865920.0,Vulcan Materials Co,Common Stock,Materials,Construction Materials,Construction Materials,NYSE,United States of America,,y,y,n,
+656,VMW,large-cap,58977405238.0,VMware Inc,Common Stock,Information Technology,Software,Systems Software,NYSE,United States of America,,y,y,n,
+657,VOD,large-cap,36115468200.0,Vodafone Group PLC,Depository Receipt,Communication Services,Wireless Telecommunication Services,Wireless Telecommunication Services,NASDAQ,United Kingdom,,n,y,n,
+658,VRSK,large-cap,28779670780.0,Verisk Analytics Inc,Common Stock,Industrials,Professional Services,Research & Consulting Services,NASDAQ,United States of America,,y,y,n,
+659,VRSN,large-cap,23201656540.0,Verisign Inc,Common Stock,Information Technology,IT Services,Internet Services & Infrastructure,NASDAQ,United States of America,,y,y,n,
+660,VRTX,large-cap,68536681710.0,Vertex Pharmaceuticals Inc,Common Stock,Health Care,Biotechnology,Biotechnology,NASDAQ,United States of America,,y,y,n,
+661,VTR,large-cap,15169758080.0,Ventas Inc.,Common Stock (REIT),Real Estate,Equity Real Estate Investment Trusts (REITs),Health Care REITs,NYSE,United States of America,,y,y,n,
+662,VZ,mega-cap,244931179500.0,Verizon Communications Inc,Common Stock,Communication Services,Diversified Telecommunication Services,Integrated Telecommunication Services,NYSE,United States of America,,y,y,n,
+663,W,large-cap,27077698911.0,Wayfair Inc,Common Stock,Consumer Discretionary,Internet & Direct Marketing Retail,Internet & Direct Marketing Retail,NYSE,United States of America,,n,y,n,
+664,WAB,large-cap,11488411000.0,Wabtec Corp,Common Stock,Industrials,Machinery,Construction Machinery & Heavy Trucks,NYSE,United States of America,,y,y,n,
+665,WAT,large-cap,11743646640.0,Waters Corp,Common Stock,Health Care,Life Sciences Tools & Services,Life Sciences Tools & Services,NYSE,United States of America,,y,n,y,
+666,WBA,large-cap,30354686020.0,Walgreens Boots Alliance Inc,Common Stock,Consumer Staples,Food & Staples Retailing,Drug Retail,NASDAQ,United States of America,,y,y,n,
+667,WBK,large-cap,41611133419.0,Westpac Banking Corp,Depository Receipt,Financials,Banks,Diversified Banks,NYSE,Australia,,y,y,n,
+668,WCN,large-cap,26589200300.0,Waste Connections Inc.,Common Stock,Industrials,Commercial Services & Supplies,Environmental & Facilities Services,NYSE,Canada,,y,y,n,
+669,WDAY,large-cap,49459530000.0,Workday Inc,Common Stock,Information Technology,Software,Application Software,NASDAQ,United States of America,,y,y,n,
+670,WDC,large-cap,11353800780.0,Western Digital Corp,Common Stock,Information Technology,"Technology Hardware, Storage & Peripherals","Technology Hardware, Storage & Peripherals",NASDAQ,United States of America,,y,y,n,
+671,WEC,large-cap,29650890000.0,WEC Energy Group Inc,Common Stock,Utilities,Multi-Utilities,Multi-Utilities,NYSE,United States of America,,y,y,n,
+672,WELL,large-cap,21645402870.0,Welltower Inc,Common Stock (REIT),Real Estate,Equity Real Estate Investment Trusts (REITs),Health Care REITs,NYSE,United States of America,,n,y,n,
+673,WFC,large-cap,96079566000.0,Wells Fargo & Co,Common Stock,Financials,Banks,Diversified Banks,NYSE,United States of America,,y,y,n,
+674,WHR,large-cap,10930070148.0,Whirlpool Corp,Common Stock,Consumer Discretionary,Household Durables,Household Appliances,NYSE,United States of America,,y,y,n,
+675,WIT,large-cap,26112533900.0,Wipro Ltd,Depository Receipt,Information Technology,IT Services,IT Consulting & Other Services,NYSE,India,,y,y,n,
+676,WIX,large-cap,12802149960.0,Wix.com Ltd,Common Stock,Information Technology,IT Services,Internet Services & Infrastructure,NASDAQ,Israel,,y,n,y,
+677,WLTW,large-cap,25555118560.0,Willis Towers Watson plc,Common Stock,Financials,Insurance,Insurance Brokers,NASDAQ,United Kingdom,,y,y,n,
+678,WM,large-cap,47019909300.0,Waste Management Inc.,Common Stock,Industrials,Commercial Services & Supplies,Environmental & Facilities Services,NYSE,United States of America,,n,y,n,
+679,WMB,large-cap,24186250800.0,Williams Cos Inc. (The),Common Stock,Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Storage & Transportation,NYSE,United States of America,,y,y,n,
+680,WMT,mega-cap,387373625000.0,Walmart Inc,Common Stock,Consumer Staples,Food & Staples Retailing,Hypermarkets & Super Centers,NYSE,United States of America,,y,n,y,
+681,WORK,large-cap,15170252039.0,Slack Technologies Inc,Common Stock,Information Technology,Software,Application Software,NYSE,United States of America,,n,y,n,
+682,WPC,large-cap,11076200520.0,W. P. Carey Inc,Common Stock (REIT),Real Estate,Equity Real Estate Investment Trusts (REITs),Diversified REITs,NYSE,United States of America,,y,y,n,
+683,WPM,large-cap,21839225920.0,Wheaton Precious Metals Corp,Common Stock,Materials,Metals & Mining,Gold,NYSE,Canada,,y,y,n,
+684,WPP,large-cap,13455000000.0,WPP PLC,Depository Receipt,Communication Services,Media,Advertising,NYSE,United Kingdom,,y,n,y,
+685,WRB,large-cap,10648199280.0,Berkley (W.R.) Corp,Common Stock,Financials,Insurance,Property & Casualty Insurance,NYSE,United States of America,,y,n,y,
+686,WST,large-cap,19467362148.0,West Pharmaceutical Services Inc.,Common Stock,Health Care,Health Care Equipment & Supplies,Health Care Supplies,NYSE,United States of America,,y,y,n,
+687,WY,large-cap,20134283660.0,Weyerhaeuser Co,Common Stock (REIT),Real Estate,Equity Real Estate Investment Trusts (REITs),Specialized REITs,NYSE,United States of America,,n,y,n,
+688,XEL,large-cap,35234687940.0,Xcel Energy Inc.,Common Stock,Utilities,Electric Utilities,Electric Utilities,NASDAQ,United States of America,,y,y,n,
+689,XLNX,large-cap,24189529140.0,Xilinx Inc.,Common Stock,Information Technology,Semiconductors & Semiconductor Equipment,Semiconductors,NASDAQ,United States of America,,y,y,n,
+690,XOM,large-cap,145112853600.0,Exxon Mobil Corp,Common Stock,Energy,"Oil, Gas & Consumable Fuels",Integrated Oil & Gas,NYSE,United States of America,,y,y,n,
+691,XP,large-cap,23496000000.0,XP Inc,Common Stock,Financials,Capital Markets,Investment Banking & Brokerage,NASDAQ,Brazil,,y,n,y,
+692,XYL,large-cap,14792629800.0,Xylem Inc,Common Stock,Industrials,Machinery,Industrial Machinery,NYSE,United States of America,,y,y,n,
+693,YNDX,large-cap,19405813180.0,Yandex NV,Common Stock,Communication Services,Interactive Media & Services,Interactive Media & Services,NASDAQ,Netherlands,,y,y,n,
+694,YUM,large-cap,27538918000.0,YUM! Brands Inc.,Common Stock,Consumer Discretionary,"Hotels, Restaurants & Leisure",Restaurants,NYSE,United States of America,,y,y,n,
+695,YUMC,large-cap,19384102440.0,Yum China Holdings Inc,Common Stock,Consumer Discretionary,"Hotels, Restaurants & Leisure",Restaurants,NYSE,China,,y,y,n,
+696,Z,large-cap,22201524819.0,Zillow Group Inc,Common Stock,Communication Services,Interactive Media & Services,Interactive Media & Services,NASDAQ,United States of America,,n,y,n,
+697,ZBH,large-cap,27355446000.0,Zimmer Biomet Holdings Inc,Common Stock,Health Care,Health Care Equipment & Supplies,Health Care Equipment,NYSE,United States of America,,y,y,n,
+698,ZBRA,large-cap,13370687666.0,Zebra Technologies Corp.,Common Stock,Information Technology,"Electronic Equipment, Instruments & Components",Electronic Equipment & Instruments,NASDAQ,United States of America,,y,y,n,
+699,ZEN,large-cap,11158231420.0,Zendesk Inc,Common Stock,Information Technology,Software,Application Software,NYSE,United States of America,,n,y,n,
+700,ZG,large-cap,22117539908.0,Zillow Group Inc,Common Stock,Communication Services,Interactive Media & Services,Interactive Media & Services,NASDAQ,United States of America,,y,y,n,
+701,ZLAB,large-cap,16179000000.0,Zai Lab Ltd,Depository Receipt,Health Care,Biotechnology,Biotechnology,NASDAQ,China,,y,y,n,
+702,ZM,large-cap,132249971030.0,Zoom Video Communications Inc,Common Stock,Information Technology,Software,Application Software,NASDAQ,United States of America,,y,y,n,
+703,ZS,large-cap,17883831360.0,Zscaler Inc,Common Stock,Information Technology,Software,Systems Software,NASDAQ,United States of America,,y,y,n,
+704,ZTO,large-cap,17478290673.0,ZTO Express (Cayman) Inc,Depository Receipt,Industrials,Air Freight & Logistics,Air Freight & Logistics,NYSE,China,,y,y,n,
+705,ZTS,large-cap,75063407100.0,Zoetis Inc,Common Stock,Health Care,Pharmaceuticals,Pharmaceuticals,NYSE,United States of America,,y,y,n,
+706,AB,mid-cap,2589199200.0,AllianceBernstein Holding LP,Unit Trust Fund,Financials,Capital Markets,Asset Management & Custody Banks,NYSE,United States of America,,,,,22.51
+707,ACC,mid-cap,4614800960.0,American Campus Communities Inc,Common Stock (REIT),Real Estate,Equity Real Estate Investment Trusts (REITs),Residential REITs,NYSE,United States of America,,,,,30.59
+708,ADC,mid-cap,3358686870.0,Agree Realty Corp,Common Stock (REIT),Real Estate,Equity Real Estate Investment Trusts (REITs),Retail REITs,NYSE,United States of America,,,,,63.99
+709,AGIO,mid-cap,2340759087.0,Agios Pharmaceuticals Inc,Common Stock,Health Care,Biotechnology,Biotechnology,NASDAQ,United States of America,,,,,44.13
+710,AL,mid-cap,3087962060.0,Air Lease Corp,Common Stock,Industrials,Trading Companies & Distributors,Trading Companies & Distributors,NYSE,United States of America,,,,,24.73
+711,ALLY,mid-cap,8811338090.0,Ally Financial Inc,Common Stock,Financials,Consumer Finance,Consumer Finance,NYSE,United States of America,,,,,15.13
+712,AMED,mid-cap,7291696153.0,Amedisys Inc,Common Stock,Health Care,Health Care Providers & Services,Health Care Services,NASDAQ,United States of America,,,,,178.27
+713,AOS,mid-cap,7174875000.0,A. O. Smith Corp,Common Stock,Industrials,Building Products,Building Products,NYSE,United States of America,,,,,43.94
+714,AQN,mid-cap,8197482470.0,Algonquin Power & Utilities Corp,Common Stock,Utilities,Multi-Utilities,Multi-Utilities,NYSE,Canada,,,,,13.83
+715,ASX,mid-cap,8552145045.0,Ase Technology Holdings Co,Depository Receipt,Information Technology,Semiconductors & Semiconductor Equipment,Semiconductors,NYSE,Taiwan,,,,,4.58
+716,AUY,mid-cap,5376901600.0,Yamana Gold Inc,Common Stock,Materials,Metals & Mining,Gold,NYSE,Canada,,,,,5.07
+717,AWI,mid-cap,3209451364.0,Armstrong World Industries Inc,Common Stock,Industrials,Building Products,Building Products,NYSE,United States of America,,,,,71.8
+718,AXS,mid-cap,3635304904.0,AXIS Capital Holdings Ltd,Common Stock,Financials,Insurance,Property & Casualty Insurance,NYSE,Bermuda,,,,,37.87
+719,BHVN,mid-cap,3715484625.0,Biohaven Pharmaceutical Holding Co Ltd,Common Stock,Health Care,Biotechnology,Biotechnology,NYSE,United States of America,,,,,49.95
+720,BYD,mid-cap,3137771790.0,Boyd Gaming Corp,Common Stock,Consumer Discretionary,"Hotels, Restaurants & Leisure",Casinos & Gaming,NYSE,United States of America,,,,,17.69
+721,CAE,mid-cap,3734166850.0,CAE Inc.,Common Stock,Industrials,Aerospace & Defense,Aerospace & Defense,NYSE,Canada,,,,,15.68
+722,CARG,mid-cap,2484330255.0,CarGurus Inc,Common Stock,Communication Services,Interactive Media & Services,Interactive Media & Services,NASDAQ,United States of America,,,,,24.25
+723,CDK,mid-cap,5165492500.0,CDK Global Inc,Common Stock,Information Technology,Software,Application Software,NASDAQ,United States of America,,,,,40.73
+724,CENT,mid-cap,2036388744.0,Central Garden & Pet Co,Common Stock,Consumer Staples,Household Products,Household Products,NASDAQ,United States of America,,,,,35.69
+725,CHDN,mid-cap,5852809122.0,Churchill Downs Inc,Common Stock,Consumer Discretionary,"Hotels, Restaurants & Leisure",Casinos & Gaming,NASDAQ,United States of America,,,,,106.27
+726,CLH,mid-cap,2958839476.0,Clean Harbors Inc,Common Stock,Industrials,Commercial Services & Supplies,Environmental & Facilities Services,NYSE,United States of America,,,,,52.29
+727,CMA,mid-cap,5072142720.0,Comerica Inc,Common Stock,Financials,Banks,Regional Banks,NYSE,United States of America,,,,,32.18
+728,CNA,mid-cap,8130574760.0,CNA Financial Corp,Common Stock,Financials,Insurance,Property & Casualty Insurance,NYSE,United States of America,,,,,28.99
+729,COG,mid-cap,7469389200.0,Cabot Oil & Gas Corp,Common Stock,Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Exploration & Production,NYSE,United States of America,,,,,19.35
+730,CPA,mid-cap,2305214165.0,Copa Holdings SA,Common Stock,Industrials,Airlines,Airlines,NYSE,Panama,,,,,42.62
+731,CR,mid-cap,2874583270.0,Crane Co.,Common Stock,Industrials,Machinery,Industrial Machinery,NYSE,United States of America,,,,,51.38
+732,CW,mid-cap,3869155620.0,Curtiss-Wright Corp,Common Stock,Industrials,Aerospace & Defense,Aerospace & Defense,NYSE,United States of America,,,,,94.93
+733,CWST,mid-cap,2615892864.0,Casella Waste Systems Inc,Common Stock,Industrials,Commercial Services & Supplies,Environmental & Facilities Services,NASDAQ,United States of America,,,,,49.72
+734,DNKN,mid-cap,6390252648.0,Dunkin' Brands Group Inc,Common Stock,Consumer Discretionary,"Hotels, Restaurants & Leisure",Restaurants,NASDAQ,United States of America,,,,,65.33
+735,EBR,mid-cap,7604156000.0,Centrais Eletricas Brasileiras Sa-Eletrobras,Depository Receipt,Utilities,Electric Utilities,Electric Utilities,NYSE,Brazil,,,,,3.83
+736,ENS,mid-cap,2718553600.0,EnerSys,Common Stock,Industrials,Electrical Equipment,Electrical Components & Equipment,NYSE,United States of America,,,,,59.73
+737,EPR,mid-cap,2003329515.0,EPR Properties,Common Stock (REIT),Real Estate,Equity Real Estate Investment Trusts (REITs),Specialized REITs,NYSE,United States of America,,,,,26.62
+738,EQX,mid-cap,2803434760.0,Equinox Gold Corp,Common Stock,Materials,Metals & Mining,Gold,AMEX,Canada,,,,,8.52
+739,EVTC,mid-cap,2415312069.0,EVERTEC Inc,Common Stock,Information Technology,IT Services,Data Processing & Outsourced Services,NYSE,United States of America,,,,,26.0
+740,FGEN,mid-cap,3866294729.0,FibroGen Inc,Common Stock,Health Care,Biotechnology,Biotechnology,NASDAQ,United States of America,,,,,39.64
+741,FLO,mid-cap,4985366680.0,Flowers Foods Inc.,Common Stock,Consumer Staples,Food Products,Packaged Foods & Meats,NYSE,United States of America,,,,,22.43
+742,FVRR,mid-cap,4420553136.0,Fiverr International Ltd,Common Stock,Consumer Discretionary,Internet & Direct Marketing Retail,Internet & Direct Marketing Retail,NYSE,Israel,,,,,52.24
+743,HALO,mid-cap,3527074980.0,Halozyme Therapeutics Inc,Common Stock,Health Care,Biotechnology,Biotechnology,NASDAQ,United States of America,,,,,24.81
+744,HBAN,mid-cap,8820077700.0,Huntington Bancshares Inc,Common Stock,Financials,Banks,Regional Banks,NASDAQ,United States of America,,,,,8.225
+745,HIW,mid-cap,6656177561.0,Highwoods Properties Inc.,Common Stock (REIT),Real Estate,Equity Real Estate Investment Trusts (REITs),Office REITs,NYSE,United States of America,,,,,36.22
+746,HOMB,mid-cap,2418615840.0,Home Bancshares Inc,Common Stock,Financials,Banks,Regional Banks,NASDAQ,United States of America,,,,,14.01
+747,IBKC,mid-cap,2268420480.0,IBERIABANK Corp,Common Stock,Financials,Banks,Regional Banks,NASDAQ,United States of America,,,,,38.79
+748,IMO,mid-cap,9286074050.0,Imperial Oil Ltd,Common Stock,Energy,"Oil, Gas & Consumable Fuels",Integrated Oil & Gas,AMEX,Canada,,,,,14.98
+749,INSM,mid-cap,3395554260.0,Insmed Inc,Common Stock,Health Care,Biotechnology,Biotechnology,NASDAQ,United States of America,,,,,24.65
+750,IPHI,mid-cap,5569503225.0,Inphi Corp,Common Stock,Information Technology,Semiconductors & Semiconductor Equipment,Semiconductors,NYSE,United States of America,,,,,112.24
+751,JBLU,mid-cap,3078413800.0,JetBlue Airways Corp,Common Stock,Industrials,Airlines,Airlines,NASDAQ,United States of America,,,,,8.56
+752,JCOM,mid-cap,3296750125.0,j2 Global Inc,Common Stock,Information Technology,Software,Application Software,NASDAQ,United States of America,,,,,81.33
+753,LITE,mid-cap,5491856000.0,Lumentum Holdings Inc,Common Stock,Information Technology,Communications Equipment,Communications Equipment,NASDAQ,United States of America,,,,,80.9
+754,LSCC,mid-cap,3741293850.0,Lattice Semiconductor Corp,Common Stock,Information Technology,Semiconductors & Semiconductor Equipment,Semiconductors,NASDAQ,United States of America,,,,,23.93
+755,MDU,mid-cap,4435546640.0,MDU Resources Group Inc.,Common Stock,Utilities,Multi-Utilities,Multi-Utilities,NYSE,United States of America,,,,,20.99
+756,MMP,mid-cap,7595640000.0,Magellan Midstream Partners LP,Unit Trust Fund,Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Storage & Transportation,NYSE,United States of America,,,,,42.72
+757,MPW,mid-cap,8937210100.0,Medical Properties Trust Inc,Common Stock (REIT),Real Estate,Equity Real Estate Investment Trusts (REITs),Health Care REITs,NYSE,United States of America,,,,,17.72
+758,MYOK,mid-cap,6891463062.0,MyoKardia Inc,Common Stock,Health Care,Pharmaceuticals,Pharmaceuticals,NASDAQ,United States of America,,,,,96.9
+759,NOMD,mid-cap,4888715650.0,Nomad Foods Ltd,Common Stock,Consumer Staples,Food Products,Packaged Foods & Meats,NYSE,United Kingdom,,,,,22.19
+760,OSTK,mid-cap,3189969116.0,Overstock.com Inc,Common Stock,Consumer Discretionary,Internet & Direct Marketing Retail,Internet & Direct Marketing Retail,NASDAQ,United States of America,,,,,17.58
+761,PAA,mid-cap,3975426000.0,Plains All American Pipeline LP,Unit Trust Fund,Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Storage & Transportation,NYSE,United States of America,,,,,8.24
+762,PE,mid-cap,3739853083.0,Parsley Energy Inc,Common Stock,Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Exploration & Production,NYSE,United States of America,,,,,9.24
+763,PFPT,mid-cap,5916591120.0,Proofpoint Inc,Common Stock,Information Technology,Software,Systems Software,NASDAQ,United States of America,,,,,123.74
+764,POL,mid-cap,2322405393.0,PolyOne Corp,Common Stock,Materials,Chemicals,Specialty Chemicals,NYSE,United States of America,,,,,22.56
+765,PS,mid-cap,2372410055.0,Pluralsight Inc,Common Stock,Information Technology,Software,Application Software,NASDAQ,United States of America,,,,,18.52
+766,QDEL,mid-cap,8052741196.0,Quidel Corp,Common Stock,Health Care,Health Care Equipment & Supplies,Health Care Supplies,NASDAQ,United States of America,,,,,208.95
+767,QTWO,mid-cap,4801025278.0,Q2 Holdings Inc,Common Stock,Information Technology,Software,Application Software,NYSE,United States of America,,,,,81.44
+768,RARE,mid-cap,4847765895.0,Ultragenyx Pharmaceutical Inc,Common Stock,Health Care,Biotechnology,Biotechnology,NASDAQ,United States of America,,,,,67.36
+769,RL,mid-cap,5235723244.0,Ralph Lauren Corp,Common Stock,Consumer Discretionary,"Textiles, Apparel & Luxury Goods","Apparel, Accessories & Luxury Goods",NYSE,United States of America,,,,,69.41
+770,RXN,mid-cap,3441166160.0,Rexnord Corp,Common Stock,Industrials,Machinery,Industrial Machinery,NYSE,United States of America,,,,,27.1
+771,SAFM,mid-cap,2579617600.0,Sanderson Farms Inc,Common Stock,Consumer Staples,Food Products,Packaged Foods & Meats,NASDAQ,United States of America,,,,,147.07
+772,SCL,mid-cap,2415086950.0,Stepan Co,Common Stock,Materials,Chemicals,Specialty Chemicals,NYSE,United States of America,,,,,93.63
+773,SF,mid-cap,3357975738.0,Stifel Financial Corp.,Common Stock,Financials,Capital Markets,Investment Banking & Brokerage,NYSE,United States of America,,,,,44.76
+774,SLM,mid-cap,2919336080.0,SLM Corp,Common Stock,Financials,Consumer Finance,Consumer Finance,NASDAQ,United States of America,,,,,7.975
+775,STAY,mid-cap,2835587360.0,Extended Stay America Inc,Unit Trust Fund,Consumer Discretionary,"Hotels, Restaurants & Leisure","Hotels, Resorts & Cruise Lines",NASDAQ,United States of America,,,,,10.775
+776,STLD,mid-cap,6073237550.0,Steel Dynamics Inc,Common Stock,Materials,Metals & Mining,Steel,NASDAQ,United States of America,,,,,24.3
+777,TDC,mid-cap,2478660000.0,Teradata Corp,Common Stock,Information Technology,Software,Systems Software,NYSE,United States of America,,,,,22.96
+778,TPH,mid-cap,2207722440.0,TRI Pointe Group Inc,Common Stock,Consumer Discretionary,Household Durables,Homebuilding,NYSE,United States of America,,,,,12.23
+779,TRUP,mid-cap,2486436300.0,Trupanion Inc,Common Stock,Financials,Insurance,Life & Health Insurance,NASDAQ,United States of America,,,,,30.13
+780,TWST,mid-cap,2969642870.0,Twist Bioscience Corp,Common Stock,Health Care,Biotechnology,Biotechnology,NASDAQ,United States of America,,,,,39.21
+781,UA,mid-cap,4394889290.0,Under Armour Inc,Common Stock,Consumer Discretionary,"Textiles, Apparel & Luxury Goods","Apparel, Accessories & Luxury Goods",NYSE,United States of America,,,,,8.0
+782,UHAL,mid-cap,6999788522.0,Amerco,Common Stock,Industrials,Road & Rail,Trucking,NASDAQ,United States of America,,,,,294.67
+783,UMPQ,mid-cap,2250668840.0,Umpqua Holdings Corp,Common Stock,Financials,Banks,Regional Banks,NASDAQ,United States of America,,,,,10.9
+784,WCC,mid-cap,2081267575.0,WESCO International Inc,Common Stock,Industrials,Trading Companies & Distributors,Trading Companies & Distributors,NYSE,United States of America,,,,,26.94
+785,WWD,mid-cap,4709345513.0,Woodward Inc,Common Stock,Industrials,Machinery,Industrial Machinery,NASDAQ,United States of America,,,,,60.55
+786,ZION,mid-cap,4627459160.0,Zions Bancorporation NA,Common Stock,Financials,Banks,Regional Banks,NASDAQ,United States of America,,,,,29.21
+787,AXSM,mid-cap,2830996899.0,Axsome Therapeutics Inc,Common Stock,Health Care,Pharmaceuticals,Pharmaceuticals,NASDAQ,United States of America,,,,,89.31
+788,BILL,mid-cap,7375559660.0,Bill.com Holdings Inc,Common Stock,Information Technology,Software,Application Software,NYSE,United States of America,,,,,79.21
+789,BPOP,mid-cap,2947609000.0,Popular Inc,Common Stock,Financials,Banks,Regional Banks,NASDAQ,United States of America,,,,,35.96
+790,BRKS,mid-cap,3266106084.0,Brooks Automation Inc,Common Stock,Information Technology,Semiconductors & Semiconductor Equipment,Semiconductor Equipment,NASDAQ,United States of America,,,,,39.1
+791,CACI,mid-cap,5342355816.0,CACI International Inc,Common Stock,Information Technology,IT Services,IT Consulting & Other Services,NYSE,United States of America,,,,,247.11
+792,CG,mid-cap,8218717580.0,Carlyle Group Inc (The),Common Stock,Financials,Capital Markets,Asset Management & Custody Banks,NASDAQ,United States of America,,,,,24.58
+793,ENIA,mid-cap,9967305300.0,Enel Americas SA,Depository Receipt,Utilities,Electric Utilities,Electric Utilities,NYSE,Chile,,,,,7.89
+794,ESTC,mid-cap,9033551591.0,Elastic NV,Common Stock,Information Technology,Software,Application Software,NYSE,United States of America,,,,,71.62
+795,EVR,mid-cap,2508108807.0,Evercore Inc,Common Stock,Financials,Capital Markets,Investment Banking & Brokerage,NYSE,United States of America,,,,,51.56
+796,EWBC,mid-cap,4415809270.0,East West Bancorp Inc,Common Stock,Financials,Banks,Regional Banks,NASDAQ,United States of America,,,,,33.76
+797,FCNCA,mid-cap,3084316022.0,First Citizens BancShares Inc,Common Stock,Financials,Banks,Regional Banks,NASDAQ,United States of America,,,,,358.04
+798,FOLD,mid-cap,3571274400.0,Amicus Therapeutics Inc,Common Stock,Health Care,Biotechnology,Biotechnology,NASDAQ,United States of America,,,,,12.07
+799,FTCH,mid-cap,6831414000.0,Farfetch Ltd,Common Stock,Consumer Discretionary,Internet & Direct Marketing Retail,Internet & Direct Marketing Retail,NYSE,United Kingdom,,,,,16.17
+800,GIL,mid-cap,3859440750.0,Gildan Activewear Inc,Common Stock,Consumer Discretionary,"Textiles, Apparel & Luxury Goods","Apparel, Accessories & Luxury Goods",NYSE,Canada,,,,,14.01
+801,GKOS,mid-cap,2125631742.0,Glaukos Corp,Common Stock,Health Care,Health Care Equipment & Supplies,Health Care Equipment,NYSE,United States of America,,,,,39.18
+802,GLPI,mid-cap,8011787400.0,Gaming and Leisure Properties Inc,Common Stock (REIT),Real Estate,Equity Real Estate Investment Trusts (REITs),Specialized REITs,NASDAQ,United States of America,,,,,28.62
+803,JELD,mid-cap,2088797360.0,JELD-WEN Holding Inc,Common Stock,Industrials,Building Products,Building Products,NYSE,United States of America,,,,,12.47
+804,JNPR,mid-cap,7019830000.0,Juniper Networks Inc,Common Stock,Information Technology,Communications Equipment,Communications Equipment,NYSE,United States of America,,,,,23.8
+805,LNC,mid-cap,5824494720.0,Lincoln National Corp,Common Stock,Financials,Insurance,Life & Health Insurance,NYSE,United States of America,,,,,35.28
+806,LW,mid-cap,9106828380.0,Lamb Weston Holdings Inc,Common Stock,Consumer Staples,Food Products,Packaged Foods & Meats,NYSE,United States of America,,,,,59.66
+807,MDC,mid-cap,2841016734.0,M.D.C. Holdings Inc.,Common Stock,Consumer Discretionary,Household Durables,Homebuilding,NYSE,United States of America,,,,,28.65
+808,MMS,mid-cap,4129403610.0,MAXIMUS Inc.,Common Stock,Information Technology,IT Services,Data Processing & Outsourced Services,NYSE,United States of America,,,,,68.88
+809,MTSI,mid-cap,2169090279.0,MACOM Technology Solutions Holdings Inc,Common Stock,Information Technology,Semiconductors & Semiconductor Equipment,Semiconductors,NASDAQ,United States of America,,,,,30.99
+810,NUVA,mid-cap,2507282084.0,NuVasive Inc,Common Stock,Health Care,Health Care Equipment & Supplies,Health Care Equipment,NASDAQ,United States of America,,,,,58.25
+811,PRAH,mid-cap,6144093660.0,PRA Health Sciences Inc,Common Stock,Health Care,Life Sciences Tools & Services,Life Sciences Tools & Services,NASDAQ,United States of America,,,,,91.69
+812,SHLX,mid-cap,3633999600.0,Shell Midstream Partners LP,Unit Trust Fund,Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Storage & Transportation,NYSE,United States of America,,,,,11.52
+813,SSRM,mid-cap,4135116480.0,SSR Mining Inc,Common Stock,Materials,Metals & Mining,Gold,NASDAQ,Canada,,,,,17.15
+814,UTHR,mid-cap,4436738820.0,United Therapeutics Corp,Common Stock,Health Care,Biotechnology,Biotechnology,NASDAQ,United States of America,,,,,115.66
+815,WK,mid-cap,2582541512.0,Workiva Inc,Common Stock,Information Technology,Software,Application Software,NYSE,United States of America,,,,,42.46
+816,WPX,mid-cap,2473961490.0,WPX Energy Inc,Common Stock,Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Exploration & Production,NYSE,United States of America,,,,,5.87
+817,WTM,mid-cap,2372101978.0,White Mountains Insurance Group Ltd,Common Stock,Financials,Insurance,Property & Casualty Insurance,NYSE,Bermuda,,,,,940.0
+818,ADS,mid-cap,2019298800.0,Alliance Data Systems Corp,Common Stock,Information Technology,IT Services,Data Processing & Outsourced Services,NYSE,United States of America,,,,,43.02
+819,AEIS,mid-cap,2281449216.0,Advanced Energy Industries Inc.,Common Stock,Information Technology,Semiconductors & Semiconductor Equipment,Semiconductor Equipment,NASDAQ,United States of America,,,,,63.1
+820,AJRD,mid-cap,3218756022.0,Aerojet Rocketdyne Holdings Inc,Common Stock,Industrials,Aerospace & Defense,Aerospace & Defense,NYSE,United States of America,,,,,40.74
+821,ANGI,mid-cap,4859876321.0,Angi Homeservices Inc,Common Stock,Communication Services,Interactive Media & Services,Interactive Media & Services,NASDAQ,United States of America,,,,,9.09
+822,ARWR,mid-cap,4532558520.0,Arrowhead Pharmaceuticals Inc,Common Stock,Health Care,Biotechnology,Biotechnology,NASDAQ,United States of America,,,,,36.3
+823,AYI,mid-cap,3870592110.0,Acuity Brands Inc.,Common Stock,Industrials,Electrical Equipment,Electrical Components & Equipment,NYSE,United States of America,,,,,80.87
+824,BLD,mid-cap,5228388830.0,TopBuild Corp,Common Stock,Consumer Discretionary,Household Durables,Homebuilding,NYSE,United States of America,,,,,93.66
+825,BLDP,mid-cap,3476320740.0,Ballard Power Systems Inc,Common Stock,Industrials,Electrical Equipment,Electrical Components & Equipment,NASDAQ,Canada,,,,,9.56
+826,CACC,mid-cap,5256727080.0,Credit Acceptance Corp,Common Stock,Financials,Consumer Finance,Consumer Finance,NASDAQ,United States of America,,,,,325.29
+827,CBRL,mid-cap,2716906910.0,Cracker Barrel Old Country Store Inc,Common Stock,Consumer Discretionary,"Hotels, Restaurants & Leisure",Restaurants,NASDAQ,United States of America,,,,,92.77
+828,CBU,mid-cap,2847774720.0,Community Bank System Inc.,Common Stock,Financials,Banks,Regional Banks,NYSE,United States of America,,,,,56.93
+829,CCL,mid-cap,8253109620.0,Carnival Corporation & Plc,Common Stock,Consumer Discretionary,"Hotels, Restaurants & Leisure","Hotels, Resorts & Cruise Lines",NYSE,United States of America,,,,,13.85
+830,CFX,mid-cap,3567060570.0,Colfax Corp,Common Stock,Industrials,Machinery,Industrial Machinery,NYSE,United States of America,,,,,26.38
+831,CIEN,mid-cap,5990702400.0,Ciena Corp,Common Stock,Information Technology,Communications Equipment,Communications Equipment,NYSE,United States of America,,,,,48.53
+832,COLM,mid-cap,5956681430.0,Columbia Sportswear Co,Common Stock,Consumer Discretionary,"Textiles, Apparel & Luxury Goods","Apparel, Accessories & Luxury Goods",NASDAQ,United States of America,,,,,65.56
+833,CONE,mid-cap,8144879370.0,CyrusOne Inc,Common Stock (REIT),Real Estate,Equity Real Estate Investment Trusts (REITs),Specialized REITs,NASDAQ,United States of America,,,,,74.12
+834,CZR,mid-cap,8503293580.0,Caesars Entertainment Corp,Common Stock,Consumer Discretionary,"Hotels, Restaurants & Leisure",Casinos & Gaming,NASDAQ,United States of America,,,,,9.67
+835,DOX,mid-cap,7607356610.0,Amdocs Ltd,Common Stock,Information Technology,IT Services,IT Consulting & Other Services,NASDAQ,United States of America,,,,,63.36
+836,DVN,mid-cap,3429888000.0,Devon Energy Corp,Common Stock,Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Exploration & Production,NYSE,United States of America,,,,,12.46
+837,ENV,mid-cap,4036163850.0,Envestnet Inc,Common Stock,Information Technology,Software,Application Software,NYSE,United States of America,,,,,66.32
+838,ESE,mid-cap,2074163182.0,ESCO Technologies Inc.,Common Stock,Industrials,Machinery,Industrial Machinery,NYSE,United States of America,,,,,79.11
+839,FAF,mid-cap,5558106960.0,First American Financial Corp,Common Stock,Financials,Insurance,Property & Casualty Insurance,NYSE,United States of America,,,,,46.38
+840,FLS,mid-cap,3515621600.0,Flowserve Corp.,Common Stock,Industrials,Machinery,Industrial Machinery,NYSE,United States of America,,,,,25.01
+841,G,mid-cap,7180620440.0,Genpact Ltd,Common Stock,Information Technology,IT Services,Data Processing & Outsourced Services,NYSE,Bermuda,,,,,34.88
+842,GRA,mid-cap,2731603522.0,Grace (W R) & Co,Common Stock,Materials,Chemicals,Specialty Chemicals,NYSE,United States of America,,,,,51.14
+843,GRFS,mid-cap,4318037266.0,Grifols S.A.,Depository Receipt,Health Care,Biotechnology,Biotechnology,NASDAQ,Spain,,,,,20.0
+844,GWRE,mid-cap,8594989400.0,Guidewire Software Inc,Common Stock,Information Technology,Software,Application Software,NYSE,United States of America,,,,,96.99
+845,HASI,mid-cap,2851858815.0,Hannon Armstrong Sustainable Infrastructure Capita,Common Stock (REIT),Real Estate,Equity Real Estate Investment Trusts (REITs),Industrial REITs,NYSE,United States of America,,,,,28.92
+846,HBI,mid-cap,5424348380.0,Hanesbrands Inc,Common Stock,Consumer Discretionary,"Textiles, Apparel & Luxury Goods","Apparel, Accessories & Luxury Goods",NYSE,United States of America,,,,,8.97
+847,HE,mid-cap,3569126890.0,Hawaiian Electric Industries Inc.,Common Stock,Utilities,Electric Utilities,Electric Utilities,NYSE,United States of America,,,,,37.9
+848,HMY,mid-cap,3066039396.0,Harmony Gold Mining Co Ltd,Depository Receipt,Materials,Metals & Mining,Gold,NYSE,South Africa,,,,,3.47
+849,HXL,mid-cap,2719783906.0,Hexcel Corp,Common Stock,Industrials,Aerospace & Defense,Aerospace & Defense,NYSE,United States of America,,,,,29.03
+850,INO,mid-cap,2574782400.0,Inovio Pharmaceuticals Inc,Common Stock,Health Care,Biotechnology,Biotechnology,NASDAQ,United States of America,,,,,11.94
+851,IQ,mid-cap,7681025003.0,iQIYI Inc,Depository Receipt,Communication Services,Entertainment,Movies & Entertainment,NASDAQ,China,,,,,17.9
+852,ITCI,mid-cap,2069482224.0,Intra-Cellular Therapies Inc,Common Stock,Health Care,Pharmaceuticals,Pharmaceuticals,NASDAQ,United States of America,,,,,20.57
+853,KOD,mid-cap,2351866980.0,Kodiak Sciences Inc,Common Stock,Health Care,Biotechnology,Biotechnology,NASDAQ,United States of America,,,,,58.45
+854,KRC,mid-cap,6068877847.0,Kilroy Realty Corp,Common Stock (REIT),Real Estate,Equity Real Estate Investment Trusts (REITs),Office REITs,NYSE,United States of America,,,,,58.99
+855,MRO,mid-cap,3402482090.0,Marathon Oil Corp,Common Stock,Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Exploration & Production,NYSE,United States of America,,,,,5.75
+856,MSM,mid-cap,3410966448.0,MSC Industrial Direct Co Inc.,Common Stock,Industrials,Trading Companies & Distributors,Trading Companies & Distributors,NYSE,United States of America,,,,,61.82
+857,MUSA,mid-cap,3887331648.0,Murphy USA Inc,Common Stock,Consumer Discretionary,Specialty Retail,Automotive Retail,NYSE,United States of America,,,,,112.73
+858,NEWR,mid-cap,3253176000.0,New Relic Inc,Common Stock,Information Technology,Software,Application Software,NYSE,United States of America,,,,,60.08
+859,NHI,mid-cap,2616043500.0,National Health Investors Inc.,Common Stock (REIT),Real Estate,Equity Real Estate Investment Trusts (REITs),Health Care REITs,NYSE,United States of America,,,,,51.78
+860,NVAX,mid-cap,6277328564.0,Novavax Inc,Common Stock,Health Care,Biotechnology,Biotechnology,NASDAQ,United States of America,,,,,24.55
+861,ON,mid-cap,8343794820.0,ON Semiconductor Corp,Common Stock,Information Technology,Semiconductors & Semiconductor Equipment,Semiconductors,NASDAQ,United States of America,,,,,15.64
+862,OXY,mid-cap,9896710880.0,Occidental Petroleum Corp,Common Stock,Energy,"Oil, Gas & Consumable Fuels",Integrated Oil & Gas,NYSE,United States of America,,,,,15.03
+863,PAGP,mid-cap,4509429946.0,Plains GP Holdings LP,Common Stock,Energy,"Oil, Gas & Consumable Fuels",Oil & Gas Storage & Transportation,NYSE,United States of America,,,,,8.71
+864,PINC,mid-cap,3793813100.0,Premier Inc,Common Stock,Health Care,Health Care Providers & Services,Health Care Services,NASDAQ,United States of America,,,,,30.66
+865,POR,mid-cap,3136377840.0,Portland General Electric Co,Common Stock,Utilities,Electric Utilities,Electric Utilities,NYSE,United States of America,,,,,45.01
+866,POST,mid-cap,5599145610.0,Post Holdings Inc,Common Stock,Consumer Staples,Food Products,Packaged Foods & Meats,NYSE,United States of America,,,,,88.96
+867,POWI,mid-cap,3126793633.0,Power Integrations Inc,Common Stock,Information Technology,Semiconductors & Semiconductor Equipment,Semiconductors,NASDAQ,United States of America,,,,,106.97
+868,PVG,mid-cap,2361514650.0,Pretium Resources Inc,Common Stock,Materials,Metals & Mining,Gold,NYSE,Canada,,,,,8.26
+869,R,mid-cap,2192577912.0,Ryder System Inc,Common Stock,Industrials,Road & Rail,Trucking,NYSE,United States of America,,,,,33.8
+870,REG,mid-cap,6267093012.0,Regency Centers Corp.,Common Stock (REIT),Real Estate,Equity Real Estate Investment Trusts (REITs),Retail REITs,NASDAQ,United States of America,,,,,40.58
+871,SAIL,mid-cap,3362458896.0,SailPoint Technologies Holdings Inc,Common Stock,Information Technology,Software,Systems Software,NYSE,United States of America,,,,,20.74
+872,SEIC,mid-cap,7270894260.0,SEI Investments Co,Common Stock,Financials,Capital Markets,Asset Management & Custody Banks,NASDAQ,United States of America,,,,,51.91
+873,SID,mid-cap,4002320450.0,Companhia Siderurgica Nacional,Depository Receipt,Materials,Metals & Mining,Steel,NYSE,Brazil,,,,,1.37
+874,SIGI,mid-cap,2967278281.0,Selective Insurance Group Inc,Common Stock,Financials,Insurance,Property & Casualty Insurance,NASDAQ,United States of America,,,,,47.51
+875,SJR,mid-cap,9196207350.0,Shaw Communications Inc.,Common Stock,Communication Services,Media,Cable & Satellite,NYSE,Canada,,,,,16.58
+876,SLG,mid-cap,3322363959.0,SL Green Realty Corp.,Common Stock (REIT),Real Estate,Equity Real Estate Investment Trusts (REITs),Office REITs,NYSE,United States of America,,,,,45.28
+877,STAA,mid-cap,2463010128.0,STAAR Surgical Co,Common Stock,Health Care,Health Care Equipment & Supplies,Health Care Supplies,NASDAQ,United States of America,,,,,39.06
+878,STMP,mid-cap,4147865200.0,Stamps.com Inc,Common Stock,Consumer Discretionary,Internet & Direct Marketing Retail,Internet & Direct Marketing Retail,NASDAQ,United States of America,,,,,216.2
+879,SVMK,mid-cap,3008963100.0,Svmk Inc,Common Stock,Information Technology,Software,Application Software,NASDAQ,United States of America,,,,,18.54
+880,SWAV,mid-cap,2390063841.0,ShockWave Medical Inc,Common Stock,Health Care,Health Care Equipment & Supplies,Health Care Equipment,NASDAQ,United States of America,,,,,41.45
+881,SWCH,mid-cap,3657150932.0,Switch Inc,Common Stock,Information Technology,IT Services,Internet Services & Infrastructure,NYSE,United States of America,,,,,18.17
+882,SWI,mid-cap,5982172750.0,Solarwinds Corp,Common Stock,Information Technology,Software,Systems Software,NYSE,United States of America,,,,,17.6
+883,TCF,mid-cap,3378072460.0,TCF Financial Corp,Common Stock,Financials,Banks,Regional Banks,NASDAQ,United States of America,,,,,26.28
+884,TCO,mid-cap,2129181300.0,Taubman Centers Inc.,Common Stock (REIT),Real Estate,Equity Real Estate Investment Trusts (REITs),Retail REITs,NYSE,United States of America,,,,,42.9
+885,TECH,mid-cap,8953590430.0,Bio-Techne Corp,Common Stock,Health Care,Life Sciences Tools & Services,Life Sciences Tools & Services,NASDAQ,United States of America,,,,,280.4
+886,THG,mid-cap,3360789630.0,Hanover Insurance Group Inc (The),Common Stock,Financials,Insurance,Property & Casualty Insurance,NYSE,United States of America,,,,,95.76
+887,TREX,mid-cap,7873723120.0,Trex Co Inc,Common Stock,Industrials,Building Products,Building Products,NYSE,United States of America,,,,,117.42
+888,TRIP,mid-cap,2544968111.0,TripAdvisor Inc,Common Stock,Communication Services,Interactive Media & Services,Interactive Media & Services,NASDAQ,United States of America,,,,,16.7
+889,TRNO,mid-cap,3635450867.0,Terreno Realty Corp,Common Stock (REIT),Real Estate,Equity Real Estate Investment Trusts (REITs),Industrial REITs,NYSE,United States of America,,,,,51.4
+890,TTEC,mid-cap,2430147200.0,TTEC Holdings Inc,Common Stock,Information Technology,IT Services,Data Processing & Outsourced Services,NASDAQ,United States of America,,,,,39.41
+891,UMBF,mid-cap,2248478998.0,UMB Financial Corp,Common Stock,Financials,Banks,Regional Banks,NASDAQ,United States of America,,,,,46.05
+892,WERN,mid-cap,2962879360.0,Werner Enterprises Inc.,Common Stock,Industrials,Road & Rail,Trucking,NASDAQ,United States of America,,,,,43.49
+893,WYNN,mid-cap,7664757360.0,Wynn Resorts Ltd,Common Stock,Consumer Discretionary,"Hotels, Restaurants & Leisure",Casinos & Gaming,NASDAQ,United States of America,,,,,82.6499
+894,XRX,mid-cap,3789519060.0,Xerox Holdings Corp,Common Stock,Information Technology,"Technology Hardware, Storage & Peripherals","Technology Hardware, Storage & Peripherals",NYSE,United States of America,,,,,17.58
+895,ZNH,mid-cap,2223933030.0,China Southern Airlines Co Ltd,Depository Receipt,Industrials,Airlines,Airlines,NYSE,China,,,,,22.43
